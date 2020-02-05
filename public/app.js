@@ -216,11 +216,20 @@ function showProvince(name) {
   allCharts = setupCharts(records);
 }
 
+function addLog(msg) {
+  document.getElementById(chartsContainerId).innerHTML += `<br />${msg}`;
+}
+
 async function main() {
+  addLog('Get data...');
   const csvData = await getData();
+  addLog('Parsing...');
   let provsData = parseData(csvData);
+  addLog('Processing duplicated data...');
   provsData = processDuplicatedData(provsData);
+  addLog('Sorting by confirmed count...');
   provsData = toSortedProvinceData(provsData);
+  addLog('Calculating increasement...');
   provsData = calcIncreasement(provsData);
   allProvinces = provsData;
 
