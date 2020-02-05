@@ -7,7 +7,7 @@ function parseData(data) {
   const provinces = {};
 
   function createRecord(prefix, lineRecord) {
-    const ret = { updateTime: new Date(lineRecord.updateTime) };
+    const ret = { updateTime: new Date(lineRecord.updateTime.replace(' ', 'T') + '+08:00') };
     Object.keys(lineRecord).forEach(k => {
       if (k.split('_')[0] === prefix) {
         ret[k.split('_')[1]] = lineRecord[k];
