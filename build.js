@@ -14,4 +14,4 @@ const download = function(url, dest, cb) {
   });
 };
 
-download('https://github.com/BlankerL/DXY-2019-nCoV-Data/raw/master/DXYArea.csv', 'public/DXYArea.csv');
+download('https://raw.githubusercontent.com/BlankerL/DXY-2019-nCoV-Data/master/DXYArea.csv', 'public/DXYArea.csv');
