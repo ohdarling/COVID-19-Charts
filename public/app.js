@@ -6,9 +6,7 @@ async function getData() {
 function createChartConfig(data) {
   const { name, records } = data;
   const hasCity = !!data.cityList;
-  const days = records.map(v => {
-    return new Date(v.updateTime).toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' });
-  });
+  const days = records.map(v => v.updateTime);
   const confirmed = records.map(v => v.confirmedCount);
   const increase = records.map(v => v.confirmedIncreased);
   const cured = records.map(v => v.curedCount);

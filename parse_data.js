@@ -2,7 +2,7 @@ function parseData(data) {
   const provinces = {};
 
   function createRecord(prefix, lineRecord) {
-    const ret = { updateTime: new Date(lineRecord.updateTime.replace(' ', 'T') + '+08:00') };
+    const ret = { updateTime: new Date(lineRecord.updateTime.replace(' ', 'T') + '+08:00').toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' }).replace('2020/', '') };
     Object.keys(lineRecord).forEach(k => {
       if (k.split('_')[0] === prefix) {
         ret[k.split('_')[1]] = lineRecord[k];
@@ -68,7 +68,7 @@ function processDuplicatedData(data) {
 
       const a = r;
       const b = records[i + 1];
-      if ((a.updateTime).toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' }) === (b.updateTime).toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' })) {
+      if (a.updateTime === b.updateTime) {
         return false;
       }
 
