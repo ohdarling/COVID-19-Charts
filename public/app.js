@@ -7,7 +7,7 @@ function createChartConfig(data) {
   const { name, records } = data;
   const hasCity = !!data.cityList;
   const days = records.map(v => {
-    return new Date(v.updateTime).toLocaleDateString('zh-CN', 'Asia/Shanghai');
+    return new Date(v.updateTime).toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' });
   });
   const confirmed = records.map(v => v.confirmedCount);
   const increase = records.map(v => v.confirmedIncreased);

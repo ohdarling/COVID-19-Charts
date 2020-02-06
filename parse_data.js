@@ -68,7 +68,7 @@ function processDuplicatedData(data) {
 
       const a = r;
       const b = records[i + 1];
-      if ((a.updateTime).toLocaleDateString('zh-CN', 'Asia/Shanghai') === (b.updateTime).toLocaleDateString('zh-CN', 'Asia/Shanghai')) {
+      if ((a.updateTime).toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' }) === (b.updateTime).toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' }) {
         return false;
       }
 
