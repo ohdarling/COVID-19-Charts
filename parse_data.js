@@ -68,7 +68,7 @@ function processDuplicatedData(data) {
 
       const a = r;
       const b = records[i + 1];
-      if ((a.updateTime).toLocaleDateString() === (b.updateTime).toLocaleDateString()) {
+      if ((a.updateTime).toLocaleDateString('zh-CN', 'Asia/Shanghai') === (b.updateTime).toLocaleDateString('zh-CN', 'Asia/Shanghai')) {
         return false;
       }
 
@@ -122,64 +122,6 @@ function calcIncreasement(data) {
   });
 
   return data;
-}
-
-function createChartConfig(data) {
-  // function genChartConfig(name, records, isCity = false) {
-  const { name, records } = data;
-  const hasCity = !!data.cityList;
-  const days = records.map(v => {
-    return v.updateTime.toLocaleDateString();
-  });
-  const confirmed = records.map(v => v.confirmedCount);
-  const increase = records.map(v => v.confirmedIncreased);
-  const cured = records.map(v => v.curedCount);
-  const dead = records.map(v => v.deadCount);
-
-  const config = {
-    title: {
-      text: name,
-      link: hasCity ? `javascript:showProvince('${name}')` : '',
-      target: 'self',
-    },
-    tooltip: {
-      trigger: 'axis'
-    },
-    legend: {
-      data: [ '确诊人数', '新增确诊', '治愈人数', '死亡人数' ],
-    },
-    xAxis: {
-        type: 'category',
-        data: days,
-    },
-    yAxis: {
-        type: 'value'
-    },
-    series: [
-      {
-        name: '确诊人数',
-        data: confirmed,
-        type: 'line',
-      },
-      {
-        name: '新增确诊',
-        data: increase,
-        type: 'line',
-      },
-      {
-        name: '治愈人数',
-        data: cured,
-        type: 'line',
-      },
-      {
-        name: '死亡人数',
-        data: dead,
-        type: 'line',
-      },
-    ]
-  };
-
-  return config;
 }
 
 module.exports = {

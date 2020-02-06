@@ -18,6 +18,9 @@ function generateConfigs() {
 }
 
 const download = function(url, dest) {
+  if (fs.existsSync(dest)) {
+    fs.unlinkSync(dest);
+  }
   const file = fs.createWriteStream(dest);
   https.get(url, function(response) {
     response.pipe(file);
