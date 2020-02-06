@@ -128,6 +128,5 @@ module.exports = {
   parseData,
   processDuplicatedData,
   toSortedProvinceData,
-  createChartConfig,
   calcIncreasement,
 };
