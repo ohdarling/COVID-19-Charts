@@ -24,6 +24,8 @@ const download = function(url, dest) {
     file.on('finish', function() {
       file.close();  // close() is async, call cb after close completes.
       console.log('get success');
+    });
+    file.on('close', () => {
       generateConfigs();
       process.exit(0);
     });
