@@ -63,8 +63,13 @@ function createTrendsChartConfig(data) {
 }
 
 async function createMapChartConfig(mapName, data, title = '') {
-  const geoJSON = (await axios(`map/json/${mapName.substr(0, 5) !== 'china' ? 'province/' : ''}${mapName}.json`)).data;
-  echarts.registerMap(mapName, geoJSON);
+  let geoJSON = null;
+  if (!echarts.getMap(mapName)) {
+    geoJSON = (await axios(`map/json/${mapName.substr(0, 5) !== 'china' ? 'province/' : ''}${mapName}.json`)).data;
+    echarts.registerMap(mapName, geoJSON);
+  } else {
+    geoJSON = echarts.getMap(mapName).geoJson;
+  }
   geoJSON.features.forEach(v => {
     const showName = v.properties.name;
     data.forEach(r => {
