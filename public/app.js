@@ -241,7 +241,7 @@ const allDates = (() => {
   const day = new Date('2020-01-24T00:00:00+08:00');
   const now = new Date();
   while (day <= now) {
-    ret.push(day.toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' }).replace('2020/', ''));
+    ret.push(day.toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' }).replace(/\/?2020\/?/, ''));
     day.setHours(day.getHours() + 24);
   }
   return ret;
