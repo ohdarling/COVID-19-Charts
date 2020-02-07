@@ -7,6 +7,9 @@
     <script src="https://cdn.bootcss.com/axios/0.19.0-beta.1/axios.min.js"></script>
     <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts.min.js"></script>
     <title>2019 nCoV Trends</title>
+    <style>
+      html, body { height: 100%; }
+    </style>
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3">
@@ -14,7 +17,13 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-            <a class="nav-link" href="javascript:showProvince()">显示全部省份</a>
+            <a class="nav-link" href="javascript:showProvince()">显示趋势</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="javascript:showMap()">显示地图</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="javascript:showAllCitiesMap()">显示城市地图</a>
           </li>
         </ul>
         <span class="navbar-text">
@@ -25,7 +34,7 @@
       </div>
     </nav>
 
-    <div class="container-fluid" id="chart_container">
+    <div class="container-fluid" id="chart_container" style="height:90%">
       Loading...
     </div>
 
