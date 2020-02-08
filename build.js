@@ -14,7 +14,7 @@ function generateConfigs() {
   provsData = toSortedProvinceData(provsData);
   console.log('Calculating increasement...');
   provsData = calcIncreasement(provsData);
-  const dataStr = JSON.stringify(provsData);
+  const dataStr = JSON.stringify(provsData, null, '  ');
   fs.writeFileSync('public/data.json', dataStr);
   console.log('Done.');
   fs.unlinkSync(dataFileName);
