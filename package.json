@@ -2,7 +2,7 @@
   "name": "2019-ncov-trends",
   "homepage": "https://2019-ncov-trends.tk",
   "scripts": {
-    "build": "node build.js"
+    "build": "exit 0"
   },
   "repository": {
     "type": "git",
