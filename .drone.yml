@@ -11,6 +11,8 @@ steps:
       from_secret: http_proxy
     https_proxy:
       from_secret: https_proxy
+    all_proxy:
+      from_secret: all_proxy
   commands:
     - mkdir -p /root/.ssh/
     - echo "$$SSH_KEY" > /root/.ssh/id_rsa
