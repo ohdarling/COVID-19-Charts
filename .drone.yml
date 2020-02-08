@@ -3,7 +3,7 @@ name: default
 
 steps:
 - name: build
-  image: ohdarling:node-builder
+  image: ohdarling/node-builder:latest
   environment:
     SSH_KEY:
       from_secret: ssh_key
