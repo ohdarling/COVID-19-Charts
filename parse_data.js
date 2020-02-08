@@ -8,6 +8,7 @@ function parseData(data) {
         ret[k.split('_')[1]] = lineRecord[k];
       }
     });
+    ret.insickCount = ret.confirmedCount - ret.curedCount - ret.deadCount;
     return ret;
   }
 
@@ -108,6 +109,7 @@ function calcIncreasement(data) {
         r.confirmedIncreased = r.confirmedCount - prev.confirmedCount;
       }
     });
+    prov.confirmedIncreased = prov.records[prov.records.length - 1].confirmedIncreased;
 
     prov.cityList.forEach(city => {
       city.records.forEach((r, i) => {
@@ -118,6 +120,7 @@ function calcIncreasement(data) {
           r.confirmedIncreased = r.confirmedCount - prev.confirmedCount;
         }
       });
+      city.confirmedIncreased = city.records[city.records.length - 1].confirmedIncreased;
     });
   });
 

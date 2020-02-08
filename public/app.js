@@ -15,6 +15,7 @@ function createTrendsChartConfig(data) {
   const increase = records.map(v => v.confirmedIncreased);
   const cured = records.map(v => v.curedCount);
   const dead = records.map(v => v.deadCount);
+  const insick = records.map(v => v.insickCount);
 
   const config = {
     title: {
@@ -26,7 +27,7 @@ function createTrendsChartConfig(data) {
       trigger: 'axis'
     },
     legend: {
-      data: [ '确诊人数', '新增确诊', '治愈人数', '死亡人数' ],
+      data: [ '确诊', '新增', '治愈', '死亡', '治疗' ],
     },
     xAxis: {
         type: 'category',
@@ -37,23 +38,28 @@ function createTrendsChartConfig(data) {
     },
     series: [
       {
-        name: '确诊人数',
+        name: '确诊',
         data: confirmed,
         type: 'line',
       },
       {
-        name: '新增确诊',
+        name: '新增',
         data: increase,
         type: 'line',
       },
       {
-        name: '治愈人数',
+        name: '治愈',
         data: cured,
         type: 'line',
       },
       {
-        name: '死亡人数',
+        name: '死亡',
         data: dead,
+        type: 'line',
+      },
+      {
+        name: '治疗',
+        data: insick,
         type: 'line',
       },
     ]
@@ -62,7 +68,7 @@ function createTrendsChartConfig(data) {
   return config;
 }
 
-async function createMapChartConfig(mapName, data, title = '') {
+async function createMapChartConfig({ mapName, data, title = '', valueKey = 'confirmedCount' }) {
   let geoJSON = null;
   if (!echarts.getMap(mapName)) {
     geoJSON = (await axios(`map/json/${mapName.substr(0, 5) !== 'china' ? 'province/' : ''}${mapName}.json`)).data;
@@ -132,8 +138,8 @@ async function createMapChartConfig(mapName, data, title = '') {
         tooltip: {
           formatter: ({ name, data }) => {
             if (data) {
-              const { name, value, dead, cured } = data;
-              const tip = `<b>${name}</b><br />确诊人数：${value}<br />治愈人数：${cured}<br />死亡人数：${dead}`;
+              const { name, value, confirmed, dead, cured, increased } = data;
+              const tip = `<b>${name}</b><br />确诊人数：${confirmed}<br />治愈人数：${cured}<br />死亡人数：${dead}<br />新增确诊：${increased}`;
               return tip;
             }
             return `<b>${name}</b><br />暂无数据`;
@@ -143,9 +149,11 @@ async function createMapChartConfig(mapName, data, title = '') {
           return {
             name: r.showName,
             province: r.name,
-            value: r.confirmedCount,
+            value: r[valueKey],
+            confirmed: r.confirmedCount,
             dead: r.deadCount,
             cured: r.curedCount,
+            increased: r.confirmedIncreased,
           };
         }),
       }
@@ -176,7 +184,7 @@ async function setupMapCharts(records, container, province = '', allCities = fal
   }[shortAreaName(province)];
   const html = `<div id="mapchart" class="mychart" style="display:inline-block;width:100%;height:100%;"></div>`;
   container.innerHTML = html;
-  const cfg = await createMapChartConfig(mapName, records);
+  const cfg = await createMapChartConfig({ mapName, data: records });
   const chart = echarts.init(document.getElementById(`mapchart`));
   chart.setOption(cfg);
 
@@ -193,7 +201,7 @@ async function setupAllCitiesMapCharts(records, container) {
   const mapName = 'china-cities';
   const html = `<div id="mapchart" class="mychart" style="display:inline-block;width:100%;height:100%;"></div>`;
   container.innerHTML = html;
-  const cfg = await createMapChartConfig(mapName, records);
+  const cfg = await createMapChartConfig({ mapName, data: records });
   const chart = echarts.init(document.getElementById(`mapchart`));
   chart.setOption(cfg);
 
@@ -274,7 +282,7 @@ async function playAllCitiesMap() {
       });
       return p.concat(cityList);
     }, []);
-    const cfg = await createMapChartConfig('china-cities', records, dayStr);
+    const cfg = await createMapChartConfig({ mapName: 'china-cities', data: records, title: dayStr });
     allCharts[0].setOption(cfg);
   };
   func();

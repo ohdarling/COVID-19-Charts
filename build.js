@@ -1,9 +1,11 @@
 const https = require('https');
+const http = require('http');
 const fs = require('fs');
 const { parseData, processDuplicatedData, toSortedProvinceData, calcIncreasement } = require('./parse_data');
+const dataFileName = 'tmp.csv';
 
 function generateConfigs() {
-  const csvData = fs.readFileSync('DXYArea.csv', { encoding: 'utf8' });
+  const csvData = fs.readFileSync(dataFileName, { encoding: 'utf8' });
   console.log('Parsing...');
   let provsData = parseData(csvData);
   console.log('Processing duplicated data...');
@@ -15,6 +17,7 @@ function generateConfigs() {
   const dataStr = JSON.stringify(provsData);
   fs.writeFileSync('public/data.json', dataStr);
   console.log('Done.');
+  fs.unlinkSync(dataFileName);
 }
 
 const download = function(url, dest) {
@@ -39,5 +42,5 @@ const download = function(url, dest) {
   });
 };
 
-download('https://raw.githubusercontent.com/BlankerL/DXY-2019-nCoV-Data/master/csv/DXYArea.csv', 'DXYArea.csv');
+download('https://raw.githubusercontent.com/BlankerL/DXY-2019-nCoV-Data/master/csv/DXYArea.csv', dataFileName);
 setTimeout(() => {}, 0);
