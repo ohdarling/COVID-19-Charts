@@ -20,5 +20,6 @@ steps:
     - node build.js
     - git add public/data.json
     - git add DXYArea.csv
+    - git commit -m 'update'
     - git remote add github git@github.com:ohdarling/2019-nCoV-Charts.git
     - git push github master
