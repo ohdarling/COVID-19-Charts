@@ -17,7 +17,6 @@ function generateConfigs() {
   const dataStr = JSON.stringify(provsData, null, '  ');
   fs.writeFileSync('public/data.json', dataStr);
   console.log('Done.');
-  fs.unlinkSync(dataFileName);
 }
 
 generateConfigs();
