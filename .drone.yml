@@ -11,7 +11,6 @@ steps:
     - mkdir -p /root/.ssh/
     - echo "$$SSH_KEY" > /root/.ssh/id_rsa
     - chmod -R 600 /root/.ssh/
-    - ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
     - node build.js
     - git add public/data.json
     - git remote add github git@github.com:ohdarling/2019-nCoV-Charts.git
