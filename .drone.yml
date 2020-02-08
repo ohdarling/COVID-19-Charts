@@ -14,7 +14,7 @@ steps:
     - echo "$$SSH_KEY" > /root/.ssh/id_rsa
     - chmod -R 600 /root/.ssh/
     - rm -f DXYArea.csv
-    - wget -e use_proxy=yes -e http_proxy=$http_proxy https://raw.githubusercontent.com/BlankerL/DXY-2019-nCoV-Data/master/csv/DXYArea.csv
+    - curl -o DXYArea.csv --proxy $http_proxy https://raw.githubusercontent.com/BlankerL/DXY-2019-nCoV-Data/master/csv/DXYArea.csv
     - node build.js
     - git add public/data.json
     - git add DXYArea.csv
