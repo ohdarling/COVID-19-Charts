@@ -9,6 +9,8 @@ steps:
       from_secret: ssh_key
     http_proxy:
       from_secret: http_proxy
+    https_proxy:
+      from_secret: http_proxy
   commands:
     - mkdir -p /root/.ssh/
     - echo "$$SSH_KEY" > /root/.ssh/id_rsa
