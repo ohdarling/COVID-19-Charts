@@ -96896,21 +96896,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 40,
+            "confirmedCount": 41,
             "suspectedCount": 0,
             "curedCount": 11,
             "deadCount": 1,
-            "insickCount": 28,
-            "confirmedIncreased": 3
+            "insickCount": 29,
+            "confirmedIncreased": 4
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 40,
+        "confirmedCount": 41,
         "suspectedCount": 0,
         "curedCount": 11,
         "deadCount": 1,
-        "insickCount": 28,
-        "confirmedIncreased": 3
+        "insickCount": 29,
+        "confirmedIncreased": 4
       },
       "临高县": {
         "name": "临高县",
@@ -98957,20 +98957,20 @@
       },
       {
         "updateTime": "2/9",
-        "confirmedCount": 130,
+        "confirmedCount": 131,
         "suspectedCount": 0,
         "curedCount": 19,
         "deadCount": 3,
-        "insickCount": 108,
-        "confirmedIncreased": 6
+        "insickCount": 109,
+        "confirmedIncreased": 7
       }
     ],
     "updateTime": "2/9",
-    "confirmedCount": 130,
+    "confirmedCount": 131,
     "suspectedCount": 0,
     "curedCount": 19,
     "deadCount": 3,
-    "insickCount": 108,
+    "insickCount": 109,
     "cityList": [
       {
         "name": "三亚",
@@ -99122,21 +99122,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 40,
+            "confirmedCount": 41,
             "suspectedCount": 0,
             "curedCount": 11,
             "deadCount": 1,
-            "insickCount": 28,
-            "confirmedIncreased": 3
+            "insickCount": 29,
+            "confirmedIncreased": 4
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 40,
+        "confirmedCount": 41,
         "suspectedCount": 0,
         "curedCount": 11,
         "deadCount": 1,
-        "insickCount": 28,
-        "confirmedIncreased": 3
+        "insickCount": 29,
+        "confirmedIncreased": 4
       },
       {
         "name": "海口",
@@ -101202,7 +101202,7 @@
         "confirmedIncreased": 0
       }
     ],
-    "confirmedIncreased": 6
+    "confirmedIncreased": 7
   },
   {
     "name": "山西省",
