@@ -7823,18 +7823,18 @@
             "updateTime": "2/9",
             "confirmedCount": 58,
             "suspectedCount": 0,
-            "curedCount": 2,
+            "curedCount": 3,
             "deadCount": 0,
-            "insickCount": 56,
+            "insickCount": 55,
             "confirmedIncreased": 2
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 58,
         "suspectedCount": 0,
-        "curedCount": 2,
+        "curedCount": 3,
         "deadCount": 0,
-        "insickCount": 56,
+        "insickCount": 55,
         "confirmedIncreased": 2
       },
       "揭阳": {
@@ -9060,18 +9060,18 @@
         "updateTime": "2/9",
         "confirmedCount": 1131,
         "suspectedCount": 0,
-        "curedCount": 140,
+        "curedCount": 141,
         "deadCount": 1,
-        "insickCount": 990,
+        "insickCount": 989,
         "confirmedIncreased": 36
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 1131,
     "suspectedCount": 0,
-    "curedCount": 140,
+    "curedCount": 141,
     "deadCount": 1,
-    "insickCount": 990,
+    "insickCount": 989,
     "cityList": [
       {
         "name": "深圳",
@@ -9880,18 +9880,18 @@
             "updateTime": "2/9",
             "confirmedCount": 58,
             "suspectedCount": 0,
-            "curedCount": 2,
+            "curedCount": 3,
             "deadCount": 0,
-            "insickCount": 56,
+            "insickCount": 55,
             "confirmedIncreased": 2
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 58,
         "suspectedCount": 0,
-        "curedCount": 2,
+        "curedCount": 3,
         "deadCount": 0,
-        "insickCount": 56,
+        "insickCount": 55,
         "confirmedIncreased": 2
       },
       {
@@ -55019,18 +55019,18 @@
         "updateTime": "2/9",
         "confirmedCount": 444,
         "suspectedCount": 0,
-        "curedCount": 62,
+        "curedCount": 63,
         "deadCount": 1,
-        "insickCount": 381,
+        "insickCount": 380,
         "confirmedIncreased": 28
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 444,
     "suspectedCount": 0,
-    "curedCount": 62,
+    "curedCount": 63,
     "deadCount": 1,
-    "insickCount": 381,
+    "insickCount": 380,
     "cityList": [
       {
         "name": "青岛",
