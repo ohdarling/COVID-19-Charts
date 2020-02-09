@@ -155,18 +155,18 @@
             "updateTime": "2/9",
             "confirmedCount": 2436,
             "suspectedCount": 0,
-            "curedCount": 45,
+            "curedCount": 50,
             "deadCount": 29,
-            "insickCount": 2362,
+            "insickCount": 2357,
             "confirmedIncreased": 123
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 2436,
         "suspectedCount": 0,
-        "curedCount": 45,
+        "curedCount": 50,
         "deadCount": 29,
-        "insickCount": 2362,
+        "insickCount": 2357,
         "confirmedIncreased": 123
       },
       "武汉": {
@@ -487,18 +487,18 @@
             "updateTime": "2/9",
             "confirmedCount": 997,
             "suspectedCount": 0,
-            "curedCount": 41,
+            "curedCount": 42,
             "deadCount": 13,
-            "insickCount": 943,
+            "insickCount": 942,
             "confirmedIncreased": 56
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 997,
         "suspectedCount": 0,
-        "curedCount": 41,
+        "curedCount": 42,
         "deadCount": 13,
-        "insickCount": 943,
+        "insickCount": 942,
         "confirmedIncreased": 56
       },
       "黄冈": {
@@ -1631,18 +1631,18 @@
             "updateTime": "2/9",
             "confirmedCount": 171,
             "suspectedCount": 0,
-            "curedCount": 20,
+            "curedCount": 23,
             "deadCount": 0,
-            "insickCount": 151,
+            "insickCount": 148,
             "confirmedIncreased": 11
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 171,
         "suspectedCount": 0,
-        "curedCount": 20,
+        "curedCount": 23,
         "deadCount": 0,
-        "insickCount": 151,
+        "insickCount": 148,
         "confirmedIncreased": 11
       },
       "鄂州": {
@@ -2915,18 +2915,18 @@
         "updateTime": "2/9",
         "confirmedCount": 27100,
         "suspectedCount": 23638,
-        "curedCount": 1454,
+        "curedCount": 1463,
         "deadCount": 780,
-        "insickCount": 24866,
+        "insickCount": 24857,
         "confirmedIncreased": 2147
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 27100,
     "suspectedCount": 23638,
-    "curedCount": 1454,
+    "curedCount": 1463,
     "deadCount": 780,
-    "insickCount": 24866,
+    "insickCount": 24857,
     "cityList": [
       {
         "name": "武汉",
@@ -3246,18 +3246,18 @@
             "updateTime": "2/9",
             "confirmedCount": 2436,
             "suspectedCount": 0,
-            "curedCount": 45,
+            "curedCount": 50,
             "deadCount": 29,
-            "insickCount": 2362,
+            "insickCount": 2357,
             "confirmedIncreased": 123
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 2436,
         "suspectedCount": 0,
-        "curedCount": 45,
+        "curedCount": 50,
         "deadCount": 29,
-        "insickCount": 2362,
+        "insickCount": 2357,
         "confirmedIncreased": 123
       },
       {
@@ -3578,18 +3578,18 @@
             "updateTime": "2/9",
             "confirmedCount": 997,
             "suspectedCount": 0,
-            "curedCount": 41,
+            "curedCount": 42,
             "deadCount": 13,
-            "insickCount": 943,
+            "insickCount": 942,
             "confirmedIncreased": 56
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 997,
         "suspectedCount": 0,
-        "curedCount": 41,
+        "curedCount": 42,
         "deadCount": 13,
-        "insickCount": 943,
+        "insickCount": 942,
         "confirmedIncreased": 56
       },
       {
@@ -5332,18 +5332,18 @@
             "updateTime": "2/9",
             "confirmedCount": 171,
             "suspectedCount": 0,
-            "curedCount": 20,
+            "curedCount": 23,
             "deadCount": 0,
-            "insickCount": 151,
+            "insickCount": 148,
             "confirmedIncreased": 11
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 171,
         "suspectedCount": 0,
-        "curedCount": 20,
+        "curedCount": 23,
         "deadCount": 0,
-        "insickCount": 151,
+        "insickCount": 148,
         "confirmedIncreased": 11
       },
       {
@@ -6513,18 +6513,18 @@
             "updateTime": "2/9",
             "confirmedCount": 366,
             "suspectedCount": 0,
-            "curedCount": 39,
+            "curedCount": 46,
             "deadCount": 0,
-            "insickCount": 327,
+            "insickCount": 320,
             "confirmedIncreased": 12
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 366,
         "suspectedCount": 0,
-        "curedCount": 39,
+        "curedCount": 46,
         "deadCount": 0,
-        "insickCount": 327,
+        "insickCount": 320,
         "confirmedIncreased": 12
       },
       "韶关": {
@@ -7011,18 +7011,18 @@
             "updateTime": "2/9",
             "confirmedCount": 307,
             "suspectedCount": 0,
-            "curedCount": 36,
+            "curedCount": 41,
             "deadCount": 0,
-            "insickCount": 271,
+            "insickCount": 266,
             "confirmedIncreased": 6
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 307,
         "suspectedCount": 0,
-        "curedCount": 36,
+        "curedCount": 41,
         "deadCount": 0,
-        "insickCount": 271,
+        "insickCount": 266,
         "confirmedIncreased": 6
       },
       "佛山": {
@@ -9060,18 +9060,18 @@
         "updateTime": "2/9",
         "confirmedCount": 1131,
         "suspectedCount": 0,
-        "curedCount": 128,
+        "curedCount": 140,
         "deadCount": 1,
-        "insickCount": 1002,
+        "insickCount": 990,
         "confirmedIncreased": 36
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 1131,
     "suspectedCount": 0,
-    "curedCount": 128,
+    "curedCount": 140,
     "deadCount": 1,
-    "insickCount": 1002,
+    "insickCount": 990,
     "cityList": [
       {
         "name": "深圳",
@@ -9225,18 +9225,18 @@
             "updateTime": "2/9",
             "confirmedCount": 366,
             "suspectedCount": 0,
-            "curedCount": 39,
+            "curedCount": 46,
             "deadCount": 0,
-            "insickCount": 327,
+            "insickCount": 320,
             "confirmedIncreased": 12
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 366,
         "suspectedCount": 0,
-        "curedCount": 39,
+        "curedCount": 46,
         "deadCount": 0,
-        "insickCount": 327,
+        "insickCount": 320,
         "confirmedIncreased": 12
       },
       {
@@ -9391,18 +9391,18 @@
             "updateTime": "2/9",
             "confirmedCount": 307,
             "suspectedCount": 0,
-            "curedCount": 36,
+            "curedCount": 41,
             "deadCount": 0,
-            "insickCount": 271,
+            "insickCount": 266,
             "confirmedIncreased": 6
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 307,
         "suspectedCount": 0,
-        "curedCount": 36,
+        "curedCount": 41,
         "deadCount": 0,
-        "insickCount": 271,
+        "insickCount": 266,
         "confirmedIncreased": 6
       },
       {
@@ -14264,18 +14264,18 @@
         "updateTime": "2/9",
         "confirmedCount": 1075,
         "suspectedCount": 0,
-        "curedCount": 190,
+        "curedCount": 192,
         "deadCount": 0,
-        "insickCount": 885,
+        "insickCount": 883,
         "confirmedIncreased": 27
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 1075,
     "suspectedCount": 0,
-    "curedCount": 190,
+    "curedCount": 192,
     "deadCount": 0,
-    "insickCount": 885,
+    "insickCount": 883,
     "cityList": [
       {
         "name": "温州",
@@ -16257,18 +16257,18 @@
             "updateTime": "2/9",
             "confirmedCount": 126,
             "suspectedCount": 0,
-            "curedCount": 31,
+            "curedCount": 33,
             "deadCount": 0,
-            "insickCount": 95,
+            "insickCount": 93,
             "confirmedIncreased": 6
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 126,
         "suspectedCount": 0,
-        "curedCount": 31,
+        "curedCount": 33,
         "deadCount": 0,
-        "insickCount": 95,
+        "insickCount": 93,
         "confirmedIncreased": 6
       },
       "三门峡": {
@@ -16961,18 +16961,18 @@
             "updateTime": "2/9",
             "confirmedCount": 205,
             "suspectedCount": 0,
-            "curedCount": 24,
+            "curedCount": 28,
             "deadCount": 0,
-            "insickCount": 181,
+            "insickCount": 177,
             "confirmedIncreased": 13
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 205,
         "suspectedCount": 0,
-        "curedCount": 24,
+        "curedCount": 28,
         "deadCount": 0,
-        "insickCount": 181,
+        "insickCount": 177,
         "confirmedIncreased": 13
       },
       "南阳": {
@@ -18314,18 +18314,18 @@
             "updateTime": "2/9",
             "confirmedCount": 82,
             "suspectedCount": 0,
-            "curedCount": 5,
+            "curedCount": 9,
             "deadCount": 0,
-            "insickCount": 77,
+            "insickCount": 73,
             "confirmedIncreased": 6
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 82,
         "suspectedCount": 0,
-        "curedCount": 5,
+        "curedCount": 9,
         "deadCount": 0,
-        "insickCount": 77,
+        "insickCount": 73,
         "confirmedIncreased": 6
       },
       "鹤壁": {
@@ -19500,18 +19500,18 @@
         "updateTime": "2/9",
         "confirmedCount": 1033,
         "suspectedCount": 0,
-        "curedCount": 137,
+        "curedCount": 146,
         "deadCount": 6,
-        "insickCount": 890,
+        "insickCount": 881,
         "confirmedIncreased": 52
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 1033,
     "suspectedCount": 0,
-    "curedCount": 137,
+    "curedCount": 146,
     "deadCount": 6,
-    "insickCount": 890,
+    "insickCount": 881,
     "cityList": [
       {
         "name": "信阳",
@@ -19665,18 +19665,18 @@
             "updateTime": "2/9",
             "confirmedCount": 205,
             "suspectedCount": 0,
-            "curedCount": 24,
+            "curedCount": 28,
             "deadCount": 0,
-            "insickCount": 181,
+            "insickCount": 177,
             "confirmedIncreased": 13
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 205,
         "suspectedCount": 0,
-        "curedCount": 24,
+        "curedCount": 28,
         "deadCount": 0,
-        "insickCount": 181,
+        "insickCount": 177,
         "confirmedIncreased": 13
       },
       {
@@ -19988,18 +19988,18 @@
             "updateTime": "2/9",
             "confirmedCount": 126,
             "suspectedCount": 0,
-            "curedCount": 31,
+            "curedCount": 33,
             "deadCount": 0,
-            "insickCount": 95,
+            "insickCount": 93,
             "confirmedIncreased": 6
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 126,
         "suspectedCount": 0,
-        "curedCount": 31,
+        "curedCount": 33,
         "deadCount": 0,
-        "insickCount": 95,
+        "insickCount": 93,
         "confirmedIncreased": 6
       },
       {
@@ -20306,18 +20306,18 @@
             "updateTime": "2/9",
             "confirmedCount": 82,
             "suspectedCount": 0,
-            "curedCount": 5,
+            "curedCount": 9,
             "deadCount": 0,
-            "insickCount": 77,
+            "insickCount": 73,
             "confirmedIncreased": 6
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 82,
         "suspectedCount": 0,
-        "curedCount": 5,
+        "curedCount": 9,
         "deadCount": 0,
-        "insickCount": 77,
+        "insickCount": 73,
         "confirmedIncreased": 6
       },
       {
@@ -24236,18 +24236,18 @@
             "updateTime": "2/9",
             "confirmedCount": 87,
             "suspectedCount": 0,
-            "curedCount": 18,
+            "curedCount": 21,
             "deadCount": 0,
-            "insickCount": 69,
+            "insickCount": 66,
             "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 87,
         "suspectedCount": 0,
-        "curedCount": 18,
+        "curedCount": 21,
         "deadCount": 0,
-        "insickCount": 69,
+        "insickCount": 66,
         "confirmedIncreased": 1
       },
       "衡阳": {
@@ -24855,18 +24855,18 @@
             "updateTime": "2/9",
             "confirmedCount": 8,
             "suspectedCount": 0,
-            "curedCount": 3,
+            "curedCount": 4,
             "deadCount": 0,
-            "insickCount": 5,
+            "insickCount": 4,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 8,
         "suspectedCount": 0,
-        "curedCount": 3,
+        "curedCount": 4,
         "deadCount": 0,
-        "insickCount": 5,
+        "insickCount": 4,
         "confirmedIncreased": 0
       },
       "张家界": {
@@ -25131,18 +25131,18 @@
         "updateTime": "2/9",
         "confirmedCount": 838,
         "suspectedCount": 0,
-        "curedCount": 173,
+        "curedCount": 177,
         "deadCount": 1,
-        "insickCount": 664,
+        "insickCount": 660,
         "confirmedIncreased": 35
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 838,
     "suspectedCount": 0,
-    "curedCount": 173,
+    "curedCount": 177,
     "deadCount": 1,
-    "insickCount": 664,
+    "insickCount": 660,
     "cityList": [
       {
         "name": "长沙",
@@ -25619,18 +25619,18 @@
             "updateTime": "2/9",
             "confirmedCount": 87,
             "suspectedCount": 0,
-            "curedCount": 18,
+            "curedCount": 21,
             "deadCount": 0,
-            "insickCount": 69,
+            "insickCount": 66,
             "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 87,
         "suspectedCount": 0,
-        "curedCount": 18,
+        "curedCount": 21,
         "deadCount": 0,
-        "insickCount": 69,
+        "insickCount": 66,
         "confirmedIncreased": 1
       },
       {
@@ -27234,18 +27234,18 @@
             "updateTime": "2/9",
             "confirmedCount": 8,
             "suspectedCount": 0,
-            "curedCount": 3,
+            "curedCount": 4,
             "deadCount": 0,
-            "insickCount": 5,
+            "insickCount": 4,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 8,
         "suspectedCount": 0,
-        "curedCount": 3,
+        "curedCount": 4,
         "deadCount": 0,
-        "insickCount": 5,
+        "insickCount": 4,
         "confirmedIncreased": 0
       },
       {
@@ -29448,18 +29448,18 @@
             "updateTime": "2/9",
             "confirmedCount": 22,
             "suspectedCount": 0,
-            "curedCount": 3,
+            "curedCount": 4,
             "deadCount": 0,
-            "insickCount": 19,
+            "insickCount": 18,
             "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 22,
         "suspectedCount": 0,
-        "curedCount": 3,
+        "curedCount": 4,
         "deadCount": 0,
-        "insickCount": 19,
+        "insickCount": 18,
         "confirmedIncreased": 1
       },
       "淮北": {
@@ -30127,18 +30127,18 @@
         "updateTime": "2/9",
         "confirmedCount": 779,
         "suspectedCount": 0,
-        "curedCount": 71,
+        "curedCount": 72,
         "deadCount": 1,
-        "insickCount": 707,
+        "insickCount": 706,
         "confirmedIncreased": 46
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 779,
     "suspectedCount": 0,
-    "curedCount": 71,
+    "curedCount": 72,
     "deadCount": 1,
-    "insickCount": 707,
+    "insickCount": 706,
     "cityList": [
       {
         "name": "合肥",
@@ -32037,18 +32037,18 @@
             "updateTime": "2/9",
             "confirmedCount": 22,
             "suspectedCount": 0,
-            "curedCount": 3,
+            "curedCount": 4,
             "deadCount": 0,
-            "insickCount": 19,
+            "insickCount": 18,
             "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 22,
         "suspectedCount": 0,
-        "curedCount": 3,
+        "curedCount": 4,
         "deadCount": 0,
-        "insickCount": 19,
+        "insickCount": 18,
         "confirmedIncreased": 1
       },
       {
@@ -52945,18 +52945,18 @@
             "updateTime": "2/9",
             "confirmedCount": 49,
             "suspectedCount": 0,
-            "curedCount": 8,
+            "curedCount": 9,
             "deadCount": 1,
-            "insickCount": 40,
+            "insickCount": 39,
             "confirmedIncreased": 3
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 49,
         "suspectedCount": 0,
-        "curedCount": 8,
+        "curedCount": 9,
         "deadCount": 1,
-        "insickCount": 40,
+        "insickCount": 39,
         "confirmedIncreased": 3
       },
       "潍坊": {
@@ -54403,18 +54403,18 @@
             "updateTime": "2/9",
             "confirmedCount": 16,
             "suspectedCount": 0,
-            "curedCount": 3,
+            "curedCount": 4,
             "deadCount": 0,
-            "insickCount": 13,
+            "insickCount": 12,
             "confirmedIncreased": 2
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 16,
         "suspectedCount": 0,
-        "curedCount": 3,
+        "curedCount": 4,
         "deadCount": 0,
-        "insickCount": 13,
+        "insickCount": 12,
         "confirmedIncreased": 2
       },
       "淄博市": {
@@ -55019,18 +55019,18 @@
         "updateTime": "2/9",
         "confirmedCount": 444,
         "suspectedCount": 0,
-        "curedCount": 56,
+        "curedCount": 58,
         "deadCount": 1,
-        "insickCount": 387,
+        "insickCount": 385,
         "confirmedIncreased": 28
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 444,
     "suspectedCount": 0,
-    "curedCount": 56,
+    "curedCount": 58,
     "deadCount": 1,
-    "insickCount": 387,
+    "insickCount": 385,
     "cityList": [
       {
         "name": "青岛",
@@ -55184,18 +55184,18 @@
             "updateTime": "2/9",
             "confirmedCount": 49,
             "suspectedCount": 0,
-            "curedCount": 8,
+            "curedCount": 9,
             "deadCount": 1,
-            "insickCount": 40,
+            "insickCount": 39,
             "confirmedIncreased": 3
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 49,
         "suspectedCount": 0,
-        "curedCount": 8,
+        "curedCount": 9,
         "deadCount": 1,
-        "insickCount": 40,
+        "insickCount": 39,
         "confirmedIncreased": 3
       },
       {
@@ -56920,18 +56920,18 @@
             "updateTime": "2/9",
             "confirmedCount": 16,
             "suspectedCount": 0,
-            "curedCount": 3,
+            "curedCount": 4,
             "deadCount": 0,
-            "insickCount": 13,
+            "insickCount": 12,
             "confirmedIncreased": 2
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 16,
         "suspectedCount": 0,
-        "curedCount": 3,
+        "curedCount": 4,
         "deadCount": 0,
-        "insickCount": 13,
+        "insickCount": 12,
         "confirmedIncreased": 2
       },
       {
@@ -59797,18 +59797,18 @@
             "updateTime": "2/9",
             "confirmedCount": 3,
             "suspectedCount": 0,
-            "curedCount": 0,
+            "curedCount": 1,
             "deadCount": 0,
-            "insickCount": 3,
+            "insickCount": 2,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 3,
         "suspectedCount": 0,
-        "curedCount": 0,
+        "curedCount": 1,
         "deadCount": 0,
-        "insickCount": 3,
+        "insickCount": 2,
         "confirmedIncreased": 0
       },
       "凉山州": {
@@ -60039,18 +60039,18 @@
             "updateTime": "2/9",
             "confirmedCount": 9,
             "suspectedCount": 0,
-            "curedCount": 0,
+            "curedCount": 3,
             "deadCount": 0,
-            "insickCount": 9,
+            "insickCount": 6,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 9,
         "suspectedCount": 0,
-        "curedCount": 0,
+        "curedCount": 3,
         "deadCount": 0,
-        "insickCount": 9,
+        "insickCount": 6,
         "confirmedIncreased": 0
       },
       "凉山": {
@@ -60536,18 +60536,18 @@
             "updateTime": "2/9",
             "confirmedCount": 13,
             "suspectedCount": 0,
-            "curedCount": 3,
+            "curedCount": 5,
             "deadCount": 0,
-            "insickCount": 10,
+            "insickCount": 8,
             "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 13,
         "suspectedCount": 0,
-        "curedCount": 3,
+        "curedCount": 5,
         "deadCount": 0,
-        "insickCount": 10,
+        "insickCount": 8,
         "confirmedIncreased": 1
       },
       "待明确": {
@@ -60722,18 +60722,18 @@
         "updateTime": "2/9",
         "confirmedCount": 386,
         "suspectedCount": 0,
-        "curedCount": 60,
+        "curedCount": 70,
         "deadCount": 1,
-        "insickCount": 325,
+        "insickCount": 315,
         "confirmedIncreased": 22
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 386,
     "suspectedCount": 0,
-    "curedCount": 60,
+    "curedCount": 70,
     "deadCount": 1,
-    "insickCount": 325,
+    "insickCount": 315,
     "cityList": [
       {
         "name": "成都",
@@ -62385,18 +62385,18 @@
             "updateTime": "2/9",
             "confirmedCount": 13,
             "suspectedCount": 0,
-            "curedCount": 3,
+            "curedCount": 5,
             "deadCount": 0,
-            "insickCount": 10,
+            "insickCount": 8,
             "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 13,
         "suspectedCount": 0,
-        "curedCount": 3,
+        "curedCount": 5,
         "deadCount": 0,
-        "insickCount": 10,
+        "insickCount": 8,
         "confirmedIncreased": 1
       },
       {
@@ -62784,18 +62784,18 @@
             "updateTime": "2/9",
             "confirmedCount": 9,
             "suspectedCount": 0,
-            "curedCount": 0,
+            "curedCount": 3,
             "deadCount": 0,
-            "insickCount": 9,
+            "insickCount": 6,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 9,
         "suspectedCount": 0,
-        "curedCount": 0,
+        "curedCount": 3,
         "deadCount": 0,
-        "insickCount": 9,
+        "insickCount": 6,
         "confirmedIncreased": 0
       },
       {
@@ -63672,18 +63672,18 @@
             "updateTime": "2/9",
             "confirmedCount": 3,
             "suspectedCount": 0,
-            "curedCount": 0,
+            "curedCount": 1,
             "deadCount": 0,
-            "insickCount": 3,
+            "insickCount": 2,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 3,
         "suspectedCount": 0,
-        "curedCount": 0,
+        "curedCount": 1,
         "deadCount": 0,
-        "insickCount": 3,
+        "insickCount": 2,
         "confirmedIncreased": 0
       },
       {
@@ -78844,18 +78844,18 @@
             "updateTime": "2/9",
             "confirmedCount": 42,
             "suspectedCount": 0,
-            "curedCount": 4,
+            "curedCount": 10,
             "deadCount": 0,
-            "insickCount": 38,
+            "insickCount": 32,
             "confirmedIncreased": 2
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 42,
         "suspectedCount": 0,
-        "curedCount": 4,
+        "curedCount": 10,
         "deadCount": 0,
-        "insickCount": 38,
+        "insickCount": 32,
         "confirmedIncreased": 2
       },
       "厦门": {
@@ -79176,18 +79176,18 @@
             "updateTime": "2/9",
             "confirmedCount": 62,
             "suspectedCount": 0,
-            "curedCount": 10,
+            "curedCount": 11,
             "deadCount": 0,
-            "insickCount": 52,
+            "insickCount": 51,
             "confirmedIncreased": 3
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 62,
         "suspectedCount": 0,
-        "curedCount": 10,
+        "curedCount": 11,
         "deadCount": 0,
-        "insickCount": 52,
+        "insickCount": 51,
         "confirmedIncreased": 3
       },
       "三明": {
@@ -80120,18 +80120,18 @@
         "updateTime": "2/9",
         "confirmedCount": 250,
         "suspectedCount": 0,
-        "curedCount": 28,
+        "curedCount": 35,
         "deadCount": 0,
-        "insickCount": 222,
+        "insickCount": 215,
         "confirmedIncreased": 11
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 250,
     "suspectedCount": 0,
-    "curedCount": 28,
+    "curedCount": 35,
     "deadCount": 0,
-    "insickCount": 222,
+    "insickCount": 215,
     "cityList": [
       {
         "name": "福州",
@@ -80285,18 +80285,18 @@
             "updateTime": "2/9",
             "confirmedCount": 62,
             "suspectedCount": 0,
-            "curedCount": 10,
+            "curedCount": 11,
             "deadCount": 0,
-            "insickCount": 52,
+            "insickCount": 51,
             "confirmedIncreased": 3
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 62,
         "suspectedCount": 0,
-        "curedCount": 10,
+        "curedCount": 11,
         "deadCount": 0,
-        "insickCount": 52,
+        "insickCount": 51,
         "confirmedIncreased": 3
       },
       {
@@ -80599,18 +80599,18 @@
             "updateTime": "2/9",
             "confirmedCount": 42,
             "suspectedCount": 0,
-            "curedCount": 4,
+            "curedCount": 10,
             "deadCount": 0,
-            "insickCount": 38,
+            "insickCount": 32,
             "confirmedIncreased": 2
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 42,
         "suspectedCount": 0,
-        "curedCount": 4,
+        "curedCount": 10,
         "deadCount": 0,
-        "insickCount": 38,
+        "insickCount": 32,
         "confirmedIncreased": 2
       },
       {
@@ -93027,18 +93027,18 @@
             "updateTime": "2/9",
             "confirmedCount": 5,
             "suspectedCount": 0,
-            "curedCount": 1,
+            "curedCount": 2,
             "deadCount": 0,
-            "insickCount": 4,
+            "insickCount": 3,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 5,
         "suspectedCount": 0,
-        "curedCount": 1,
+        "curedCount": 2,
         "deadCount": 0,
-        "insickCount": 4,
+        "insickCount": 3,
         "confirmedIncreased": 0
       },
       "玉溪": {
@@ -94526,18 +94526,18 @@
         "updateTime": "2/9",
         "confirmedCount": 141,
         "suspectedCount": 0,
-        "curedCount": 17,
+        "curedCount": 18,
         "deadCount": 0,
-        "insickCount": 124,
+        "insickCount": 123,
         "confirmedIncreased": 3
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 141,
     "suspectedCount": 0,
-    "curedCount": 17,
+    "curedCount": 18,
     "deadCount": 0,
-    "insickCount": 124,
+    "insickCount": 123,
     "cityList": [
       {
         "name": "昆明",
@@ -95911,18 +95911,18 @@
             "updateTime": "2/9",
             "confirmedCount": 5,
             "suspectedCount": 0,
-            "curedCount": 1,
+            "curedCount": 2,
             "deadCount": 0,
-            "insickCount": 4,
+            "insickCount": 3,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 5,
         "suspectedCount": 0,
-        "curedCount": 1,
+        "curedCount": 2,
         "deadCount": 0,
-        "insickCount": 4,
+        "insickCount": 3,
         "confirmedIncreased": 0
       },
       {
@@ -98948,20 +98948,20 @@
       },
       {
         "updateTime": "2/9",
-        "confirmedCount": 128,
+        "confirmedCount": 130,
         "suspectedCount": 0,
         "curedCount": 15,
-        "deadCount": 2,
-        "insickCount": 111,
-        "confirmedIncreased": 4
+        "deadCount": 3,
+        "insickCount": 112,
+        "confirmedIncreased": 6
       }
     ],
     "updateTime": "2/9",
-    "confirmedCount": 128,
+    "confirmedCount": 130,
     "suspectedCount": 0,
     "curedCount": 15,
-    "deadCount": 2,
-    "insickCount": 111,
+    "deadCount": 3,
+    "insickCount": 112,
     "cityList": [
       {
         "name": "三亚",
@@ -101184,7 +101184,7 @@
         "confirmedIncreased": 0
       }
     ],
-    "confirmedIncreased": 4
+    "confirmedIncreased": 6
   },
   {
     "name": "山西省",
@@ -102526,18 +102526,18 @@
             "updateTime": "2/9",
             "confirmedCount": 6,
             "suspectedCount": 0,
-            "curedCount": 1,
+            "curedCount": 2,
             "deadCount": 0,
-            "insickCount": 5,
+            "insickCount": 4,
             "confirmedIncreased": 2
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 6,
         "suspectedCount": 0,
-        "curedCount": 1,
+        "curedCount": 2,
         "deadCount": 0,
-        "insickCount": 5,
+        "insickCount": 4,
         "confirmedIncreased": 2
       },
       "临汾市": {
@@ -102922,18 +102922,18 @@
         "updateTime": "2/9",
         "confirmedCount": 115,
         "suspectedCount": 0,
-        "curedCount": 21,
+        "curedCount": 22,
         "deadCount": 0,
-        "insickCount": 94,
+        "insickCount": 93,
         "confirmedIncreased": 11
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 115,
     "suspectedCount": 0,
-    "curedCount": 21,
+    "curedCount": 22,
     "deadCount": 0,
-    "insickCount": 94,
+    "insickCount": 93,
     "cityList": [
       {
         "name": "晋中",
@@ -104078,18 +104078,18 @@
             "updateTime": "2/9",
             "confirmedCount": 6,
             "suspectedCount": 0,
-            "curedCount": 1,
+            "curedCount": 2,
             "deadCount": 0,
-            "insickCount": 5,
+            "insickCount": 4,
             "confirmedIncreased": 2
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 6,
         "suspectedCount": 0,
-        "curedCount": 1,
+        "curedCount": 2,
         "deadCount": 0,
-        "insickCount": 5,
+        "insickCount": 4,
         "confirmedIncreased": 2
       },
       {
@@ -104671,15 +104671,24 @@
             "deadCount": 0,
             "insickCount": 23,
             "confirmedIncreased": 1
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 26,
+            "suspectedCount": 0,
+            "curedCount": 4,
+            "deadCount": 0,
+            "insickCount": 22,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 26,
         "suspectedCount": 0,
-        "curedCount": 3,
+        "curedCount": 4,
         "deadCount": 0,
-        "insickCount": 23,
-        "confirmedIncreased": 1
+        "insickCount": 22,
+        "confirmedIncreased": 0
       },
       "大连": {
         "name": "大连",
@@ -104828,15 +104837,24 @@
             "deadCount": 0,
             "insickCount": 13,
             "confirmedIncreased": 2
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 16,
+            "suspectedCount": 0,
+            "curedCount": 3,
+            "deadCount": 0,
+            "insickCount": 13,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 16,
         "suspectedCount": 0,
         "curedCount": 3,
         "deadCount": 0,
         "insickCount": 13,
-        "confirmedIncreased": 2
+        "confirmedIncreased": 0
       },
       "朝阳": {
         "name": "朝阳",
@@ -104985,9 +105003,18 @@
             "deadCount": 0,
             "insickCount": 6,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 6,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 6,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 6,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -105133,9 +105160,18 @@
             "deadCount": 0,
             "insickCount": 9,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 9,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 9,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 9,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -105281,9 +105317,18 @@
             "deadCount": 0,
             "insickCount": 3,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 3,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 3,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 3,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -105429,9 +105474,18 @@
             "deadCount": 0,
             "insickCount": 3,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 3,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 3,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 3,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -105568,9 +105622,18 @@
             "deadCount": 0,
             "insickCount": 1,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 1,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 1,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 1,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -105707,9 +105770,18 @@
             "deadCount": 0,
             "insickCount": 11,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 11,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 11,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 11,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -105846,14 +105918,23 @@
             "deadCount": 0,
             "insickCount": 6,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 7,
+            "suspectedCount": 0,
+            "curedCount": 3,
+            "deadCount": 0,
+            "insickCount": 4,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 7,
         "suspectedCount": 0,
-        "curedCount": 1,
+        "curedCount": 3,
         "deadCount": 0,
-        "insickCount": 6,
+        "insickCount": 4,
         "confirmedIncreased": 0
       },
       "辽阳": {
@@ -105967,15 +106048,24 @@
             "deadCount": 0,
             "insickCount": 3,
             "confirmedIncreased": 1
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 3,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 3,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 3,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
         "insickCount": 3,
-        "confirmedIncreased": 1
+        "confirmedIncreased": 0
       },
       "锦州": {
         "name": "锦州",
@@ -106088,15 +106178,24 @@
             "deadCount": 0,
             "insickCount": 9,
             "confirmedIncreased": 2
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 10,
+            "suspectedCount": 0,
+            "curedCount": 1,
+            "deadCount": 0,
+            "insickCount": 9,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 10,
         "suspectedCount": 0,
         "curedCount": 1,
         "deadCount": 0,
         "insickCount": 9,
-        "confirmedIncreased": 2
+        "confirmedIncreased": 0
       },
       "阜新": {
         "name": "阜新",
@@ -106173,9 +106272,18 @@
             "deadCount": 0,
             "insickCount": 7,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 7,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 7,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 7,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -106258,9 +106366,18 @@
             "deadCount": 0,
             "insickCount": 3,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 3,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 3,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 3,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -106413,14 +106530,23 @@
         "deadCount": 0,
         "insickCount": 97,
         "confirmedIncreased": 6
+      },
+      {
+        "updateTime": "2/9",
+        "confirmedCount": 105,
+        "suspectedCount": 0,
+        "curedCount": 12,
+        "deadCount": 0,
+        "insickCount": 93,
+        "confirmedIncreased": 0
       }
     ],
-    "updateTime": "2/8",
+    "updateTime": "2/9",
     "confirmedCount": 105,
     "suspectedCount": 0,
-    "curedCount": 8,
+    "curedCount": 12,
     "deadCount": 0,
-    "insickCount": 97,
+    "insickCount": 93,
     "cityList": [
       {
         "name": "沈阳",
@@ -106569,15 +106695,24 @@
             "deadCount": 0,
             "insickCount": 23,
             "confirmedIncreased": 1
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 26,
+            "suspectedCount": 0,
+            "curedCount": 4,
+            "deadCount": 0,
+            "insickCount": 22,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 26,
         "suspectedCount": 0,
-        "curedCount": 3,
+        "curedCount": 4,
         "deadCount": 0,
-        "insickCount": 23,
-        "confirmedIncreased": 1
+        "insickCount": 22,
+        "confirmedIncreased": 0
       },
       {
         "name": "大连",
@@ -106726,15 +106861,24 @@
             "deadCount": 0,
             "insickCount": 13,
             "confirmedIncreased": 2
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 16,
+            "suspectedCount": 0,
+            "curedCount": 3,
+            "deadCount": 0,
+            "insickCount": 13,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 16,
         "suspectedCount": 0,
         "curedCount": 3,
         "deadCount": 0,
         "insickCount": 13,
-        "confirmedIncreased": 2
+        "confirmedIncreased": 0
       },
       {
         "name": "盘锦",
@@ -106865,9 +107009,18 @@
             "deadCount": 0,
             "insickCount": 11,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 11,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 11,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 11,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -106986,15 +107139,24 @@
             "deadCount": 0,
             "insickCount": 9,
             "confirmedIncreased": 2
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 10,
+            "suspectedCount": 0,
+            "curedCount": 1,
+            "deadCount": 0,
+            "insickCount": 9,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 10,
         "suspectedCount": 0,
         "curedCount": 1,
         "deadCount": 0,
         "insickCount": 9,
-        "confirmedIncreased": 2
+        "confirmedIncreased": 0
       },
       {
         "name": "葫芦岛",
@@ -107134,9 +107296,18 @@
             "deadCount": 0,
             "insickCount": 9,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 9,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 9,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 9,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -107273,14 +107444,23 @@
             "deadCount": 0,
             "insickCount": 6,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 7,
+            "suspectedCount": 0,
+            "curedCount": 3,
+            "deadCount": 0,
+            "insickCount": 4,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 7,
         "suspectedCount": 0,
-        "curedCount": 1,
+        "curedCount": 3,
         "deadCount": 0,
-        "insickCount": 6,
+        "insickCount": 4,
         "confirmedIncreased": 0
       },
       {
@@ -107358,9 +107538,18 @@
             "deadCount": 0,
             "insickCount": 7,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 7,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 7,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 7,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -107515,9 +107704,18 @@
             "deadCount": 0,
             "insickCount": 6,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 6,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 6,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 6,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -107663,9 +107861,18 @@
             "deadCount": 0,
             "insickCount": 3,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 3,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 3,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 3,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -107811,9 +108018,18 @@
             "deadCount": 0,
             "insickCount": 3,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 3,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 3,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 3,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -107932,15 +108148,24 @@
             "deadCount": 0,
             "insickCount": 3,
             "confirmedIncreased": 1
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 3,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 3,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 3,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
         "insickCount": 3,
-        "confirmedIncreased": 1
+        "confirmedIncreased": 0
       },
       {
         "name": "鞍山",
@@ -108017,9 +108242,18 @@
             "deadCount": 0,
             "insickCount": 3,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 3,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 3,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 3,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -108156,9 +108390,18 @@
             "deadCount": 0,
             "insickCount": 1,
             "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "2/9",
+            "confirmedCount": 1,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 1,
+            "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/8",
+        "updateTime": "2/9",
         "confirmedCount": 1,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -108167,7 +108410,7 @@
         "confirmedIncreased": 0
       }
     ],
-    "confirmedIncreased": 6
+    "confirmedIncreased": 0
   },
   {
     "name": "贵州省",
@@ -115586,18 +115829,18 @@
             "updateTime": "2/9",
             "confirmedCount": 2,
             "suspectedCount": 0,
-            "curedCount": 0,
+            "curedCount": 1,
             "deadCount": 0,
-            "insickCount": 2,
+            "insickCount": 1,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 2,
         "suspectedCount": 0,
-        "curedCount": 0,
+        "curedCount": 1,
         "deadCount": 0,
-        "insickCount": 2,
+        "insickCount": 1,
         "confirmedIncreased": 0
       },
       "天水市": {
@@ -116443,18 +116686,18 @@
         "updateTime": "2/9",
         "confirmedCount": 79,
         "suspectedCount": 0,
-        "curedCount": 13,
+        "curedCount": 14,
         "deadCount": 1,
-        "insickCount": 65,
+        "insickCount": 64,
         "confirmedIncreased": 0
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 79,
     "suspectedCount": 0,
-    "curedCount": 13,
+    "curedCount": 14,
     "deadCount": 1,
-    "insickCount": 65,
+    "insickCount": 64,
     "cityList": [
       {
         "name": "兰州",
@@ -117697,18 +117940,18 @@
             "updateTime": "2/9",
             "confirmedCount": 2,
             "suspectedCount": 0,
-            "curedCount": 0,
+            "curedCount": 1,
             "deadCount": 0,
-            "insickCount": 2,
+            "insickCount": 1,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 2,
         "suspectedCount": 0,
-        "curedCount": 0,
+        "curedCount": 1,
         "deadCount": 0,
-        "insickCount": 2,
+        "insickCount": 1,
         "confirmedIncreased": 0
       },
       {
@@ -118276,18 +118519,18 @@
             "updateTime": "2/9",
             "confirmedCount": 37,
             "suspectedCount": 0,
-            "curedCount": 1,
+            "curedCount": 6,
             "deadCount": 0,
-            "insickCount": 36,
+            "insickCount": 31,
             "confirmedIncreased": 5
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 37,
         "suspectedCount": 0,
-        "curedCount": 1,
+        "curedCount": 6,
         "deadCount": 0,
-        "insickCount": 36,
+        "insickCount": 31,
         "confirmedIncreased": 5
       },
       "吉林": {
@@ -119069,18 +119312,18 @@
             "updateTime": "2/9",
             "confirmedCount": 5,
             "suspectedCount": 0,
-            "curedCount": 0,
+            "curedCount": 2,
             "deadCount": 0,
-            "insickCount": 5,
+            "insickCount": 3,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 5,
         "suspectedCount": 0,
-        "curedCount": 0,
+        "curedCount": 2,
         "deadCount": 0,
-        "insickCount": 5,
+        "insickCount": 3,
         "confirmedIncreased": 0
       },
       "辽源": {
@@ -119411,18 +119654,18 @@
         "updateTime": "2/9",
         "confirmedCount": 78,
         "suspectedCount": 0,
-        "curedCount": 5,
+        "curedCount": 12,
         "deadCount": 1,
-        "insickCount": 72,
+        "insickCount": 65,
         "confirmedIncreased": 9
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 78,
     "suspectedCount": 0,
-    "curedCount": 5,
+    "curedCount": 12,
     "deadCount": 1,
-    "insickCount": 72,
+    "insickCount": 65,
     "cityList": [
       {
         "name": "长春",
@@ -119567,18 +119810,18 @@
             "updateTime": "2/9",
             "confirmedCount": 37,
             "suspectedCount": 0,
-            "curedCount": 1,
+            "curedCount": 6,
             "deadCount": 0,
-            "insickCount": 36,
+            "insickCount": 31,
             "confirmedIncreased": 5
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 37,
         "suspectedCount": 0,
-        "curedCount": 1,
+        "curedCount": 6,
         "deadCount": 0,
-        "insickCount": 36,
+        "insickCount": 31,
         "confirmedIncreased": 5
       },
       {
@@ -120149,18 +120392,18 @@
             "updateTime": "2/9",
             "confirmedCount": 5,
             "suspectedCount": 0,
-            "curedCount": 0,
+            "curedCount": 2,
             "deadCount": 0,
-            "insickCount": 5,
+            "insickCount": 3,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 5,
         "suspectedCount": 0,
-        "curedCount": 0,
+        "curedCount": 2,
         "deadCount": 0,
-        "insickCount": 5,
+        "insickCount": 3,
         "confirmedIncreased": 0
       },
       {
