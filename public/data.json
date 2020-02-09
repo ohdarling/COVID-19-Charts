@@ -54703,18 +54703,18 @@
             "updateTime": "2/9",
             "confirmedCount": 21,
             "suspectedCount": 0,
-            "curedCount": 0,
+            "curedCount": 1,
             "deadCount": 0,
-            "insickCount": 21,
+            "insickCount": 20,
             "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 21,
         "suspectedCount": 0,
-        "curedCount": 0,
+        "curedCount": 1,
         "deadCount": 0,
-        "insickCount": 21,
+        "insickCount": 20,
         "confirmedIncreased": 1
       },
       "泰安": {
@@ -55019,18 +55019,18 @@
         "updateTime": "2/9",
         "confirmedCount": 435,
         "suspectedCount": 0,
-        "curedCount": 50,
+        "curedCount": 51,
         "deadCount": 1,
-        "insickCount": 384,
+        "insickCount": 383,
         "confirmedIncreased": 19
       }
     ],
     "updateTime": "2/9",
     "confirmedCount": 435,
     "suspectedCount": 0,
-    "curedCount": 50,
+    "curedCount": 51,
     "deadCount": 1,
-    "insickCount": 384,
+    "insickCount": 383,
     "cityList": [
       {
         "name": "青岛",
@@ -56763,18 +56763,18 @@
             "updateTime": "2/9",
             "confirmedCount": 21,
             "suspectedCount": 0,
-            "curedCount": 0,
+            "curedCount": 1,
             "deadCount": 0,
-            "insickCount": 21,
+            "insickCount": 20,
             "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 21,
         "suspectedCount": 0,
-        "curedCount": 0,
+        "curedCount": 1,
         "deadCount": 0,
-        "insickCount": 21,
+        "insickCount": 20,
         "confirmedIncreased": 1
       },
       {
@@ -64826,21 +64826,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 25,
+            "confirmedCount": 24,
             "suspectedCount": 0,
             "curedCount": 2,
             "deadCount": 0,
-            "insickCount": 23,
-            "confirmedIncreased": 0
+            "insickCount": 22,
+            "confirmedIncreased": -1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 25,
+        "confirmedCount": 24,
         "suspectedCount": 0,
         "curedCount": 2,
         "deadCount": 0,
-        "insickCount": 23,
-        "confirmedIncreased": 0
+        "insickCount": 22,
+        "confirmedIncreased": -1
       },
       "东城": {
         "name": "东城",
@@ -65058,21 +65058,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 49,
+            "confirmedCount": 52,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 0,
-            "insickCount": 49,
-            "confirmedIncreased": 0
+            "insickCount": 52,
+            "confirmedIncreased": 3
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 49,
+        "confirmedCount": 52,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
-        "insickCount": 49,
-        "confirmedIncreased": 0
+        "insickCount": 52,
+        "confirmedIncreased": 3
       },
       "怀柔区": {
         "name": "怀柔区",
@@ -65367,21 +65367,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 9,
+            "confirmedCount": 10,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 0,
-            "insickCount": 9,
-            "confirmedIncreased": 0
+            "insickCount": 10,
+            "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 9,
+        "confirmedCount": 10,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
-        "insickCount": 9,
-        "confirmedIncreased": 0
+        "insickCount": 10,
+        "confirmedIncreased": 1
       },
       "石景山区": {
         "name": "石景山区",
@@ -65573,21 +65573,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 8,
+            "confirmedCount": 9,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 0,
-            "insickCount": 8,
-            "confirmedIncreased": 0
+            "insickCount": 9,
+            "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 8,
+        "confirmedCount": 9,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
-        "insickCount": 8,
-        "confirmedIncreased": 0
+        "insickCount": 9,
+        "confirmedIncreased": 1
       },
       "丰台区": {
         "name": "丰台区",
@@ -65676,21 +65676,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 26,
+            "confirmedCount": 27,
             "suspectedCount": 0,
             "curedCount": 3,
             "deadCount": 0,
-            "insickCount": 23,
-            "confirmedIncreased": 0
+            "insickCount": 24,
+            "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 26,
+        "confirmedCount": 27,
         "suspectedCount": 0,
         "curedCount": 3,
         "deadCount": 0,
-        "insickCount": 23,
-        "confirmedIncreased": 0
+        "insickCount": 24,
+        "confirmedIncreased": 1
       },
       "通州区": {
         "name": "通州区",
@@ -65779,21 +65779,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 15,
+            "confirmedCount": 16,
             "suspectedCount": 0,
             "curedCount": 1,
             "deadCount": 0,
-            "insickCount": 14,
-            "confirmedIncreased": 0
+            "insickCount": 15,
+            "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 15,
+        "confirmedCount": 16,
         "suspectedCount": 0,
         "curedCount": 1,
         "deadCount": 0,
-        "insickCount": 14,
-        "confirmedIncreased": 0
+        "insickCount": 15,
+        "confirmedIncreased": 1
       },
       "昌平区": {
         "name": "昌平区",
@@ -65985,21 +65985,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 37,
+            "confirmedCount": 38,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 0,
-            "insickCount": 37,
-            "confirmedIncreased": 0
+            "insickCount": 38,
+            "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 37,
+        "confirmedCount": 38,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
-        "insickCount": 37,
-        "confirmedIncreased": 0
+        "insickCount": 38,
+        "confirmedIncreased": 1
       },
       "大兴区": {
         "name": "大兴区",
@@ -66088,21 +66088,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 34,
+            "confirmedCount": 35,
             "suspectedCount": 0,
             "curedCount": 2,
             "deadCount": 0,
-            "insickCount": 32,
-            "confirmedIncreased": 0
+            "insickCount": 33,
+            "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 34,
+        "confirmedCount": 35,
         "suspectedCount": 0,
         "curedCount": 2,
         "deadCount": 0,
-        "insickCount": 32,
-        "confirmedIncreased": 0
+        "insickCount": 33,
+        "confirmedIncreased": 1
       },
       "朝阳区": {
         "name": "朝阳区",
@@ -66191,21 +66191,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 53,
+            "confirmedCount": 55,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 0,
-            "insickCount": 53,
-            "confirmedIncreased": 0
+            "insickCount": 55,
+            "confirmedIncreased": 2
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 53,
+        "confirmedCount": 55,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
-        "insickCount": 53,
-        "confirmedIncreased": 0
+        "insickCount": 55,
+        "confirmedIncreased": 2
       },
       "房山区": {
         "name": "房山区",
@@ -66372,18 +66372,18 @@
             "updateTime": "2/9",
             "confirmedCount": 0,
             "suspectedCount": 0,
-            "curedCount": 30,
+            "curedCount": 29,
             "deadCount": 2,
-            "insickCount": -32,
+            "insickCount": -31,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 30,
+        "curedCount": 29,
         "deadCount": 2,
-        "insickCount": -32,
+        "insickCount": -31,
         "confirmedIncreased": 0
       },
       "延庆区": {
@@ -66499,21 +66499,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 4,
+            "confirmedCount": 5,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 0,
-            "insickCount": 4,
-            "confirmedIncreased": 0
+            "insickCount": 5,
+            "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 4,
+        "confirmedCount": 5,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
-        "insickCount": 4,
-        "confirmedIncreased": 0
+        "insickCount": 5,
+        "confirmedIncreased": 1
       }
     },
     "records": [
@@ -66663,20 +66663,20 @@
       },
       {
         "updateTime": "2/9",
-        "confirmedCount": 315,
+        "confirmedCount": 326,
         "suspectedCount": 0,
         "curedCount": 37,
         "deadCount": 2,
-        "insickCount": 276,
-        "confirmedIncreased": 0
+        "insickCount": 287,
+        "confirmedIncreased": 11
       }
     ],
     "updateTime": "2/9",
-    "confirmedCount": 315,
+    "confirmedCount": 326,
     "suspectedCount": 0,
     "curedCount": 37,
     "deadCount": 2,
-    "insickCount": 276,
+    "insickCount": 287,
     "cityList": [
       {
         "name": "朝阳区",
@@ -66765,21 +66765,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 53,
+            "confirmedCount": 55,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 0,
-            "insickCount": 53,
-            "confirmedIncreased": 0
+            "insickCount": 55,
+            "confirmedIncreased": 2
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 53,
+        "confirmedCount": 55,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
-        "insickCount": 53,
-        "confirmedIncreased": 0
+        "insickCount": 55,
+        "confirmedIncreased": 2
       },
       {
         "name": "海淀区",
@@ -66868,21 +66868,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 49,
+            "confirmedCount": 52,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 0,
-            "insickCount": 49,
-            "confirmedIncreased": 0
+            "insickCount": 52,
+            "confirmedIncreased": 3
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 49,
+        "confirmedCount": 52,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
-        "insickCount": 49,
-        "confirmedIncreased": 0
+        "insickCount": 52,
+        "confirmedIncreased": 3
       },
       {
         "name": "西城区",
@@ -66971,21 +66971,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 37,
+            "confirmedCount": 38,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 0,
-            "insickCount": 37,
-            "confirmedIncreased": 0
+            "insickCount": 38,
+            "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 37,
+        "confirmedCount": 38,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
-        "insickCount": 37,
-        "confirmedIncreased": 0
+        "insickCount": 38,
+        "confirmedIncreased": 1
       },
       {
         "name": "大兴区",
@@ -67074,106 +67074,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 34,
+            "confirmedCount": 35,
             "suspectedCount": 0,
             "curedCount": 2,
             "deadCount": 0,
-            "insickCount": 32,
-            "confirmedIncreased": 0
+            "insickCount": 33,
+            "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 34,
+        "confirmedCount": 35,
         "suspectedCount": 0,
         "curedCount": 2,
         "deadCount": 0,
-        "insickCount": 32,
-        "confirmedIncreased": 0
-      },
-      {
-        "name": "海淀",
-        "cityName": "海淀",
-        "records": [
-          {
-            "updateTime": "1/24",
-            "confirmedCount": 6,
-            "suspectedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "insickCount": 6,
-            "confirmedIncreased": 0
-          },
-          {
-            "updateTime": "1/25",
-            "confirmedCount": 8,
-            "suspectedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "insickCount": 8,
-            "confirmedIncreased": 2
-          },
-          {
-            "updateTime": "1/26",
-            "confirmedCount": 16,
-            "suspectedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "insickCount": 16,
-            "confirmedIncreased": 8
-          },
-          {
-            "updateTime": "1/27",
-            "confirmedCount": 17,
-            "suspectedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "insickCount": 17,
-            "confirmedIncreased": 1
-          },
-          {
-            "updateTime": "1/28",
-            "confirmedCount": 21,
-            "suspectedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "insickCount": 21,
-            "confirmedIncreased": 4
-          },
-          {
-            "updateTime": "1/29",
-            "confirmedCount": 24,
-            "suspectedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "insickCount": 24,
-            "confirmedIncreased": 3
-          },
-          {
-            "updateTime": "1/30",
-            "confirmedCount": 24,
-            "suspectedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "insickCount": 24,
-            "confirmedIncreased": 0
-          },
-          {
-            "updateTime": "1/31",
-            "confirmedCount": 26,
-            "suspectedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "insickCount": 26,
-            "confirmedIncreased": 2
-          }
-        ],
-        "updateTime": "1/31",
-        "confirmedCount": 26,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "insickCount": 26,
-        "confirmedIncreased": 2
+        "insickCount": 33,
+        "confirmedIncreased": 1
       },
       {
         "name": "丰台区",
@@ -67262,21 +67177,106 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 26,
+            "confirmedCount": 27,
             "suspectedCount": 0,
             "curedCount": 3,
             "deadCount": 0,
-            "insickCount": 23,
-            "confirmedIncreased": 0
+            "insickCount": 24,
+            "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 26,
+        "confirmedCount": 27,
         "suspectedCount": 0,
         "curedCount": 3,
         "deadCount": 0,
-        "insickCount": 23,
-        "confirmedIncreased": 0
+        "insickCount": 24,
+        "confirmedIncreased": 1
+      },
+      {
+        "name": "海淀",
+        "cityName": "海淀",
+        "records": [
+          {
+            "updateTime": "1/24",
+            "confirmedCount": 6,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 6,
+            "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "1/25",
+            "confirmedCount": 8,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 8,
+            "confirmedIncreased": 2
+          },
+          {
+            "updateTime": "1/26",
+            "confirmedCount": 16,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 16,
+            "confirmedIncreased": 8
+          },
+          {
+            "updateTime": "1/27",
+            "confirmedCount": 17,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 17,
+            "confirmedIncreased": 1
+          },
+          {
+            "updateTime": "1/28",
+            "confirmedCount": 21,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 21,
+            "confirmedIncreased": 4
+          },
+          {
+            "updateTime": "1/29",
+            "confirmedCount": 24,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 24,
+            "confirmedIncreased": 3
+          },
+          {
+            "updateTime": "1/30",
+            "confirmedCount": 24,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 24,
+            "confirmedIncreased": 0
+          },
+          {
+            "updateTime": "1/31",
+            "confirmedCount": 26,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 26,
+            "confirmedIncreased": 2
+          }
+        ],
+        "updateTime": "1/31",
+        "confirmedCount": 26,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "insickCount": 26,
+        "confirmedIncreased": 2
       },
       {
         "name": "外地来京人员",
@@ -67428,21 +67428,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 25,
+            "confirmedCount": 24,
             "suspectedCount": 0,
             "curedCount": 2,
             "deadCount": 0,
-            "insickCount": 23,
-            "confirmedIncreased": 0
+            "insickCount": 22,
+            "confirmedIncreased": -1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 25,
+        "confirmedCount": 24,
         "suspectedCount": 0,
         "curedCount": 2,
         "deadCount": 0,
-        "insickCount": 23,
-        "confirmedIncreased": 0
+        "insickCount": 22,
+        "confirmedIncreased": -1
       },
       {
         "name": "朝阳",
@@ -67804,21 +67804,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 15,
+            "confirmedCount": 16,
             "suspectedCount": 0,
             "curedCount": 1,
             "deadCount": 0,
-            "insickCount": 14,
-            "confirmedIncreased": 0
+            "insickCount": 15,
+            "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 15,
+        "confirmedCount": 16,
         "suspectedCount": 0,
         "curedCount": 1,
         "deadCount": 0,
-        "insickCount": 14,
-        "confirmedIncreased": 0
+        "insickCount": 15,
+        "confirmedIncreased": 1
       },
       {
         "name": "房山区",
@@ -68444,43 +68444,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 9,
+            "confirmedCount": 10,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 0,
-            "insickCount": 9,
-            "confirmedIncreased": 0
+            "insickCount": 10,
+            "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 9,
+        "confirmedCount": 10,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
-        "insickCount": 9,
-        "confirmedIncreased": 0
-      },
-      {
-        "name": "不明地区",
-        "cityName": "不明地区",
-        "records": [
-          {
-            "updateTime": "1/24",
-            "confirmedCount": 8,
-            "suspectedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "insickCount": 8,
-            "confirmedIncreased": 0
-          }
-        ],
-        "updateTime": "1/24",
-        "confirmedCount": 8,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "insickCount": 8,
-        "confirmedIncreased": 0
+        "insickCount": 10,
+        "confirmedIncreased": 1
       },
       {
         "name": "东城区",
@@ -68569,6 +68547,28 @@
           },
           {
             "updateTime": "2/9",
+            "confirmedCount": 9,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "insickCount": 9,
+            "confirmedIncreased": 1
+          }
+        ],
+        "updateTime": "2/9",
+        "confirmedCount": 9,
+        "suspectedCount": 0,
+        "curedCount": 0,
+        "deadCount": 0,
+        "insickCount": 9,
+        "confirmedIncreased": 1
+      },
+      {
+        "name": "不明地区",
+        "cityName": "不明地区",
+        "records": [
+          {
+            "updateTime": "1/24",
             "confirmedCount": 8,
             "suspectedCount": 0,
             "curedCount": 0,
@@ -68577,7 +68577,7 @@
             "confirmedIncreased": 0
           }
         ],
-        "updateTime": "2/9",
+        "updateTime": "1/24",
         "confirmedCount": 8,
         "suspectedCount": 0,
         "curedCount": 0,
@@ -68725,21 +68725,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 4,
+            "confirmedCount": 5,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 0,
-            "insickCount": 4,
-            "confirmedIncreased": 0
+            "insickCount": 5,
+            "confirmedIncreased": 1
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 4,
+        "confirmedCount": 5,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
-        "insickCount": 4,
-        "confirmedIncreased": 0
+        "insickCount": 5,
+        "confirmedIncreased": 1
       },
       {
         "name": "东城",
@@ -69290,18 +69290,18 @@
             "updateTime": "2/9",
             "confirmedCount": 0,
             "suspectedCount": 0,
-            "curedCount": 30,
+            "curedCount": 29,
             "deadCount": 2,
-            "insickCount": -32,
+            "insickCount": -31,
             "confirmedIncreased": 0
           }
         ],
         "updateTime": "2/9",
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 30,
+        "curedCount": 29,
         "deadCount": 2,
-        "insickCount": -32,
+        "insickCount": -31,
         "confirmedIncreased": 0
       },
       {
@@ -69327,7 +69327,7 @@
         "confirmedIncreased": 0
       }
     ],
-    "confirmedIncreased": 0
+    "confirmedIncreased": 11
   },
   {
     "name": "黑龙江省",
@@ -112294,21 +112294,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 29,
+            "confirmedCount": 31,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 1,
-            "insickCount": 28,
-            "confirmedIncreased": 0
+            "insickCount": 30,
+            "confirmedIncreased": 2
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 29,
+        "confirmedCount": 31,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 1,
-        "insickCount": 28,
-        "confirmedIncreased": 0
+        "insickCount": 30,
+        "confirmedIncreased": 2
       },
       "东丽区": {
         "name": "东丽区",
@@ -112743,20 +112743,20 @@
       },
       {
         "updateTime": "2/9",
-        "confirmedCount": 88,
+        "confirmedCount": 90,
         "suspectedCount": 0,
         "curedCount": 4,
         "deadCount": 1,
-        "insickCount": 83,
-        "confirmedIncreased": 0
+        "insickCount": 85,
+        "confirmedIncreased": 2
       }
     ],
     "updateTime": "2/9",
-    "confirmedCount": 88,
+    "confirmedCount": 90,
     "suspectedCount": 0,
     "curedCount": 4,
     "deadCount": 1,
-    "insickCount": 83,
+    "insickCount": 85,
     "cityList": [
       {
         "name": "宝坻区",
@@ -112836,21 +112836,21 @@
           },
           {
             "updateTime": "2/9",
-            "confirmedCount": 29,
+            "confirmedCount": 31,
             "suspectedCount": 0,
             "curedCount": 0,
             "deadCount": 1,
-            "insickCount": 28,
-            "confirmedIncreased": 0
+            "insickCount": 30,
+            "confirmedIncreased": 2
           }
         ],
         "updateTime": "2/9",
-        "confirmedCount": 29,
+        "confirmedCount": 31,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 1,
-        "insickCount": 28,
-        "confirmedIncreased": 0
+        "insickCount": 30,
+        "confirmedIncreased": 2
       },
       {
         "name": "河东区",
@@ -114617,7 +114617,7 @@
         "confirmedIncreased": 0
       }
     ],
-    "confirmedIncreased": 0
+    "confirmedIncreased": 2
   },
   {
     "name": "甘肃省",
