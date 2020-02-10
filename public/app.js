@@ -360,7 +360,6 @@ async function setupWorldMapCharts(records, container) {
           },
         },
         data: records.map(r => {
-          console.log(r);
           return {
             name: r.enName,
             country: r.country,
