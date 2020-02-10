@@ -147,6 +147,8 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
     { min: 1, max: 9, label: '1-9人', color: 'rgb(252,239,218)' },
   ];
 
+  const hideBarChart = (mapName === 'china-cities');
+
   const config = {
     baseOption: {
       timeline: {
@@ -176,18 +178,68 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
       //     saveAsImage: {}
       //   }
       // },
-      visualMap: {
-        type: 'piecewise',
-        pieces: visualPieces,
-      },
-      series: [
+      grid: hideBarChart ? [] : [{
+          top: 10,
+          width: '100%',
+          left: 10,
+          containLabel: true
+        }
+      ],
+      xAxis: hideBarChart ? [] : [
+        {
+          type: 'value',
+          axisLine: { show: false, },
+          axisTick: { show: false, },
+          axisLabel: { show: false, },
+          splitLine: { show: false,},
+        }
+      ],
+      yAxis: hideBarChart ? [] : [
+        {
+          type: 'category',
+          axisLabel: {
+            show: true,
+            interval: 0,
+          },
+          axisTick: { show: false, },
+          axisLine: { show: false, },
+        }
+      ],
+      visualMap: [
+        {
+          type: 'piecewise',
+          pieces: visualPieces,
+          dimension: 0,
+          show: false,
+          seriesIndex: 0,
+        },
+        {
+          type: 'piecewise',
+          pieces: visualPieces,
+          left: 'auto',
+          right: 30,
+          bottom: 100,
+          seriesIndex: 1,
+        },
+      ],
+      series: (hideBarChart ? [] : [{
+        name: '',
+        type: 'bar',
+        label: {
+            position: 'right',
+            show: true,
+            // formatter: '{a} {b} {c}',
+        },
+        barMaxWidth: 30,
+      }]).concat(
         {
           name: '',
           type: 'map',
           mapType: mapName,
           label: {
-            show: mapName === 'china-cities' ? false : true,
+            show: !hideBarChart,
           },
+          left: hideBarChart ? 'center' : '30%',
           tooltip: {
             formatter: ({ name, data }) => {
               if (data) {
@@ -198,42 +250,36 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
               return `<b>${name}</b><br />暂无数据`;
             },
           },
-          data: data.map(r => {
-            return {
-              name: r.showName,
-              province: r.name,
-              value: r[valueKey],
-              confirmed: r.confirmedCount,
-              dead: r.deadCount,
-              cured: r.curedCount,
-              increased: r.confirmedIncreased,
-            };
-          }),
         }
-      ]
+      )
     },
     options: data.map(d => {
       return {
-        series: {
-          title: {
-            text: d.day,
-          },
+        series: (hideBarChart ? [] : [{
           data: d.records.map(r => {
-            return {
-              name: r.showName,
-              province: r.name,
-              value: r[valueKey],
-              confirmed: r.confirmedCount,
-              dead: r.deadCount,
-              cured: r.curedCount,
-              increased: r.confirmedIncreased,
-            };
-          }),
-        },
+            return [ r[valueKey], r.showName ];
+          }).sort((a, b) => a[0] < b[0] ? -1 : 1)
+        }]).concat([
+          {
+            title: {
+              text: d.day,
+            },
+            data: d.records.map(r => {
+              return {
+                name: r.showName,
+                province: r.name,
+                value: r[valueKey],
+                confirmed: r.confirmedCount,
+                dead: r.deadCount,
+                cured: r.curedCount,
+                increased: r.confirmedIncreased,
+              };
+            }),
+          },
+        ])
       };
     })
   };
-
 
   return config;
 }
@@ -323,33 +369,9 @@ async function showAllCitiesMap() {
   allCharts = await setupMapCharts(records, document.getElementById(chartsContainerId), '', true);
 }
 
-async function playAllCitiesMap() {
-  showDateIndex = 0;
-  const func = async () => {
-    showDateIndex = (showDateIndex + 1) % allDates.length;
-    if (showDateIndex == allDates.length - 1) {
-      clearInterval(showDateInterval);
-      showAllCitiesMap();
-      return;
-    }
-    const dayStr = allDates[showDateIndex];
-    const records = allProvinces.reduce((p, v) => {
-      const cityList = v.cityList.map(c => {
-        return Object.assign({ name: c.name }, c.records.filter(r => {
-          return r.updateTime === dayStr;
-        })[0] || { confirmedCount: 0, deadCount: 0, curedCount: 0 });
-      });
-      return p.concat(cityList);
-    }, []);
-    const cfg = await createMapChartConfig({ mapName: 'china-cities', data: records, title: dayStr });
-    allCharts[0].setOption(cfg);
-  };
-  func();
-  showDateInterval = setInterval(func, 1000);
-}
-
 async function main() {
   showProvince();
+  // showMap();
 }
 
 main();
