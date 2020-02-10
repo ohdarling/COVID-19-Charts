@@ -345,7 +345,11 @@ async function prepareChartData(name, type = 'area') {
 }
 
 function updateHash(tab, province) {
-  let hash = 'tab=' + tab;
+  let hash = '#tab=' + tab;
+  [].slice.call(document.querySelectorAll("#navbar a")).forEach(a => {
+    const newclass = "nav-link" + (a.href.substr(a.href.length - hash.length) == hash ? ' active' : '');
+    a.setAttribute('class', newclass);
+  });
   if (province) {
     hash += '&province=' + encodeURIComponent(province);
   }
