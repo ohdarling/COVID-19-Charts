@@ -1,11 +1,11 @@
 [
   {
     "country": "中国",
-    "provinceName": "湖南省",
-    "provinceShortName": "湖南",
-    "confirmedCount": 40274,
+    "provinceName": "天津市",
+    "provinceShortName": "天津",
+    "confirmedCount": 40275,
     "suspectedCount": 21558,
-    "curedCount": 3534,
+    "curedCount": 3552,
     "deadCount": 909,
     "comment": "",
     "updateTime": "2/10",
