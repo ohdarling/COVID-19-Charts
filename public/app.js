@@ -391,6 +391,8 @@ async function prepareChartData(name, type = 'area') {
     delete c;
   });
 
+  document.getElementById(chartsContainerId).innerHTML = 'Loading...';
+
   let records = null;
   if (type === 'area') {
     records = name ? dataList.filter(v => v.name === name)[0].cityList : dataList;
