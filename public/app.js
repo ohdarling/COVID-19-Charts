@@ -83,8 +83,9 @@ function createTrendsChartConfig(data) {
     legend: {
       data: [ '确诊', '治愈', '死亡', '治疗', '新增确诊', '新增治愈', '新增死亡' ],
       textStyle: {
-        fontSize: 9,
-      }
+        fontSize: 11,
+      },
+      top: 25,
     },
     xAxis: {
         type: 'category',
