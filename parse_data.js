@@ -208,8 +208,6 @@ function generateFromCSV(csvData) {
   provsData = addMissingRecord(provsData);
   console.log('Calculating increasement...');
   provsData = calcIncreasement(provsData);
-  console.log('Processing Zhixiashi...');
-  provsData = processZhixiashi(provsData);
   console.log('Finished.');
   return provsData;
 }
