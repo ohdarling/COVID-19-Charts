@@ -195,21 +195,6 @@
     "enName": "Vietnam"
   },
   {
-    "country": "马来西亚",
-    "provinceName": "马来西亚",
-    "provinceShortName": "马来西亚",
-    "confirmedCount": 18,
-    "suspectedCount": 0,
-    "curedCount": 1,
-    "deadCount": 0,
-    "comment": "",
-    "updateTime": "2/10",
-    "createTime": 1581314815000,
-    "modifyTime": 1581338406000,
-    "updateDate": "2/10",
-    "enName": "Malaysia"
-  },
-  {
     "country": "意大利",
     "provinceName": "意大利",
     "provinceShortName": "意大利",
@@ -223,6 +208,21 @@
     "modifyTime": 1581338406000,
     "updateDate": "2/10",
     "enName": "Italy"
+  },
+  {
+    "country": "马来西亚",
+    "provinceName": "马来西亚",
+    "provinceShortName": "马来西亚",
+    "confirmedCount": 18,
+    "suspectedCount": 0,
+    "curedCount": 1,
+    "deadCount": 0,
+    "comment": "",
+    "updateTime": "2/10",
+    "createTime": 1581314815000,
+    "modifyTime": 1581338406000,
+    "updateDate": "2/10",
+    "enName": "Malaysia"
   },
   {
     "country": "比利时",
