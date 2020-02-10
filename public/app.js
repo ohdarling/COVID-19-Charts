@@ -349,7 +349,7 @@ async function playAllCitiesMap() {
 }
 
 async function main() {
-  showMap();
+  showProvince();
 }
 
 main();
