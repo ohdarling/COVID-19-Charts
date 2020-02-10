@@ -100,27 +100,25 @@ function toSortedProvinceData(data) {
 }
 
 function calcIncreasement(data) {
+  function calcIncreased(r, i, list) {
+    const props = [ 'confirmed', 'cured', 'dead' ];
+    const prev = list[i - 1] || {};
+    const cur = list[i];
+    props.forEach(p => {
+      r[p + 'Increased'] = cur[p + 'Count'] - (prev[p + 'Count'] || 0);
+    });
+  }
   data.forEach(prov => {
     prov.records.forEach((r, i) => {
-      if (i === 0) {
-        r.confirmedIncreased = 0;
-      } else {
-        const prev = prov.records[i - 1];
-        r.confirmedIncreased = r.confirmedCount - prev.confirmedCount;
-      }
+      calcIncreased(r, i, prov.records);
     });
-    prov.confirmedIncreased = prov.records[prov.records.length - 1].confirmedIncreased;
+    calcIncreased(prov, prov.records.length - 1, prov.records);
 
     prov.cityList.forEach(city => {
       city.records.forEach((r, i) => {
-        if (i === 0) {
-          r.confirmedIncreased = 0;
-        } else {
-          const prev = city.records[i - 1];
-          r.confirmedIncreased = r.confirmedCount - prev.confirmedCount;
-        }
+        calcIncreased(r, i, city.records);
       });
-      city.confirmedIncreased = city.records[city.records.length - 1].confirmedIncreased;
+      calcIncreased(city, city.records.length - 1, city.records);
     });
   });
 

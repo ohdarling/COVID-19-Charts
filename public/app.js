@@ -14,7 +14,9 @@ function createTrendsChartConfig(data) {
   const confirmed = records.map(v => v.confirmedCount);
   const increase = records.map(v => v.confirmedIncreased);
   const cured = records.map(v => v.curedCount);
+  const curedIncrease = records.map(v => v.curedIncreased);
   const dead = records.map(v => v.deadCount);
+  const deadIncrease = records.map(v => v.deadIncreased);
   const insick = records.map(v => v.insickCount);
 
   const config = {
@@ -27,24 +29,27 @@ function createTrendsChartConfig(data) {
       trigger: 'axis'
     },
     legend: {
-      data: [ '确诊', '新增', '治愈', '死亡', '治疗' ],
+      data: [ '确诊', '治愈', '死亡', '治疗', '新增确诊', '新增治愈', '新增死亡' ],
+      textStyle: {
+        fontSize: 9,
+      }
     },
     xAxis: {
         type: 'category',
         data: days,
     },
-    yAxis: {
-        type: 'value'
-    },
+    yAxis: [
+      {
+        type: 'value',
+      },
+      {
+        type: 'value',
+      },
+    ],
     series: [
       {
         name: '确诊',
         data: confirmed,
-        type: 'line',
-      },
-      {
-        name: '新增',
-        data: increase,
         type: 'line',
       },
       {
@@ -61,6 +66,24 @@ function createTrendsChartConfig(data) {
         name: '治疗',
         data: insick,
         type: 'line',
+      },
+      {
+        name: '新增确诊',
+        data: increase,
+        type: 'bar',
+        yAxisIndex: 1,
+      },
+      {
+        name: '新增治愈',
+        data: curedIncrease,
+        type: 'bar',
+        yAxisIndex: 1,
+      },
+      {
+        name: '新增死亡',
+        data: deadIncrease,
+        type: 'bar',
+        yAxisIndex: 1,
       },
     ]
   };
