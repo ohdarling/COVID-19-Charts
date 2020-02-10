@@ -14,6 +14,38 @@ const allDates = (() => {
 let chartsContainerId = 'chart_container';
 let allCharts = [];
 
+function getVisualPieces(type) {
+  const visualPieces = type === 'country' ? [
+    { min: 10000, label: '10000人及以上', color: 'rgb(143,31,25)' },
+    { min: 1000, max: 9999, label: '1000-9999人', color: 'rgb(185,43,35)' },
+    { min: 500, max: 999, label: '500-999人', color: 'rgb(213,86,78)' },
+    { min: 100, max: 499, label: '100-499人', color: 'rgb(239,140,108)' },
+    { min: 10, max: 99, label: '10-99人', color: 'rgb(248,211,166)' },
+    { min: 1, max: 9, label: '1-9人', color: 'rgb(252,239,218)' },
+  ] : [
+    { min: 1000, label: '1000人及以上', color: 'rgb(143,31,25)' },
+    { min: 500, max: 999, label: '500-999人', color: 'rgb(185,43,35)' },
+    { min: 100, max: 499, label: '100-499人', color: 'rgb(213,86,78)' },
+    { min: 50, max: 100, label: '50-99人', color: 'rgb(239,140,108)' },
+    { min: 10, max: 49, label: '10-49人', color: 'rgb(248,211,166)' },
+    { min: 1, max: 9, label: '1-9人', color: 'rgb(252,239,218)' },
+  ];
+  return visualPieces;
+}
+
+async function prepareChartMap(mapName) {
+  let geoJSON = null;
+  if (!echarts.getMap(mapName)) {
+    const isProvince = [ 'china', 'china-cities', 'world' ].indexOf(mapName) === -1;
+    const url = `map/json/${isProvince ? 'province/' : ''}${mapName}.json`;
+    geoJSON = (await axios(url)).data;
+    echarts.registerMap(mapName, geoJSON);
+  } else {
+    geoJSON = echarts.getMap(mapName).geoJson;
+  }
+  return geoJSON;
+}
+
 async function getData(type) {
   if (!allDataStore[type]) {
     const ret = await axios(`by_${type}.json`);
@@ -112,13 +144,7 @@ function createTrendsChartConfig(data) {
 }
 
 async function createMapChartConfig({ mapName, data, title = '', valueKey = 'confirmedCount' }) {
-  let geoJSON = null;
-  if (!echarts.getMap(mapName)) {
-    geoJSON = (await axios(`map/json/${mapName.substr(0, 5) !== 'china' ? 'province/' : ''}${mapName}.json`)).data;
-    echarts.registerMap(mapName, geoJSON);
-  } else {
-    geoJSON = echarts.getMap(mapName).geoJson;
-  }
+  let geoJSON = await prepareChartMap(mapName);
   geoJSON.features.forEach(v => {
     const showName = v.properties.name;
     data.forEach(d => {
@@ -131,21 +157,7 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
     })
   });
 
-  const visualPieces = mapName === 'china' ? [
-    { min: 10000, label: '10000人及以上', color: 'rgb(143,31,25)' },
-    { min: 1000, max: 9999, label: '1000-9999人', color: 'rgb(185,43,35)' },
-    { min: 500, max: 999, label: '500-999人', color: 'rgb(213,86,78)' },
-    { min: 100, max: 499, label: '100-499人', color: 'rgb(239,140,108)' },
-    { min: 10, max: 99, label: '10-99人', color: 'rgb(248,211,166)' },
-    { min: 1, max: 9, label: '1-9人', color: 'rgb(252,239,218)' },
-  ] : [
-    { min: 1000, label: '1000人及以上', color: 'rgb(143,31,25)' },
-    { min: 500, max: 999, label: '500-999人', color: 'rgb(185,43,35)' },
-    { min: 100, max: 499, label: '100-499人', color: 'rgb(213,86,78)' },
-    { min: 50, max: 100, label: '50-99人', color: 'rgb(239,140,108)' },
-    { min: 10, max: 49, label: '10-49人', color: 'rgb(248,211,166)' },
-    { min: 1, max: 9, label: '1-9人', color: 'rgb(252,239,218)' },
-  ];
+  const visualPieces = getVisualPieces(mapName === 'china' ? 'country' : 'city');
 
   const hideBarChart = (mapName === 'china-cities');
 
@@ -317,6 +329,60 @@ async function setupMapCharts(records, container, province = '', allCities = fal
   return [ chart ];
 }
 
+async function setupWorldMapCharts(records, container) {
+  await prepareChartMap('world');
+
+  const html = `<div id="mapchart" class="mychart" style="display:inline-block;width:100%;height:100%;"></div>`;
+  container.innerHTML = html;
+
+  const config = {
+    tooltip: {
+      show: true,
+      trigger: 'item',
+    },
+    visualMap: {
+      type: 'piecewise',
+      pieces: getVisualPieces('city')
+    },
+    series: [
+      {
+        name: '',
+        type: 'map',
+        mapType: 'world',
+        tooltip: {
+          formatter: ({ name, data }) => {
+            if (data) {
+              const { name, country, value, confirmed, dead, cured, increased } = data;
+              const tip = `<b>${country} (${name})</b><br />确诊人数：${confirmed}<br />治愈人数：${cured}<br />死亡人数：${dead}`;
+              return tip;
+            }
+            return `<b>${name}</b><br />暂无数据`;
+          },
+        },
+        data: records.map(r => {
+          console.log(r);
+          return {
+            name: r.enName,
+            country: r.country,
+            value: r.confirmedCount,
+            confirmed: r.confirmedCount,
+            dead: r.deadCount,
+            cured: r.curedCount,
+            label: {
+              show: true,
+            }
+          };
+        }),
+      }
+    ]
+  };
+
+  const chart = echarts.init(document.getElementById(`mapchart`));
+  chart.setOption(config);
+
+  return [ chart ];
+}
+
 
 async function prepareChartData(name, type = 'area') {
   const dataList = await getData(type);
@@ -384,6 +450,12 @@ async function showAllCitiesMap() {
   updateHash('cities-map');
 }
 
+async function showWorldMap() {
+  const data = await prepareChartData('', 'country');
+  allCharts = await setupWorldMapCharts(data, document.getElementById(chartsContainerId));
+  updateHash('world-map');
+}
+
 function handleHashChanged() {
   const query = new URLSearchParams(location.hash.replace(/^#/, ''));
   const tab = query.get('tab') || 'trends';
@@ -399,6 +471,10 @@ function handleHashChanged() {
       showAllCitiesMap();
       title.push('全部城市地图');
       if (province) { title.push(province); }
+      break;
+    case 'world-map':
+      showWorldMap();
+      title.push('世界地图');
       break;
     case 'trends':
     default:
