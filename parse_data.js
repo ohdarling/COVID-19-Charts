@@ -163,16 +163,6 @@ function calcIncreasement(data) {
   return data;
 }
 
-function processZhixiashi(data) {
-  const zhixiashi = [ '北京市', '重庆市', '上海市', '天津市' ];
-  data.forEach(p => {
-    if (zhixiashi.indexOf(p.name) > -1) {
-      p.cityList = [ Object.assign({}, p) ];
-    }
-  })
-  return data;
-}
-
 function toDateSeriesData(data) {
   const ret = allDates.map(day => {
     return {

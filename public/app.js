@@ -262,24 +262,7 @@ async function setupMapCharts(records, container, province = '', allCities = fal
   const chart = echarts.init(document.getElementById(`mapchart`));
   chart.setOption(cfg);
 
-  if (!province) {
-    chart.on('click', (params) => {
-      showMap(params.data.province);
-    });
-  }
-
-  return [ chart ];
-}
-
-async function setupAllCitiesMapCharts(records, container) {
-  const mapName = 'china-cities';
-  const html = `<div id="mapchart" class="mychart" style="display:inline-block;width:100%;height:100%;"></div>`;
-  container.innerHTML = html;
-  const cfg = await createMapChartConfig({ mapName, data: records });
-  const chart = echarts.init(document.getElementById(`mapchart`));
-  chart.setOption(cfg);
-
-  if (!province) {
+  if (mapName === 'china') {
     chart.on('click', (params) => {
       showMap(params.data.province);
     });
@@ -327,12 +310,13 @@ async function showMap(name) {
 
 
 async function showAllCitiesMap() {
+  const zhixiashi = [ '北京市', '重庆市', '上海市', '天津市' ];
   const data = await prepareChartData(name, 'date');
   const records = data.map(d => {
     return {
       day: d.day,
       records: d.records.reduce((p, v) => {
-        return p.concat(v.cityList)
+        return p.concat(zhixiashi.indexOf(v.name) > -1 ? v : v.cityList)
       }, []),
     }
   })
