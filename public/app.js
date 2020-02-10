@@ -281,7 +281,11 @@ let showDateIndex = 0;
 let showDateInterval = null;
 
 async function showAllCitiesMap() {
+  const zhixiashi = [ '北京市', '重庆市', '上海市', '天津市' ];
   const records = allProvinces.reduce((p, v) => {
+    if (zhixiashi.indexOf(v.name) > -1) {
+      p.push(v);
+    }
     return p.concat(v.cityList);
   }, []);
   allCharts = await setupMapCharts(records, document.getElementById(chartsContainerId), '', true);
