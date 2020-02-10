@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <link rel="apple-touch-icon" href="1.png">
+<style type="text/css" class="AMap.style">.vml{behavior:url(#default#VML);display:inline-block;position:absolute}.amap-custom{top:0;left:0;position:absolute}.amap-container img{max-width:none!important;max-height:none!important}.amap-container{touch-action:none;position:relative;overflow:hidden;background:#fcf9f2 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0AgMAAAC2uDcZAAAADFBMVEX////////////////1pQ5zAAAABHRSTlMAgP/AWuZC2AAAAVhJREFUeAFiYGAQYGDEQjAB2rcDC4BiGIqiU7abdKlO2QkeIClyPsDHweMKtOPHIJ1Op6/w7Y4fdqfT6VpndzqdrnV2p9PpWmd3Oj3qWndSoKp+2J1Op7vr7E6n07XO7nQ6XevsTqfTtc7udPo4/f787E6n0911dqfT6VpndzqdrnV2p9PpWmd3Ot27Ce8m6HS6u85dR6fTtU7r6HS61mkdnU7XOrvT6XTvJuxOp9PddXan0+laZ3c6na51dDpd67SOTqd7N+HdBJ1Od9e56+h0utZpHZ1O1zq70+l0rbM7nU73bsLudDrdXWd3Ol3rtI5Op2ud1tHpdK3TOjqd7t2EdxN0Ot1dZ3c6na51dqfT6VpndzqdrnV2p9Pp3k3Q6XR3nbuOTqdrndbR6XSt0zo6na51Wken072bsDudTnfX2Z1Op2ud3el0utbZnU7XOq2j0+t0uncTD1gO4zoT5doZAAAAAElFTkSuQmCC);-ms-touch-action:none}.amap-drags,.amap-layers{width:100%;height:100%;position:absolute;overflow:hidden}.amap-layers canvas{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.amap-layer img{pointer-events:none}.amap-e,.amap-maps{width:100%;height:100%}.amap-maps,.amap-e,.amap-layers,.amap-tile,.amap-tile-container{position:absolute;left:0;top:0;overflow:hidden}.amap-context{position:absolute;left:0;top:0}.amap-overlays,.amap-markers,.amap-marker{position:absolute;left:0;top:0}.amap-layers{z-index:0}.amap-overlays{z-index:110;cursor:default}.amap-markers{z-index:120}.amap-controls{z-index:150}.amap-copyright{position:absolute;display:block!important;left:77px;height:16px;bottom:0;padding-bottom:3px;font-size:11px;font-family:Arial,sans-serif;z-index:160}.amap-logo{position:absolute;bottom:1px;left:1px;z-index:160;height:20px}.amap-logo img{width:73px!important;height:20px!important;border:0;vertical-align:baseline!important}.amap-icon{position:relative;z-index:1}.amap-icon img{position:absolute;z-index:-1}.amap-marker-label{position:absolute;z-index:2;border:1px solid blue;background-color:white;white-space:nowrap;cursor:default;padding:3px;font-size:12px;line-height:14px}.amap-info{position:absolute;left:0;z-index:140;width:320px}.amap-menu{position:absolute;z-index:140;_width:100px}.amap-info-close{position:absolute;right:5px;_right:12px;+right:11px;top:5px;_top:2px;+top:2px;color:#c3c3c3;text-decoration:none;font:bold 16px/14px Tahoma,Verdana,sans-serif;width:14px;height:14px}.amap-info-outer,.amap-menu-outer{box-shadow:0 1px 2px rgba(0,0,0,0.1);background:none repeat scroll 0 0 white;border-radius:2px;padding:1px;text-align:left}.amap-menu-outer:hover{box-shadow:0 1px 2px rgba(0,0,0,0.3)}.amap-info-contentContainer:hover .amap-info-outer{box-shadow:0 1px 2px rgba(0,0,0,0.3)}.amap-info-content{position:relative;background:#fff;padding:10px 18px 10px 10px;line-height:1.4;overflow:auto}.amap-marker-content{position:relative}.amap-info{_width:320px}.amap-menu{_width:100px}.amap-info-sharp-old{overflow:hidden;position:absolute;background-image:url(http://webapi.amap.com/images/arrows.png)}.bottom-center .amap-info-sharp-old{height:12px;margin:0 auto;width:20px;background-position:center 12px;top:100%;margin-top:-9px;left:50%;margin-left:-10px}.bottom-left .amap-info-sharp-old{height:12px;width:13px;background-position:-16px -46px;top:100%;margin-top:-9px}.bottom-right .amap-info-sharp-old{height:12px;width:13px;top:-1px;background-position:-56px -46px;left:100%;margin-left:-13px;top:100%;margin-top:-9px}.middle-left .amap-info-sharp-old{height:20px;width:12px;background-position:left;top:50%;margin-top:-10px;margin-left:-11px}.center .amap-info-sharp-old{display:none}.middle-right .amap-info-sharp-old{height:20px;margin-right:0;width:12px;background-position:right;left:100%;margin-left:-9px;top:50%;margin-top:-10px}.top-center .amap-info-sharp-old{height:12px;margin:0 auto;width:20px;background-position:top;top:0;margin-top:-3px;left:50%;margin-left:-10px}.top-left .amap-info-sharp-old{height:12px;width:13px;background-position:-16px -3px;top:0;margin-top:-3px}.top-right .amap-info-sharp-old{height:12px;width:13px;background-position:-56px -3px;left:100%;margin-left:-13px;top:0;margin-top:-3px}.amap-info-sharp{position:absolute}.bottom-center .amap-info-sharp{bottom:0;left:50%;margin-left:-8px;border-left:8px solid transparent;border-right:8px solid transparent;border-top:8px solid #fff}.bottom-center .amap-info-sharp:after{position:absolute;content:"";margin-left:-8px;margin-top:-7px;border-left:8px solid transparent;border-right:8px solid transparent;border-top:8px solid rgba(0,0,0,0.3);filter:blur(2px);z-index:-1}.amap-info-contentContainer:hover.bottom-center .amap-info-sharp:after{border-top:8px solid rgba(0,0,0,0.5)}.bottom-left .amap-info-sharp{border-color:transparent #fff;border-width:0 0 10px 10px;border-style:solid}.bottom-left .amap-info-sharp:after{position:absolute;content:"";margin-left:-10px;border-color:transparent rgba(0,0,0,0.3);border-width:0 0 10px 10px;border-style:solid;filter:blur(1px);z-index:-1}.amap-info-contentContainer:hover.bottom-left .amap-info-sharp:after{border-color:transparent rgba(0,0,0,0.5)}.bottom-left .amap-info-content{border-radius:2px 2px 2px 0}.bottom-right .amap-info-sharp{right:0;border-top:10px solid #fff;border-left:10px solid transparent}.bottom-right .amap-info-sharp:after{position:absolute;margin-top:-9px;margin-left:-10px;content:"";border-top:10px solid rgba(0,0,0,0.3);border-left:10px solid transparent;filter:blur(1px);z-index:-1}.amap-info-contentContainer:hover.bottom-right .amap-info-sharp:after{border-top:10px solid rgba(0,0,0,0.5)}.bottom-right .amap-info-content{border-radius:2px 2px 0 2px}.top-center .amap-info-sharp{top:0;left:50%;margin-left:-8px;border-left:8px solid transparent;border-right:8px solid transparent;border-bottom:8px solid #fff}.top-center .amap-info-sharp:after{position:absolute;content:"";margin-top:0;margin-left:-8px;border-left:8px solid transparent;border-right:8px solid transparent;border-bottom:8px solid rgba(0,0,0,0.3);filter:blur(1px);z-index:-1}.top-left .amap-info-sharp{left:0;top:0;border-bottom:10px solid #fff;border-right:10px solid transparent}.top-left .amap-info-sharp:after{position:absolute;content:"";margin-top:0;margin-left:0;border-bottom:10px solid rgba(0,0,0,0.3);border-right:10px solid transparent;filter:blur(1px);z-index:-1}.top-right .amap-info-sharp{right:0;top:0;border-bottom:10px solid #fff;border-left:10px solid transparent}.top-right .amap-info-sharp:after{position:absolute;content:"";margin-top:0;margin-left:-10px;border-bottom:10px solid rgba(0,0,0,0.3);border-left:10px solid transparent;filter:blur(1px);z-index:-1}.middle-right .amap-info-sharp{right:0;top:50%;margin-top:-8px;border-top:8px solid transparent;border-left:8px solid #fff;border-bottom:8px solid transparent}.middle-right .amap-info-sharp:after{position:absolute;content:"";margin-top:-8px;margin-left:-8px;border-top:8px solid transparent;border-left:8px solid rgba(0,0,0,0.3);border-bottom:8px solid transparent;filter:blur(1px);z-index:-1}.amap-info-contentContainer:hover.middle-right .amap-info-sharp:after{border-left:8px solid rgba(0,0,0,0.5)}.middle-left .amap-info-sharp{left:0;top:50%;margin-top:-8px;border-top:8px solid transparent;border-right:8px solid #fff;border-bottom:8px solid transparent}.middle-left .amap-info-sharp:after{position:absolute;content:"";margin-top:-8px;margin-left:0;border-top:8px solid transparent;border-right:8px solid rgba(0,0,0,0.3);border-bottom:8px solid transparent;filter:blur(1px);z-index:-1}.amap-info-contentContainer:hover.middle-left .amap-info-sharp:after{border-right:8px solid rgba(0,0,0,0.5)}.amap-info-contentContainer.top-left,.amap-info-contentContainer.top-center,.amap-info-contentContainer.top-right{padding-top:8px}.amap-info-contentContainer.bottom-left,.amap-info-contentContainer.bottom-center,.amap-info-contentContainer.bottom-right{padding-bottom:8px}.amap-info-contentContainer.middle-right{padding-right:8px}.amap-info-contentContainer.middle-left{padding-left:8px}.amap-menu-outer{margin:0;padding:0;list-style-type:none}ul.amap-menu-outer li{cursor:pointer;height:35px;line-height:35px;word-break:break-all;padding:0 10px;font-size:12px;white-space:nowrap}ul.amap-menu-outer li a{text-decoration:none;font-size:13px;margin:0 5px;color:#000;padding:5px 5px}ul.amap-menu-outer li:hover{background-color:#f3f3ee}.amap-overlay-text-container{display:block;width:auto;word-break:keep-all;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background:#fff;padding:2px 3px;border:1px solid #ccc;border-radius:3px}.amap-overlay-text-container.amap-overlay-text-empty{display:none}.amap-info-content-ie8{border:1px solid #9c9c9c}</style>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta name="keywords" content="北京疫情场所地图">
+<meta name="description" content="北京疫情场所地图">
+<title>北京疫情场所地图</title>
+<style type="text/css">
+      *, *::before, *::after {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        font-family: PingFang SC,Helvetica,Arial,sans-serif;
+      }
+      html, body, #container {
+        height: 100%;
+        width: 100%;
+      }
+      
+      #ncovMap {
+        height: calc(100%);
+      }
+
+      .amap-marker-label {
+        border: 0;
+        background-color: transparent;
+      }
+
+      .poi-label {
+        position: relative;
+        top: 0;
+        right: 0;
+        min-width: 0;
+        height: 24px;
+        line-height: 24px;
+        font-size: 13px;
+        padding: 0 10px;
+        text-align: center;
+        color: #fff;
+        border-radius: 40px;
+      }
+
+      .poi-label-arrow {
+        font-size: 0;
+        line-height: 0;
+        display: inline-block;
+        position: absolute;
+        top: 24px;
+        left: calc(50% - 6px);
+        border-width: 6px;
+        border-bottom-width: 0;
+      }
+
+      .header {
+        padding-left: 30px;
+        padding-right: 30px;
+        color: #fff;
+        background-color: #006666;
+        height: 60px;
+        font-size: 13px;
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .header-left {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .logo-link {
+        color: #fff;
+        font-size: 15px;
+        font-weight: 600;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+      }
+
+      .logo {
+        width: 30px;
+        height: 30px;
+        vertical-align: middle;
+        margin-right: 5px;
+      }
+
+      .header-title {
+        margin: 0;
+        margin-left: 20px;
+      }
+
+      .header-right {
+        display: flex;
+        align-items: center;
+      }
+
+      .item {
+        cursor: pointer;
+      }
+
+      .item a {
+        text-decoration: none;
+        color: #fff;
+      }
+
+      .item + .item {
+        margin-left: 10px;
+      }
+
+      .contact-us {
+        position: relative;
+      }
+
+      .copyright {
+        position: fixed;
+        bottom: 10px;
+        left: 10px;
+        font-size: 12px;
+      }
+      .actions {
+        position: fixed;
+        left: 30px;
+        top: 90px;
+      }
+      .select {
+        font-size: 16px;
+        background-color: #fff;
+        padding: 3px 0px 5px 5px; 
+      }
+      @media screen and (max-width: 640px) {
+       .header {
+         padding-left: 10px;
+         padding-right: 10px;
+       }
+       .logo-link span {
+         display: none;
+       }
+       .header {
+         font-size: 12px;
+       }
+       .header-title {
+         margin-left: 0px;
+       }
+       .item + .item {
+         margin-left: 5px;
+       }
+      }
+    </style>
+    <script type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.15&key=bfe31f4e0fb231d29e1d3ce951e2c780"></script>
+    <script type="text/javascript" src="https://webapi.amap.com/ui/1.0/main.js"></script>
+    <script type="text/javascript" src="https://www.gubi.io//build/bj.js?202002081"></script>
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="amap-ui-1.0.11" data-requiremodule="https://webapi.amap.com/count?type=UIInit&amp;k=bfe31f4e0fb231d29e1d3ce951e2c780" src="./全国疫情场所地图_files/count"></script><style type="text/css">@font-face{font-family:"iconfont";src:url(https://webapi.amap.com/ui/1.0/ui/control/BasicControl/assets/iconfont/iconfont.eot?t=1484100304708);src:url(https://webapi.amap.com/ui/1.0/ui/control/BasicControl/assets/iconfont/iconfont.eot?t=1484100304708#iefix) format('embedded-opentype'),url(https://webapi.amap.com/ui/1.0/ui/control/BasicControl/assets/iconfont/iconfont.woff?t=1484100304708) format('woff'),url(https://webapi.amap.com/ui/1.0/ui/control/BasicControl/assets/iconfont/iconfont.ttf?t=1484100304708) format('truetype'),url(https://webapi.amap.com/ui/1.0/ui/control/BasicControl/assets/iconfont/iconfont.svg?t=1484100304708#iconfont) format('svg')}.iconfont{font-family:"iconfont"!important;font-size:16px;font-style:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-tilelayer-roadnet:before{content:"\e62f"}.icon-geolocation:before{content:"\e630"}.icon-tilelayer:before{content:"\e605"}.icon-tilelayer-traffic:before{content:"\e63e"}.icon-tilelayer-satellite:before{content:"\e653"}.icon-zoom-in:before{content:"\e62c"}.icon-zoom-out:before{content:"\e62d"}.icon-layer-switcher:before{content:"\e6e0"}.amap-ui-control-layer-toggle{background-position:50% 50%;background-repeat:no-repeat;display:block}.amap-ui-control-layer{border-radius:3px}.amap-ui-control-layer .iconfont{font-size:inherit;margin-right:2px}.amap-ui-control-layer-toggle{width:34px;height:34px;line-height:34px;font-size:22px;text-align:center}.amap-ui-control-layer .amap-ui-control-layer-list,.amap-ui-control-layer-expanded .amap-ui-control-layer-toggle{display:none}.amap-ui-control-layer-expanded .amap-ui-control-layer-list{display:block;position:relative}.amap-ui-control-layer-expanded{padding:6px 10px 6px 6px}.amap-ui-control-layer-scrollbar{overflow-y:scroll;padding-right:5px}.amap-ui-control-layer-selector{margin-top:2px;position:relative;top:1px}.amap-ui-control-layer label{display:block;line-height:130%}.amap-ui-mobile .amap-ui-control-layer label{font-size:130%;line-height:150%}.amap-ui-mobile .amap-ui-control-layer-toggle{width:42px;height:42px;font-size:26px;line-height:42px}.amap-ui-control-layer-separator{height:0;border-top:1px solid #ddd;margin:5px -10px 5px -6px}.amap-ui-control-theme-light .amap-ui-control-layer{box-shadow:0 1px 5px rgba(0,0,0,.4);background:#fff}.amap-ui-control-theme-light .amap-ui-control-layer-expanded{color:#333;background:#fff}.amap-ui-control-theme-light .amap-ui-control-layer-toggle{color:#333}.amap-ui-control-theme-dark .amap-ui-control-layer{box-shadow:0 1px 5px rgba(0,0,0,.4);background:#000}.amap-ui-control-theme-dark .amap-ui-control-layer-expanded{color:#fff;background:#000}.amap-ui-control-theme-dark .amap-ui-control-layer-toggle{color:#ccc}.amap-ui-control-zoom{border:1px solid #ccc;background-clip:padding-box;border-radius:3px;width:32px;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.amap-ui-control-zoom a,.amap-ui-control-zoom-num{background-color:#fff;border-bottom:1px solid #ccc;width:32px;height:36px;line-height:36px;text-align:center;text-decoration:none;color:#333;display:block;cursor:pointer}.amap-ui-mobile .amap-ui-control-zoom{width:40px}.amap-ui-mobile .amap-ui-control-zoom a,.amap-ui-mobile .amap-ui-control-zoom-num{width:40px;line-height:44px;height:44px}.amap-ui-control-zoom a{font-size:26px;font-family:verdana}.amap-ui-control-zoom-num{font-size:16px}.amap-ui-control-zoom-num.hidden{display:none}.amap-ui-control-zoom .amap-ui-control-zoom-out{border-bottom:none}.amap-ui-control-zoom a.disabled{cursor:default;background-color:#f4f4f4;color:#bbb}.amap-ui-control-theme-light .amap-ui-control-zoom{border-color:#ccc}.amap-ui-control-theme-light .amap-ui-control-zoom a,.amap-ui-control-theme-light .amap-ui-control-zoom-num{background-color:#fff;border-bottom-color:#ccc;color:#333}.amap-ui-control-theme-light .amap-ui-control-zoom a:hover{background-color:#f4f4f4}.amap-ui-control-theme-light .amap-ui-control-zoom a:active{background-color:#ccc}.amap-ui-control-theme-light .amap-ui-control-zoom a.disabled{background-color:#f4f4f4;color:#bbb}.amap-ui-control-theme-dark .amap-ui-control-zoom{border-color:#ccc}.amap-ui-control-theme-dark .amap-ui-control-zoom a,.amap-ui-control-theme-dark .amap-ui-control-zoom-num{background-color:#333;border-bottom-color:#ccc;color:#fff}.amap-ui-control-theme-dark .amap-ui-control-zoom a:hover{background-color:#222}.amap-ui-control-theme-dark .amap-ui-control-zoom a:active{background-color:#000}.amap-ui-control-theme-dark .amap-ui-control-zoom a.disabled{background-color:#666;color:#bbb}.amap-ui-control-traffic{width:32px;height:32px;cursor:pointer}.amap-ui-control-traffic-lights{width:100%;height:100%;border-radius:4px;border:solid 1px silver;box-shadow:1px 1px 2px silver}.amap-ui-control-traffic-text{font-family:微软雅黑,Microsoft YaHei,Arial,sans-serif;height:45%;position:absolute;bottom:2px;text-align:center;font-size:12px;width:100%;user-select:none}.closed{filter:gray;-webkit-filter:grayscale(100%)}.hided{display:none}.amap-ui-control-theme-dark .amap-ui-control-traffic-lights{background:url(https://webapi.amap.com/ui/1.0/ui/control/BasicControl/assets/trafficlights2.png) no-repeat rgba(0,0,0,.4) 50% 20%;border:none}.amap-ui-control-theme-dark .amap-ui-control-traffic-text{color:#fff}.amap-ui-control-theme-normal .amap-ui-control-traffic-lights{background:url(https://webapi.amap.com/ui/1.0/ui/control/BasicControl/assets/trafficlights2.png) no-repeat #fff 50% 20%}.amap-ui-control-theme-normal .amap-ui-control-traffic-text{color:#000}.amap-ui-control-theme-dark-simple .amap-ui-control-traffic-lights{background:url(https://webapi.amap.com/ui/1.0/ui/control/BasicControl/assets/trafficlights2.png) no-repeat rgba(0,0,0,.4) 50% 50%;border:none}.amap-ui-control-theme-dark-simple .amap-ui-control-traffic-text{display:none}.amap-ui-control-theme-normal-simple .amap-ui-control-traffic-lights{background:url(https://webapi.amap.com/ui/1.0/ui/control/BasicControl/assets/trafficlights2.png) no-repeat #fff 50% 50%}.amap-ui-control-theme-normal-simple .amap-ui-control-traffic-text{display:none}.amap-ui-control-container{position:absolute}.amap-ui-control-position-rt,.amap-ui-control-position-tr{top:30px;right:30px}.amap-ui-control-position-lt,.amap-ui-control-position-tl{top:30px;left:30px}.amap-ui-control-position-bl,.amap-ui-control-position-lb{bottom:30px;left:30px}.amap-ui-control-position-br,.amap-ui-control-position-rb{bottom:30px;right:30px}.amap-ui-control-position-lm,.amap-ui-control-position-ml,.amap-ui-control-position-mr,.amap-ui-control-position-rm{top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.amap-ui-control-position-mr,.amap-ui-control-position-rm{right:30px}.amap-ui-control-position-lm,.amap-ui-control-position-ml{left:30px}.amap-ui-control-position-bc,.amap-ui-control-position-cb,.amap-ui-control-position-ct,.amap-ui-control-position-tc{left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.amap-ui-control-position-ct,.amap-ui-control-position-tc{top:30px}.amap-ui-control-position-bc,.amap-ui-control-position-cb{bottom:30px}</style><script type="text/javascript" charset="utf-8" async="" data-requirecontext="amap-ui-1.0.11" data-requiremodule="jquery" src="./全国疫情场所地图_files/jquery-1.12.4.min.js.下载"></script></head>
+<body>
+<div id="container">
+<div id="ncovMap"></div>
+</div>
+<script>
+      const themeColor = '#FF3366';
+      mapObj = new AMap.Map('iCenter');
+      mapObj.plugin('AMap.Geolocation', function () {
+        geolocation = new AMap.Geolocation({
+        enableHighAccuracy: true,//是否使用高精度定位，默认:true
+        timeout: 10000,          //超过10秒后停止定位，默认：无穷大
+        maximumAge: 0,           //定位结果缓存0毫秒，默认：0
+        convert: true,           //自动偏移坐标，偏移后的坐标为高德坐标，默认：true
+        showButton: true,        //显示定位按钮，默认：true
+        buttonPosition: 'LB',    //定位按钮停靠位置，默认：'LB'，左下角
+        buttonOffset: new AMap.Pixel(10, 20),//定位按钮与设置的停靠位置的偏移量，默认：Pixel(10, 20)
+        showMarker: true,        //定位成功后在定位到的位置显示点标记，默认：true
+        showCircle: true,        //定位成功后用圆圈表示定位精度范围，默认：true
+        panToLocation: true,     //定位成功后将定位到的位置作为地图中心点，默认：true
+        zoomToAccuracy:true      //定位成功后调整地图视野范围使定位位置及精度范围视野内可见，默认：false
+    });
+    mapObj.addControl(geolocation);
+    geolocation.getCurrentPosition();
+    AMap.event.addListener(geolocation, 'complete', onComplete);//返回定位信息
+    AMap.event.addListener(geolocation, 'error', onError);      //返回定位出错信息
+});
+centerOfShenzhen = [116.397551,39.906947];
+centerOfShenzhen=[116.42532,39.97129]
+
+  function onComplete(s){
+    //console.log(s.position.lng);
+    //console.log(s.position.lat);
+    centerOfShenzhen=[s.position.lng,s.position.lat];
+  
+  
+     
+      AMapUI.loadUI(['control/BasicControl'], (BasicControl) => {
+        const map = new AMap.Map('ncovMap', {
+          center: centerOfShenzhen,
+          zoom: 13,
+          viewMode: '2D',
+          lang: 'zh_cn'
+        });
+           
+
+        const markers = [];
+        const overlays = [];
+        var tmp_data = [];
+
+    function run(map, tmp_data) {
+        tmp_data.forEach(d => {
+          let overlay;
+          if (d.geometry && d.geometry.type === 'Polygon') {
+            overlay = new AMap.Polygon({ path: d.geometry.coordinates }); 
+          } else if (d.geometry && d.geometry.type === 'LineString') {
+            overlay = new AMap.Polyline({ path: d.geometry.coordinates });
+          } else {
+            overlay = new AMap.Circle({
+              center: d.point.coordinates,
+              radius: 50
+            })
+          }
+          const marker = new AMap.Marker({
+            position: d.point.coordinates,
+            icon: new AMap.Icon({
+              size: new AMap.Size(8, 8),
+              image: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAABGdBTUEAALGPC/xhBQAAAA5JREFUGBljYBgFoBAAAAEIAAGUnFwzAAAAAElFTkSuQmCC',
+              imageSize: new AMap.Size(8, 8)
+            }),
+            offset: new AMap.Pixel(-4, -8),
+          });
+          const content = `<div class="poi-label" style="background-color:${themeColor}">${d.name}<i class="poi-label-arrow" style="border-color: ${themeColor};border-style: dashed;border-top-style: solid;border-left-color: transparent;border-right-color: transparent;"></i></div>`
+          marker.setLabel({
+            offset: new AMap.Pixel(0, 0),
+            content,
+            direction: 'top'
+          });
+
+          markers.push(marker);
+          overlays.push(overlay);
+        });
+
+        const overlayGroup = new AMap.OverlayGroup(overlays);
+        const markerGroup = new AMap.OverlayGroup(markers);
+
+        overlayGroup.setOptions({
+          borderWeight: 1,
+          strokeColor: themeColor,
+          lineJoin: 'round',
+          fillColor: themeColor,
+          fillOpacity: 0.4
+        });
+
+        map.add(overlayGroup);
+        map.add(markerGroup);
+
+        map.on('zoomend', function(e) {
+          if (map.getZoom() <= 11) {
+            markerGroup.hide();
+          } else {
+            markerGroup.show();
+          }
+        })
+    }
+
+    run(map, NCOV_DATA[0].pois);
+
+        
+      })
+  };
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5JZ8NBSRZG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5JZ8NBSRZG');
+</script>
+
+</body></html>
