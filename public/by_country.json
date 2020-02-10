@@ -90,21 +90,6 @@
     "enName": "United States"
   },
   {
-    "country": "菲律宾",
-    "provinceName": "菲律宾",
-    "provinceShortName": "菲律宾",
-    "confirmedCount": 3,
-    "suspectedCount": 0,
-    "curedCount": 0,
-    "deadCount": 1,
-    "comment": "",
-    "updateTime": "2/10",
-    "createTime": 1581314815000,
-    "modifyTime": 1581338406000,
-    "updateDate": "2/10",
-    "enName": "Philippiness"
-  },
-  {
     "country": "阿联酋",
     "provinceName": "阿联酋",
     "provinceShortName": "阿联酋",
@@ -118,6 +103,21 @@
     "modifyTime": 1581338406000,
     "updateDate": "2/10",
     "enName": "United Arab Emirates"
+  },
+  {
+    "country": "菲律宾",
+    "provinceName": "菲律宾",
+    "provinceShortName": "菲律宾",
+    "confirmedCount": 3,
+    "suspectedCount": 0,
+    "curedCount": 0,
+    "deadCount": 1,
+    "comment": "",
+    "updateTime": "2/10",
+    "createTime": 1581314815000,
+    "modifyTime": 1581338406000,
+    "updateDate": "2/10",
+    "enName": "Philippiness"
   },
   {
     "country": "加拿大",
