@@ -85,7 +85,11 @@ function createTrendsChartConfig(data) {
       textStyle: {
         fontSize: 11,
       },
-      top: 25,
+      bottom: 0,
+    },
+    grid: {
+      y: 50,
+      y2: 70,
     },
     xAxis: {
         type: 'category',
@@ -299,7 +303,7 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
 
 function setupTrendsCharts(records, container) {
   const html = records.map((v, i) => {
-    return `<div id="chart${i}" class="mychart" style="display:inline-block;width:560px;height:400px;"></div>`;
+    return `<div id="chart${i}" class="trends-chart"></div>`;
   }).join('');
   container.innerHTML = html;
 
