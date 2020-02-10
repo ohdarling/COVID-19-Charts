@@ -1,21 +1,19 @@
 const https = require('https');
 const http = require('http');
 const fs = require('fs');
-const { parseData, processDuplicatedData, toSortedProvinceData, calcIncreasement } = require('./parse_data');
+const { generateFromCSV, toDateSeriesData } = require('./parse_data');
 const dataFileName = 'DXYArea.csv';
 
 function generateConfigs() {
   const csvData = fs.readFileSync(dataFileName, { encoding: 'utf8' });
-  console.log('Parsing...');
-  let provsData = parseData(csvData);
-  console.log('Processing duplicated data...');
-  provsData = processDuplicatedData(provsData);
-  console.log('Sorting by confirmed count...');
-  provsData = toSortedProvinceData(provsData);
-  console.log('Calculating increasement...');
-  provsData = calcIncreasement(provsData);
+  const provsData = generateFromCSV(csvData);
+
   const dataStr = JSON.stringify(provsData, null, '  ');
-  fs.writeFileSync('public/data.json', dataStr);
+  fs.writeFileSync('public/by_area.json', dataStr);
+
+  const byDate = toDateSeriesData(provsData);
+  fs.writeFileSync('public/by_date.json', JSON.stringify(byDate, null, '  '));
+
   console.log('Done.');
 }
 

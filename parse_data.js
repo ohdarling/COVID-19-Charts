@@ -1,3 +1,14 @@
+const allDates = (() => {
+  const ret = [];
+  const day = new Date('2020-01-24T00:00:00+08:00');
+  const now = new Date();
+  while (day <= now) {
+    ret.push(day.toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' }).replace(/\/?2020\/?/, ''));
+    day.setHours(day.getHours() + 24);
+  }
+  return ret;
+})();
+
 function parseData(data) {
   const provinces = {};
 
@@ -88,6 +99,30 @@ function processDuplicatedData(data) {
   return data;
 }
 
+function addMissingRecord(data) {
+  function checkRecord(day, i, list) {
+    if ((list[i] || {}).updateTime !== day) {
+      const rec = Object.assign({
+        confirmedCount: 0,
+        curedCount: 0,
+        deadCount: 0,
+      }, list[i - 1] || {}, {
+        updateTime: day,
+      });
+      list.splice(i, 0, rec);
+    }
+  }
+  data.forEach(p => {
+    allDates.forEach((day, i) => {
+      checkRecord(day, i, p.records);
+      p.cityList.forEach(c => {
+        checkRecord(day, i, c.records);
+      })
+    })
+  })
+  return data;
+}
+
 function toSortedProvinceData(data) {
   return Object.values(data).sort((a, b) => {
     return a.confirmedCount > b.confirmedCount ? -1 : 1;
@@ -105,24 +140,88 @@ function calcIncreasement(data) {
     const prev = list[i - 1] || {};
     const cur = list[i];
     props.forEach(p => {
-      r[p + 'Increased'] = cur[p + 'Count'] - (prev[p + 'Count'] || 0);
+      r[p + 'Increased'] = Math.max(cur[p + 'Count'] - (prev[p + 'Count'] || 0), 0);
     });
   }
   data.forEach(prov => {
     prov.records.forEach((r, i) => {
       calcIncreased(r, i, prov.records);
+
     });
     calcIncreased(prov, prov.records.length - 1, prov.records);
 
-    prov.cityList.forEach(city => {
-      city.records.forEach((r, i) => {
-        calcIncreased(r, i, city.records);
+    if (prov.cityList) {
+      prov.cityList.forEach(city => {
+        city.records.forEach((r, i) => {
+          calcIncreased(r, i, city.records);
+        });
+        calcIncreased(city, city.records.length - 1, city.records);
       });
-      calcIncreased(city, city.records.length - 1, city.records);
-    });
+    }
   });
 
   return data;
+}
+
+function processZhixiashi(data) {
+  const zhixiashi = [ '北京市', '重庆市', '上海市', '天津市' ];
+  data.forEach(p => {
+    if (zhixiashi.indexOf(p.name) > -1) {
+      p.cityList = [ Object.assign({}, p) ];
+    }
+  })
+  return data;
+}
+
+function toDateSeriesData(data) {
+  const ret = allDates.map(day => {
+    return {
+      day,
+      records: data.map(p => {
+        const prov = Object.assign({
+          name: p.name,
+          provinceName: p.name,
+          confirmedCount: 0,
+          curedCount: 0,
+          deadCount: 0,
+          updateTime: day,
+        }, p.records.filter(r => r.updateTime === day)[0] || {})
+        prov.cityList = p.cityList.map(c => {
+          return Object.assign({
+            name: c.name,
+            provinceName: p.name,
+            confirmedCount: 0,
+            curedCount: 0,
+            deadCount: 0,
+            updateTime: day,
+          }, c.records.filter(r => r.updateTime === day)[0] || {})
+        });
+        return prov;
+      })
+    }
+  });
+
+  calcIncreasement(ret);
+
+  return ret;
+}
+
+function generateFromCSV(csvData) {
+  console.log('Generating data from csv...');
+  console.log('Parsing...');
+  let provsData = parseData(csvData);
+  console.log('Processing duplicated data...');
+  provsData = processDuplicatedData(provsData);
+  console.log('Sorting by confirmed count...');
+  provsData = toSortedProvinceData(provsData);
+  console.log('Add missing records...');
+  provsData = addMissingRecord(provsData);
+  console.log('Calculating increasement...');
+  provsData = calcIncreasement(provsData);
+  console.log('Processing Zhixiashi...');
+  provsData = processZhixiashi(provsData);
+  console.log('Finished.');
+  return provsData;
 }
 
 module.exports = {
@@ -130,4 +229,6 @@ module.exports = {
   processDuplicatedData,
   toSortedProvinceData,
   calcIncreasement,
+  toDateSeriesData,
+  generateFromCSV,
 };

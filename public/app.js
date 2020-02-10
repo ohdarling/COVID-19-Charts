@@ -1,6 +1,26 @@
-async function getData() {
-  const ret = await axios('data.json');
-  return ret.data;
+let allDataStore = {};
+
+const allDates = (() => {
+  const ret = [];
+  const day = new Date('2020-01-24T00:00:00+08:00');
+  const now = new Date();
+  while (day <= now) {
+    ret.push(day.toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' }).replace(/\/?2020\/?/, ''));
+    day.setHours(day.getHours() + 24);
+  }
+  return ret;
+})();
+
+let chartsContainerId = 'chart_container';
+let allCharts = [];
+
+async function getData(type) {
+  if (!allDataStore[type]) {
+    const ret = await axios(`by_${type}.json`);
+    allDataStore[type] = ret.data;
+  }
+
+  return allDataStore[type];
 }
 
 function shortAreaName(name) {
@@ -101,12 +121,14 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
   }
   geoJSON.features.forEach(v => {
     const showName = v.properties.name;
-    data.forEach(r => {
-      const name = r.name;
-      if (name.substr(0, showName.length) === showName || showName.substr(0, name.length) === name) {
-        r.showName = showName;
-      }
-    });
+    data.forEach(d => {
+      d.records.forEach(r => {
+        const name = r.name;
+        if (name.substr(0, showName.length) === showName || showName.substr(0, name.length) === name) {
+          r.showName = showName;
+        }
+      });
+    })
   });
 
   const visualPieces = mapName === 'china' ? [
@@ -126,61 +148,90 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
   ];
 
   const config = {
-    title: {
-      text: (mapName === 'china-cities' && !title) ? '点击循环播放' : title,
-      link: (mapName === 'china-cities' && !title) ? 'javascript:playAllCitiesMap()' : '',
-      target: 'self',
-    },
-    tooltip: {
-      show: true,
-      trigger: 'item',
-    },
-    // toolbox: {
-    //   show: true,
-    //   orient: 'vertical',
-    //   left: 'right',
-    //   top: 'center',
-    //   feature: {
-    //     dataView: {readOnly: false},
-    //     restore: {},
-    //     saveAsImage: {}
-    //   }
-    // },
-    visualMap: {
-      type: 'piecewise',
-      pieces: visualPieces,
-    },
-    series: [
-      {
-        name: '',
-        type: 'map',
-        mapType: mapName,
-        label: {
-          show: mapName === 'china-cities' ? false : true,
-        },
-        tooltip: {
-          formatter: ({ name, data }) => {
-            if (data) {
-              const { name, value, confirmed, dead, cured, increased } = data;
-              const tip = `<b>${name}</b><br />确诊人数：${confirmed}<br />治愈人数：${cured}<br />死亡人数：${dead}<br />新增确诊：${increased}`;
-              return tip;
-            }
-            return `<b>${name}</b><br />暂无数据`;
+    baseOption: {
+      timeline: {
+          axisType: 'category',
+          // realtime: false,
+          // loop: false,
+          autoPlay: false,
+          currentIndex: data.length - 1,
+          playInterval: 1000,
+          // controlStyle: {
+          //     position: 'left'
+          // },
+          data: data.map(d => d.day),
+      },
+      tooltip: {
+        show: true,
+        trigger: 'item',
+      },
+      // toolbox: {
+      //   show: true,
+      //   orient: 'vertical',
+      //   left: 'right',
+      //   top: 'center',
+      //   feature: {
+      //     dataView: {readOnly: false},
+      //     restore: {},
+      //     saveAsImage: {}
+      //   }
+      // },
+      visualMap: {
+        type: 'piecewise',
+        pieces: visualPieces,
+      },
+      series: [
+        {
+          name: '',
+          type: 'map',
+          mapType: mapName,
+          label: {
+            show: mapName === 'china-cities' ? false : true,
           },
+          tooltip: {
+            formatter: ({ name, data }) => {
+              if (data) {
+                const { name, value, confirmed, dead, cured, increased } = data;
+                const tip = `<b>${name}</b><br />确诊人数：${confirmed}<br />治愈人数：${cured}<br />死亡人数：${dead}<br />新增确诊：${increased}`;
+                return tip;
+              }
+              return `<b>${name}</b><br />暂无数据`;
+            },
+          },
+          data: data.map(r => {
+            return {
+              name: r.showName,
+              province: r.name,
+              value: r[valueKey],
+              confirmed: r.confirmedCount,
+              dead: r.deadCount,
+              cured: r.curedCount,
+              increased: r.confirmedIncreased,
+            };
+          }),
+        }
+      ]
+    },
+    options: data.map(d => {
+      return {
+        series: {
+          title: {
+            text: d.day,
+          },
+          data: d.records.map(r => {
+            return {
+              name: r.showName,
+              province: r.name,
+              value: r[valueKey],
+              confirmed: r.confirmedCount,
+              dead: r.deadCount,
+              cured: r.curedCount,
+              increased: r.confirmedIncreased,
+            };
+          }),
         },
-        data: data.map(r => {
-          return {
-            name: r.showName,
-            province: r.name,
-            value: r[valueKey],
-            confirmed: r.confirmedCount,
-            dead: r.deadCount,
-            cured: r.curedCount,
-            increased: r.confirmedIncreased,
-          };
-        }),
-      }
-    ]
+      };
+    })
   };
 
 
@@ -237,57 +288,54 @@ async function setupAllCitiesMapCharts(records, container) {
   return [ chart ];
 }
 
-let allProvinces = [];
-let chartsContainerId = 'chart_container';
-let allCharts = [];
 
-function prepareChartData(name) {
-  if (showDateInterval) {
-    clearInterval(showDateInterval);
-    showDateInterval = null;
-  }
+async function prepareChartData(name, type = 'area') {
+  const dataList = await getData(type);
+
   allCharts.forEach(c => {
     c.clear();
     delete c;
   });
-  const records = name ? allProvinces.filter(v => v.name === name)[0].cityList : allProvinces;
+
+  let records = null;
+  if (type === 'area') {
+    records = name ? dataList.filter(v => v.name === name)[0].cityList : dataList;
+  } else {
+    records = name ? dataList.map(d => {
+      return {
+        day: d.day,
+        records: d.records.filter(p => p.name == name)[0].cityList,
+      };
+    }) : dataList;
+  }
   records.forEach(v => {
     v.showName = v.name;
   });
+
   return records;
 }
 
-function showProvince(name) {
-  const records = prepareChartData(name);
+async function showProvince(name) {
+  const records = await prepareChartData(name, 'area');
   allCharts = setupTrendsCharts(records, document.getElementById(chartsContainerId));
 }
 
 async function showMap(name) {
-  const records = prepareChartData(name);
+  const records = await prepareChartData(name, 'date');
   allCharts = await setupMapCharts(records, document.getElementById(chartsContainerId), name);
 }
 
-const allDates = (() => {
-  const ret = [];
-  const day = new Date('2020-01-24T00:00:00+08:00');
-  const now = new Date();
-  while (day <= now) {
-    ret.push(day.toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' }).replace(/\/?2020\/?/, ''));
-    day.setHours(day.getHours() + 24);
-  }
-  return ret;
-})();
-let showDateIndex = 0;
-let showDateInterval = null;
 
 async function showAllCitiesMap() {
-  const zhixiashi = [ '北京市', '重庆市', '上海市', '天津市' ];
-  const records = allProvinces.reduce((p, v) => {
-    if (zhixiashi.indexOf(v.name) > -1) {
-      p.push(v);
+  const data = await prepareChartData(name, 'date');
+  const records = data.map(d => {
+    return {
+      day: d.day,
+      records: d.records.reduce((p, v) => {
+        return p.concat(v.cityList)
+      }, []),
     }
-    return p.concat(v.cityList);
-  }, []);
+  })
   allCharts = await setupMapCharts(records, document.getElementById(chartsContainerId), '', true);
 }
 
@@ -317,8 +365,7 @@ async function playAllCitiesMap() {
 }
 
 async function main() {
-  allProvinces = await getData();
-  showProvince();
+  showMap();
 }
 
 main();
