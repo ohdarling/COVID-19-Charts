@@ -344,14 +344,24 @@ async function prepareChartData(name, type = 'area') {
   return records;
 }
 
+function updateHash(tab, province) {
+  let hash = 'tab=' + tab;
+  if (province) {
+    hash += '&province=' + encodeURIComponent(province);
+  }
+  location.hash = hash;
+}
+
 async function showProvince(name) {
   const records = await prepareChartData(name, 'area');
   allCharts = setupTrendsCharts(records, document.getElementById(chartsContainerId));
+  updateHash('trends', name);
 }
 
 async function showMap(name) {
   const records = await prepareChartData(name, 'date');
   allCharts = await setupMapCharts(records, document.getElementById(chartsContainerId), name);
+  updateHash('map', name);
 }
 
 
@@ -367,11 +377,38 @@ async function showAllCitiesMap() {
     }
   })
   allCharts = await setupMapCharts(records, document.getElementById(chartsContainerId), '', true);
+  updateHash('cities-map');
+}
+
+function handleHashChanged() {
+  const query = new URLSearchParams(location.hash.replace(/^#/, ''));
+  const tab = query.get('tab') || 'trends';
+  const province = query.get('province') || '';
+  let title = [ document.querySelector('title').innerHTML.split(' - ')[0] ];
+  switch (tab) {
+    case 'map':
+      showMap(province);
+      title.push('地图');
+      if (province) { title.push(province); }
+      break;
+    case 'cities-map':
+      showAllCitiesMap();
+      title.push('全部城市地图');
+      if (province) { title.push(province); }
+      break;
+    case 'trends':
+    default:
+      showProvince(province);
+      title.push('趋势');
+      if (province) { title.push(province); }
+      break;
+  }
+  document.querySelector('title').innerHTML = title.join(' - ');
 }
 
 async function main() {
-  showProvince();
-  // showMap();
+  handleHashChanged();
+  window.onhashchange = handleHashChanged;
 }
 
 main();
