@@ -11,6 +11,18 @@ const allDates = (() => {
   return ret;
 })();
 
+const allTabs = (() => {
+  return [].slice.call(document.querySelectorAll("#navbar a")).reduce((p, v) => {
+    const tab = v.href.split('#')[1].split('=')[1];
+    p[tab] = {
+      tab,
+      el: v,
+      title: v.innerHTML.trim(),
+    };
+    return p;
+  }, {});
+})();
+
 const todayStart = (() => {
   const today = new Date();
   today.setSeconds(0);
@@ -170,6 +182,7 @@ function createTrendsChartConfig(data) {
       },
       {
         type: 'value',
+        splitLine: { show: false, },
       },
     ],
     series: [
@@ -494,16 +507,18 @@ async function prepareChartData(name, type = 'area') {
 
   document.getElementById(chartsContainerId).innerHTML = 'Loading...';
 
-  let records = null;
-  if (type === 'area') {
-    records = name ? dataList.filter(v => v.name === name)[0].cityList : dataList;
-  } else {
-    records = name ? dataList.map(d => {
-      return {
-        day: d.day,
-        records: d.records.filter(p => p.name == name)[0].cityList,
-      };
-    }) : dataList;
+  let records = dataList;
+  if (name) {
+    if (type === 'area') {
+      records = dataList.filter(v => v.name === name)[0].cityList;
+    } else {
+      records = dataList.map(d => {
+        return {
+          day: d.day,
+          records: d.records.filter(p => p.name == name)[0].cityList,
+        };
+      });
+    }
   }
   records.forEach(v => {
     v.showName = v.name;
@@ -514,10 +529,10 @@ async function prepareChartData(name, type = 'area') {
 
 function updateHash(tab, province) {
   let hash = '#tab=' + tab;
-  [].slice.call(document.querySelectorAll("#navbar a")).forEach(a => {
-    const newclass = "nav-link" + (a.href.substr(a.href.length - hash.length) == hash ? ' active' : '');
-    a.setAttribute('class', newclass);
-  });
+  Object.values(allTabs).forEach(t => {
+    const newclass = "nav-link" + (t.tab == tab ? ' active' : '');
+    t.el.setAttribute('class', newclass);
+  })
   if (province) {
     hash += '&province=' + encodeURIComponent(province);
   }
@@ -560,33 +575,57 @@ async function showWorldMap() {
   updateHash('world-map');
 }
 
+async function showSummary() {
+  const records = await prepareChartData('', 'overall');
+
+  const html = records.map((v, i) => {
+    return `<div id="chart${i}" class="summary-chart"></div>`;
+  }).join('');
+  document.getElementById(chartsContainerId).innerHTML = html;
+
+  allCharts = records.map((v, i) => {
+    const cfg = createTrendsChartConfig(v);
+    const chart = echarts.init(document.getElementById(`chart${i}`));
+    chart.setOption(cfg);
+    return chart;
+  });
+
+  updateHash('summary');
+}
+
 function handleHashChanged() {
+  const defaultTab = 'trends';
   const query = new URLSearchParams(location.hash.replace(/^#/, ''));
-  const tab = query.get('tab') || 'trends';
+  const tab = query.get('tab') || defaultTab;
   const province = query.get('province') || '';
   let title = [ document.querySelector('title').innerHTML.split(' - ')[0] ];
-  switch (tab) {
-    case 'map':
-      showMap(province);
-      title.push('地图');
-      if (province) { title.push(province); }
-      break;
-    case 'cities-map':
-      showAllCitiesMap();
-      title.push('全部城市地图');
-      if (province) { title.push(province); }
-      break;
-    case 'world-map':
-      showWorldMap();
-      title.push('世界地图');
-      break;
-    case 'trends':
-    default:
-      showProvince(province);
-      title.push('趋势');
-      if (province) { title.push(province); }
-      break;
+
+  const tabFuncs = {
+    'summary': {
+      func: showSummary,
+    },
+    'map': {
+      func: showMap,
+      supportProvince: true,
+    },
+    'cities-map': {
+      func: showAllCitiesMap,
+    },
+    'world-map': {
+      func: showWorldMap,
+    },
+    'trends': {
+      func: showProvince,
+      supportProvince: true,
+    }
+  };
+  const func = tabFuncs[tab] || tabFuncs[defaultTab];
+  func.func(province);
+  title.push(allTabs[tab].title);
+  if (func.supportProvince && province) {
+    title.push(province);
   }
+
   document.querySelector('title').innerHTML = title.join(' - ');
 }
 

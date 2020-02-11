@@ -253,6 +253,81 @@ function generateFromCSV(csvData) {
   return provsData;
 }
 
+function parseOverAllData(csvData) {
+  const lines = csvData.split('\n');
+  const headers = lines[0].split(',');
+  const fetchIdxes = [ 'confirmedCount', 'suspectedCount', 'curedCount', 'deadCount', 'seriousCount', 'suspectedIncr', 'confirmedIncr', 'curedIncr', 'deadIncr', 'seriousIncr', 'updateTime' ].map(k => {
+    return headers.indexOf(k);
+  }).reduce((p, v) => {
+    p[v] = true;
+    return p;
+  }, {});
+
+  let records = [];
+
+  for (let i = 1; i < lines.length; ++i) {
+    if (lines[i].trim().length === 0) {
+      continue;
+    }
+
+    const lineRecord = lines[i].split(',').reduce((p,v) => {
+      const last = p[p.length - 1] || '';
+      if (last.substr(0, 1) == '"' && last.substr(last.length - 1, 1) != '"') {
+        p[p.length-1] = [ last, v] .join(',')
+      } else {
+        p.push(v)
+      }
+      return p;
+    }, []).reduce((p, v, i) => {
+      if (fetchIdxes[i]) {
+        let k = headers[i];
+        if (k.substr(k.length - 4) === 'Incr') {
+          k = k.substr(0, k.length - 4) + 'Increased';
+        }
+        p[k] = k == 'updateTime' ? v : parseInt('0' + v, 10);
+      }
+      return p;
+    }, {});
+
+    if (!lineRecord.updateTime) {
+      continue;
+    }
+
+    // console.log(lines[i])
+    // console.log(lineRecord);
+
+    lineRecord.insickCount = Math.max(lineRecord.confirmedCount - lineRecord.curedCount - lineRecord.deadCount, 0);
+    lineRecord.lastUpdate = new Date(lineRecord.updateTime.replace(' ', 'T') + '+08:00').toISOString();
+    lineRecord.updateDate = new Date(lineRecord.lastUpdate).toLocaleDateString();
+    lineRecord.updateTime = lineRecord.updateDate.replace(/\/?2020\/?/, '');
+
+    records.push(lineRecord);
+  }
+
+  records.reverse();
+  records = records.filter((v, i) => {
+    if (i < records.length - 1 && records[i].updateDate === records[i+1].updateDate) {
+      return false;
+    }
+    return true;
+  })
+
+  return [
+    {
+      name: '全国',
+      provinceName: '全国',
+      lastUpdate: records[records.length - 1].lastUpdate,
+      records,
+    }
+  ];
+}
+
+function generateOverAllFromCSV(csvData) {
+  let data = parseOverAllData(csvData);
+  // console.log(data);
+  return data;
+}
+
 module.exports = {
   parseData,
   processDuplicatedData,
@@ -260,4 +335,5 @@ module.exports = {
   calcIncreasement,
   toDateSeriesData,
   generateFromCSV,
+  generateOverAllFromCSV,
 };

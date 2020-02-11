@@ -6,7 +6,30 @@ function generateConfigs() {
   const csvData = fs.readFileSync(dataFileName, { encoding: 'utf8' });
   const provsData = generateFromCSV(csvData);
 
-  const dataStr = JSON.stringify(provsData, null, '  ');
+  const overallCSV = fs.readFileSync('DXYOverall.csv', { encoding: 'utf8' });
+  const [ overall ] = generateOverAllFromCSV(overallCSV);
+  let notHubei = null;
+  JSON.parse(JSON.stringify(provsData)).forEach(v => {
+    if (v.name !== '湖北省') {
+      if (notHubei) {
+        notHubei.records.forEach((r, i) => {
+          [ 'confirmed', 'cured', 'dead' ].forEach(k => {
+            r[k + 'Count'] += v.records[i][k + 'Count'];
+            r[k + 'Increased'] += v.records[i][k + 'Increased'];
+          });
+          r['insickCount'] += v.records[i]['insickCount'] || 0;
+        })
+      } else {
+        notHubei = v;
+        notHubei.name = '非湖北';
+        notHubei.provinceName = '非湖北';
+        delete notHubei.cities;
+      }
+    }
+  })
+
+  const trendsData = [ overall, notHubei, ...provsData ];
+  const dataStr = JSON.stringify(trendsData, null, '  ');
   fs.writeFileSync('public/by_area.json', dataStr);
 
   const byDate = toDateSeriesData(provsData);
