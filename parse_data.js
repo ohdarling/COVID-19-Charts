@@ -98,6 +98,30 @@ function processDuplicatedData(data) {
     });
   });
 
+  function filterDuplicateKey(obj, k) {
+    const unknowArea = [ '未知地区', '待明确地区', '未明确地区', '未知', '不明地区', ];
+    const [ dupKey ] = Object.keys(obj).filter(v => {
+      const isKeySimilar = k.substr(0, v.length) === v || v.substr(0, k.length) === k;
+      const isBothUknown = unknowArea.indexOf(k) > -1 && unknowArea.indexOf(v) > -1;
+      return v !== k && (isKeySimilar || isBothUknown);
+    });
+    if (dupKey) {
+      if (new Date(obj[dupKey].lastUpdate) > new Date(obj[k].lastUpdate)) {
+        delete obj[k];
+      } else {
+        delete obj[dupKey];
+      }
+    }
+  }
+
+  Object.values(data).forEach(({ cities }) => {
+    Object.keys(cities).forEach(k => {
+      if (cities[k]) {
+        filterDuplicateKey(cities, k);
+      }
+    })
+  })
+
   return data;
 }
 
