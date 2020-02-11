@@ -21,7 +21,7 @@ function parseData(data) {
         ret[k.split('_')[1]] = lineRecord[k];
       }
     });
-    ret.insickCount = ret.confirmedCount - ret.curedCount - ret.deadCount;
+    ret.insickCount = Math.max(ret.confirmedCount - ret.curedCount - ret.deadCount, 0);
     return ret;
   }
 

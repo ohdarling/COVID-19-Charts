@@ -236,6 +236,20 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
 
   const hideBarChart = (mapName === 'china-cities');
 
+  const barSeriesConfig = {
+    stack: '人数',
+    type: 'bar',
+    label: {
+        position: 'inside',
+        show: true,
+        color: '#eee',
+        formatter: ({ data }) => {
+          return data[0] > 0 ? data[0] : '';
+        }
+    },
+    barMaxWidth: 30,
+  };
+
   const config = {
     baseOption: {
       timeline: {
@@ -296,29 +310,20 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
         {
           type: 'piecewise',
           pieces: visualPieces,
-          dimension: 0,
-          show: false,
-          seriesIndex: 0,
-        },
-        {
-          type: 'piecewise',
-          pieces: visualPieces,
           left: 'auto',
           right: 30,
           bottom: 100,
-          seriesIndex: 1,
+          seriesIndex: 0,
         },
+        // {
+        //   type: 'piecewise',
+        //   pieces: visualPieces,
+        //   dimension: 0,
+        //   show: false,
+        //   seriesIndex: 1,
+        // },
       ],
-      series: (hideBarChart ? [] : [{
-        name: '',
-        type: 'bar',
-        label: {
-            position: 'right',
-            show: true,
-            // formatter: '{a} {b} {c}',
-        },
-        barMaxWidth: 30,
-      }]).concat(
+      series: [
         {
           name: '',
           type: 'map',
@@ -337,16 +342,29 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
               return `<b>${name}</b><br />暂无数据`;
             },
           },
+          z: 1000,
         }
-      )
+      ].concat((hideBarChart ? [] : [
+        {
+          name: '治愈',
+          color: 'rgb(64,141,39)',
+        },
+        {
+          name: '死亡',
+          color: 'gray',
+        },
+        {
+          name: '治疗',
+          color: 'rgb(224,144,115)',
+        }
+      ].map(c => {
+        return Object.assign({}, barSeriesConfig, c);
+      })))
     },
     options: data.map(d => {
+      d.records.sort((a ,b) => a.confirmedCount < b.confirmedCount ? -1 : 1);
       return {
-        series: (hideBarChart ? [] : [{
-          data: d.records.map(r => {
-            return [ r[valueKey], r.showName ];
-          }).sort((a, b) => a[0] < b[0] ? -1 : 1)
-        }]).concat([
+        series: [
           {
             title: {
               text: d.day,
@@ -363,7 +381,13 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
               };
             }),
           },
-        ])
+        ].concat(hideBarChart ? [] : [ 'cured', 'dead', 'insick' ].map(k => {
+          return {
+            data: d.records.map(r => {
+              return [ r[k + 'Count'], r.showName || r.name ];
+            })
+          };
+        }))
       };
     })
   };
