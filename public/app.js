@@ -14,6 +14,30 @@ const allDates = (() => {
 let chartsContainerId = 'chart_container';
 let allCharts = [];
 
+const showLoading = (() => {
+  const el = $('#' + chartsContainerId);
+  let loading = null;
+  return function (show = true, pe) {
+    if (typeof show === 'string') {
+      const progress = pe && pe.lengthComputable ? `${Math.ceil(pe.loaded/pe.total*100)}% ` : '';
+      const msg = `Loading ${show} ${progress}...`;
+      if (loading) {
+        $('.loading-overlay-content', el.overlay).text(msg);
+      } else {
+        loading = el.loading({ message: msg });
+      }
+    } else {
+      if (show) {
+        loading = el.loading();
+      } else {
+        el.loading('stop');
+        loading = null;
+      }
+    }
+  }
+
+})();
+
 function getVisualPieces(type) {
   const visualPieces = type === 'country' ? [
     { min: 10000, label: '10000人及以上', color: 'rgb(143,31,25)' },
@@ -38,7 +62,11 @@ async function prepareChartMap(mapName) {
   if (!echarts.getMap(mapName)) {
     const isProvince = [ 'china', 'china-cities', 'world' ].indexOf(mapName) === -1;
     const url = `map/json/${isProvince ? 'province/' : ''}${mapName}.json`;
-    geoJSON = (await axios(url)).data;
+    geoJSON = (await axios.get(url, {
+      onDownloadProgress: (pe) => {
+          showLoading('map', pe);
+        }
+      })).data;
     echarts.registerMap(mapName, geoJSON);
   } else {
     geoJSON = echarts.getMap(mapName).geoJson;
@@ -48,7 +76,13 @@ async function prepareChartMap(mapName) {
 
 async function getData(type) {
   if (!allDataStore[type]) {
-    const ret = await axios(`by_${type}.json`);
+    const ret = await axios.get(`by_${type}.json`, {
+      onDownloadProgress: (pe) => {
+        if (pe.lengthComputable) {
+          showLoading('data', pe);
+        }
+      }
+    });
     allDataStore[type] = ret.data;
   }
 
@@ -389,6 +423,8 @@ async function setupWorldMapCharts(records, container) {
 
 
 async function prepareChartData(name, type = 'area') {
+  showLoading();
+
   const dataList = await getData(type);
 
   allCharts.forEach(c => {
@@ -426,6 +462,8 @@ function updateHash(tab, province) {
     hash += '&province=' + encodeURIComponent(province);
   }
   location.hash = hash;
+
+  showLoading(false);
 }
 
 async function showProvince(name) {
