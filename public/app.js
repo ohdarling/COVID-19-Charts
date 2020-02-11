@@ -11,6 +11,15 @@ const allDates = (() => {
   return ret;
 })();
 
+const todayStart = (() => {
+  const today = new Date();
+  today.setSeconds(0);
+  today.setMinutes(0);
+  today.setHours(0);
+  today.setMinutes(480 + today.getTimezoneOffset());
+  return today;
+})();
+
 let chartsContainerId = 'chart_container';
 let allCharts = [];
 
@@ -105,6 +114,25 @@ function createTrendsChartConfig(data) {
   const deadIncrease = records.map(v => v.deadIncreased);
   const insick = records.map(v => v.insickCount);
 
+  let markArea = {};
+  if (new Date(data.lastUpdate) < todayStart) {
+    markArea = {
+      itemStyle: {
+          color: '#eee',
+      },
+      silent: true,
+      data: [ [{
+        name: '未更新',
+        label: {
+          color: '#aaa',
+        },
+        xAxis: records[records.length - 2].updateTime,
+      }, {
+        xAxis: records[records.length - 1].updateTime,
+      }] ]
+    }
+  }
+
   const config = {
     title: [
       {
@@ -113,7 +141,7 @@ function createTrendsChartConfig(data) {
         target: 'self',
       },
       {
-        text: data.lastUpdate ? `最后更新时间：${data.lastUpdate}` : '',
+        text: data.lastUpdate ? `最后更新时间：${new Date(data.lastUpdate).toLocaleString('zh-CN')}` : '',
         right: 20, top: 4,
         textStyle: { fontSize: 12, fontWeight: 'normal', color: '#666', },
       }
@@ -182,6 +210,7 @@ function createTrendsChartConfig(data) {
         data: deadIncrease,
         type: 'bar',
         yAxisIndex: 1,
+        markArea,
       },
     ]
   };
