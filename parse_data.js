@@ -13,7 +13,9 @@ function parseData(data) {
   const provinces = {};
 
   function createRecord(prefix, lineRecord) {
-    const ret = { updateTime: new Date(lineRecord.updateTime.replace(' ', 'T') + '+08:00').toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' }).replace(/\/?2020\/?/, '') };
+    const time = new Date(lineRecord.updateTime.replace(' ', 'T') + '+08:00');
+    const lastUpdate = time.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
+    const ret = { lastUpdate, updateTime: time.toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' }).replace(/\/?2020\/?/, '') };
     Object.keys(lineRecord).forEach(k => {
       if (k.split('_')[0] === prefix) {
         ret[k.split('_')[1]] = lineRecord[k];

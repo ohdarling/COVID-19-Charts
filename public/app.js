@@ -106,11 +106,18 @@ function createTrendsChartConfig(data) {
   const insick = records.map(v => v.insickCount);
 
   const config = {
-    title: {
-      text: name,
-      link: hasCity ? `javascript:showProvince('${name}')` : '',
-      target: 'self',
-    },
+    title: [
+      {
+        text: name,
+        link: hasCity ? `javascript:showProvince('${name}')` : '',
+        target: 'self',
+      },
+      {
+        text: data.lastUpdate ? `最后更新时间：${data.lastUpdate}` : '',
+        right: 20, top: 4,
+        textStyle: { fontSize: 12, fontWeight: 'normal', color: '#666', },
+      }
+    ],
     tooltip: {
       trigger: 'axis'
     },
