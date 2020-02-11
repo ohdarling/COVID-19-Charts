@@ -60,21 +60,6 @@
     "enName": "India"
   },
   {
-    "country": "意大利",
-    "provinceName": "意大利",
-    "provinceShortName": "意大利",
-    "confirmedCount": 3,
-    "suspectedCount": 0,
-    "curedCount": 0,
-    "deadCount": 0,
-    "comment": "",
-    "updateTime": "2/11",
-    "createTime": 1581434204000,
-    "modifyTime": 1581434204000,
-    "updateDate": "2/11",
-    "enName": "Italy"
-  },
-  {
     "country": "马来西亚",
     "provinceName": "马来西亚",
     "provinceShortName": "马来西亚",
@@ -88,6 +73,21 @@
     "modifyTime": 1581434204000,
     "updateDate": "2/11",
     "enName": "Malaysia"
+  },
+  {
+    "country": "意大利",
+    "provinceName": "意大利",
+    "provinceShortName": "意大利",
+    "confirmedCount": 3,
+    "suspectedCount": 0,
+    "curedCount": 0,
+    "deadCount": 0,
+    "comment": "",
+    "updateTime": "2/11",
+    "createTime": 1581434204000,
+    "modifyTime": 1581434204000,
+    "updateDate": "2/11",
+    "enName": "Italy"
   },
   {
     "country": "泰国",
@@ -165,21 +165,6 @@
     "enName": "German"
   },
   {
-    "country": "瑞典",
-    "provinceName": "瑞典",
-    "provinceShortName": "瑞典",
-    "confirmedCount": 1,
-    "suspectedCount": 0,
-    "curedCount": 0,
-    "deadCount": 0,
-    "comment": "",
-    "updateTime": "2/11",
-    "createTime": 1581434204000,
-    "modifyTime": 1581434204000,
-    "updateDate": "2/11",
-    "enName": "Sweden"
-  },
-  {
     "country": "新加坡",
     "provinceName": "新加坡",
     "provinceShortName": "新加坡",
@@ -193,6 +178,21 @@
     "modifyTime": 1581434204000,
     "updateDate": "2/11",
     "enName": "Singapore"
+  },
+  {
+    "country": "瑞典",
+    "provinceName": "瑞典",
+    "provinceShortName": "瑞典",
+    "confirmedCount": 1,
+    "suspectedCount": 0,
+    "curedCount": 0,
+    "deadCount": 0,
+    "comment": "",
+    "updateTime": "2/11",
+    "createTime": 1581434204000,
+    "modifyTime": 1581434204000,
+    "updateDate": "2/11",
+    "enName": "Sweden"
   },
   {
     "country": "芬兰",
@@ -210,21 +210,6 @@
     "enName": "Finland"
   },
   {
-    "country": "法国",
-    "provinceName": "法国",
-    "provinceShortName": "法国",
-    "confirmedCount": 11,
-    "suspectedCount": 0,
-    "curedCount": 0,
-    "deadCount": 0,
-    "comment": "",
-    "updateTime": "2/11",
-    "createTime": 1581434204000,
-    "modifyTime": 1581434204000,
-    "updateDate": "2/11",
-    "enName": "France"
-  },
-  {
     "country": "斯里兰卡",
     "provinceName": "斯里兰卡",
     "provinceShortName": "斯里兰卡",
@@ -238,6 +223,21 @@
     "modifyTime": 1581434204000,
     "updateDate": "2/11",
     "enName": "Sri Lanka"
+  },
+  {
+    "country": "法国",
+    "provinceName": "法国",
+    "provinceShortName": "法国",
+    "confirmedCount": 11,
+    "suspectedCount": 0,
+    "curedCount": 0,
+    "deadCount": 0,
+    "comment": "",
+    "updateTime": "2/11",
+    "createTime": 1581434204000,
+    "modifyTime": 1581434204000,
+    "updateDate": "2/11",
+    "enName": "France"
   },
   {
     "country": "尼泊尔",
@@ -270,21 +270,6 @@
     "enName": "Korea"
   },
   {
-    "country": "越南",
-    "provinceName": "越南",
-    "provinceShortName": "越南",
-    "confirmedCount": 15,
-    "suspectedCount": 0,
-    "curedCount": 1,
-    "deadCount": 0,
-    "comment": "",
-    "updateTime": "2/11",
-    "createTime": 1581434204000,
-    "modifyTime": 1581434204000,
-    "updateDate": "2/11",
-    "enName": "Vietnam"
-  },
-  {
     "country": "西班牙",
     "provinceName": "西班牙",
     "provinceShortName": "西班牙",
@@ -298,6 +283,21 @@
     "modifyTime": 1581434204000,
     "updateDate": "2/11",
     "enName": "Spain"
+  },
+  {
+    "country": "越南",
+    "provinceName": "越南",
+    "provinceShortName": "越南",
+    "confirmedCount": 15,
+    "suspectedCount": 0,
+    "curedCount": 1,
+    "deadCount": 0,
+    "comment": "",
+    "updateTime": "2/11",
+    "createTime": 1581434204000,
+    "modifyTime": 1581434204000,
+    "updateDate": "2/11",
+    "enName": "Vietnam"
   },
   {
     "country": "加拿大",
@@ -330,6 +330,21 @@
     "enName": "Cambodia"
   },
   {
+    "country": "美国",
+    "provinceName": "美国",
+    "provinceShortName": "美国",
+    "confirmedCount": 13,
+    "suspectedCount": 0,
+    "curedCount": 0,
+    "deadCount": 0,
+    "comment": "",
+    "updateTime": "2/11",
+    "createTime": 1581434204000,
+    "modifyTime": 1581434204000,
+    "updateDate": "2/11",
+    "enName": "United States"
+  },
+  {
     "country": "菲律宾",
     "provinceName": "菲律宾",
     "provinceShortName": "菲律宾",
@@ -358,20 +373,5 @@
     "modifyTime": 1581434204000,
     "updateDate": "2/11",
     "enName": "United Arab Emirates"
-  },
-  {
-    "country": "美国",
-    "provinceName": "美国",
-    "provinceShortName": "美国",
-    "confirmedCount": 13,
-    "suspectedCount": 0,
-    "curedCount": 0,
-    "deadCount": 0,
-    "comment": "",
-    "updateTime": "2/11",
-    "createTime": 1581434204000,
-    "modifyTime": 1581434204000,
-    "updateDate": "2/11",
-    "enName": "United States"
   }
 ]
