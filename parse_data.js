@@ -9,6 +9,15 @@ const allDates = (() => {
   return ret;
 })();
 
+const todayStart = (() => {
+  const today = new Date();
+  today.setSeconds(0);
+  today.setMinutes(0);
+  today.setHours(0);
+  today.setMinutes(480 + today.getTimezoneOffset());
+  return today;
+})();
+
 function parseData(data) {
   const provinces = {};
 
@@ -98,11 +107,11 @@ function processDuplicatedData(data) {
     });
   });
 
+  const unknownAreas = [ '未知地区', '待明确地区', '未明确地区', '未知', '不明地区', '待明确', '未明确', ];
   function filterDuplicateKey(obj, k) {
-    const unknowArea = [ '未知地区', '待明确地区', '未明确地区', '未知', '不明地区', ];
     const [ dupKey ] = Object.keys(obj).filter(v => {
       const isKeySimilar = k.substr(0, v.length) === v || v.substr(0, k.length) === k;
-      const isBothUknown = unknowArea.indexOf(k) > -1 && unknowArea.indexOf(v) > -1;
+      const isBothUknown = unknownAreas.indexOf(k) > -1 && unknownAreas.indexOf(v) > -1;
       return v !== k && (isKeySimilar || isBothUknown);
     });
     if (dupKey) {
@@ -119,6 +128,11 @@ function processDuplicatedData(data) {
       if (cities[k]) {
         filterDuplicateKey(cities, k);
       }
+      unknownAreas.forEach(k => {
+        if (cities[k] && new Date(cities[k].lastUpdate) < todayStart) {
+          delete cities[k];
+        }
+      })
     })
   })
 
@@ -156,6 +170,7 @@ function toSortedProvinceData(data) {
     prov.cityList = Object.values(prov.cities).sort((a, b) => {
       return a.confirmedCount > b.confirmedCount ? -1 : 1;
     });
+    delete prov.cities;
     return prov;
   });
 }
