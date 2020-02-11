@@ -28,7 +28,7 @@ const showLoading = (() => {
       }
     } else {
       if (show) {
-        loading = el.loading();
+        loading = el.loading({ message: 'Loading ...'});
       } else {
         el.loading('stop');
         loading = null;
