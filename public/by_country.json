@@ -135,21 +135,6 @@
     "enName": "German"
   },
   {
-    "country": "澳大利亚",
-    "provinceName": "澳大利亚",
-    "provinceShortName": "澳大利亚",
-    "confirmedCount": 15,
-    "suspectedCount": 0,
-    "curedCount": 3,
-    "deadCount": 0,
-    "comment": "",
-    "updateTime": "2/11",
-    "createTime": 1581434204000,
-    "modifyTime": 1581434204000,
-    "updateDate": "2/11",
-    "enName": "Australia"
-  },
-  {
     "country": "俄罗斯",
     "provinceName": "俄罗斯",
     "provinceShortName": "俄罗斯",
@@ -178,6 +163,21 @@
     "modifyTime": 1581434204000,
     "updateDate": "2/11",
     "enName": "Japan"
+  },
+  {
+    "country": "澳大利亚",
+    "provinceName": "澳大利亚",
+    "provinceShortName": "澳大利亚",
+    "confirmedCount": 15,
+    "suspectedCount": 0,
+    "curedCount": 3,
+    "deadCount": 0,
+    "comment": "",
+    "updateTime": "2/11",
+    "createTime": 1581434204000,
+    "modifyTime": 1581434204000,
+    "updateDate": "2/11",
+    "enName": "Australia"
   },
   {
     "country": "泰国",
@@ -300,21 +300,6 @@
     "enName": "United States"
   },
   {
-    "country": "柬埔寨",
-    "provinceName": "柬埔寨",
-    "provinceShortName": "柬埔寨",
-    "confirmedCount": 1,
-    "suspectedCount": 0,
-    "curedCount": 0,
-    "deadCount": 0,
-    "comment": "",
-    "updateTime": "2/11",
-    "createTime": 1581434204000,
-    "modifyTime": 1581434204000,
-    "updateDate": "2/11",
-    "enName": "Cambodia"
-  },
-  {
     "country": "加拿大",
     "provinceName": "加拿大",
     "provinceShortName": "加拿大",
@@ -328,6 +313,21 @@
     "modifyTime": 1581434204000,
     "updateDate": "2/11",
     "enName": "Canada"
+  },
+  {
+    "country": "柬埔寨",
+    "provinceName": "柬埔寨",
+    "provinceShortName": "柬埔寨",
+    "confirmedCount": 1,
+    "suspectedCount": 0,
+    "curedCount": 0,
+    "deadCount": 0,
+    "comment": "",
+    "updateTime": "2/11",
+    "createTime": 1581434204000,
+    "modifyTime": 1581434204000,
+    "updateDate": "2/11",
+    "enName": "Cambodia"
   },
   {
     "country": "韩国",
