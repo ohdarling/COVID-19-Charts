@@ -305,7 +305,7 @@ function parseOverAllData(csvData) {
 
     lineRecord.insickCount = Math.max(lineRecord.confirmedCount - lineRecord.curedCount - lineRecord.deadCount, 0);
     lineRecord.lastUpdate = new Date(lineRecord.updateTime.replace(' ', 'T') + '+08:00').toISOString();
-    lineRecord.updateDate = new Date(lineRecord.lastUpdate).toLocaleDateString();
+    lineRecord.updateDate = new Date(lineRecord.lastUpdate).toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' });
     lineRecord.updateTime = lineRecord.updateDate.replace(/\/?2020\/?/, '');
 
     records.push(lineRecord);
