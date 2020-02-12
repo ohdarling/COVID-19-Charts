@@ -3159,7 +3159,7 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
+            "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -3170,7 +3170,7 @@
             "deadIncreased": 0
           },
           {
-            "name": "徐汇区",
+            "name": "静安区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -3193,6 +3193,17 @@
           },
           {
             "name": "长宁区",
+            "provinceName": "上海市",
+            "confirmedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/24",
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -3226,17 +3237,6 @@
           },
           {
             "name": "杨浦区",
-            "provinceName": "上海市",
-            "confirmedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/24",
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -9026,7 +9026,7 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
+            "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -9037,7 +9037,7 @@
             "deadIncreased": 0
           },
           {
-            "name": "徐汇区",
+            "name": "静安区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -9060,6 +9060,17 @@
           },
           {
             "name": "长宁区",
+            "provinceName": "上海市",
+            "confirmedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/25",
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -9093,17 +9104,6 @@
           },
           {
             "name": "杨浦区",
-            "provinceName": "上海市",
-            "confirmedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/25",
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -15031,7 +15031,7 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
+            "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -15042,7 +15042,7 @@
             "deadIncreased": 0
           },
           {
-            "name": "徐汇区",
+            "name": "静安区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -15065,6 +15065,17 @@
           },
           {
             "name": "长宁区",
+            "provinceName": "上海市",
+            "confirmedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/26",
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -15098,17 +15109,6 @@
           },
           {
             "name": "杨浦区",
-            "provinceName": "上海市",
-            "confirmedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/26",
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -21189,20 +21189,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 5,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/27",
-            "lastUpdate": "2020-01-27T07:56:40.534Z",
-            "suspectedCount": 0,
-            "insickCount": 5,
-            "confirmedIncreased": 5,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 3,
@@ -21213,6 +21199,20 @@
             "suspectedCount": 0,
             "insickCount": 3,
             "confirmedIncreased": 3,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 5,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/27",
+            "lastUpdate": "2020-01-27T07:56:40.534Z",
+            "suspectedCount": 0,
+            "insickCount": 5,
+            "confirmedIncreased": 5,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -21238,6 +21238,17 @@
             "suspectedCount": 0,
             "insickCount": 5,
             "confirmedIncreased": 5,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/27",
+            "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -21271,17 +21282,6 @@
           },
           {
             "name": "杨浦区",
-            "provinceName": "上海市",
-            "confirmedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/27",
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -27437,20 +27437,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 5,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/28",
-            "lastUpdate": "2020-01-28T00:18:27.954Z",
-            "suspectedCount": 0,
-            "insickCount": 5,
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 3,
@@ -27460,6 +27446,20 @@
             "lastUpdate": "2020-01-28T00:18:27.954Z",
             "suspectedCount": 0,
             "insickCount": 3,
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 5,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/28",
+            "lastUpdate": "2020-01-28T00:18:27.954Z",
+            "suspectedCount": 0,
+            "insickCount": 5,
             "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -27485,6 +27485,17 @@
             "lastUpdate": "2020-01-28T00:18:27.954Z",
             "suspectedCount": 0,
             "insickCount": 5,
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/28",
             "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -27519,17 +27530,6 @@
           },
           {
             "name": "杨浦区",
-            "provinceName": "上海市",
-            "confirmedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/28",
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -33763,20 +33763,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 5,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/29",
-            "lastUpdate": "2020-01-28T00:18:27.954Z",
-            "suspectedCount": 0,
-            "insickCount": 5,
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 3,
@@ -33786,6 +33772,20 @@
             "lastUpdate": "2020-01-28T00:18:27.954Z",
             "suspectedCount": 0,
             "insickCount": 3,
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 5,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/29",
+            "lastUpdate": "2020-01-28T00:18:27.954Z",
+            "suspectedCount": 0,
+            "insickCount": 5,
             "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -33811,6 +33811,17 @@
             "lastUpdate": "2020-01-28T00:18:27.954Z",
             "suspectedCount": 0,
             "insickCount": 5,
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/29",
             "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -33845,17 +33856,6 @@
           },
           {
             "name": "杨浦区",
-            "provinceName": "上海市",
-            "confirmedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/29",
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -40119,20 +40119,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 5,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/30",
-            "lastUpdate": "2020-01-28T00:18:27.954Z",
-            "suspectedCount": 0,
-            "insickCount": 5,
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 3,
@@ -40142,6 +40128,20 @@
             "lastUpdate": "2020-01-28T00:18:27.954Z",
             "suspectedCount": 0,
             "insickCount": 3,
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 5,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/30",
+            "lastUpdate": "2020-01-28T00:18:27.954Z",
+            "suspectedCount": 0,
+            "insickCount": 5,
             "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -40167,6 +40167,17 @@
             "lastUpdate": "2020-01-28T00:18:27.954Z",
             "suspectedCount": 0,
             "insickCount": 5,
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/30",
             "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -40201,17 +40212,6 @@
           },
           {
             "name": "杨浦区",
-            "provinceName": "上海市",
-            "confirmedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/30",
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
             "provinceName": "上海市",
             "confirmedCount": 0,
             "curedCount": 0,
@@ -46556,20 +46556,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 8,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/31",
-            "lastUpdate": "2020-01-31T09:36:28.925Z",
-            "suspectedCount": 0,
-            "insickCount": 8,
-            "confirmedIncreased": 3,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 5,
@@ -46580,6 +46566,20 @@
             "suspectedCount": 0,
             "insickCount": 5,
             "confirmedIncreased": 2,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 8,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/31",
+            "lastUpdate": "2020-01-31T09:36:28.925Z",
+            "suspectedCount": 0,
+            "insickCount": 8,
+            "confirmedIncreased": 3,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -46608,6 +46608,17 @@
             "suspectedCount": 0,
             "insickCount": 6,
             "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/31",
+            "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -46650,17 +46661,6 @@
             "suspectedCount": 0,
             "insickCount": 1,
             "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
-            "provinceName": "上海市",
-            "confirmedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/31",
-            "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -53053,20 +53053,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 8,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/1",
-            "lastUpdate": "2020-02-01T10:29:15.389Z",
-            "suspectedCount": 0,
-            "insickCount": 8,
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 7,
@@ -53077,6 +53063,20 @@
             "suspectedCount": 0,
             "insickCount": 7,
             "confirmedIncreased": 2,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 8,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/1",
+            "lastUpdate": "2020-02-01T10:29:15.389Z",
+            "suspectedCount": 0,
+            "insickCount": 8,
+            "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -53105,6 +53105,20 @@
             "suspectedCount": 0,
             "insickCount": 7,
             "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 2,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/1",
+            "lastUpdate": "2020-02-01T10:29:15.389Z",
+            "suspectedCount": 0,
+            "insickCount": 2,
+            "confirmedIncreased": 2,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -53147,20 +53161,6 @@
             "suspectedCount": 0,
             "insickCount": 2,
             "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
-            "provinceName": "上海市",
-            "confirmedCount": 2,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/1",
-            "lastUpdate": "2020-02-01T10:29:15.389Z",
-            "suspectedCount": 0,
-            "insickCount": 2,
-            "confirmedIncreased": 2,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -59592,20 +59592,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 9,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/2",
-            "lastUpdate": "2020-02-02T06:19:43.279Z",
-            "suspectedCount": 0,
-            "insickCount": 9,
-            "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 7,
@@ -59616,6 +59602,20 @@
             "suspectedCount": 0,
             "insickCount": 7,
             "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 9,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/2",
+            "lastUpdate": "2020-02-02T06:19:43.279Z",
+            "suspectedCount": 0,
+            "insickCount": 9,
+            "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -59644,6 +59644,20 @@
             "suspectedCount": 0,
             "insickCount": 7,
             "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 3,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/2",
+            "lastUpdate": "2020-02-02T06:19:43.279Z",
+            "suspectedCount": 0,
+            "insickCount": 3,
+            "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -59686,20 +59700,6 @@
             "suspectedCount": 0,
             "insickCount": 2,
             "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
-            "provinceName": "上海市",
-            "confirmedCount": 3,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/2",
-            "lastUpdate": "2020-02-02T06:19:43.279Z",
-            "suspectedCount": 0,
-            "insickCount": 3,
-            "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -66152,20 +66152,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 9,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/3",
-            "lastUpdate": "2020-02-03T07:41:33.401Z",
-            "suspectedCount": 0,
-            "insickCount": 9,
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 9,
@@ -66176,6 +66162,20 @@
             "suspectedCount": 0,
             "insickCount": 9,
             "confirmedIncreased": 2,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 9,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/3",
+            "lastUpdate": "2020-02-03T07:41:33.401Z",
+            "suspectedCount": 0,
+            "insickCount": 9,
+            "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -66204,6 +66204,20 @@
             "suspectedCount": 0,
             "insickCount": 8,
             "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 6,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/3",
+            "lastUpdate": "2020-02-03T07:41:33.401Z",
+            "suspectedCount": 0,
+            "insickCount": 6,
+            "confirmedIncreased": 3,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -66246,20 +66260,6 @@
             "suspectedCount": 0,
             "insickCount": 4,
             "confirmedIncreased": 2,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
-            "provinceName": "上海市",
-            "confirmedCount": 6,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/3",
-            "lastUpdate": "2020-02-03T07:41:33.401Z",
-            "suspectedCount": 0,
-            "insickCount": 6,
-            "confirmedIncreased": 3,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -72730,20 +72730,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 10,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/4",
-            "lastUpdate": "2020-02-04T12:25:40.282Z",
-            "suspectedCount": 0,
-            "insickCount": 10,
-            "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 11,
@@ -72754,6 +72740,20 @@
             "suspectedCount": 0,
             "insickCount": 11,
             "confirmedIncreased": 2,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 10,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/4",
+            "lastUpdate": "2020-02-04T12:25:40.282Z",
+            "suspectedCount": 0,
+            "insickCount": 10,
+            "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -72781,6 +72781,20 @@
             "lastUpdate": "2020-02-04T12:25:40.282Z",
             "suspectedCount": 0,
             "insickCount": 8,
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 6,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/4",
+            "lastUpdate": "2020-02-04T12:25:40.282Z",
+            "suspectedCount": 0,
+            "insickCount": 6,
             "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -72824,20 +72838,6 @@
             "suspectedCount": 0,
             "insickCount": 5,
             "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
-            "provinceName": "上海市",
-            "confirmedCount": 6,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/4",
-            "lastUpdate": "2020-02-04T12:25:40.282Z",
-            "suspectedCount": 0,
-            "insickCount": 6,
-            "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -79332,20 +79332,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 13,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/5",
-            "lastUpdate": "2020-02-05T06:19:19.984Z",
-            "suspectedCount": 0,
-            "insickCount": 13,
-            "confirmedIncreased": 3,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 12,
@@ -79356,6 +79342,20 @@
             "suspectedCount": 0,
             "insickCount": 12,
             "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 13,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/5",
+            "lastUpdate": "2020-02-05T06:19:19.984Z",
+            "suspectedCount": 0,
+            "insickCount": 13,
+            "confirmedIncreased": 3,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -79384,6 +79384,20 @@
             "suspectedCount": 0,
             "insickCount": 9,
             "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 6,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/5",
+            "lastUpdate": "2020-02-05T06:19:19.984Z",
+            "suspectedCount": 0,
+            "insickCount": 6,
+            "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -79426,20 +79440,6 @@
             "suspectedCount": 0,
             "insickCount": 6,
             "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
-            "provinceName": "上海市",
-            "confirmedCount": 6,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/5",
-            "lastUpdate": "2020-02-05T06:19:19.984Z",
-            "suspectedCount": 0,
-            "insickCount": 6,
-            "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -85940,20 +85940,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 14,
-            "curedCount": 2,
-            "deadCount": 0,
-            "updateTime": "2/6",
-            "lastUpdate": "2020-02-06T06:46:13.501Z",
-            "suspectedCount": 0,
-            "insickCount": 12,
-            "confirmedIncreased": 1,
-            "curedIncreased": 2,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 14,
@@ -85965,6 +85951,20 @@
             "insickCount": 14,
             "confirmedIncreased": 2,
             "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 14,
+            "curedCount": 2,
+            "deadCount": 0,
+            "updateTime": "2/6",
+            "lastUpdate": "2020-02-06T06:46:13.501Z",
+            "suspectedCount": 0,
+            "insickCount": 12,
+            "confirmedIncreased": 1,
+            "curedIncreased": 2,
             "deadIncreased": 0
           },
           {
@@ -85991,6 +85991,20 @@
             "lastUpdate": "2020-02-06T06:46:13.501Z",
             "suspectedCount": 0,
             "insickCount": 10,
+            "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 7,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/6",
+            "lastUpdate": "2020-02-06T06:46:13.501Z",
+            "suspectedCount": 0,
+            "insickCount": 7,
             "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -86034,20 +86048,6 @@
             "suspectedCount": 0,
             "insickCount": 6,
             "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
-            "provinceName": "上海市",
-            "confirmedCount": 7,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/6",
-            "lastUpdate": "2020-02-06T06:46:13.501Z",
-            "suspectedCount": 0,
-            "insickCount": 7,
-            "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -92563,20 +92563,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 15,
-            "curedCount": 2,
-            "deadCount": 0,
-            "updateTime": "2/7",
-            "lastUpdate": "2020-02-07T06:09:37.074Z",
-            "suspectedCount": 0,
-            "insickCount": 13,
-            "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 16,
@@ -92587,6 +92573,20 @@
             "suspectedCount": 0,
             "insickCount": 16,
             "confirmedIncreased": 2,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 15,
+            "curedCount": 2,
+            "deadCount": 0,
+            "updateTime": "2/7",
+            "lastUpdate": "2020-02-07T06:09:37.074Z",
+            "suspectedCount": 0,
+            "insickCount": 13,
+            "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -92615,6 +92615,20 @@
             "suspectedCount": 0,
             "insickCount": 11,
             "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 7,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/7",
+            "lastUpdate": "2020-02-07T06:09:37.074Z",
+            "suspectedCount": 0,
+            "insickCount": 7,
+            "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -92657,20 +92671,6 @@
             "suspectedCount": 0,
             "insickCount": 7,
             "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
-            "provinceName": "上海市",
-            "confirmedCount": 7,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/7",
-            "lastUpdate": "2020-02-07T06:09:37.074Z",
-            "suspectedCount": 0,
-            "insickCount": 7,
-            "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -99204,20 +99204,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 15,
-            "curedCount": 3,
-            "deadCount": 0,
-            "updateTime": "2/8",
-            "lastUpdate": "2020-02-08T06:28:29.350Z",
-            "suspectedCount": 0,
-            "insickCount": 12,
-            "confirmedIncreased": 0,
-            "curedIncreased": 1,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 16,
@@ -99227,6 +99213,20 @@
             "lastUpdate": "2020-02-08T06:28:29.350Z",
             "suspectedCount": 0,
             "insickCount": 15,
+            "confirmedIncreased": 0,
+            "curedIncreased": 1,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 15,
+            "curedCount": 3,
+            "deadCount": 0,
+            "updateTime": "2/8",
+            "lastUpdate": "2020-02-08T06:28:29.350Z",
+            "suspectedCount": 0,
+            "insickCount": 12,
             "confirmedIncreased": 0,
             "curedIncreased": 1,
             "deadIncreased": 0
@@ -99260,6 +99260,20 @@
             "deadIncreased": 0
           },
           {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 7,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/8",
+            "lastUpdate": "2020-02-08T06:28:29.350Z",
+            "suspectedCount": 0,
+            "insickCount": 7,
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
             "name": "奉贤区",
             "provinceName": "上海市",
             "confirmedCount": 9,
@@ -99289,20 +99303,6 @@
           },
           {
             "name": "杨浦区",
-            "provinceName": "上海市",
-            "confirmedCount": 7,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/8",
-            "lastUpdate": "2020-02-08T06:28:29.350Z",
-            "suspectedCount": 0,
-            "insickCount": 7,
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
             "provinceName": "上海市",
             "confirmedCount": 7,
             "curedCount": 0,
@@ -105860,20 +105860,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 16,
-            "curedCount": 3,
-            "deadCount": 0,
-            "updateTime": "2/9",
-            "lastUpdate": "2020-02-09T11:39:59.675Z",
-            "suspectedCount": 0,
-            "insickCount": 13,
-            "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 16,
@@ -105884,6 +105870,20 @@
             "suspectedCount": 0,
             "insickCount": 15,
             "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 16,
+            "curedCount": 3,
+            "deadCount": 0,
+            "updateTime": "2/9",
+            "lastUpdate": "2020-02-09T11:39:59.675Z",
+            "suspectedCount": 0,
+            "insickCount": 13,
+            "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -105913,6 +105913,20 @@
             "insickCount": 9,
             "confirmedIncreased": 0,
             "curedIncreased": 1,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 8,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/9",
+            "lastUpdate": "2020-02-09T11:39:59.675Z",
+            "suspectedCount": 0,
+            "insickCount": 8,
+            "confirmedIncreased": 1,
+            "curedIncreased": 0,
             "deadIncreased": 0
           },
           {
@@ -105954,20 +105968,6 @@
             "suspectedCount": 0,
             "insickCount": 7,
             "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
-            "provinceName": "上海市",
-            "confirmedCount": 8,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/9",
-            "lastUpdate": "2020-02-09T11:39:59.675Z",
-            "suspectedCount": 0,
-            "insickCount": 8,
-            "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -112522,20 +112522,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 16,
-            "curedCount": 3,
-            "deadCount": 0,
-            "updateTime": "2/10",
-            "lastUpdate": "2020-02-10T06:00:49.303Z",
-            "suspectedCount": 0,
-            "insickCount": 13,
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 16,
@@ -112545,6 +112531,20 @@
             "lastUpdate": "2020-02-10T06:00:49.303Z",
             "suspectedCount": 0,
             "insickCount": 15,
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 16,
+            "curedCount": 3,
+            "deadCount": 0,
+            "updateTime": "2/10",
+            "lastUpdate": "2020-02-10T06:00:49.303Z",
+            "suspectedCount": 0,
+            "insickCount": 13,
             "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -112573,6 +112573,20 @@
             "lastUpdate": "2020-02-10T06:00:49.303Z",
             "suspectedCount": 0,
             "insickCount": 9,
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 8,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/10",
+            "lastUpdate": "2020-02-10T06:00:49.303Z",
+            "suspectedCount": 0,
+            "insickCount": 8,
             "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -112615,20 +112629,6 @@
             "lastUpdate": "2020-02-10T06:00:49.303Z",
             "suspectedCount": 0,
             "insickCount": 7,
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
-            "provinceName": "上海市",
-            "confirmedCount": 8,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/10",
-            "lastUpdate": "2020-02-10T06:00:49.303Z",
-            "suspectedCount": 0,
-            "insickCount": 8,
             "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -119187,20 +119187,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "静安区",
-            "provinceName": "上海市",
-            "confirmedCount": 16,
-            "curedCount": 3,
-            "deadCount": 0,
-            "updateTime": "2/11",
-            "lastUpdate": "2020-02-11T06:21:08.984Z",
-            "suspectedCount": 0,
-            "insickCount": 13,
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "徐汇区",
             "provinceName": "上海市",
             "confirmedCount": 16,
@@ -119210,6 +119196,20 @@
             "lastUpdate": "2020-02-11T06:21:08.984Z",
             "suspectedCount": 0,
             "insickCount": 15,
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "静安区",
+            "provinceName": "上海市",
+            "confirmedCount": 16,
+            "curedCount": 3,
+            "deadCount": 0,
+            "updateTime": "2/11",
+            "lastUpdate": "2020-02-11T06:21:08.984Z",
+            "suspectedCount": 0,
+            "insickCount": 13,
             "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -119240,6 +119240,20 @@
             "insickCount": 8,
             "confirmedIncreased": 0,
             "curedIncreased": 1,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 8,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/11",
+            "lastUpdate": "2020-02-11T06:21:08.984Z",
+            "suspectedCount": 0,
+            "insickCount": 8,
+            "confirmedIncreased": 0,
+            "curedIncreased": 0,
             "deadIncreased": 0
           },
           {
@@ -119281,20 +119295,6 @@
             "suspectedCount": 0,
             "insickCount": 8,
             "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
-            "provinceName": "上海市",
-            "confirmedCount": 8,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/11",
-            "lastUpdate": "2020-02-11T06:21:08.984Z",
-            "suspectedCount": 0,
-            "insickCount": 8,
-            "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -125785,13 +125785,13 @@
       {
         "name": "上海市",
         "provinceName": "上海市",
-        "confirmedCount": 306,
+        "confirmedCount": 311,
         "curedCount": 57,
         "deadCount": 1,
         "updateTime": "2/12",
-        "lastUpdate": "2020-02-12T04:16:54.768Z",
+        "lastUpdate": "2020-02-12T06:14:30.590Z",
         "suspectedCount": 0,
-        "insickCount": 248,
+        "insickCount": 253,
         "confirmedIncreased": 0,
         "curedIncreased": 1,
         "deadIncreased": 0,
@@ -125803,7 +125803,7 @@
             "curedCount": 26,
             "deadCount": 1,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 72,
             "confirmedIncreased": 1,
@@ -125817,7 +125817,7 @@
             "curedCount": 10,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 46,
             "confirmedIncreased": 0,
@@ -125845,7 +125845,7 @@
             "curedCount": 0,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 20,
             "confirmedIncreased": 0,
@@ -125855,14 +125855,28 @@
           {
             "name": "闵行区",
             "provinceName": "上海市",
-            "confirmedCount": 17,
+            "confirmedCount": 18,
             "curedCount": 2,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
-            "insickCount": 15,
-            "confirmedIncreased": 0,
+            "insickCount": 16,
+            "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "徐汇区",
+            "provinceName": "上海市",
+            "confirmedCount": 17,
+            "curedCount": 1,
+            "deadCount": 0,
+            "updateTime": "2/12",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
+            "suspectedCount": 0,
+            "insickCount": 16,
+            "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -125873,23 +125887,9 @@
             "curedCount": 3,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 13,
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "徐汇区",
-            "provinceName": "上海市",
-            "confirmedCount": 16,
-            "curedCount": 1,
-            "deadCount": 0,
-            "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
-            "suspectedCount": 0,
-            "insickCount": 15,
             "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -125901,7 +125901,7 @@
             "curedCount": 1,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 13,
             "confirmedIncreased": 0,
@@ -125915,10 +125915,24 @@
             "curedCount": 3,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 9,
             "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "普陀区",
+            "provinceName": "上海市",
+            "confirmedCount": 11,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/12",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
+            "suspectedCount": 0,
+            "insickCount": 11,
+            "confirmedIncreased": 3,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -125929,7 +125943,7 @@
             "curedCount": 1,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 8,
             "confirmedIncreased": 0,
@@ -125943,7 +125957,7 @@
             "curedCount": 1,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 7,
             "confirmedIncreased": 0,
@@ -125957,21 +125971,7 @@
             "curedCount": 0,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
-            "suspectedCount": 0,
-            "insickCount": 8,
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "普陀区",
-            "provinceName": "上海市",
-            "confirmedCount": 8,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 8,
             "confirmedIncreased": 0,
@@ -125985,7 +125985,7 @@
             "curedCount": 2,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 5,
             "confirmedIncreased": 0,
@@ -125999,7 +125999,7 @@
             "curedCount": 1,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 5,
             "confirmedIncreased": 1,
@@ -126013,7 +126013,7 @@
             "curedCount": 2,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 3,
             "confirmedIncreased": 0,
@@ -126027,7 +126027,7 @@
             "curedCount": 0,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 3,
             "confirmedIncreased": 0,
@@ -126041,7 +126041,7 @@
             "curedCount": 0,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T04:16:54.768Z",
+            "lastUpdate": "2020-02-12T06:14:30.590Z",
             "suspectedCount": 0,
             "insickCount": 2,
             "confirmedIncreased": 0,
@@ -128930,35 +128930,35 @@
         "name": "西藏自治区",
         "provinceName": "西藏自治区",
         "confirmedCount": 1,
-        "curedCount": 0,
+        "curedCount": 1,
         "deadCount": 0,
         "updateTime": "2/12",
-        "lastUpdate": "2020-02-04T08:11:25.779Z",
+        "lastUpdate": "2020-02-12T06:42:37.332Z",
         "suspectedCount": 0,
-        "insickCount": 1,
+        "insickCount": 0,
         "confirmedIncreased": 0,
-        "curedIncreased": 0,
+        "curedIncreased": 1,
         "deadIncreased": 0,
         "cityList": [
           {
             "name": "拉萨",
             "provinceName": "西藏自治区",
             "confirmedCount": 1,
-            "curedCount": 0,
+            "curedCount": 1,
             "deadCount": 0,
             "updateTime": "2/12",
-            "lastUpdate": "2020-02-04T08:11:25.779Z",
+            "lastUpdate": "2020-02-12T06:42:37.332Z",
             "suspectedCount": 0,
-            "insickCount": 1,
+            "insickCount": 0,
             "confirmedIncreased": 0,
-            "curedIncreased": 0,
+            "curedIncreased": 1,
             "deadIncreased": 0
           }
         ]
       }
     ],
     "confirmedIncreased": 0,
-    "curedIncreased": 0,
+    "curedIncreased": 1,
     "deadIncreased": 0
   }
 ]
