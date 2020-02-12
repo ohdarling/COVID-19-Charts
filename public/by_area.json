@@ -2,7 +2,7 @@
   {
     "name": "全国",
     "provinceName": "全国",
-    "lastUpdate": "2020-02-12T13:28:28.155Z",
+    "lastUpdate": "2020-02-12T14:58:02.696Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -430,28 +430,28 @@
         "seriousDayRate": "2.74",
         "suspectedAccum": 59595,
         "suspectedDayProcessed": 8950,
-        "suspectedConfirmedCount": 2055,
-        "suspectedConfirmedRate": "9.48",
+        "suspectedConfirmedCount": 2057,
+        "suspectedConfirmedRate": "9.49",
         "suspectedDayProcessedRate": "41.29",
-        "suspectedDayConfirmedRate": "22.96"
+        "suspectedDayConfirmedRate": "22.98"
       },
       {
-        "confirmedCount": 44763,
+        "confirmedCount": 44765,
         "suspectedCount": 16067,
-        "curedCount": 5034,
+        "curedCount": 5066,
         "deadCount": 1116,
         "seriousCount": 8204,
         "suspectedIncreased": 3342,
-        "confirmedIncreased": 2055,
-        "curedIncreased": 1036,
+        "confirmedIncreased": 2057,
+        "curedIncreased": 1068,
         "deadIncreased": 99,
         "seriousIncreased": 871,
         "updateTime": "2/12",
-        "insickCount": 38613,
-        "lastUpdate": "2020-02-12T13:28:28.155Z",
+        "insickCount": 38583,
+        "lastUpdate": "2020-02-12T14:58:02.696Z",
         "updateDate": "2020/2/12",
         "seriousRate": "18.33",
-        "seriousDayRate": "2.78",
+        "seriousDayRate": "2.79",
         "suspectedAccum": 62937
       }
     ]
@@ -691,13 +691,13 @@
       {
         "lastUpdate": "2020-02-12T12:15:15.388Z",
         "updateTime": "2/12",
-        "confirmedCount": 11321,
+        "confirmedCount": 11323,
         "suspectedCount": 0,
-        "curedCount": 2362,
+        "curedCount": 2376,
         "deadCount": 47,
-        "insickCount": 8912,
-        "confirmedIncreased": 377,
-        "curedIncreased": 375,
+        "insickCount": 8900,
+        "confirmedIncreased": 379,
+        "curedIncreased": 388,
         "deadIncreased": 5
       }
     ],
@@ -945,25 +945,25 @@
         "deadIncreased": 103
       },
       {
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 33366,
         "suspectedCount": 0,
-        "curedCount": 2668,
+        "curedCount": 2686,
         "deadCount": 1068,
-        "insickCount": 29630,
+        "insickCount": 29612,
         "confirmedIncreased": 1638,
-        "curedIncreased": 358,
+        "curedIncreased": 376,
         "deadIncreased": 94
       }
     ],
-    "lastUpdate": "2020-02-12T12:41:25.083Z",
+    "lastUpdate": "2020-02-12T14:07:03.407Z",
     "updateTime": "2/12",
     "confirmedCount": 33366,
     "suspectedCount": 0,
-    "curedCount": 2668,
+    "curedCount": 2686,
     "deadCount": 1068,
-    "insickCount": 29630,
+    "insickCount": 29612,
     "cityList": [
       {
         "name": "武汉",
@@ -1198,27 +1198,27 @@
             "deadIncreased": 67
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 19558,
             "suspectedCount": 0,
-            "curedCount": 1379,
+            "curedCount": 1380,
             "deadCount": 820,
-            "insickCount": 17359,
+            "insickCount": 17358,
             "confirmedIncreased": 1104,
-            "curedIncreased": 137,
+            "curedIncreased": 138,
             "deadIncreased": 72
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 19558,
         "suspectedCount": 0,
-        "curedCount": 1379,
+        "curedCount": 1380,
         "deadCount": 820,
-        "insickCount": 17359,
+        "insickCount": 17358,
         "confirmedIncreased": 1104,
-        "curedIncreased": 137,
+        "curedIncreased": 138,
         "deadIncreased": 72
       },
       {
@@ -1454,7 +1454,7 @@
             "deadIncreased": 8
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 2751,
             "suspectedCount": 0,
@@ -1466,7 +1466,7 @@
             "deadIncreased": 4
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 2751,
         "suspectedCount": 0,
@@ -1710,7 +1710,7 @@
             "deadIncreased": 7
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 2398,
             "suspectedCount": 0,
@@ -1722,7 +1722,7 @@
             "deadIncreased": 2
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 2398,
         "suspectedCount": 0,
@@ -1963,7 +1963,7 @@
             "deadIncreased": 2
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 1129,
             "suspectedCount": 0,
@@ -1975,7 +1975,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 1129,
         "suspectedCount": 0,
@@ -2219,7 +2219,7 @@
             "deadIncreased": 2
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 1110,
             "suspectedCount": 0,
@@ -2231,7 +2231,7 @@
             "deadIncreased": 4
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 1110,
         "suspectedCount": 0,
@@ -2472,7 +2472,7 @@
             "deadIncreased": 3
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 1088,
             "suspectedCount": 0,
@@ -2484,7 +2484,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 1088,
         "suspectedCount": 0,
@@ -2725,7 +2725,7 @@
             "deadIncreased": 2
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 874,
             "suspectedCount": 0,
@@ -2737,7 +2737,7 @@
             "deadIncreased": 1
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 874,
         "suspectedCount": 0,
@@ -2978,7 +2978,7 @@
             "deadIncreased": 2
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 861,
             "suspectedCount": 0,
@@ -2990,7 +2990,7 @@
             "deadIncreased": 2
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 861,
         "suspectedCount": 0,
@@ -3234,7 +3234,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 784,
             "suspectedCount": 0,
@@ -3246,7 +3246,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 784,
         "suspectedCount": 0,
@@ -3490,7 +3490,7 @@
             "deadIncreased": 1
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 696,
             "suspectedCount": 0,
@@ -3502,7 +3502,7 @@
             "deadIncreased": 3
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 696,
         "suspectedCount": 0,
@@ -3746,27 +3746,27 @@
             "deadIncreased": 1
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 536,
             "suspectedCount": 0,
-            "curedCount": 70,
+            "curedCount": 79,
             "deadCount": 1,
-            "insickCount": 465,
+            "insickCount": 456,
             "confirmedIncreased": 31,
-            "curedIncreased": 6,
+            "curedIncreased": 15,
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 536,
         "suspectedCount": 0,
-        "curedCount": 70,
+        "curedCount": 79,
         "deadCount": 1,
-        "insickCount": 465,
+        "insickCount": 456,
         "confirmedIncreased": 31,
-        "curedIncreased": 6,
+        "curedIncreased": 15,
         "deadIncreased": 0
       },
       {
@@ -3996,27 +3996,27 @@
             "deadIncreased": 1
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 525,
             "suspectedCount": 0,
-            "curedCount": 68,
+            "curedCount": 76,
             "deadCount": 6,
-            "insickCount": 451,
+            "insickCount": 443,
             "confirmedIncreased": 10,
-            "curedIncreased": 12,
+            "curedIncreased": 20,
             "deadIncreased": 1
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 525,
         "suspectedCount": 0,
-        "curedCount": 68,
+        "curedCount": 76,
         "deadCount": 6,
-        "insickCount": 451,
+        "insickCount": 443,
         "confirmedIncreased": 10,
-        "curedIncreased": 12,
+        "curedIncreased": 20,
         "deadIncreased": 1
       },
       {
@@ -4252,7 +4252,7 @@
             "deadIncreased": 4
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 460,
             "suspectedCount": 0,
@@ -4264,7 +4264,7 @@
             "deadIncreased": 2
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 460,
         "suspectedCount": 0,
@@ -4505,7 +4505,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 293,
             "suspectedCount": 0,
@@ -4517,7 +4517,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 293,
         "suspectedCount": 0,
@@ -4758,7 +4758,7 @@
             "deadIncreased": 2
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 203,
             "suspectedCount": 0,
@@ -4770,7 +4770,7 @@
             "deadIncreased": 1
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 203,
         "suspectedCount": 0,
@@ -5005,7 +5005,7 @@
             "deadIncreased": 1
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 90,
             "suspectedCount": 0,
@@ -5017,7 +5017,7 @@
             "deadIncreased": 2
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 90,
         "suspectedCount": 0,
@@ -5249,7 +5249,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:41:25.083Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 10,
             "suspectedCount": 0,
@@ -5261,7 +5261,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:41:25.083Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 10,
         "suspectedCount": 0,
@@ -5274,7 +5274,7 @@
       }
     ],
     "confirmedIncreased": 1638,
-    "curedIncreased": 358,
+    "curedIncreased": 376,
     "deadIncreased": 94
   },
   {
@@ -11277,25 +11277,25 @@
         "deadIncreased": 1
       },
       {
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 1135,
         "suspectedCount": 0,
-        "curedCount": 241,
+        "curedCount": 246,
         "deadCount": 8,
-        "insickCount": 886,
+        "insickCount": 881,
         "confirmedIncreased": 30,
-        "curedIncreased": 23,
+        "curedIncreased": 28,
         "deadIncreased": 1
       }
     ],
-    "lastUpdate": "2020-02-12T10:03:39.181Z",
+    "lastUpdate": "2020-02-12T14:07:03.407Z",
     "updateTime": "2/12",
     "confirmedCount": 1135,
     "suspectedCount": 0,
-    "curedCount": 241,
+    "curedCount": 246,
     "deadCount": 8,
-    "insickCount": 886,
+    "insickCount": 881,
     "cityList": [
       {
         "name": "信阳",
@@ -11530,7 +11530,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 231,
             "suspectedCount": 0,
@@ -11542,7 +11542,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 231,
         "suspectedCount": 0,
@@ -11783,7 +11783,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 138,
             "suspectedCount": 0,
@@ -11795,7 +11795,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 138,
         "suspectedCount": 0,
@@ -12039,27 +12039,27 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 137,
             "suspectedCount": 0,
-            "curedCount": 44,
+            "curedCount": 47,
             "deadCount": 0,
-            "insickCount": 93,
+            "insickCount": 90,
             "confirmedIncreased": 5,
-            "curedIncreased": 2,
+            "curedIncreased": 5,
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 137,
         "suspectedCount": 0,
-        "curedCount": 44,
+        "curedCount": 47,
         "deadCount": 0,
-        "insickCount": 93,
+        "insickCount": 90,
         "confirmedIncreased": 5,
-        "curedIncreased": 2,
+        "curedIncreased": 5,
         "deadIncreased": 0
       },
       {
@@ -12292,7 +12292,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 128,
             "suspectedCount": 0,
@@ -12304,7 +12304,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 128,
         "suspectedCount": 0,
@@ -12539,7 +12539,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 86,
             "suspectedCount": 0,
@@ -12551,7 +12551,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 86,
         "suspectedCount": 0,
@@ -12795,7 +12795,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 66,
             "suspectedCount": 0,
@@ -12807,7 +12807,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 66,
         "suspectedCount": 0,
@@ -13048,7 +13048,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 55,
             "suspectedCount": 0,
@@ -13060,7 +13060,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 55,
         "suspectedCount": 0,
@@ -13301,7 +13301,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 53,
             "suspectedCount": 0,
@@ -13313,7 +13313,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 53,
         "suspectedCount": 0,
@@ -13545,7 +13545,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 49,
             "suspectedCount": 0,
@@ -13557,7 +13557,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 49,
         "suspectedCount": 0,
@@ -13792,7 +13792,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 34,
             "suspectedCount": 0,
@@ -13804,7 +13804,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 34,
         "suspectedCount": 0,
@@ -14039,7 +14039,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 33,
             "suspectedCount": 0,
@@ -14051,7 +14051,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 33,
         "suspectedCount": 0,
@@ -14295,27 +14295,27 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 29,
             "suspectedCount": 0,
-            "curedCount": 2,
+            "curedCount": 4,
             "deadCount": 0,
-            "insickCount": 27,
+            "insickCount": 25,
             "confirmedIncreased": 1,
-            "curedIncreased": 0,
+            "curedIncreased": 2,
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 29,
         "suspectedCount": 0,
-        "curedCount": 2,
+        "curedCount": 4,
         "deadCount": 0,
-        "insickCount": 27,
+        "insickCount": 25,
         "confirmedIncreased": 1,
-        "curedIncreased": 0,
+        "curedIncreased": 2,
         "deadIncreased": 0
       },
       {
@@ -14539,7 +14539,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 28,
             "suspectedCount": 0,
@@ -14551,7 +14551,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 28,
         "suspectedCount": 0,
@@ -14786,7 +14786,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 25,
             "suspectedCount": 0,
@@ -14798,7 +14798,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 25,
         "suspectedCount": 0,
@@ -15033,7 +15033,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 19,
             "suspectedCount": 0,
@@ -15045,7 +15045,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 19,
         "suspectedCount": 0,
@@ -15503,7 +15503,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 13,
             "suspectedCount": 0,
@@ -15515,7 +15515,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 13,
         "suspectedCount": 0,
@@ -15994,7 +15994,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 7,
             "suspectedCount": 0,
@@ -16006,7 +16006,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 7,
         "suspectedCount": 0,
@@ -16220,7 +16220,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 4,
             "suspectedCount": 0,
@@ -16232,7 +16232,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 4,
         "suspectedCount": 0,
@@ -17419,7 +17419,7 @@
             "deadIncreased": 1
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 0,
             "suspectedCount": 0,
@@ -17431,7 +17431,7 @@
             "deadIncreased": 1
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 0,
         "suspectedCount": 0,
@@ -17444,7 +17444,7 @@
       }
     ],
     "confirmedIncreased": 30,
-    "curedIncreased": 23,
+    "curedIncreased": 28,
     "deadIncreased": 1
   },
   {
@@ -32600,25 +32600,25 @@
         "deadIncreased": 0
       },
       {
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 543,
         "suspectedCount": 0,
-        "curedCount": 123,
+        "curedCount": 125,
         "deadCount": 0,
-        "insickCount": 420,
+        "insickCount": 418,
         "confirmedIncreased": 28,
-        "curedIncreased": 30,
+        "curedIncreased": 32,
         "deadIncreased": 0
       }
     ],
-    "lastUpdate": "2020-02-12T10:03:39.181Z",
+    "lastUpdate": "2020-02-12T14:07:03.407Z",
     "updateTime": "2/12",
     "confirmedCount": 543,
     "suspectedCount": 0,
-    "curedCount": 123,
+    "curedCount": 125,
     "deadCount": 0,
-    "insickCount": 420,
+    "insickCount": 418,
     "cityList": [
       {
         "name": "南京",
@@ -32853,27 +32853,27 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 87,
             "suspectedCount": 0,
-            "curedCount": 22,
+            "curedCount": 24,
             "deadCount": 0,
-            "insickCount": 65,
+            "insickCount": 63,
             "confirmedIncreased": 3,
-            "curedIncreased": 0,
+            "curedIncreased": 2,
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 87,
         "suspectedCount": 0,
-        "curedCount": 22,
+        "curedCount": 24,
         "deadCount": 0,
-        "insickCount": 65,
+        "insickCount": 63,
         "confirmedIncreased": 3,
-        "curedIncreased": 0,
+        "curedIncreased": 2,
         "deadIncreased": 0
       },
       {
@@ -33109,7 +33109,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 84,
             "suspectedCount": 0,
@@ -33121,7 +33121,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 84,
         "suspectedCount": 0,
@@ -33356,7 +33356,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 66,
             "suspectedCount": 0,
@@ -33368,7 +33368,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 66,
         "suspectedCount": 0,
@@ -33612,7 +33612,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 48,
             "suspectedCount": 0,
@@ -33624,7 +33624,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 48,
         "suspectedCount": 0,
@@ -33862,7 +33862,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 47,
             "suspectedCount": 0,
@@ -33874,7 +33874,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 47,
         "suspectedCount": 0,
@@ -34118,7 +34118,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 39,
             "suspectedCount": 0,
@@ -34130,7 +34130,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 39,
         "suspectedCount": 0,
@@ -34374,7 +34374,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 37,
             "suspectedCount": 0,
@@ -34386,7 +34386,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 37,
         "suspectedCount": 0,
@@ -34627,7 +34627,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 36,
             "suspectedCount": 0,
@@ -34639,7 +34639,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 36,
         "suspectedCount": 0,
@@ -34877,7 +34877,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 36,
             "suspectedCount": 0,
@@ -34889,7 +34889,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 36,
         "suspectedCount": 0,
@@ -35130,7 +35130,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 21,
             "suspectedCount": 0,
@@ -35142,7 +35142,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 21,
         "suspectedCount": 0,
@@ -35386,7 +35386,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 18,
             "suspectedCount": 0,
@@ -35398,7 +35398,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 18,
         "suspectedCount": 0,
@@ -35639,7 +35639,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 12,
             "suspectedCount": 0,
@@ -35651,7 +35651,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 12,
         "suspectedCount": 0,
@@ -35889,7 +35889,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T10:03:39.181Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 12,
             "suspectedCount": 0,
@@ -35901,7 +35901,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 12,
         "suspectedCount": 0,
@@ -35914,7 +35914,7 @@
       }
     ],
     "confirmedIncreased": 28,
-    "curedIncreased": 30,
+    "curedIncreased": 32,
     "deadIncreased": 0
   },
   {
@@ -55638,25 +55638,25 @@
         "deadIncreased": 1
       },
       {
-        "lastUpdate": "2020-02-12T06:58:13.049Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 378,
         "suspectedCount": 0,
-        "curedCount": 28,
+        "curedCount": 31,
         "deadCount": 8,
-        "insickCount": 342,
+        "insickCount": 339,
         "confirmedIncreased": 18,
-        "curedIncreased": 0,
+        "curedIncreased": 3,
         "deadIncreased": 0
       }
     ],
-    "lastUpdate": "2020-02-12T06:58:13.049Z",
+    "lastUpdate": "2020-02-12T14:07:03.407Z",
     "updateTime": "2/12",
     "confirmedCount": 378,
     "suspectedCount": 0,
-    "curedCount": 28,
+    "curedCount": 31,
     "deadCount": 8,
-    "insickCount": 342,
+    "insickCount": 339,
     "cityList": [
       {
         "name": "哈尔滨",
@@ -55891,7 +55891,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T06:58:13.049Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 150,
             "suspectedCount": 0,
@@ -55903,7 +55903,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T06:58:13.049Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 150,
         "suspectedCount": 0,
@@ -56147,7 +56147,7 @@
             "deadIncreased": 1
           },
           {
-            "lastUpdate": "2020-02-12T06:58:13.049Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 43,
             "suspectedCount": 0,
@@ -56159,7 +56159,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T06:58:13.049Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 43,
         "suspectedCount": 0,
@@ -56388,7 +56388,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T06:58:13.049Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 43,
             "suspectedCount": 0,
@@ -56400,7 +56400,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T06:58:13.049Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 43,
         "suspectedCount": 0,
@@ -56635,7 +56635,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T06:58:13.049Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 39,
             "suspectedCount": 0,
@@ -56647,7 +56647,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T06:58:13.049Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 39,
         "suspectedCount": 0,
@@ -56885,27 +56885,27 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T06:58:13.049Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 33,
             "suspectedCount": 0,
-            "curedCount": 1,
+            "curedCount": 4,
             "deadCount": 1,
-            "insickCount": 31,
+            "insickCount": 28,
             "confirmedIncreased": 1,
-            "curedIncreased": 0,
+            "curedIncreased": 3,
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T06:58:13.049Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 33,
         "suspectedCount": 0,
-        "curedCount": 1,
+        "curedCount": 4,
         "deadCount": 1,
-        "insickCount": 31,
+        "insickCount": 28,
         "confirmedIncreased": 1,
-        "curedIncreased": 0,
+        "curedIncreased": 3,
         "deadIncreased": 0
       },
       {
@@ -57141,7 +57141,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T06:58:13.049Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 15,
             "suspectedCount": 0,
@@ -57153,7 +57153,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T06:58:13.049Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 15,
         "suspectedCount": 0,
@@ -57388,7 +57388,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T06:58:13.049Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 15,
             "suspectedCount": 0,
@@ -57400,7 +57400,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T06:58:13.049Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 15,
         "suspectedCount": 0,
@@ -57635,7 +57635,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T06:58:13.049Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 15,
             "suspectedCount": 0,
@@ -57647,7 +57647,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T06:58:13.049Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 15,
         "suspectedCount": 0,
@@ -57891,7 +57891,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T06:58:13.049Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 12,
             "suspectedCount": 0,
@@ -57903,7 +57903,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T06:58:13.049Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 12,
         "suspectedCount": 0,
@@ -58120,7 +58120,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T06:58:13.049Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 6,
             "suspectedCount": 0,
@@ -58132,7 +58132,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T06:58:13.049Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 6,
         "suspectedCount": 0,
@@ -58358,7 +58358,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T06:58:13.049Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 5,
             "suspectedCount": 0,
@@ -58370,7 +58370,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T06:58:13.049Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 5,
         "suspectedCount": 0,
@@ -58599,7 +58599,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T06:58:13.049Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 2,
             "suspectedCount": 0,
@@ -58611,7 +58611,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T06:58:13.049Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 2,
         "suspectedCount": 0,
@@ -58624,7 +58624,7 @@
       }
     ],
     "confirmedIncreased": 18,
-    "curedIncreased": 0,
+    "curedIncreased": 3,
     "deadIncreased": 0
   },
   {
@@ -76893,25 +76893,25 @@
         "deadIncreased": 0
       },
       {
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 222,
         "suspectedCount": 0,
-        "curedCount": 31,
+        "curedCount": 32,
         "deadCount": 1,
-        "insickCount": 190,
+        "insickCount": 189,
         "confirmedIncreased": 7,
         "curedIncreased": 0,
         "deadIncreased": 0
       }
     ],
-    "lastUpdate": "2020-02-12T08:31:55.871Z",
+    "lastUpdate": "2020-02-12T14:55:57.684Z",
     "updateTime": "2/12",
     "confirmedCount": 222,
     "suspectedCount": 0,
-    "curedCount": 31,
+    "curedCount": 32,
     "deadCount": 1,
-    "insickCount": 190,
+    "insickCount": 189,
     "cityList": [
       {
         "name": "南宁",
@@ -77140,27 +77140,27 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:31:55.871Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 44,
             "suspectedCount": 0,
-            "curedCount": 9,
+            "curedCount": 10,
             "deadCount": 0,
-            "insickCount": 35,
+            "insickCount": 34,
             "confirmedIncreased": 3,
-            "curedIncreased": 1,
+            "curedIncreased": 2,
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 44,
         "suspectedCount": 0,
-        "curedCount": 9,
+        "curedCount": 10,
         "deadCount": 0,
-        "insickCount": 35,
+        "insickCount": 34,
         "confirmedIncreased": 3,
-        "curedIncreased": 1,
+        "curedIncreased": 2,
         "deadIncreased": 0
       },
       {
@@ -77396,7 +77396,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:31:55.871Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 39,
             "suspectedCount": 0,
@@ -77408,7 +77408,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 39,
         "suspectedCount": 0,
@@ -77652,7 +77652,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:31:55.871Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 31,
             "suspectedCount": 0,
@@ -77664,7 +77664,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 31,
         "suspectedCount": 0,
@@ -77908,7 +77908,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:31:55.871Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 22,
             "suspectedCount": 0,
@@ -77920,7 +77920,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 22,
         "suspectedCount": 0,
@@ -78164,7 +78164,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:31:55.871Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 21,
             "suspectedCount": 0,
@@ -78176,7 +78176,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 21,
         "suspectedCount": 0,
@@ -78417,7 +78417,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:31:55.871Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 17,
             "suspectedCount": 0,
@@ -78429,7 +78429,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 17,
         "suspectedCount": 0,
@@ -78634,7 +78634,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:31:55.871Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 11,
             "suspectedCount": 0,
@@ -78646,7 +78646,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 11,
         "suspectedCount": 0,
@@ -78887,7 +78887,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:31:55.871Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 9,
             "suspectedCount": 0,
@@ -78899,7 +78899,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 9,
         "suspectedCount": 0,
@@ -79125,7 +79125,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:31:55.871Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 8,
             "suspectedCount": 0,
@@ -79137,7 +79137,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 8,
         "suspectedCount": 0,
@@ -79354,7 +79354,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:31:55.871Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 8,
             "suspectedCount": 0,
@@ -79366,7 +79366,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 8,
         "suspectedCount": 0,
@@ -79610,7 +79610,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:31:55.871Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 5,
             "suspectedCount": 0,
@@ -79622,7 +79622,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 5,
         "suspectedCount": 0,
@@ -79848,7 +79848,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:31:55.871Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 4,
             "suspectedCount": 0,
@@ -79860,7 +79860,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 4,
         "suspectedCount": 0,
@@ -80104,7 +80104,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:31:55.871Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 3,
             "suspectedCount": 0,
@@ -80116,7 +80116,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:31:55.871Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 3,
         "suspectedCount": 0,
@@ -84205,25 +84205,25 @@
         "deadIncreased": 0
       },
       {
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 154,
         "suspectedCount": 0,
-        "curedCount": 25,
+        "curedCount": 26,
         "deadCount": 0,
-        "insickCount": 129,
+        "insickCount": 128,
         "confirmedIncreased": 1,
-        "curedIncreased": 5,
+        "curedIncreased": 6,
         "deadIncreased": 0
       }
     ],
-    "lastUpdate": "2020-02-12T12:15:15.388Z",
+    "lastUpdate": "2020-02-12T14:07:03.407Z",
     "updateTime": "2/12",
     "confirmedCount": 154,
     "suspectedCount": 0,
-    "curedCount": 25,
+    "curedCount": 26,
     "deadCount": 0,
-    "insickCount": 129,
+    "insickCount": 128,
     "cityList": [
       {
         "name": "昆明",
@@ -84458,7 +84458,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 46,
             "suspectedCount": 0,
@@ -84470,7 +84470,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 46,
         "suspectedCount": 0,
@@ -84708,7 +84708,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 15,
             "suspectedCount": 0,
@@ -84720,7 +84720,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 15,
         "suspectedCount": 0,
@@ -84961,7 +84961,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 14,
             "suspectedCount": 0,
@@ -84973,7 +84973,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 14,
         "suspectedCount": 0,
@@ -85211,7 +85211,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 14,
             "suspectedCount": 0,
@@ -85223,7 +85223,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 14,
         "suspectedCount": 0,
@@ -85464,7 +85464,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 13,
             "suspectedCount": 0,
@@ -85476,7 +85476,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 13,
         "suspectedCount": 0,
@@ -85666,27 +85666,27 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 13,
             "suspectedCount": 0,
-            "curedCount": 2,
+            "curedCount": 3,
             "deadCount": 0,
-            "insickCount": 11,
+            "insickCount": 10,
             "confirmedIncreased": 0,
-            "curedIncreased": 0,
+            "curedIncreased": 1,
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 13,
         "suspectedCount": 0,
-        "curedCount": 2,
+        "curedCount": 3,
         "deadCount": 0,
-        "insickCount": 11,
+        "insickCount": 10,
         "confirmedIncreased": 0,
-        "curedIncreased": 0,
+        "curedIncreased": 1,
         "deadIncreased": 0
       },
       {
@@ -85916,7 +85916,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 9,
             "suspectedCount": 0,
@@ -85928,7 +85928,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 9,
         "suspectedCount": 0,
@@ -86166,7 +86166,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 7,
             "suspectedCount": 0,
@@ -86178,7 +86178,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 7,
         "suspectedCount": 0,
@@ -86368,7 +86368,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 7,
             "suspectedCount": 0,
@@ -86380,7 +86380,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 7,
         "suspectedCount": 0,
@@ -86570,7 +86570,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 5,
             "suspectedCount": 0,
@@ -86582,7 +86582,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 5,
         "suspectedCount": 0,
@@ -86811,7 +86811,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 4,
             "suspectedCount": 0,
@@ -86823,7 +86823,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 4,
         "suspectedCount": 0,
@@ -87013,7 +87013,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 4,
             "suspectedCount": 0,
@@ -87025,7 +87025,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 4,
         "suspectedCount": 0,
@@ -87215,7 +87215,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 2,
             "suspectedCount": 0,
@@ -87227,7 +87227,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 2,
         "suspectedCount": 0,
@@ -87447,7 +87447,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 1,
             "suspectedCount": 0,
@@ -87459,7 +87459,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 1,
         "suspectedCount": 0,
@@ -87673,7 +87673,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T12:15:15.388Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 0,
             "suspectedCount": 0,
@@ -87685,7 +87685,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T12:15:15.388Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 0,
         "suspectedCount": 0,
@@ -87698,7 +87698,7 @@
       }
     ],
     "confirmedIncreased": 1,
-    "curedIncreased": 5,
+    "curedIncreased": 6,
     "deadIncreased": 0
   },
   {
@@ -96859,25 +96859,25 @@
         "deadIncreased": 1
       },
       {
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
-        "confirmedCount": 110,
+        "confirmedCount": 112,
         "suspectedCount": 0,
         "curedCount": 11,
         "deadCount": 2,
-        "insickCount": 97,
-        "confirmedIncreased": 5,
+        "insickCount": 99,
+        "confirmedIncreased": 7,
         "curedIncreased": 1,
         "deadIncreased": 0
       }
     ],
-    "lastUpdate": "2020-02-12T11:08:19.159Z",
+    "lastUpdate": "2020-02-12T14:55:57.684Z",
     "updateTime": "2/12",
-    "confirmedCount": 110,
+    "confirmedCount": 112,
     "suspectedCount": 0,
     "curedCount": 11,
     "deadCount": 2,
-    "insickCount": 97,
+    "insickCount": 99,
     "cityList": [
       {
         "name": "宝坻区",
@@ -97088,26 +97088,26 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
-            "confirmedCount": 41,
+            "confirmedCount": 43,
             "suspectedCount": 0,
             "curedCount": 1,
             "deadCount": 1,
-            "insickCount": 39,
-            "confirmedIncreased": 2,
+            "insickCount": 41,
+            "confirmedIncreased": 4,
             "curedIncreased": 1,
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
-        "confirmedCount": 41,
+        "confirmedCount": 43,
         "suspectedCount": 0,
         "curedCount": 1,
         "deadCount": 1,
-        "insickCount": 39,
-        "confirmedIncreased": 2,
+        "insickCount": 41,
+        "confirmedIncreased": 4,
         "curedIncreased": 1,
         "deadIncreased": 0
       },
@@ -97338,7 +97338,7 @@
             "deadIncreased": 1
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 13,
             "suspectedCount": 0,
@@ -97350,7 +97350,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 13,
         "suspectedCount": 0,
@@ -97588,7 +97588,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 12,
             "suspectedCount": 0,
@@ -97600,7 +97600,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 12,
         "suspectedCount": 0,
@@ -97838,7 +97838,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 6,
             "suspectedCount": 0,
@@ -97850,7 +97850,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 6,
         "suspectedCount": 0,
@@ -98079,7 +98079,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 6,
             "suspectedCount": 0,
@@ -98091,7 +98091,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 6,
         "suspectedCount": 0,
@@ -98296,7 +98296,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 5,
             "suspectedCount": 0,
@@ -98308,7 +98308,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 5,
         "suspectedCount": 0,
@@ -98546,7 +98546,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 4,
             "suspectedCount": 0,
@@ -98558,7 +98558,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 4,
         "suspectedCount": 0,
@@ -98796,7 +98796,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 4,
             "suspectedCount": 0,
@@ -98808,7 +98808,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 4,
         "suspectedCount": 0,
@@ -99043,7 +99043,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 4,
             "suspectedCount": 0,
@@ -99055,7 +99055,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 4,
         "suspectedCount": 0,
@@ -99278,7 +99278,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 4,
             "suspectedCount": 0,
@@ -99290,7 +99290,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 4,
         "suspectedCount": 0,
@@ -99510,7 +99510,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 4,
             "suspectedCount": 0,
@@ -99522,7 +99522,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 4,
         "suspectedCount": 0,
@@ -99760,7 +99760,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 3,
             "suspectedCount": 0,
@@ -99772,7 +99772,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 3,
         "suspectedCount": 0,
@@ -100007,7 +100007,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 2,
             "suspectedCount": 0,
@@ -100019,7 +100019,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 2,
         "suspectedCount": 0,
@@ -100230,7 +100230,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 1,
             "suspectedCount": 0,
@@ -100242,7 +100242,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 1,
         "suspectedCount": 0,
@@ -100441,7 +100441,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 1,
             "suspectedCount": 0,
@@ -100453,7 +100453,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 1,
         "suspectedCount": 0,
@@ -100655,7 +100655,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 0,
             "suspectedCount": 0,
@@ -100667,7 +100667,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 0,
         "suspectedCount": 0,
@@ -100679,7 +100679,7 @@
         "deadIncreased": 0
       }
     ],
-    "confirmedIncreased": 5,
+    "confirmedIncreased": 7,
     "curedIncreased": 1,
     "deadIncreased": 0
   },
@@ -100916,25 +100916,25 @@
         "deadIncreased": 0
       },
       {
-        "lastUpdate": "2020-02-12T08:16:18.717Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 86,
         "suspectedCount": 0,
-        "curedCount": 28,
+        "curedCount": 29,
         "deadCount": 2,
-        "insickCount": 56,
+        "insickCount": 55,
         "confirmedIncreased": 0,
-        "curedIncreased": 4,
+        "curedIncreased": 5,
         "deadIncreased": 0
       }
     ],
-    "lastUpdate": "2020-02-12T08:16:18.717Z",
+    "lastUpdate": "2020-02-12T14:55:57.684Z",
     "updateTime": "2/12",
     "confirmedCount": 86,
     "suspectedCount": 0,
-    "curedCount": 28,
+    "curedCount": 29,
     "deadCount": 2,
-    "insickCount": 56,
+    "insickCount": 55,
     "cityList": [
       {
         "name": "兰州",
@@ -101169,7 +101169,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:16:18.717Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 35,
             "suspectedCount": 0,
@@ -101181,7 +101181,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:16:18.717Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 35,
         "suspectedCount": 0,
@@ -101413,7 +101413,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:16:18.717Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 12,
             "suspectedCount": 0,
@@ -101425,7 +101425,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:16:18.717Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 12,
         "suspectedCount": 0,
@@ -101663,7 +101663,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:16:18.717Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 8,
             "suspectedCount": 0,
@@ -101675,7 +101675,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:16:18.717Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 8,
         "suspectedCount": 0,
@@ -101898,27 +101898,27 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:16:18.717Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 8,
             "suspectedCount": 0,
-            "curedCount": 0,
+            "curedCount": 1,
             "deadCount": 0,
-            "insickCount": 8,
+            "insickCount": 7,
             "confirmedIncreased": 0,
-            "curedIncreased": 0,
+            "curedIncreased": 1,
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:16:18.717Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 8,
         "suspectedCount": 0,
-        "curedCount": 0,
+        "curedCount": 1,
         "deadCount": 0,
-        "insickCount": 8,
+        "insickCount": 7,
         "confirmedIncreased": 0,
-        "curedIncreased": 0,
+        "curedIncreased": 1,
         "deadIncreased": 0
       },
       {
@@ -102130,7 +102130,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:16:18.717Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 6,
             "suspectedCount": 0,
@@ -102142,7 +102142,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:16:18.717Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 6,
         "suspectedCount": 0,
@@ -102386,7 +102386,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:16:18.717Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 4,
             "suspectedCount": 0,
@@ -102398,7 +102398,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:16:18.717Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 4,
         "suspectedCount": 0,
@@ -102633,7 +102633,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:16:18.717Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 4,
             "suspectedCount": 0,
@@ -102645,7 +102645,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:16:18.717Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 4,
         "suspectedCount": 0,
@@ -102886,7 +102886,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:16:18.717Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 3,
             "suspectedCount": 0,
@@ -102898,7 +102898,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:16:18.717Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 3,
         "suspectedCount": 0,
@@ -103112,7 +103112,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:16:18.717Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 3,
             "suspectedCount": 0,
@@ -103124,7 +103124,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:16:18.717Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 3,
         "suspectedCount": 0,
@@ -103359,7 +103359,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:16:18.717Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 2,
             "suspectedCount": 0,
@@ -103371,7 +103371,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:16:18.717Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 2,
         "suspectedCount": 0,
@@ -103603,7 +103603,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T08:16:18.717Z",
+            "lastUpdate": "2020-02-12T14:55:57.684Z",
             "updateTime": "2/12",
             "confirmedCount": 1,
             "suspectedCount": 0,
@@ -103615,7 +103615,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T08:16:18.717Z",
+        "lastUpdate": "2020-02-12T14:55:57.684Z",
         "updateTime": "2/12",
         "confirmedCount": 1,
         "suspectedCount": 0,
@@ -103839,7 +103839,7 @@
       }
     ],
     "confirmedIncreased": 0,
-    "curedIncreased": 4,
+    "curedIncreased": 5,
     "deadIncreased": 0
   },
   {
@@ -104075,25 +104075,25 @@
         "deadIncreased": 0
       },
       {
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 83,
         "suspectedCount": 0,
-        "curedCount": 21,
+        "curedCount": 22,
         "deadCount": 1,
-        "insickCount": 61,
+        "insickCount": 60,
         "confirmedIncreased": 2,
-        "curedIncreased": 3,
+        "curedIncreased": 4,
         "deadIncreased": 0
       }
     ],
-    "lastUpdate": "2020-02-12T11:08:19.159Z",
+    "lastUpdate": "2020-02-12T14:07:03.407Z",
     "updateTime": "2/12",
     "confirmedCount": 83,
     "suspectedCount": 0,
-    "curedCount": 21,
+    "curedCount": 22,
     "deadCount": 1,
-    "insickCount": 61,
+    "insickCount": 60,
     "cityList": [
       {
         "name": "长春",
@@ -104328,7 +104328,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 42,
             "suspectedCount": 0,
@@ -104340,7 +104340,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 42,
         "suspectedCount": 0,
@@ -104569,7 +104569,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 12,
             "suspectedCount": 0,
@@ -104581,7 +104581,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 12,
         "suspectedCount": 0,
@@ -104813,27 +104813,27 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 6,
             "suspectedCount": 0,
-            "curedCount": 1,
+            "curedCount": 2,
             "deadCount": 0,
-            "insickCount": 5,
+            "insickCount": 4,
             "confirmedIncreased": 0,
-            "curedIncreased": 0,
+            "curedIncreased": 1,
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 6,
         "suspectedCount": 0,
-        "curedCount": 1,
+        "curedCount": 2,
         "deadCount": 0,
-        "insickCount": 5,
+        "insickCount": 4,
         "confirmedIncreased": 0,
-        "curedIncreased": 0,
+        "curedIncreased": 1,
         "deadIncreased": 0
       },
       {
@@ -105036,7 +105036,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 6,
             "suspectedCount": 0,
@@ -105048,7 +105048,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 6,
         "suspectedCount": 0,
@@ -105274,7 +105274,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 5,
             "suspectedCount": 0,
@@ -105286,7 +105286,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 5,
         "suspectedCount": 0,
@@ -105497,7 +105497,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 5,
             "suspectedCount": 0,
@@ -105509,7 +105509,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 5,
         "suspectedCount": 0,
@@ -105738,7 +105738,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 3,
             "suspectedCount": 0,
@@ -105750,7 +105750,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 3,
         "suspectedCount": 0,
@@ -105994,7 +105994,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 2,
             "suspectedCount": 0,
@@ -106006,7 +106006,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 2,
         "suspectedCount": 0,
@@ -106205,7 +106205,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 1,
             "suspectedCount": 0,
@@ -106217,7 +106217,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 1,
         "suspectedCount": 0,
@@ -106413,7 +106413,7 @@
             "deadIncreased": 0
           },
           {
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "lastUpdate": "2020-02-12T14:07:03.407Z",
             "updateTime": "2/12",
             "confirmedCount": 1,
             "suspectedCount": 0,
@@ -106425,7 +106425,7 @@
             "deadIncreased": 0
           }
         ],
-        "lastUpdate": "2020-02-12T11:08:19.159Z",
+        "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
         "confirmedCount": 1,
         "suspectedCount": 0,
@@ -106438,7 +106438,7 @@
       }
     ],
     "confirmedIncreased": 2,
-    "curedIncreased": 3,
+    "curedIncreased": 4,
     "deadIncreased": 0
   },
   {
