@@ -2,7 +2,7 @@
   {
     "name": "全国",
     "provinceName": "全国",
-    "lastUpdate": "2020-02-12T10:57:52.227Z",
+    "lastUpdate": "2020-02-12T11:49:08.550Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -522,28 +522,28 @@
         "curedRate": "10.06",
         "deadRate": "2.38",
         "seriousDeadRate": "13.87",
-        "curedDayRate": "2.62",
+        "curedDayRate": "2.70",
         "deadDayRate": "0.26"
       },
       {
         "confirmedCount": 44763,
         "suspectedCount": 16067,
-        "curedCount": 4979,
+        "curedCount": 5007,
         "deadCount": 1115,
         "seriousCount": 8204,
         "suspectedIncreased": 3342,
         "confirmedIncreased": 2055,
-        "curedIncreased": 981,
+        "curedIncreased": 1009,
         "deadIncreased": 98,
         "seriousIncreased": 871,
         "updateTime": "2/12",
-        "insickCount": 38669,
-        "lastUpdate": "2020-02-12T10:57:52.227Z",
+        "insickCount": 38641,
+        "lastUpdate": "2020-02-12T11:49:08.550Z",
         "updateDate": "2020/2/12",
         "seriousRate": "18.33",
         "seriousDayRate": "2.78",
         "suspectedAccum": 62937,
-        "curedRate": "11.12",
+        "curedRate": "11.19",
         "deadRate": "2.49",
         "seriousDeadRate": "13.59"
       }
@@ -873,7 +873,7 @@
         "curedRate": "18.17",
         "deadRate": "0.38",
         "seriousDeadRate": "",
-        "curedDayRate": "3.75",
+        "curedDayRate": "3.99",
         "deadDayRate": "0.04"
       },
       {
@@ -881,13 +881,13 @@
         "updateTime": "2/12",
         "confirmedCount": 11321,
         "suspectedCount": 0,
-        "curedCount": 2321,
+        "curedCount": 2343,
         "deadCount": 46,
-        "insickCount": 8954,
+        "insickCount": 8932,
         "confirmedIncreased": 377,
-        "curedIncreased": 334,
+        "curedIncreased": 356,
         "deadIncreased": 4,
-        "curedRate": "20.50",
+        "curedRate": "20.70",
         "deadRate": "0.41",
         "seriousDeadRate": ""
       }
@@ -1227,34 +1227,34 @@
         "curedRate": "7.28",
         "deadRate": "3.07",
         "seriousDeadRate": "",
-        "curedDayRate": "1.21",
+        "curedDayRate": "1.23",
         "deadDayRate": "0.33"
       },
       {
-        "lastUpdate": "2020-02-12T10:03:39.181Z",
+        "lastUpdate": "2020-02-12T11:08:19.159Z",
         "updateTime": "2/12",
         "confirmedCount": 33366,
         "suspectedCount": 0,
-        "curedCount": 2654,
+        "curedCount": 2660,
         "deadCount": 1068,
-        "insickCount": 29644,
+        "insickCount": 29638,
         "confirmedIncreased": 1638,
-        "curedIncreased": 344,
+        "curedIncreased": 350,
         "deadIncreased": 94,
-        "curedRate": "7.95",
+        "curedRate": "7.97",
         "deadRate": "3.20",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-02-12T10:03:39.181Z",
+    "lastUpdate": "2020-02-12T11:08:19.159Z",
     "updateTime": "2/12",
     "confirmedCount": 33366,
     "suspectedCount": 0,
-    "curedCount": 2654,
+    "curedCount": 2660,
     "deadCount": 1068,
-    "insickCount": 29644,
+    "insickCount": 29638,
     "confirmedIncreased": 1638,
-    "curedIncreased": 344,
+    "curedIncreased": 350,
     "deadIncreased": 94
   }
 ]
