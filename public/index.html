@@ -3,9 +3,6 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="assets/bootstrap.min.css" rel="stylesheet">
-    <script src="assets/axios.min.js"></script>
-    <script src="assets/echarts.min.js"></script>
     <title>2019 NCP Trends</title>
     <meta name="description" content="2019 NCP 新型冠状病毒肺炎增长趋势，包括按省份趋势图，按城市趋势图，按省份分布地图，按城市分布地图，以及按城市变化情况" />
     <meta name="keywords" content="ncov,肺炎,新冠病毒,ncp,新冠肺炎,新冠状病毒,肺炎趋势图,肺炎增长,肺炎分布" />
@@ -25,6 +22,14 @@
         .trends-chart { width: 25% }
       }
     </style>
+    <link href="assets/bootstrap.min.css" rel="stylesheet">
+    <script src="assets/axios.min.js"></script>
+    <script src="assets/echarts.min.js"></script>
+    <script>
+      if (location.host.toLowerCase() !== '2019ncp.tk') {
+        location.href = 'https://2019ncp.tk/' + location.hash;
+      }
+    </script>
     <link rel="shortcut icon" href="assets/logo.png">
   </head>
   <body>
