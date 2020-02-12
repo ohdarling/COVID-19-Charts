@@ -272,7 +272,7 @@ function parseOverAllData(csvData) {
 
   let records = [];
 
-  for (let i = 1; i < lines.length; ++i) {
+  for (let i = lines.length - 1; i > 0; --i) {
     if (lines[i].trim().length === 0) {
       continue;
     }
@@ -311,7 +311,6 @@ function parseOverAllData(csvData) {
     records.push(lineRecord);
   }
 
-  records.reverse();
   records = records.filter((v, i) => {
     if (i < records.length - 1 && records[i].updateDate === records[i+1].updateDate) {
       return false;
