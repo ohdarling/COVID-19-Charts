@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { generateFromCSV, toDateSeriesData } = require('./parse_data');
+const { generateFromCSV, toDateSeriesData, generateOverAllFromCSV, calcResultRate, } = require('./parse_data');
 const dataFileName = 'DXYArea.csv';
 
 function generateConfigs() {
@@ -24,6 +24,7 @@ function generateConfigs() {
         notHubei.name = '非湖北';
         notHubei.provinceName = '非湖北';
         delete notHubei.cities;
+        delete notHubei.cityList;
       }
     }
   })
@@ -64,5 +65,19 @@ function generateWorldData() {
   fs.writeFileSync('public/by_country.json', JSON.stringify(countryData, null, '  '));
 }
 
+function generateOverAllData() {
+  const csvData = fs.readFileSync('DXYOverall.csv', { encoding: 'utf8' });
+  let data = generateOverAllFromCSV(csvData);
+  data.push(...require('./public/by_area').slice(1, 3).map(v => {
+    delete v.cityList;
+    return v;
+  }));
+  data = calcResultRate(data);
+
+  fs.writeFileSync('public/by_overall.json', JSON.stringify(data, null, '  '));
+}
+
 generateConfigs();
 generateWorldData();
+
+generateOverAllData();

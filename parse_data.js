@@ -18,6 +18,13 @@ const todayStart = (() => {
   return today;
 })();
 
+function toPercent(value) {
+  if (typeof value === 'number') {
+    return (value * 100).toFixed(2);
+  }
+  return 0;
+}
+
 function parseData(data) {
   const provinces = {};
 
@@ -312,6 +319,22 @@ function parseOverAllData(csvData) {
     return true;
   })
 
+  records.forEach((r, i) => {
+    r.seriousRate = toPercent(r.seriousCount / r.confirmedCount);
+    r.seriousDayRate = toPercent(r.seriousIncreased / (r.confirmedCount - r.curedCount - r.deadCount - r.seriousCount + r.seriousIncreased));
+    if (i > 0) {
+      r.suspectedAccum = r.suspectedIncreased > 0 ? r.suspectedIncreased + (records[i-1].suspectedAccum || records[i-1].suspectedCount) : r.suspectedCount;
+    }
+    if (i < records.length - 1) {
+      const nr = records[i + 1];
+      r.suspectedDayProcessed = Math.max(r.suspectedCount - (nr.suspectedCount - nr.suspectedIncreased), 0);
+      r.suspectedConfirmedCount = nr.confirmedIncreased;
+      r.suspectedConfirmedRate = toPercent(nr.confirmedIncreased / r.suspectedCount);
+      r.suspectedDayProcessedRate = toPercent(r.suspectedDayProcessed / r.suspectedCount);
+      r.suspectedDayConfirmedRate = toPercent(r.suspectedDayProcessed > 0 ? nr.confirmedIncreased / r.suspectedDayProcessed : 0);
+    }
+  })
+
   return [
     {
       name: '全国',
@@ -320,6 +343,22 @@ function parseOverAllData(csvData) {
       records,
     }
   ];
+}
+
+function calcResultRate(data) {
+  data.forEach(({ records }) => {
+    records.forEach((r, i) => {
+      r.curedRate = toPercent(r.curedCount / r.confirmedCount);
+      r.deadRate = toPercent(r.deadCount / r.confirmedCount);
+      r.seriousDeadRate = r.seriousCount > 0 ? toPercent(r.deadCount / r.seriousCount) : '';
+      if (i < records.length - 1) {
+        const nr = records[i + 1];
+        r.curedDayRate = toPercent(nr.curedIncreased / (r.confirmedCount - r.curedCount - r.deadCount));
+        r.deadDayRate = toPercent(nr.deadIncreased / (r.confirmedCount - r.curedCount - r.deadCount));
+      }
+    })
+  })
+  return data;
 }
 
 function generateOverAllFromCSV(csvData) {
@@ -336,4 +375,5 @@ module.exports = {
   toDateSeriesData,
   generateFromCSV,
   generateOverAllFromCSV,
+  calcResultRate,
 };

@@ -231,6 +231,69 @@ function createTrendsChartConfig(data) {
   return config;
 }
 
+function createRateTrendsChartConfig(data, seriesConfig = []) {
+  const { name, records } = data;
+  const days = records.map(v => v.updateTime);
+  const seriesKeyMap = {};
+  const series = seriesConfig.map(v => {
+    seriesKeyMap[v.name] = v.key;
+    return Object.assign({
+      name: v.name,
+      data: records.map(r => r[v.key]),
+      type: 'line',
+      tooltip: { formatter: '{b}: {c}%' }
+    }, v.config || {})
+  });
+
+  const config = {
+    title: [
+      {
+        text: name,
+      },
+    ],
+    tooltip: {
+      trigger: 'axis',
+      formatter: (params) => {
+        if (params && params.length > 0) {
+          return `<b>${params[0].name}<b><br />${params.map(v => {
+            return (`${v.seriesName}：${v.value || '--'}`) + (seriesKeyMap[v.seriesName].indexOf('Rate') > 0 ? '%' : '')
+          }).join('<br />')}`;
+        }
+        return '';
+      }
+    },
+    legend: {
+      data: series.map(s => s.name),
+      textStyle: {
+        fontSize: 11,
+      },
+      bottom: 0,
+    },
+    grid: {
+      y: 50,
+      y2: 70,
+    },
+    xAxis: {
+        type: 'category',
+        data: days,
+    },
+    yAxis: [
+      {
+        type: 'value',
+        axisLabel: {
+          formatter: '{value}%',
+        }
+      },
+      {
+        type: 'value',
+      },
+    ],
+    series,
+  };
+
+  return config;
+}
+
 async function createMapChartConfig({ mapName, data, title = '', valueKey = 'confirmedCount' }) {
   let geoJSON = await prepareChartMap(mapName);
   geoJSON.features.forEach(v => {
@@ -578,23 +641,69 @@ async function showWorldMap() {
 async function showSummary() {
   const records = await prepareChartData('', 'overall');
 
-  const html = records.map((v, i) => {
-    return `<div id="chart${i}" class="summary-chart"></div>`;
+  const html = new Array(records.length * 3).join(',').split(',').map((v, i) => {
+    return `<div id="chart${i}" class="trends-chart"></div>`;
   }).join('');
   document.getElementById(chartsContainerId).innerHTML = html;
 
-  allCharts = records.map((v, i) => {
-    const cfg = createTrendsChartConfig(v);
-    const chart = echarts.init(document.getElementById(`chart${i}`));
-    chart.setOption(cfg);
-    return chart;
-  });
+  allCharts = [
+    ...records.map((v, i) => {
+      const cfg = createTrendsChartConfig(v);
+      const chart = echarts.init(document.getElementById(`chart${i}`));
+      chart.setOption(cfg);
+      return chart;
+    }),
+    ...records.map((v, i) => {
+      const cfg = createRateTrendsChartConfig(v, [
+        { name: '累计死亡率', key: 'deadRate', },
+        { name: '新增死亡率', key: 'deadDayRate', },
+        { name: '累计治愈率', key: 'curedRate', },
+        { name: '新增治愈率', key: 'curedDayRate', },
+      ]);
+      cfg.title[0].text += '治愈/死亡率';
+      const chart = echarts.init(document.getElementById(`chart${i+records.length}`));
+      chart.setOption(cfg);
+      return chart;
+    }),
+    ...[ records[0], records[0], records[0] ].map((v, i) => {
+      const cfg = createRateTrendsChartConfig(v, [
+        [
+          { name: '累计疑似', key: 'suspectedAccum', },
+          { name: '累计确诊', key: 'confirmedCount', },
+          { name: '当前疑似', key: 'suspectedCount', config: { type: 'bar', }},
+          { name: '新增疑似', key: 'suspectedIncreased', config: { type: 'bar', }},
+        ],
+        [
+          { name: '疑似确诊比例', key: 'suspectedConfirmedRate', },
+          // { name: '新增检测比例', key: 'suspectedDayProcessedRate', },
+          // { name: '新增确诊比例', key: 'suspectedDayConfirmedRate' },
+          { name: '新增疑似', key: 'suspectedIncreased', config: { type: 'line', yAxisIndex: 1 }},
+          { name: '疑似检测', key: 'suspectedDayProcessed', config: { type: 'bar', yAxisIndex: 1 }},
+          { name: '疑似确诊', key: 'suspectedConfirmedCount', config: { type: 'bar', yAxisIndex: 1 }},
+        ],
+        [
+          { name: '累计重症比例', key: 'seriousRate', },
+          { name: '重症死亡比例', key: 'seriousDeadRate' },
+          { name: '新增重症比例', key: 'seriousDayRate' },
+          { name: '累计重症', key: 'seriousCount', config: { type: 'bar', yAxisIndex: 1 }},
+          { name: '新增重症', key: 'seriousIncreased', config: { type: 'bar', yAxisIndex: 1 }},
+        ],
+      ][i]);
+      if (i === 0) {
+        cfg.yAxis[0].axisLabel.formatter = '{value}';
+      }
+      cfg.title[0].text += [ '疑似变化', '疑似检测/确诊', '重症率' ][i];
+      const chart = echarts.init(document.getElementById(`chart${i+records.length*2}`));
+      chart.setOption(cfg);
+      return chart;
+    }),
+  ];
 
   updateHash('summary');
 }
 
 function handleHashChanged() {
-  const defaultTab = 'trends';
+  const defaultTab = 'summary';
   const query = new URLSearchParams(location.hash.replace(/^#/, ''));
   const tab = query.get('tab') || defaultTab;
   const province = query.get('province') || '';

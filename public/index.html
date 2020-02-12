@@ -6,13 +6,14 @@
     <link href="assets/bootstrap.min.css" rel="stylesheet">
     <script src="assets/axios.min.js"></script>
     <script src="assets/echarts.min.js"></script>
-    <title>2019 nCoV Trends</title>
-    <meta name="description" content="2019新冠病毒肺炎增长趋势，包括按省份趋势图，按城市趋势图，按省份分布地图，按城市分布地图，以及按城市变化情况" />
+    <title>2019 NCP Trends</title>
+    <meta name="description" content="2019 NCP 新型冠状病毒肺炎增长趋势，包括按省份趋势图，按城市趋势图，按省份分布地图，按城市分布地图，以及按城市变化情况" />
     <meta name="keywords" content="ncov,肺炎,新冠病毒,ncp,新冠肺炎,新冠状病毒,肺炎趋势图,肺炎增长,肺炎分布" />
     <style>
       html, body { height: 100%; }
-      .trends-chart { display:inline-block; width:100%; height:400px; margin-bottom: 20px; }
-      .summary-chart { display:inline-block; width:100%; height:400px; margin-bottom: 20px; }
+      #chart_container { height: 90% }
+      .trends-chart { display:inline-block; width:100%; height:400px; padding-bottom: 30px; }
+      .summary-chart { display:inline-block; width:100%; height:400px; padding-bottom: 30px; }
       @media only screen and (min-width: 800px) {
         .trends-chart { width: 50% }
         .summary-chart { width: 50% }
@@ -28,9 +29,9 @@
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3">
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="https://2019ncp.tk">
         <img src="assets/logo.png" width="30" height="30" class="d-inline-block align-center" alt="">
-        2019 nCoV Trends
+        2019NCP.tk
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -38,9 +39,9 @@
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto" id="navbar">
-          <!--<li class="nav-item">
+          <li class="nav-item">
             <a class="nav-link" href="#tab=summary">总体趋势</a>
-          </li>-->
+          </li>
           <li class="nav-item">
             <a class="nav-link" href="#tab=trends">省市趋势</a>
           </li>
@@ -65,7 +66,7 @@
       </div>
     </nav>
 
-    <div class="container-fluid" id="chart_container" style="height:90%">
+    <div class="container-fluid" id="chart_container">
       Loading...
     </div>
 
