@@ -2,7 +2,7 @@
   {
     "name": "全国",
     "provinceName": "全国",
-    "lastUpdate": "2020-02-13T02:30:28.343Z",
+    "lastUpdate": "2020-02-13T03:22:06.328Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -555,10 +555,10 @@
         "deadDayRate": "0.00"
       },
       {
-        "confirmedCount": 59881,
+        "confirmedCount": 59883,
         "suspectedCount": 16067,
-        "curedCount": 5922,
-        "deadCount": 1367,
+        "curedCount": 5928,
+        "deadCount": 1368,
         "seriousCount": 8204,
         "updateTime": "2/13",
         "suspectedIncreased": 0,
@@ -566,15 +566,15 @@
         "curedIncreased": 0,
         "deadIncreased": 0,
         "seriousIncreased": 0,
-        "insickCount": 52592,
-        "lastUpdate": "2020-02-13T02:30:28.343Z",
+        "insickCount": 52587,
+        "lastUpdate": "2020-02-13T03:22:06.328Z",
         "updateDate": "2020/2/13",
         "seriousRate": "13.70",
         "seriousDayRate": "0.00",
         "suspectedAccum": 16067,
-        "curedRate": "9.89",
+        "curedRate": "9.90",
         "deadRate": "2.28",
-        "seriousDeadRate": "16.66"
+        "seriousDeadRate": "16.67"
       }
     ]
   },
@@ -919,34 +919,34 @@
         "curedRate": "20.98",
         "deadRate": "0.42",
         "seriousDeadRate": "",
-        "curedDayRate": "1.15",
-        "deadDayRate": "0.10"
+        "curedDayRate": "1.25",
+        "deadDayRate": "0.11"
       },
       {
-        "lastUpdate": "2020-02-13T02:09:04.084Z",
+        "lastUpdate": "2020-02-13T02:55:45.659Z",
         "updateTime": "2/13",
-        "confirmedCount": 11599,
+        "confirmedCount": 11601,
         "suspectedCount": 0,
-        "curedCount": 2477,
-        "deadCount": 56,
-        "insickCount": 9066,
-        "confirmedIncreased": 276,
-        "curedIncreased": 102,
-        "deadIncreased": 9,
-        "curedRate": "21.36",
-        "deadRate": "0.48",
+        "curedCount": 2483,
+        "deadCount": 57,
+        "insickCount": 9061,
+        "confirmedIncreased": 278,
+        "curedIncreased": 111,
+        "deadIncreased": 10,
+        "curedRate": "21.40",
+        "deadRate": "0.49",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-02-13T02:09:04.084Z",
+    "lastUpdate": "2020-02-13T02:55:45.659Z",
     "updateTime": "2/13",
     "confirmedCount": 1241,
     "suspectedCount": 0,
-    "curedCount": 284,
+    "curedCount": 289,
     "deadCount": 2,
-    "insickCount": 955,
+    "insickCount": 950,
     "confirmedIncreased": 22,
-    "curedIncreased": 9,
+    "curedIncreased": 14,
     "deadIncreased": 1
   },
   {
