@@ -150,21 +150,6 @@
     "enName": "Thailand"
   },
   {
-    "country": "俄罗斯",
-    "provinceName": "俄罗斯",
-    "provinceShortName": "俄罗斯",
-    "confirmedCount": 2,
-    "suspectedCount": 0,
-    "curedCount": 0,
-    "deadCount": 0,
-    "comment": "",
-    "updateTime": "2/13",
-    "createTime": 1581609076000,
-    "modifyTime": 1581609076000,
-    "updateDate": "2/13",
-    "enName": "Russia"
-  },
-  {
     "country": "日本",
     "provinceName": "日本",
     "provinceShortName": "日本",
@@ -178,6 +163,21 @@
     "modifyTime": 1581609076000,
     "updateDate": "2/13",
     "enName": "Japan"
+  },
+  {
+    "country": "俄罗斯",
+    "provinceName": "俄罗斯",
+    "provinceShortName": "俄罗斯",
+    "confirmedCount": 2,
+    "suspectedCount": 0,
+    "curedCount": 0,
+    "deadCount": 0,
+    "comment": "",
+    "updateTime": "2/13",
+    "createTime": 1581609076000,
+    "modifyTime": 1581609076000,
+    "updateDate": "2/13",
+    "enName": "Russia"
   },
   {
     "country": "澳大利亚",
