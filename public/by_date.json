@@ -2335,20 +2335,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 2,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/24",
-            "lastUpdate": "2020-01-24T15:35:03.158Z",
-            "suspectedCount": 0,
-            "insickCount": 2,
-            "confirmedIncreased": 2,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 1,
@@ -2359,6 +2345,20 @@
             "suspectedCount": 0,
             "insickCount": 1,
             "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 2,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/24",
+            "lastUpdate": "2020-01-24T15:35:03.158Z",
+            "suspectedCount": 0,
+            "insickCount": 2,
+            "confirmedIncreased": 2,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -8181,20 +8181,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 3,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/25",
-            "lastUpdate": "2020-01-25T07:15:01.322Z",
-            "suspectedCount": 0,
-            "insickCount": 3,
-            "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 1,
@@ -8205,6 +8191,20 @@
             "suspectedCount": 0,
             "insickCount": 1,
             "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 3,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/25",
+            "lastUpdate": "2020-01-25T07:15:01.322Z",
+            "suspectedCount": 0,
+            "insickCount": 3,
+            "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -14171,20 +14171,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 4,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/26",
-            "lastUpdate": "2020-01-26T05:55:39.256Z",
-            "suspectedCount": 0,
-            "insickCount": 4,
-            "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 2,
@@ -14194,6 +14180,20 @@
             "lastUpdate": "2020-01-26T05:55:39.256Z",
             "suspectedCount": 0,
             "insickCount": 2,
+            "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 4,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/26",
+            "lastUpdate": "2020-01-26T05:55:39.256Z",
+            "suspectedCount": 0,
+            "insickCount": 4,
             "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -20290,20 +20290,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 9,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/27",
-            "lastUpdate": "2020-01-27T08:55:04.348Z",
-            "suspectedCount": 0,
-            "insickCount": 9,
-            "confirmedIncreased": 5,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 3,
@@ -20314,6 +20300,20 @@
             "suspectedCount": 0,
             "insickCount": 3,
             "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 9,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/27",
+            "lastUpdate": "2020-01-27T08:55:04.348Z",
+            "suspectedCount": 0,
+            "insickCount": 9,
+            "confirmedIncreased": 5,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -26535,20 +26535,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 10,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/28",
-            "lastUpdate": "2020-01-28T07:51:35.578Z",
-            "suspectedCount": 0,
-            "insickCount": 10,
-            "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 3,
@@ -26559,6 +26545,20 @@
             "suspectedCount": 0,
             "insickCount": 3,
             "confirmedIncreased": 0,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 10,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/28",
+            "lastUpdate": "2020-01-28T07:51:35.578Z",
+            "suspectedCount": 0,
+            "insickCount": 10,
+            "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -32849,20 +32849,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 12,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/29",
-            "lastUpdate": "2020-01-29T07:07:03.274Z",
-            "suspectedCount": 0,
-            "insickCount": 12,
-            "confirmedIncreased": 2,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 5,
@@ -32872,6 +32858,20 @@
             "lastUpdate": "2020-01-29T07:07:03.274Z",
             "suspectedCount": 0,
             "insickCount": 5,
+            "confirmedIncreased": 2,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 12,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/29",
+            "lastUpdate": "2020-01-29T07:07:03.274Z",
+            "suspectedCount": 0,
+            "insickCount": 12,
             "confirmedIncreased": 2,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -39202,20 +39202,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 14,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/30",
-            "lastUpdate": "2020-01-30T07:31:14.773Z",
-            "suspectedCount": 0,
-            "insickCount": 14,
-            "confirmedIncreased": 2,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 7,
@@ -39225,6 +39211,20 @@
             "lastUpdate": "2020-01-30T07:31:14.773Z",
             "suspectedCount": 0,
             "insickCount": 7,
+            "confirmedIncreased": 2,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 14,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/30",
+            "lastUpdate": "2020-01-30T07:31:14.773Z",
+            "suspectedCount": 0,
+            "insickCount": 14,
             "confirmedIncreased": 2,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -45594,20 +45594,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 19,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "1/31",
-            "lastUpdate": "2020-01-31T07:21:35.772Z",
-            "suspectedCount": 0,
-            "insickCount": 19,
-            "confirmedIncreased": 5,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 8,
@@ -45618,6 +45604,20 @@
             "suspectedCount": 0,
             "insickCount": 8,
             "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 19,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "1/31",
+            "lastUpdate": "2020-01-31T07:21:35.772Z",
+            "suspectedCount": 0,
+            "insickCount": 19,
+            "confirmedIncreased": 5,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -52088,20 +52088,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 24,
-            "curedCount": 0,
-            "deadCount": 0,
-            "updateTime": "2/1",
-            "lastUpdate": "2020-02-01T10:29:15.389Z",
-            "suspectedCount": 0,
-            "insickCount": 24,
-            "confirmedIncreased": 5,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 9,
@@ -52112,6 +52098,20 @@
             "suspectedCount": 0,
             "insickCount": 9,
             "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 24,
+            "curedCount": 0,
+            "deadCount": 0,
+            "updateTime": "2/1",
+            "lastUpdate": "2020-02-01T10:29:15.389Z",
+            "suspectedCount": 0,
+            "insickCount": 24,
+            "confirmedIncreased": 5,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -58624,20 +58624,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 24,
-            "curedCount": 2,
-            "deadCount": 0,
-            "updateTime": "2/2",
-            "lastUpdate": "2020-02-02T10:23:15.451Z",
-            "suspectedCount": 0,
-            "insickCount": 22,
-            "confirmedIncreased": 0,
-            "curedIncreased": 2,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 11,
@@ -58649,6 +58635,20 @@
             "insickCount": 11,
             "confirmedIncreased": 2,
             "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 24,
+            "curedCount": 2,
+            "deadCount": 0,
+            "updateTime": "2/2",
+            "lastUpdate": "2020-02-02T10:23:15.451Z",
+            "suspectedCount": 0,
+            "insickCount": 22,
+            "confirmedIncreased": 0,
+            "curedIncreased": 2,
             "deadIncreased": 0
           },
           {
@@ -65181,20 +65181,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 25,
-            "curedCount": 2,
-            "deadCount": 0,
-            "updateTime": "2/3",
-            "lastUpdate": "2020-02-03T14:33:28.253Z",
-            "suspectedCount": 0,
-            "insickCount": 23,
-            "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 13,
@@ -65205,6 +65191,20 @@
             "suspectedCount": 0,
             "insickCount": 13,
             "confirmedIncreased": 2,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 25,
+            "curedCount": 2,
+            "deadCount": 0,
+            "updateTime": "2/3",
+            "lastUpdate": "2020-02-03T14:33:28.253Z",
+            "suspectedCount": 0,
+            "insickCount": 23,
+            "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -71759,20 +71759,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 25,
-            "curedCount": 2,
-            "deadCount": 0,
-            "updateTime": "2/4",
-            "lastUpdate": "2020-02-04T11:59:03.540Z",
-            "suspectedCount": 0,
-            "insickCount": 23,
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 14,
@@ -71783,6 +71769,20 @@
             "suspectedCount": 0,
             "insickCount": 14,
             "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 25,
+            "curedCount": 2,
+            "deadCount": 0,
+            "updateTime": "2/4",
+            "lastUpdate": "2020-02-04T11:59:03.540Z",
+            "suspectedCount": 0,
+            "insickCount": 23,
+            "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -78361,20 +78361,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 27,
-            "curedCount": 2,
-            "deadCount": 0,
-            "updateTime": "2/5",
-            "lastUpdate": "2020-02-05T10:06:04.241Z",
-            "suspectedCount": 0,
-            "insickCount": 25,
-            "confirmedIncreased": 2,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 16,
@@ -78384,6 +78370,20 @@
             "lastUpdate": "2020-02-05T10:06:04.241Z",
             "suspectedCount": 0,
             "insickCount": 16,
+            "confirmedIncreased": 2,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 27,
+            "curedCount": 2,
+            "deadCount": 0,
+            "updateTime": "2/5",
+            "lastUpdate": "2020-02-05T10:06:04.241Z",
+            "suspectedCount": 0,
+            "insickCount": 25,
             "confirmedIncreased": 2,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -84969,20 +84969,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 29,
-            "curedCount": 5,
-            "deadCount": 0,
-            "updateTime": "2/6",
-            "lastUpdate": "2020-02-06T07:45:57.477Z",
-            "suspectedCount": 0,
-            "insickCount": 24,
-            "confirmedIncreased": 2,
-            "curedIncreased": 3,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 21,
@@ -84994,6 +84980,20 @@
             "insickCount": 21,
             "confirmedIncreased": 5,
             "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 29,
+            "curedCount": 5,
+            "deadCount": 0,
+            "updateTime": "2/6",
+            "lastUpdate": "2020-02-06T07:45:57.477Z",
+            "suspectedCount": 0,
+            "insickCount": 24,
+            "confirmedIncreased": 2,
+            "curedIncreased": 3,
             "deadIncreased": 0
           },
           {
@@ -91592,20 +91592,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 31,
-            "curedCount": 5,
-            "deadCount": 0,
-            "updateTime": "2/7",
-            "lastUpdate": "2020-02-07T11:25:46.018Z",
-            "suspectedCount": 0,
-            "insickCount": 26,
-            "confirmedIncreased": 2,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 27,
@@ -91616,6 +91602,20 @@
             "suspectedCount": 0,
             "insickCount": 27,
             "confirmedIncreased": 6,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 31,
+            "curedCount": 5,
+            "deadCount": 0,
+            "updateTime": "2/7",
+            "lastUpdate": "2020-02-07T11:25:46.018Z",
+            "suspectedCount": 0,
+            "insickCount": 26,
+            "confirmedIncreased": 2,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -98230,20 +98230,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 33,
-            "curedCount": 5,
-            "deadCount": 0,
-            "updateTime": "2/8",
-            "lastUpdate": "2020-02-08T11:25:32.088Z",
-            "suspectedCount": 0,
-            "insickCount": 28,
-            "confirmedIncreased": 2,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 31,
@@ -98254,6 +98240,20 @@
             "suspectedCount": 0,
             "insickCount": 31,
             "confirmedIncreased": 4,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 33,
+            "curedCount": 5,
+            "deadCount": 0,
+            "updateTime": "2/8",
+            "lastUpdate": "2020-02-08T11:25:32.088Z",
+            "suspectedCount": 0,
+            "insickCount": 28,
+            "confirmedIncreased": 2,
             "curedIncreased": 0,
             "deadIncreased": 0
           },
@@ -104886,20 +104886,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 34,
-            "curedCount": 8,
-            "deadCount": 0,
-            "updateTime": "2/9",
-            "lastUpdate": "2020-02-09T15:00:53.855Z",
-            "suspectedCount": 0,
-            "insickCount": 26,
-            "confirmedIncreased": 1,
-            "curedIncreased": 3,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 36,
@@ -104911,6 +104897,20 @@
             "insickCount": 35,
             "confirmedIncreased": 5,
             "curedIncreased": 1,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 34,
+            "curedCount": 8,
+            "deadCount": 0,
+            "updateTime": "2/9",
+            "lastUpdate": "2020-02-09T15:00:53.855Z",
+            "suspectedCount": 0,
+            "insickCount": 26,
+            "confirmedIncreased": 1,
+            "curedIncreased": 3,
             "deadIncreased": 0
           },
           {
@@ -111548,20 +111548,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 35,
-            "curedCount": 8,
-            "deadCount": 0,
-            "updateTime": "2/10",
-            "lastUpdate": "2020-02-10T09:26:09.508Z",
-            "suspectedCount": 0,
-            "insickCount": 27,
-            "confirmedIncreased": 1,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 37,
@@ -111571,6 +111557,20 @@
             "lastUpdate": "2020-02-10T09:26:09.508Z",
             "suspectedCount": 0,
             "insickCount": 36,
+            "confirmedIncreased": 1,
+            "curedIncreased": 0,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 35,
+            "curedCount": 8,
+            "deadCount": 0,
+            "updateTime": "2/10",
+            "lastUpdate": "2020-02-10T09:26:09.508Z",
+            "suspectedCount": 0,
+            "insickCount": 27,
             "confirmedIncreased": 1,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -118213,20 +118213,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 37,
-            "curedCount": 8,
-            "deadCount": 0,
-            "updateTime": "2/11",
-            "lastUpdate": "2020-02-11T11:21:09.840Z",
-            "suspectedCount": 0,
-            "insickCount": 29,
-            "confirmedIncreased": 2,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 38,
@@ -118238,6 +118224,20 @@
             "insickCount": 34,
             "confirmedIncreased": 1,
             "curedIncreased": 3,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 37,
+            "curedCount": 8,
+            "deadCount": 0,
+            "updateTime": "2/11",
+            "lastUpdate": "2020-02-11T11:21:09.840Z",
+            "suspectedCount": 0,
+            "insickCount": 29,
+            "confirmedIncreased": 2,
+            "curedIncreased": 0,
             "deadIncreased": 0
           },
           {
@@ -124893,20 +124893,6 @@
             "deadIncreased": 0
           },
           {
-            "name": "威海",
-            "provinceName": "山东省",
-            "confirmedCount": 38,
-            "curedCount": 9,
-            "deadCount": 0,
-            "updateTime": "2/12",
-            "lastUpdate": "2020-02-12T11:08:19.159Z",
-            "suspectedCount": 0,
-            "insickCount": 29,
-            "confirmedIncreased": 1,
-            "curedIncreased": 1,
-            "deadIncreased": 0
-          },
-          {
             "name": "潍坊",
             "provinceName": "山东省",
             "confirmedCount": 38,
@@ -124917,6 +124903,20 @@
             "suspectedCount": 0,
             "insickCount": 33,
             "confirmedIncreased": 0,
+            "curedIncreased": 1,
+            "deadIncreased": 0
+          },
+          {
+            "name": "威海",
+            "provinceName": "山东省",
+            "confirmedCount": 38,
+            "curedCount": 9,
+            "deadCount": 0,
+            "updateTime": "2/12",
+            "lastUpdate": "2020-02-12T11:08:19.159Z",
+            "suspectedCount": 0,
+            "insickCount": 29,
+            "confirmedIncreased": 1,
             "curedIncreased": 1,
             "deadIncreased": 0
           },
@@ -131491,29 +131491,29 @@
       {
         "name": "山东省",
         "provinceName": "山东省",
-        "confirmedCount": 506,
-        "curedCount": 103,
+        "confirmedCount": 509,
+        "curedCount": 104,
         "deadCount": 2,
         "updateTime": "2/13",
-        "lastUpdate": "2020-02-13T03:57:52.011Z",
+        "lastUpdate": "2020-02-13T07:21:09.150Z",
         "suspectedCount": 0,
-        "insickCount": 401,
+        "insickCount": 403,
         "confirmedIncreased": 0,
-        "curedIncreased": 1,
+        "curedIncreased": 2,
         "deadIncreased": 0,
         "cityList": [
           {
             "name": "青岛",
             "provinceName": "山东省",
             "confirmedCount": 53,
-            "curedCount": 13,
+            "curedCount": 14,
             "deadCount": 1,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
-            "insickCount": 39,
+            "insickCount": 38,
             "confirmedIncreased": 0,
-            "curedIncreased": 0,
+            "curedIncreased": 1,
             "deadIncreased": 0
           },
           {
@@ -131523,7 +131523,7 @@
             "curedCount": 10,
             "deadCount": 0,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
             "insickCount": 37,
             "confirmedIncreased": 0,
@@ -131537,7 +131537,7 @@
             "curedCount": 7,
             "deadCount": 0,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
             "insickCount": 39,
             "confirmedIncreased": 3,
@@ -131551,7 +131551,7 @@
             "curedCount": 12,
             "deadCount": 0,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
             "insickCount": 33,
             "confirmedIncreased": 0,
@@ -131565,11 +131565,25 @@
             "curedCount": 14,
             "deadCount": 0,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
             "insickCount": 29,
             "confirmedIncreased": 1,
             "curedIncreased": 2,
+            "deadIncreased": 0
+          },
+          {
+            "name": "潍坊",
+            "provinceName": "山东省",
+            "confirmedCount": 41,
+            "curedCount": 5,
+            "deadCount": 0,
+            "updateTime": "2/13",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
+            "suspectedCount": 0,
+            "insickCount": 36,
+            "confirmedIncreased": 3,
+            "curedIncreased": 0,
             "deadIncreased": 0
           },
           {
@@ -131579,23 +131593,9 @@
             "curedCount": 9,
             "deadCount": 0,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
             "insickCount": 29,
-            "confirmedIncreased": 0,
-            "curedIncreased": 0,
-            "deadIncreased": 0
-          },
-          {
-            "name": "潍坊",
-            "provinceName": "山东省",
-            "confirmedCount": 38,
-            "curedCount": 5,
-            "deadCount": 0,
-            "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
-            "suspectedCount": 0,
-            "insickCount": 33,
             "confirmedIncreased": 0,
             "curedIncreased": 0,
             "deadIncreased": 0
@@ -131607,7 +131607,7 @@
             "curedCount": 3,
             "deadCount": 0,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
             "insickCount": 35,
             "confirmedIncreased": 0,
@@ -131621,7 +131621,7 @@
             "curedCount": 6,
             "deadCount": 1,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
             "insickCount": 28,
             "confirmedIncreased": 2,
@@ -131635,7 +131635,7 @@
             "curedCount": 4,
             "deadCount": 0,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
             "insickCount": 28,
             "confirmedIncreased": 0,
@@ -131649,7 +131649,7 @@
             "curedCount": 1,
             "deadCount": 0,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
             "insickCount": 22,
             "confirmedIncreased": 3,
@@ -131663,7 +131663,7 @@
             "curedCount": 4,
             "deadCount": 0,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
             "insickCount": 19,
             "confirmedIncreased": 0,
@@ -131677,7 +131677,7 @@
             "curedCount": 7,
             "deadCount": 0,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
             "insickCount": 11,
             "confirmedIncreased": 0,
@@ -131691,7 +131691,7 @@
             "curedCount": 2,
             "deadCount": 0,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
             "insickCount": 13,
             "confirmedIncreased": 0,
@@ -131705,7 +131705,7 @@
             "curedCount": 6,
             "deadCount": 0,
             "updateTime": "2/13",
-            "lastUpdate": "2020-02-13T03:57:52.011Z",
+            "lastUpdate": "2020-02-13T07:21:09.150Z",
             "suspectedCount": 0,
             "insickCount": 6,
             "confirmedIncreased": 0,
