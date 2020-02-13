@@ -2,7 +2,7 @@
   {
     "name": "全国",
     "provinceName": "全国",
-    "lastUpdate": "2020-02-13T15:51:34.768Z",
+    "lastUpdate": "2020-02-13T16:46:22.123Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -476,7 +476,31 @@
         "updateDate": "2020/2/13",
         "seriousRate": "13.40",
         "seriousDayRate": "0.00",
-        "suspectedAccum": 65744
+        "suspectedAccum": 65744,
+        "suspectedDayProcessed": 2807,
+        "suspectedConfirmedCount": 15177,
+        "suspectedConfirmedRate": "112.97",
+        "suspectedDayProcessedRate": "20.89",
+        "suspectedDayConfirmedRate": "540.68"
+      },
+      {
+        "confirmedCount": 59907,
+        "suspectedCount": 13435,
+        "curedCount": 6215,
+        "deadCount": 1368,
+        "seriousCount": 8030,
+        "suspectedIncreased": 2807,
+        "confirmedIncreased": 15177,
+        "curedIncreased": 1471,
+        "deadIncreased": 254,
+        "seriousIncreased": 0,
+        "updateTime": "2/14",
+        "insickCount": 52324,
+        "lastUpdate": "2020-02-13T16:46:22.123Z",
+        "updateDate": "2020/2/14",
+        "seriousRate": "13.40",
+        "seriousDayRate": "0.00",
+        "suspectedAccum": 68551
       }
     ]
   },
