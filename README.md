@@ -1,5 +1,8 @@
-# 2019-nCoV-Trends
+# COVID-19-Charts
 
-Data source: https://github.com/BlankerL/DXY-2019-nCoV-Data
+Trending and Map charts for COVID-19.
 
-Running site: https://2019NCP.tk/
+Running site: https://COVID19.tk/
+
+Data source: https://github.com/BlankerL/DXY-COVID-19-Data
+
