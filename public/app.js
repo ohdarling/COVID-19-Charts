@@ -524,6 +524,7 @@ async function setupWorldMapCharts(records, container) {
         name: '',
         type: 'map',
         mapType: 'world',
+        roam: true,
         tooltip: {
           formatter: ({ name, data }) => {
             if (data) {
