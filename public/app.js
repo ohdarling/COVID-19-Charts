@@ -704,6 +704,8 @@ async function showSummary() {
 }
 
 function handleHashChanged() {
+  $('#navbarSupportedContent').collapse('hide');
+
   const defaultTab = 'summary';
   const query = new URLSearchParams(location.hash.replace(/^#/, ''));
   const tab = query.get('tab') || defaultTab;
