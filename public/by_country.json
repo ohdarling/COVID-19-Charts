@@ -1,21 +1,21 @@
 [
   {
-    "locationId": 961001,
-    "continentName": "欧洲",
-    "continentEnglishName": "Europe",
-    "countryName": "比利时",
-    "countryEnglishName": "Belgium",
-    "provinceName": "比利时",
-    "provinceShortName": "比利时",
-    "provinceEnglishName": "Belgium",
-    "currentConfirmedCount": 1,
+    "locationId": 952010,
+    "continentName": "亚洲",
+    "continentEnglishName": "Asia",
+    "countryName": "泰国",
+    "countryEnglishName": "Thailand",
+    "provinceName": "泰国",
+    "provinceShortName": "泰国",
+    "provinceEnglishName": "Thailand",
+    "currentConfirmedCount": 20,
     "confirmedCount": 67177,
     "suspectedCount": 0,
     "curedCount": 8572,
     "deadCount": 1527,
     "comment": "",
-    "updateTime": "2/15",
-    "updateDate": "2/15",
+    "updateTime": "2/16",
+    "updateDate": "2/16",
     "enName": ""
   }
 ]
