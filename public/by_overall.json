@@ -2,7 +2,7 @@
   {
     "name": "全国",
     "provinceName": "全国",
-    "lastUpdate": "2020-02-16T03:31:02.160Z",
+    "lastUpdate": "2020-02-16T03:48:34.832Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -638,28 +638,28 @@
         "curedRate": "12.76",
         "deadRate": "2.29",
         "seriousDeadRate": "13.79",
-        "curedDayRate": "2.48",
+        "curedDayRate": "2.52",
         "deadDayRate": "0.25"
       },
       {
         "confirmedCount": 68584,
         "suspectedCount": 8228,
-        "curedCount": 9502,
+        "curedCount": 9526,
         "deadCount": 1666,
         "seriousCount": 11272,
         "suspectedIncreased": 1918,
         "confirmedIncreased": 2009,
-        "curedIncreased": 1401,
+        "curedIncreased": 1425,
         "deadIncreased": 142,
         "seriousIncreased": 219,
         "updateTime": "2/16",
-        "insickCount": 57416,
-        "lastUpdate": "2020-02-16T03:31:02.160Z",
+        "insickCount": 57392,
+        "lastUpdate": "2020-02-16T03:48:34.832Z",
         "updateDate": "2020/2/16",
         "seriousRate": "16.44",
         "seriousDayRate": "0.47",
         "suspectedAccum": 72389,
-        "curedRate": "13.85",
+        "curedRate": "13.89",
         "deadRate": "2.43",
         "seriousDeadRate": "14.78"
       }
@@ -1057,7 +1057,7 @@
         "curedRate": "30.32",
         "deadRate": "0.55",
         "seriousDeadRate": "",
-        "curedDayRate": "2.46",
+        "curedDayRate": "2.75",
         "deadDayRate": "0.04"
       },
       {
@@ -1065,18 +1065,18 @@
         "updateTime": "2/16",
         "confirmedCount": 12253,
         "suspectedCount": 0,
-        "curedCount": 3873,
+        "curedCount": 3897,
         "deadCount": 69,
-        "insickCount": 8311,
+        "insickCount": 8287,
         "confirmedIncreased": 160,
-        "curedIncreased": 206,
+        "curedIncreased": 230,
         "deadIncreased": 3,
-        "curedRate": "31.61",
+        "curedRate": "31.80",
         "deadRate": "0.56",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-02-16T03:31:02.160Z",
+    "lastUpdate": "2020-02-16T03:48:34.832Z",
     "updateTime": "2/16",
     "confirmedCount": 1316,
     "suspectedCount": 0,
