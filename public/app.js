@@ -591,7 +591,7 @@ async function prepareChartData(name, type = 'area') {
   return records;
 }
 
-function updateHash(tab, province) {
+function updateHash(tab, province, city) {
   let hash = '#tab=' + tab;
   Object.values(allTabs).forEach(t => {
     const newclass = "nav-link" + (t.tab == tab ? ' active' : '');
@@ -600,15 +600,21 @@ function updateHash(tab, province) {
   if (province) {
     hash += '&province=' + encodeURIComponent(province);
   }
+  if (city) {
+    hash += '&city=' + encodeURIComponent(city);
+  }
   location.hash = hash;
 
   showLoading(false);
 }
 
-async function showProvince(name) {
-  const records = await prepareChartData(name, 'area');
+async function showProvince(name, city = '') {
+  let records = await prepareChartData(name, 'area');
+  if (name && city) {
+    records = records.filter(c => c.name === city);
+  }
   allCharts = setupTrendsCharts(records, document.getElementById(chartsContainerId));
-  updateHash('trends', name);
+  updateHash('trends', name, city);
 }
 
 async function showMap(name) {
@@ -712,6 +718,7 @@ function handleHashChanged() {
   const query = new URLSearchParams(location.hash.replace(/^#/, ''));
   const tab = query.get('tab') || defaultTab;
   const province = query.get('province') || '';
+  const city = query.get('city') || '';
   let title = [ document.querySelector('title').innerHTML.split(' - ')[0] ];
 
   const tabFuncs = {
@@ -734,7 +741,7 @@ function handleHashChanged() {
     }
   };
   const func = tabFuncs[tab] || tabFuncs[defaultTab];
-  func.func(province);
+  func.func(province, city);
   title.push(allTabs[tab].title);
   if (func.supportProvince && province) {
     title.push(province);
