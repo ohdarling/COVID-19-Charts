@@ -2,7 +2,7 @@
   {
     "name": "全国",
     "provinceName": "全国",
-    "lastUpdate": "2020-02-17T14:52:46.244Z",
+    "lastUpdate": "2020-02-17T15:43:00.614Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -660,10 +660,10 @@
         "seriousDayRate": "0.47",
         "suspectedAccum": 72389,
         "suspectedDayProcessed": 2527,
-        "suspectedConfirmedCount": 2058,
-        "suspectedConfirmedRate": "25.01",
+        "suspectedConfirmedCount": 2060,
+        "suspectedConfirmedRate": "25.04",
         "suspectedDayProcessedRate": "30.71",
-        "suspectedDayConfirmedRate": "81.44",
+        "suspectedDayConfirmedRate": "81.52",
         "curedRate": "14.23",
         "deadRate": "2.43",
         "seriousDeadRate": "14.79",
@@ -671,24 +671,24 @@
         "deadDayRate": "0.19"
       },
       {
-        "confirmedCount": 70642,
+        "confirmedCount": 70644,
         "suspectedCount": 7264,
         "curedCount": 11278,
         "deadCount": 1772,
         "seriousCount": 10644,
         "suspectedIncreased": 1563,
-        "confirmedIncreased": 2058,
+        "confirmedIncreased": 2060,
         "curedIncreased": 1853,
         "deadIncreased": 106,
         "seriousIncreased": 0,
         "updateTime": "2/17",
-        "insickCount": 57592,
-        "lastUpdate": "2020-02-17T14:52:46.244Z",
+        "insickCount": 57594,
+        "lastUpdate": "2020-02-17T15:43:00.614Z",
         "updateDate": "2020/2/17",
         "seriousRate": "15.07",
         "seriousDayRate": "0.00",
         "suspectedAccum": 73952,
-        "curedRate": "15.97",
+        "curedRate": "15.96",
         "deadRate": "2.51",
         "seriousDeadRate": "16.65"
       }
