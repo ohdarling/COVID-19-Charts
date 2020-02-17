@@ -538,7 +538,7 @@ async function setupWorldMapCharts(records, container) {
         data: records.map(r => {
           return {
             name: r.enName,
-            country: r.country,
+            country: r.countryName,
             value: r.confirmedCount,
             confirmed: r.confirmedCount,
             dead: r.deadCount,
