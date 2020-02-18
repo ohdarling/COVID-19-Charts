@@ -2,7 +2,7 @@
   {
     "name": "全国",
     "provinceName": "全国",
-    "lastUpdate": "2020-02-18T14:52:38.128Z",
+    "lastUpdate": "2020-02-18T15:09:05.955Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -712,7 +712,7 @@
         "seriousIncreased": 1097,
         "updateTime": "2/18",
         "insickCount": 57657,
-        "lastUpdate": "2020-02-18T14:52:38.128Z",
+        "lastUpdate": "2020-02-18T15:09:05.955Z",
         "updateDate": "2020/2/18",
         "seriousRate": "16.19",
         "seriousDayRate": "2.33",
@@ -1191,6 +1191,24 @@
         "deadIncreased": 7,
         "curedRate": "40.56",
         "deadRate": "0.65",
+        "seriousDeadRate": "",
+        "curedDayRate": "0.00",
+        "deadDayRate": "0.00"
+      },
+      {
+        "confirmedCount": 12452,
+        "curedCount": 5051,
+        "deadCount": 81,
+        "lastUpdate": "2020-02-18T13:40:41.322Z",
+        "updateTime": "2/19",
+        "zipCode": "440000",
+        "suspectedCount": 0,
+        "insickCount": 7320,
+        "confirmedIncreased": 0,
+        "curedIncreased": 0,
+        "deadIncreased": 0,
+        "curedRate": "40.56",
+        "deadRate": "0.65",
         "seriousDeadRate": ""
       }
     ],
@@ -1202,8 +1220,8 @@
     "curedCount": 565,
     "deadCount": 4,
     "insickCount": 759,
-    "confirmedIncreased": 6,
-    "curedIncreased": 41,
+    "confirmedIncreased": 0,
+    "curedIncreased": 0,
     "deadIncreased": 0
   },
   {
@@ -1674,6 +1692,24 @@
         "deadIncreased": 93,
         "curedRate": "13.24",
         "deadRate": "2.98",
+        "seriousDeadRate": "",
+        "curedDayRate": "0.00",
+        "deadDayRate": "0.00"
+      },
+      {
+        "confirmedCount": 59989,
+        "curedCount": 7943,
+        "deadCount": 1789,
+        "lastUpdate": "2020-02-18T11:02:17.294Z",
+        "updateTime": "2/19",
+        "zipCode": "420000",
+        "suspectedCount": 0,
+        "insickCount": 50257,
+        "confirmedIncreased": 0,
+        "curedIncreased": 0,
+        "deadIncreased": 0,
+        "curedRate": "13.24",
+        "deadRate": "2.98",
         "seriousDeadRate": ""
       }
     ],
@@ -1685,8 +1721,8 @@
     "curedCount": 7943,
     "deadCount": 1789,
     "insickCount": 50257,
-    "confirmedIncreased": 1807,
-    "curedIncreased": 1250,
-    "deadIncreased": 93
+    "confirmedIncreased": 0,
+    "curedIncreased": 0,
+    "deadIncreased": 0
   }
 ]
