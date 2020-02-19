@@ -1238,6 +1238,24 @@
         "deadIncreased": 4,
         "curedRate": "44.71",
         "deadRate": "0.68",
+        "seriousDeadRate": "",
+        "curedDayRate": "0.00",
+        "deadDayRate": "0.00"
+      },
+      {
+        "confirmedCount": 12508,
+        "curedCount": 5592,
+        "deadCount": 85,
+        "lastUpdate": "2020-02-19T10:15:57.660Z",
+        "updateTime": "2/20",
+        "zipCode": "440000",
+        "suspectedCount": 0,
+        "insickCount": 6831,
+        "confirmedIncreased": 0,
+        "curedIncreased": 0,
+        "deadIncreased": 0,
+        "curedRate": "44.71",
+        "deadRate": "0.68",
         "seriousDeadRate": ""
       }
     ],
@@ -1249,9 +1267,9 @@
     "curedCount": 606,
     "deadCount": 5,
     "insickCount": 720,
-    "confirmedIncreased": 3,
-    "curedIncreased": 41,
-    "deadIncreased": 1
+    "confirmedIncreased": 0,
+    "curedIncreased": 0,
+    "deadIncreased": 0
   },
   {
     "name": "湖北省",
@@ -1739,6 +1757,24 @@
         "deadIncreased": 132,
         "curedRate": "15.14",
         "deadRate": "3.11",
+        "seriousDeadRate": "",
+        "curedDayRate": "0.00",
+        "deadDayRate": "0.00"
+      },
+      {
+        "confirmedCount": 61682,
+        "curedCount": 9336,
+        "deadCount": 1921,
+        "lastUpdate": "2020-02-19T13:47:42.544Z",
+        "updateTime": "2/20",
+        "zipCode": "420000",
+        "suspectedCount": 0,
+        "insickCount": 50425,
+        "confirmedIncreased": 0,
+        "curedIncreased": 0,
+        "deadIncreased": 0,
+        "curedRate": "15.14",
+        "deadRate": "3.11",
         "seriousDeadRate": ""
       }
     ],
@@ -1750,8 +1786,8 @@
     "curedCount": 9336,
     "deadCount": 1921,
     "insickCount": 50425,
-    "confirmedIncreased": 1693,
-    "curedIncreased": 1393,
-    "deadIncreased": 132
+    "confirmedIncreased": 0,
+    "curedIncreased": 0,
+    "deadIncreased": 0
   }
 ]
