@@ -2,7 +2,7 @@
   {
     "name": "全国",
     "provinceName": "全国",
-    "lastUpdate": "2020-02-19T23:49:09.450Z",
+    "lastUpdate": "2020-02-20T01:01:28.683Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -758,10 +758,10 @@
         "deadDayRate": "0.00"
       },
       {
-        "confirmedCount": 74642,
+        "confirmedCount": 74663,
         "suspectedCount": 5248,
-        "curedCount": 15964,
-        "deadCount": 2117,
+        "curedCount": 16041,
+        "deadCount": 2120,
         "seriousCount": 11977,
         "updateTime": "2/20",
         "suspectedIncreased": 0,
@@ -769,15 +769,15 @@
         "curedIncreased": 0,
         "deadIncreased": 0,
         "seriousIncreased": 0,
-        "insickCount": 56561,
-        "lastUpdate": "2020-02-19T23:49:09.450Z",
+        "insickCount": 56502,
+        "lastUpdate": "2020-02-20T01:01:28.683Z",
         "updateDate": "2020/2/20",
-        "seriousRate": "16.05",
+        "seriousRate": "16.04",
         "seriousDayRate": "0.00",
         "suspectedAccum": 5248,
-        "curedRate": "21.39",
+        "curedRate": "21.48",
         "deadRate": "2.84",
-        "seriousDeadRate": "17.68"
+        "seriousDeadRate": "17.70"
       }
     ]
   },
@@ -1268,27 +1268,27 @@
         "curedRate": "44.71",
         "deadRate": "0.68",
         "seriousDeadRate": "",
-        "curedDayRate": "0.37",
-        "deadDayRate": "0.00"
+        "curedDayRate": "1.49",
+        "deadDayRate": "0.04"
       },
       {
-        "confirmedCount": 12517,
-        "curedCount": 5617,
-        "deadCount": 85,
+        "confirmedCount": 12538,
+        "curedCount": 5694,
+        "deadCount": 88,
         "lastUpdate": "2020-02-19T10:15:57.660Z",
         "updateTime": "2/20",
         "zipCode": "440000",
         "suspectedCount": 0,
-        "insickCount": 6815,
-        "confirmedIncreased": 10,
-        "curedIncreased": 25,
-        "deadIncreased": 0,
-        "curedRate": "44.87",
-        "deadRate": "0.68",
+        "insickCount": 6756,
+        "confirmedIncreased": 31,
+        "curedIncreased": 102,
+        "deadIncreased": 3,
+        "curedRate": "45.41",
+        "deadRate": "0.70",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-02-19T23:49:09.450Z",
+    "lastUpdate": "2020-02-20T01:01:28.683Z",
     "updateTime": "2/20",
     "zipCode": "440000",
     "confirmedCount": 1331,
