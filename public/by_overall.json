@@ -1379,6 +1379,24 @@
         "deadIncreased": 3,
         "curedRate": "57.41",
         "deadRate": "0.74",
+        "seriousDeadRate": "",
+        "curedDayRate": "0.00",
+        "deadDayRate": "0.00"
+      },
+      {
+        "confirmedCount": 12839,
+        "curedCount": 7371,
+        "deadCount": 95,
+        "lastUpdate": "2020-02-22T10:01:40.406Z",
+        "updateTime": "2/23",
+        "zipCode": "440000",
+        "suspectedCount": 0,
+        "insickCount": 5373,
+        "confirmedIncreased": 0,
+        "curedIncreased": 0,
+        "deadIncreased": 0,
+        "curedRate": "57.41",
+        "deadRate": "0.74",
         "seriousDeadRate": ""
       }
     ],
@@ -1390,8 +1408,8 @@
     "curedCount": 728,
     "deadCount": 5,
     "insickCount": 606,
-    "confirmedIncreased": 6,
-    "curedIncreased": 38,
+    "confirmedIncreased": 0,
+    "curedIncreased": 0,
     "deadIncreased": 0
   },
   {
@@ -1934,6 +1952,24 @@
         "deadIncreased": 106,
         "curedRate": "21.57",
         "deadRate": "3.55",
+        "seriousDeadRate": "",
+        "curedDayRate": "0.00",
+        "deadDayRate": "0.00"
+      },
+      {
+        "confirmedCount": 63454,
+        "curedCount": 13690,
+        "deadCount": 2250,
+        "lastUpdate": "2020-02-22T12:55:28.727Z",
+        "updateTime": "2/23",
+        "zipCode": "420000",
+        "suspectedCount": 0,
+        "insickCount": 47514,
+        "confirmedIncreased": 0,
+        "curedIncreased": 0,
+        "deadIncreased": 0,
+        "curedRate": "21.57",
+        "deadRate": "3.55",
         "seriousDeadRate": ""
       }
     ],
@@ -1945,8 +1981,8 @@
     "curedCount": 13690,
     "deadCount": 2250,
     "insickCount": 47514,
-    "confirmedIncreased": 792,
-    "curedIncreased": 1809,
-    "deadIncreased": 106
+    "confirmedIncreased": 0,
+    "curedIncreased": 0,
+    "deadIncreased": 0
   }
 ]
