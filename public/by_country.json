@@ -532,25 +532,6 @@
     "enName": "Finland"
   },
   {
-    "locationId": 962005,
-    "continentName": "欧洲",
-    "continentEnglishName": "Europe",
-    "countryName": "瑞典",
-    "countryEnglishName": "Sweden",
-    "provinceName": "瑞典",
-    "provinceShortName": "瑞典",
-    "provinceEnglishName": "Sweden",
-    "currentConfirmedCount": 1,
-    "confirmedCount": 1,
-    "suspectedCount": 0,
-    "curedCount": 0,
-    "deadCount": 0,
-    "comment": "",
-    "updateTime": "2/16",
-    "updateDate": "2/16",
-    "enName": "Sweden"
-  },
-  {
     "locationId": 952008,
     "continentName": "亚洲",
     "continentEnglishName": "Asia",
@@ -568,5 +549,24 @@
     "updateTime": "2/16",
     "updateDate": "2/16",
     "enName": "Philippiness"
+  },
+  {
+    "locationId": 962005,
+    "continentName": "欧洲",
+    "continentEnglishName": "Europe",
+    "countryName": "瑞典",
+    "countryEnglishName": "Sweden",
+    "provinceName": "瑞典",
+    "provinceShortName": "瑞典",
+    "provinceEnglishName": "Sweden",
+    "currentConfirmedCount": 1,
+    "confirmedCount": 1,
+    "suspectedCount": 0,
+    "curedCount": 0,
+    "deadCount": 0,
+    "comment": "",
+    "updateTime": "2/16",
+    "updateDate": "2/16",
+    "enName": "Sweden"
   }
 ]
