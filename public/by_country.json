@@ -1,5 +1,24 @@
 [
   {
+    "locationId": 310000,
+    "continentName": "亚洲",
+    "continentEnglishName": "Asia",
+    "countryName": "中国",
+    "countryEnglishName": "China",
+    "provinceName": "上海市",
+    "provinceShortName": "上海",
+    "provinceEnglishName": "Shanghai",
+    "currentConfirmedCount": 83,
+    "confirmedCount": 77041,
+    "suspectedCount": 0,
+    "curedCount": 22940,
+    "deadCount": 2445,
+    "comment": "未知治愈数据统一归属上海市公卫临床中心，暂无具体分区",
+    "updateTime": "2/23",
+    "updateDate": "2/23",
+    "enName": "China"
+  },
+  {
     "locationId": 951004,
     "continentName": "亚洲",
     "continentEnglishName": "Asia",
@@ -17,25 +36,6 @@
     "updateTime": "2/23",
     "updateDate": "2/23",
     "enName": "Korea"
-  },
-  {
-    "locationId": 810000,
-    "continentName": "亚洲",
-    "continentEnglishName": "Asia",
-    "countryName": "中国",
-    "countryEnglishName": "China",
-    "provinceName": "香港",
-    "provinceShortName": "香港",
-    "provinceEnglishName": "Hong Kong",
-    "currentConfirmedCount": 56,
-    "confirmedCount": 77041,
-    "suspectedCount": 0,
-    "curedCount": 22908,
-    "deadCount": 2445,
-    "comment": "",
-    "updateTime": "2/23",
-    "updateDate": "2/23",
-    "enName": "China"
   },
   {
     "locationId": 951002,
@@ -209,25 +209,6 @@
     "enName": "Vietnam"
   },
   {
-    "locationId": 965008,
-    "continentName": "欧洲",
-    "continentEnglishName": "Europe",
-    "countryName": "意大利",
-    "countryEnglishName": "Italy",
-    "provinceName": "意大利",
-    "provinceShortName": "意大利",
-    "provinceEnglishName": "Italy",
-    "currentConfirmedCount": 73,
-    "confirmedCount": 76,
-    "suspectedCount": 0,
-    "curedCount": 1,
-    "deadCount": 2,
-    "comment": "",
-    "updateTime": "2/23",
-    "updateDate": "2/23",
-    "enName": "Italy"
-  },
-  {
     "locationId": 952009,
     "continentName": "亚洲",
     "continentEnglishName": "Asia",
@@ -245,6 +226,25 @@
     "updateTime": "2/23",
     "updateDate": "2/23",
     "enName": "Singapore"
+  },
+  {
+    "locationId": 965008,
+    "continentName": "欧洲",
+    "continentEnglishName": "Europe",
+    "countryName": "意大利",
+    "countryEnglishName": "Italy",
+    "provinceName": "意大利",
+    "provinceShortName": "意大利",
+    "provinceEnglishName": "Italy",
+    "currentConfirmedCount": 73,
+    "confirmedCount": 76,
+    "suspectedCount": 0,
+    "curedCount": 1,
+    "deadCount": 2,
+    "comment": "",
+    "updateTime": "2/23",
+    "updateDate": "2/23",
+    "enName": "Italy"
   },
   {
     "locationId": 963003,
