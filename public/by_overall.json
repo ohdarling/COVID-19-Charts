@@ -2,7 +2,7 @@
   {
     "name": "全国",
     "provinceName": "全国",
-    "lastUpdate": "2020-02-23T01:07:39.744Z",
+    "lastUpdate": "2020-02-23T02:09:05.230Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -845,10 +845,10 @@
         "deadDayRate": "0.00"
       },
       {
-        "confirmedCount": 77038,
+        "confirmedCount": 77041,
         "suspectedCount": 5365,
-        "curedCount": 22824,
-        "deadCount": 2444,
+        "curedCount": 22908,
+        "deadCount": 2445,
         "seriousCount": 11477,
         "updateTime": "2/23",
         "suspectedIncreased": 0,
@@ -856,15 +856,15 @@
         "curedIncreased": 0,
         "deadIncreased": 0,
         "seriousIncreased": 0,
-        "insickCount": 51770,
-        "lastUpdate": "2020-02-23T01:07:39.744Z",
+        "insickCount": 51688,
+        "lastUpdate": "2020-02-23T02:09:05.230Z",
         "updateDate": "2020/2/23",
         "seriousRate": "14.90",
         "seriousDayRate": "0.00",
         "suspectedAccum": 5365,
-        "curedRate": "29.63",
+        "curedRate": "29.73",
         "deadRate": "3.17",
-        "seriousDeadRate": "21.29"
+        "seriousDeadRate": "21.30"
       }
     ]
   },
@@ -1409,37 +1409,37 @@
         "curedRate": "57.41",
         "deadRate": "0.74",
         "seriousDeadRate": "",
-        "curedDayRate": "2.61",
-        "deadDayRate": "0.00"
+        "curedDayRate": "4.08",
+        "deadDayRate": "0.02"
       },
       {
-        "confirmedCount": 12851,
-        "curedCount": 7511,
-        "deadCount": 95,
-        "lastUpdate": "2020-02-22T10:01:40.406Z",
+        "lastUpdate": "2020-02-23T01:22:15.785Z",
         "updateTime": "2/23",
         "zipCode": "440000",
+        "confirmedCount": 12854,
         "suspectedCount": 0,
-        "insickCount": 5245,
-        "confirmedIncreased": 12,
-        "curedIncreased": 140,
-        "deadIncreased": 0,
-        "curedRate": "58.45",
-        "deadRate": "0.74",
+        "curedCount": 7590,
+        "deadCount": 96,
+        "insickCount": 5168,
+        "confirmedIncreased": 15,
+        "curedIncreased": 219,
+        "deadIncreased": 1,
+        "curedRate": "59.05",
+        "deadRate": "0.75",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-02-23T01:07:39.744Z",
+    "lastUpdate": "2020-02-23T01:27:28.557Z",
     "updateTime": "2/23",
     "zipCode": "440000",
-    "confirmedCount": 1339,
+    "confirmedCount": 1342,
     "suspectedCount": 0,
-    "curedCount": 728,
-    "deadCount": 5,
-    "insickCount": 606,
-    "confirmedIncreased": 0,
-    "curedIncreased": 0,
-    "deadIncreased": 0
+    "curedCount": 740,
+    "deadCount": 6,
+    "insickCount": 596,
+    "confirmedIncreased": 3,
+    "curedIncreased": 12,
+    "deadIncreased": 1
   },
   {
     "name": "湖北省",
