@@ -2,7 +2,7 @@
   {
     "name": "全国",
     "provinceName": "全国",
-    "lastUpdate": "2020-02-25T23:51:19.266Z",
+    "lastUpdate": "2020-02-26T00:57:22.492Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -932,9 +932,9 @@
         "deadDayRate": "0.00"
       },
       {
-        "confirmedCount": 77785,
+        "confirmedCount": 77788,
         "suspectedCount": 2824,
-        "curedCount": 27681,
+        "curedCount": 27775,
         "deadCount": 2666,
         "seriousCount": 9126,
         "updateTime": "2/26",
@@ -943,13 +943,13 @@
         "curedIncreased": 0,
         "deadIncreased": 0,
         "seriousIncreased": 0,
-        "insickCount": 47438,
-        "lastUpdate": "2020-02-25T23:51:19.266Z",
+        "insickCount": 47347,
+        "lastUpdate": "2020-02-26T00:57:22.492Z",
         "updateDate": "2020/2/26",
         "seriousRate": "11.73",
         "seriousDayRate": "0.00",
         "suspectedAccum": 2824,
-        "curedRate": "35.59",
+        "curedRate": "35.71",
         "deadRate": "3.43",
         "seriousDeadRate": "29.21"
       }
@@ -1550,27 +1550,27 @@
         "curedRate": "67.20",
         "deadRate": "0.78",
         "seriousDeadRate": "",
-        "curedDayRate": "0.63",
+        "curedDayRate": "2.79",
         "deadDayRate": "0.00"
       },
       {
-        "confirmedCount": 12876,
-        "curedCount": 8679,
+        "confirmedCount": 12879,
+        "curedCount": 8768,
         "deadCount": 100,
         "lastUpdate": "2020-02-25T08:47:25.147Z",
         "updateTime": "2/26",
         "zipCode": "440000",
         "suspectedCount": 0,
-        "insickCount": 4097,
-        "confirmedIncreased": 0,
-        "curedIncreased": 26,
+        "insickCount": 4011,
+        "confirmedIncreased": 3,
+        "curedIncreased": 115,
         "deadIncreased": 0,
-        "curedRate": "67.40",
+        "curedRate": "68.08",
         "deadRate": "0.78",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-02-25T23:51:19.266Z",
+    "lastUpdate": "2020-02-26T00:53:10.676Z",
     "updateTime": "2/26",
     "zipCode": "440000",
     "confirmedCount": 1347,
