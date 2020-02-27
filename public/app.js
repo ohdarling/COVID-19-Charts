@@ -97,7 +97,8 @@ async function prepareChartMap(mapName) {
 
 async function getData(type) {
   if (!allDataStore[type]) {
-    const ret = await axios.get(`by_${type}.json`, {
+    const t = typeof build_timestamp !== 'undefined' ? parseInt(build_timestamp) || 1 : 1;
+    const ret = await axios.get(`by_${type}.json?t=${t}`, {
       onDownloadProgress: (pe) => {
         if (pe.lengthComputable) {
           showLoading('data', pe);
