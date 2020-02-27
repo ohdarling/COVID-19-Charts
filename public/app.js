@@ -231,7 +231,7 @@ function createTrendsChartConfig(data) {
   return config;
 }
 
-function createRateTrendsChartConfig(data, seriesConfig = []) {
+function createRateTrendsChartConfig(data, seriesConfig = [], overrideConfig = {}) {
   const { name, records } = data;
   const days = records.map(v => v.updateTime);
   const seriesKeyMap = {};
@@ -250,7 +250,14 @@ function createRateTrendsChartConfig(data, seriesConfig = []) {
       {
         text: name,
       },
-    ],
+    ].concat(data.lastUpdate ?
+      [
+        {
+          text: data.lastUpdate ? `最后更新时间：${new Date(data.lastUpdate).toLocaleString('zh-CN')}` : '',
+          right: 20, top: 4,
+          textStyle: { fontSize: 12, fontWeight: 'normal', color: '#666', },
+        }
+      ] : []),
     tooltip: {
       trigger: 'axis',
       formatter: (params) => {
@@ -290,6 +297,10 @@ function createRateTrendsChartConfig(data, seriesConfig = []) {
     ],
     series,
   };
+
+  Object.keys(overrideConfig).forEach(k => {
+    config[k] = Object.assign(config[k] || {}, overrideConfig[k]);
+  });
 
   return config;
 }
@@ -537,7 +548,7 @@ async function setupWorldMapCharts(records, container) {
         },
         data: records.map(r => {
           return {
-            name: r.enName,
+            name: r.countryEnglishName,
             country: r.countryName,
             value: r.confirmedCount,
             confirmed: r.confirmedCount,
@@ -548,6 +559,9 @@ async function setupWorldMapCharts(records, container) {
             }
           };
         }),
+        nameMap: {
+          'United States': 'United States of America',
+        },
       }
     ]
   };
@@ -647,18 +661,33 @@ async function showWorldMap() {
 
 async function showSummary() {
   const records = await prepareChartData('', 'overall');
-
-  const html = new Array(records.length * 3).join(',').split(',').map((v, i) => {
-    return `<div id="chart${i}" class="trends-chart"></div>`;
-  }).join('');
-  document.getElementById(chartsContainerId).innerHTML = html;
+  const [ lastDay ] = records.splice(3, 1);
+  lastDay.records.forEach(v => {
+    v.updateTime = shortAreaName(v.updateTime);
+  });
 
   allCharts = [
     ...records.map((v, i) => {
       const cfg = createTrendsChartConfig(v);
-      const chart = echarts.init(document.getElementById(`chart${i}`));
-      chart.setOption(cfg);
-      return chart;
+      return cfg;
+    }),
+    ...[ lastDay ].map((v, i) => {
+      const cfg = createRateTrendsChartConfig(v, [
+        { name: '新增确诊', key: 'confirmedIncreased' },
+        { name: '无新增确诊天数', key: 'maxZeroIncrDays', config: { type: 'bar', } },
+      ], {
+        xAxis: {
+          axisLabel: {
+            interval: 0,
+            rotate: 90,
+          }
+        },
+        yAxis: [{
+          type: 'value',
+        }],
+      });
+      cfg.title[0].text = '无新增确诊天数';
+      return cfg;
     }),
     ...records.map((v, i) => {
       const cfg = createRateTrendsChartConfig(v, [
@@ -668,9 +697,7 @@ async function showSummary() {
         { name: '新增治愈率', key: 'curedDayRate', },
       ]);
       cfg.title[0].text += '治愈/死亡率';
-      const chart = echarts.init(document.getElementById(`chart${i+records.length}`));
-      chart.setOption(cfg);
-      return chart;
+      return cfg;
     }),
     ...[ records[0], records[0], records[0] ].map((v, i) => {
       const cfg = createRateTrendsChartConfig(v, [
@@ -700,13 +727,61 @@ async function showSummary() {
         cfg.yAxis[0].axisLabel.formatter = '{value}';
       }
       cfg.title[0].text += [ '疑似变化', '疑似检测/确诊', '重症率' ][i];
-      const chart = echarts.init(document.getElementById(`chart${i+records.length*2}`));
-      chart.setOption(cfg);
-      return chart;
+      return cfg;
     }),
   ];
 
+  const html = allCharts.map((_, i) => {
+    return `<div id="chart${i}" class="trends-chart"></div>`;
+  }).join('');
+  document.getElementById(chartsContainerId).innerHTML = html;
+
+  allCharts = allCharts.map((cfg, i) => {
+    const chart = echarts.init(document.getElementById(`chart${i}`));
+    chart.setOption(cfg);
+    return chart;
+  });
+
   updateHash('summary');
+}
+
+async function showZeroDays() {
+  const records = await prepareChartData('', 'increase');
+
+  allCharts = records.map((v, i) => {
+    v.records.forEach(r => {
+      r.updateTime = shortAreaName(r.updateTime);
+    });
+    const cfg = createRateTrendsChartConfig(v, [
+      { name: '新增确诊', key: 'confirmedIncreased' },
+      { name: '无新增确诊天数', key: 'maxZeroIncrDays', config: { type: 'bar', itemStyle: { color: 'rgb(156,197,175)', }, } },
+    ], {
+      xAxis: {
+        axisLabel: {
+          interval: 0,
+          rotate: 90,
+        }
+      },
+      yAxis: [{
+        type: 'value',
+      }],
+    });
+    // cfg.title[0].text += '无新增确诊天数';
+    return cfg;
+  });
+
+  const html = allCharts.map((_, i) => {
+    return `<div id="chart${i}" class="trends-chart"></div>`;
+  }).join('');
+  document.getElementById(chartsContainerId).innerHTML = html;
+
+  allCharts = allCharts.map((cfg, i) => {
+    const chart = echarts.init(document.getElementById(`chart${i}`));
+    chart.setOption(cfg);
+    return chart;
+  });
+
+  updateHash('zerodays');
 }
 
 function handleHashChanged() {
@@ -724,6 +799,9 @@ function handleHashChanged() {
   const tabFuncs = {
     'summary': {
       func: showSummary,
+    },
+    'zerodays': {
+      func: showZeroDays,
     },
     'map': {
       func: showMap,
