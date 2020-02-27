@@ -661,8 +661,9 @@ async function showWorldMap() {
 }
 
 async function showSummary() {
-  const records = await prepareChartData('', 'overall');
-  const [ lastDay ] = records.splice(3, 1);
+  const allRecords = await prepareChartData('', 'overall');
+  const records = allRecords.slice(0, 3);
+  const [ lastDay ] = allRecords.slice(3);
   lastDay.records.forEach(v => {
     v.updateTime = shortAreaName(v.updateTime);
   });
