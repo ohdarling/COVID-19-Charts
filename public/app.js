@@ -674,7 +674,7 @@ async function showSummary() {
     ...[ lastDay ].map((v, i) => {
       const cfg = createRateTrendsChartConfig(v, [
         { name: '新增确诊', key: 'confirmedIncreased' },
-        { name: '无新增确诊天数', key: 'maxZeroIncrDays', config: { type: 'bar', } },
+        { name: '无新增确诊天数', key: 'maxZeroIncrDays', config: { type: 'bar', itemStyle: { color: 'rgb(156,197,175)', }, } },
       ], {
         xAxis: {
           axisLabel: {
@@ -686,7 +686,7 @@ async function showSummary() {
           type: 'value',
         }],
       });
-      cfg.title[0].text = '无新增确诊天数';
+      cfg.title[0].text += '无新增确诊天数';
       return cfg;
     }),
     ...records.map((v, i) => {
