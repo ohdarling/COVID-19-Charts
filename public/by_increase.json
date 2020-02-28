@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-02-28T07:38:21.151Z",
+    "lastUpdate": "2020-02-28T10:44:10.646Z",
     "records": [
       {
         "updateTime": "广东省",
@@ -162,7 +162,7 @@
   },
   {
     "name": "广东省",
-    "lastUpdate": "2020-02-28T07:31:59.011Z",
+    "lastUpdate": "2020-02-28T08:24:58.363Z",
     "records": [
       {
         "updateTime": "深圳",
@@ -278,7 +278,7 @@
   },
   {
     "name": "河南省",
-    "lastUpdate": "2020-02-28T06:02:43.567Z",
+    "lastUpdate": "2020-02-28T09:16:05.273Z",
     "records": [
       {
         "updateTime": "信阳",
@@ -399,12 +399,17 @@
         "updateTime": "滑县",
         "maxZeroIncrDays": 29,
         "confirmedIncreased": 0
+      },
+      {
+        "updateTime": "待明确地区",
+        "maxZeroIncrDays": 36,
+        "confirmedIncreased": 0
       }
     ]
   },
   {
     "name": "浙江省",
-    "lastUpdate": "2020-02-28T06:02:43.567Z",
+    "lastUpdate": "2020-02-28T09:43:38.486Z",
     "records": [
       {
         "updateTime": "温州",
@@ -465,12 +470,17 @@
         "updateTime": "湖州",
         "maxZeroIncrDays": 20,
         "confirmedIncreased": 0
+      },
+      {
+        "updateTime": "待明确地区",
+        "maxZeroIncrDays": 36,
+        "confirmedIncreased": 0
       }
     ]
   },
   {
     "name": "湖南省",
-    "lastUpdate": "2020-02-28T06:22:54.847Z",
+    "lastUpdate": "2020-02-28T08:57:53.967Z",
     "records": [
       {
         "updateTime": "长沙",
@@ -708,7 +718,7 @@
   },
   {
     "name": "山东省",
-    "lastUpdate": "2020-02-28T07:27:44.433Z",
+    "lastUpdate": "2020-02-28T09:17:08.602Z",
     "records": [
       {
         "updateTime": "济宁",
@@ -794,7 +804,7 @@
   },
   {
     "name": "江苏省",
-    "lastUpdate": "2020-02-28T04:35:55.738Z",
+    "lastUpdate": "2020-02-28T08:24:58.363Z",
     "records": [
       {
         "updateTime": "南京",
@@ -1066,7 +1076,7 @@
   },
   {
     "name": "四川省",
-    "lastUpdate": "2020-02-28T07:17:09.098Z",
+    "lastUpdate": "2020-02-28T09:17:08.602Z",
     "records": [
       {
         "updateTime": "成都",
@@ -1435,7 +1445,7 @@
   },
   {
     "name": "河北省",
-    "lastUpdate": "2020-02-27T23:59:37.849Z",
+    "lastUpdate": "2020-02-28T08:47:17.895Z",
     "records": [
       {
         "updateTime": "唐山",
@@ -1496,7 +1506,7 @@
   },
   {
     "name": "福建省",
-    "lastUpdate": "2020-02-28T04:45:28.003Z",
+    "lastUpdate": "2020-02-28T08:57:53.967Z",
     "records": [
       {
         "updateTime": "福州",
@@ -1547,7 +1557,7 @@
   },
   {
     "name": "广西壮族自治区",
-    "lastUpdate": "2020-02-28T00:21:45.809Z",
+    "lastUpdate": "2020-02-28T08:57:53.967Z",
     "records": [
       {
         "updateTime": "南宁",
@@ -1618,7 +1628,7 @@
   },
   {
     "name": "陕西省",
-    "lastUpdate": "2020-02-28T04:52:52.973Z",
+    "lastUpdate": "2020-02-28T08:47:17.895Z",
     "records": [
       {
         "updateTime": "西安",
@@ -1760,7 +1770,7 @@
   },
   {
     "name": "海南省",
-    "lastUpdate": "2020-02-28T01:40:10.951Z",
+    "lastUpdate": "2020-02-28T08:28:10.248Z",
     "records": [
       {
         "updateTime": "三亚",
@@ -2105,7 +2115,7 @@
   },
   {
     "name": "吉林省",
-    "lastUpdate": "2020-02-28T07:17:09.098Z",
+    "lastUpdate": "2020-02-28T08:24:58.363Z",
     "records": [
       {
         "updateTime": "长春",
