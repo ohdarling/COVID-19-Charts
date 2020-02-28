@@ -1,4 +1,5 @@
 let allDataStore = {};
+let mapDisplayMetrics = 'accum';
 
 const allDates = (() => {
   const ret = [];
@@ -233,6 +234,8 @@ function createTrendsChartConfig(data) {
 }
 
 function createRateTrendsChartConfig(data, seriesConfig = [], overrideConfig = {}) {
+  const nameKey = currentLanguage === 'en' ? 'enName' : 'name';
+  const displayName = data[nameKey];
   const { name, records } = data;
   const days = records.map(v => v.updateTime);
   const seriesKeyMap = {};
@@ -249,12 +252,12 @@ function createRateTrendsChartConfig(data, seriesConfig = [], overrideConfig = {
   const config = {
     title: [
       {
-        text: name,
+        text: displayName,
       },
     ].concat(data.lastUpdate ?
       [
         {
-          text: data.lastUpdate ? `最后更新时间：${new Date(data.lastUpdate).toLocaleString('zh-CN')}` : '',
+          text: data.lastUpdate ? `${getTextForKey('最后更新时间：')}${new Date(data.lastUpdate).toLocaleString('zh-CN')}` : '',
           right: 20, top: 4,
           textStyle: { fontSize: 12, fontWeight: 'normal', color: '#666', },
         }
@@ -306,7 +309,13 @@ function createRateTrendsChartConfig(data, seriesConfig = [], overrideConfig = {
   return config;
 }
 
+function switchMapMetrics(m) {
+  mapDisplayMetrics = m;
+  handleHashChanged();
+}
+
 async function createMapChartConfig({ mapName, data, title = '', valueKey = 'confirmedCount' }) {
+  valueKey = mapDisplayMetrics === 'accum' ? 'confirmedCount' : 'insickCount';
   let geoJSON = await prepareChartMap(mapName);
   geoJSON.features.forEach(v => {
     const showName = v.properties.name;
@@ -340,6 +349,13 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
 
   const config = {
     baseOption: {
+      title: {
+        text: mapDisplayMetrics === 'accum' ? getTextForKey('当前显示累计确诊') : getTextForKey('当前显示现存确诊'),
+        link: `javascript:switchMapMetrics("${mapDisplayMetrics === "accum" ? 'current' : 'accum'}")`,
+        target: 'self',
+        bottom: '10',
+        left: '10',
+      },
       timeline: {
           axisType: 'category',
           // realtime: false,
@@ -424,25 +440,25 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
             formatter: ({ name, data }) => {
               if (data) {
                 const { name, value, confirmed, dead, cured, increased } = data;
-                const tip = `<b>${name}</b><br />确诊人数：${confirmed}<br />治愈人数：${cured}<br />死亡人数：${dead}<br />新增确诊：${increased}`;
+                const tip = `<b>${name}</b><br />${getTextForKey('确诊人数：')}${confirmed}<br />${getTextForKey('治愈人数：')}${cured}<br />${getTextForKey('死亡人数：')}${dead}<br />${getTextForKey('新增确诊：')}${increased}`;
                 return tip;
               }
-              return `<b>${name}</b><br />暂无数据`;
+              return `<b>${name}</b><br />${getTextForKey('暂无数据')}`;
             },
           },
           z: 1000,
         }
       ].concat((hideBarChart ? [] : [
         {
-          name: '治愈',
+          name: getTextForKey('治愈'),
           color: 'rgb(64,141,39)',
         },
         {
-          name: '死亡',
+          name: getTextForKey('死亡'),
           color: 'gray',
         },
         {
-          name: '治疗',
+          name: getTextForKey('治疗'),
           color: 'rgb(224,144,115)',
         }
       ].map(c => {
@@ -541,10 +557,10 @@ async function setupWorldMapCharts(records, container) {
           formatter: ({ name, data }) => {
             if (data) {
               const { name, country, value, confirmed, dead, cured, increased } = data;
-              const tip = `<b>${country} (${name})</b><br />确诊人数：${confirmed}<br />治愈人数：${cured}<br />死亡人数：${dead}`;
+              const tip = `<b>${country} (${name})</b><br />${getTextForKey('确诊人数：')}${confirmed}<br />${getTextForKey('治愈人数：')}${cured}<br />${getTextForKey('死亡人数：')}${dead}`;
               return tip;
             }
-            return `<b>${name}</b><br />暂无数据`;
+            return `<b>${name}</b><br />${getTextForKey('暂无数据')}`;
           },
         },
         data: records.map(r => {
@@ -675,8 +691,8 @@ async function showSummary() {
     }),
     ...[ lastDay ].map((v, i) => {
       const cfg = createRateTrendsChartConfig(v, [
-        { name: '新增确诊', key: 'confirmedIncreased' },
-        { name: '无新增确诊天数', key: 'maxZeroIncrDays', config: { type: 'bar', itemStyle: { color: 'rgb(156,197,175)', }, } },
+        { name: getTextForKey('新增确诊'), key: 'confirmedIncreased' },
+        { name: getTextForKey('无新增确诊天数'), key: 'maxZeroIncrDays', config: { type: 'bar', itemStyle: { color: 'rgb(156,197,175)', }, } },
       ], {
         xAxis: {
           axisLabel: {
@@ -688,47 +704,47 @@ async function showSummary() {
           type: 'value',
         }],
       });
-      cfg.title[0].text += '无新增确诊天数';
+      cfg.title[0].text += ' ' + getTextForKey('无新增确诊天数');
       return cfg;
     }),
     ...records.map((v, i) => {
       const cfg = createRateTrendsChartConfig(v, [
-        { name: '累计死亡率', key: 'deadRate', },
-        { name: '新增死亡率', key: 'deadDayRate', },
-        { name: '累计治愈率', key: 'curedRate', },
-        { name: '新增治愈率', key: 'curedDayRate', },
+        { name: getTextForKey('累计死亡率'), key: 'deadRate', },
+        // { name: getTextForKey('新增死亡率'), key: 'deadDayRate', },
+        { name: getTextForKey('累计治愈率'), key: 'curedRate', },
+        // { name: getTextForKey('新增治愈率'), key: 'curedDayRate', },
       ]);
-      cfg.title[0].text += '治愈/死亡率';
+      cfg.title[0].text += ' ' + getTextForKey('治愈/死亡率');
       return cfg;
     }),
     ...[ records[0], records[0], records[0] ].map((v, i) => {
       const cfg = createRateTrendsChartConfig(v, [
         [
-          { name: '累计疑似', key: 'suspectedAccum', },
-          { name: '累计确诊', key: 'confirmedCount', },
-          { name: '当前疑似', key: 'suspectedCount', config: { type: 'bar', }},
-          { name: '新增疑似', key: 'suspectedIncreased', config: { type: 'bar', }},
+          { name: getTextForKey('累计疑似'), key: 'suspectedAccum', },
+          { name: getTextForKey('累计确诊'), key: 'confirmedCount', },
+          { name: getTextForKey('当前疑似'), key: 'suspectedCount', config: { type: 'bar', }},
+          { name: getTextForKey('新增疑似'), key: 'suspectedIncreased', config: { type: 'bar', }},
         ],
         [
-          { name: '疑似确诊比例', key: 'suspectedConfirmedRate', },
+          { name: getTextForKey('疑似确诊比例'), key: 'suspectedConfirmedRate', },
           // { name: '新增检测比例', key: 'suspectedDayProcessedRate', },
           // { name: '新增确诊比例', key: 'suspectedDayConfirmedRate' },
-          { name: '新增疑似', key: 'suspectedIncreased', config: { type: 'line', yAxisIndex: 1 }},
-          { name: '疑似检测', key: 'suspectedDayProcessed', config: { type: 'bar', yAxisIndex: 1 }},
-          { name: '疑似确诊', key: 'suspectedConfirmedCount', config: { type: 'bar', yAxisIndex: 1 }},
+          { name: getTextForKey('新增疑似'), key: 'suspectedIncreased', config: { type: 'line', yAxisIndex: 1 }},
+          { name: getTextForKey('疑似检测'), key: 'suspectedDayProcessed', config: { type: 'bar', yAxisIndex: 1 }},
+          // { name: '疑似确诊', key: 'suspectedConfirmedCount', config: { type: 'bar', yAxisIndex: 1 }},
         ],
         [
-          { name: '累计重症比例', key: 'seriousRate', },
-          { name: '重症死亡比例', key: 'seriousDeadRate' },
-          { name: '新增重症比例', key: 'seriousDayRate' },
-          { name: '累计重症', key: 'seriousCount', config: { type: 'bar', yAxisIndex: 1 }},
-          { name: '新增重症', key: 'seriousIncreased', config: { type: 'bar', yAxisIndex: 1 }},
+          { name: getTextForKey('累计重症比例'), key: 'seriousRate', },
+          // { name: getTextForKey('重症死亡比例'), key: 'seriousDeadRate' },
+          // { name: getTextForKey('新增重症比例'), key: 'seriousDayRate' },
+          { name: getTextForKey('累计重症'), key: 'seriousCount', config: { type: 'bar', yAxisIndex: 1 }},
+          // { name: '新增重症', key: 'seriousIncreased', config: { type: 'bar', yAxisIndex: 1 }},
         ],
       ][i]);
       if (i === 0) {
         cfg.yAxis[0].axisLabel.formatter = '{value}';
       }
-      cfg.title[0].text += [ '疑似变化', '疑似检测/确诊', '重症率' ][i];
+      cfg.title[0].text += ' ' + [ getTextForKey('疑似变化'), getTextForKey('疑似检测/确诊'), getTextForKey('重症率') ][i];
       return cfg;
     }),
   ];
@@ -755,8 +771,8 @@ async function showZeroDays() {
       r.updateTime = shortAreaName(r.updateTime);
     });
     const cfg = createRateTrendsChartConfig(v, [
-      { name: '新增确诊', key: 'confirmedIncreased' },
-      { name: '无新增确诊天数', key: 'maxZeroIncrDays', config: { type: 'bar', itemStyle: { color: 'rgb(156,197,175)', }, } },
+      { name: getTextForKey('新增确诊'), key: 'confirmedIncreased' },
+      { name: getTextForKey('无新增确诊天数'), key: 'maxZeroIncrDays', config: { type: 'bar', itemStyle: { color: 'rgb(156,197,175)', }, } },
     ], {
       xAxis: {
         axisLabel: {
