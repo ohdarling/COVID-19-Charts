@@ -793,7 +793,7 @@ async function showZeroDays() {
       xAxis: {
         axisLabel: {
           interval: 0,
-          rotate: 90,
+          rotate: 40,
         }
       },
       yAxis: [{
