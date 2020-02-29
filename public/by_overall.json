@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-02-29T05:10:12.570Z",
+    "lastUpdate": "2020-02-29T05:08:48.516Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -655,16 +655,16 @@
         "seriousIncreased": 219,
         "updateTime": "2/16",
         "insickCount": 57165,
-        "lastUpdate": "2020-02-16T15:17:32.676Z",
+        "lastUpdate": "2020-02-16T13:45:52.219Z",
         "updateDate": "2020/2/16",
         "seriousRate": "16.43",
         "seriousDayRate": "0.47",
         "suspectedAccum": 72389,
         "suspectedDayProcessed": 2527,
-        "suspectedConfirmedCount": 2058,
-        "suspectedConfirmedRate": "25.01",
+        "suspectedConfirmedCount": 2060,
+        "suspectedConfirmedRate": "25.04",
         "suspectedDayProcessedRate": "30.71",
-        "suspectedDayConfirmedRate": "81.44",
+        "suspectedDayConfirmedRate": "81.52",
         "curedRate": "14.23",
         "deadRate": "2.43",
         "seriousDeadRate": "14.79",
@@ -672,19 +672,19 @@
         "deadDayRate": "0.19"
       },
       {
-        "confirmedCount": 70642,
+        "confirmedCount": 70644,
         "suspectedCount": 7264,
         "curedCount": 11278,
         "deadCount": 1772,
         "seriousCount": 10644,
         "suspectedIncreased": 1563,
-        "confirmedIncreased": 2058,
+        "confirmedIncreased": 2060,
         "curedIncreased": 1853,
         "deadIncreased": 106,
         "seriousIncreased": 0,
         "updateTime": "2/17",
-        "insickCount": 57592,
-        "lastUpdate": "2020-02-17T15:17:29.229Z",
+        "insickCount": 57594,
+        "lastUpdate": "2020-02-17T15:43:00.614Z",
         "updateDate": "2020/2/17",
         "seriousRate": "15.07",
         "seriousDayRate": "0.00",
@@ -694,7 +694,7 @@
         "suspectedConfirmedRate": "26.09",
         "suspectedDayProcessedRate": "33.78",
         "suspectedDayConfirmedRate": "77.22",
-        "curedRate": "15.97",
+        "curedRate": "15.96",
         "deadRate": "2.51",
         "seriousDeadRate": "16.65",
         "curedDayRate": "3.72",
@@ -713,7 +713,7 @@
         "seriousIncreased": 1097,
         "updateTime": "2/18",
         "insickCount": 57657,
-        "lastUpdate": "2020-02-18T15:17:30.126Z",
+        "lastUpdate": "2020-02-18T15:09:05.955Z",
         "updateDate": "2020/2/18",
         "seriousRate": "16.19",
         "seriousDayRate": "2.33",
@@ -742,7 +742,7 @@
         "seriousIncreased": 236,
         "updateTime": "2/19",
         "insickCount": 57337,
-        "lastUpdate": "2020-02-19T15:17:37.986Z",
+        "lastUpdate": "2020-02-19T14:06:22.277Z",
         "updateDate": "2020/2/19",
         "seriousRate": "16.12",
         "seriousDayRate": "0.52",
@@ -771,7 +771,7 @@
         "seriousIncreased": 0,
         "updateTime": "2/20",
         "insickCount": 55837,
-        "lastUpdate": "2020-02-20T15:17:32.079Z",
+        "lastUpdate": "2020-02-20T14:36:29.320Z",
         "updateDate": "2020/2/20",
         "seriousRate": "15.89",
         "seriousDayRate": "0.00",
@@ -800,7 +800,7 @@
         "seriousIncreased": 0,
         "updateTime": "2/21",
         "insickCount": 54645,
-        "lastUpdate": "2020-02-21T15:17:39.053Z",
+        "lastUpdate": "2020-02-21T15:11:18.423Z",
         "updateDate": "2020/2/21",
         "seriousRate": "15.39",
         "seriousDayRate": "0.00",
@@ -829,7 +829,7 @@
         "seriousIncreased": 0,
         "updateTime": "2/22",
         "insickCount": 52973,
-        "lastUpdate": "2020-02-22T15:17:37.221Z",
+        "lastUpdate": "2020-02-22T14:08:20.417Z",
         "updateDate": "2020/2/22",
         "seriousRate": "15.02",
         "seriousDayRate": "0.00",
@@ -858,7 +858,7 @@
         "seriousIncreased": 0,
         "updateTime": "2/23",
         "insickCount": 51420,
-        "lastUpdate": "2020-02-23T15:17:32.766Z",
+        "lastUpdate": "2020-02-23T14:38:25.562Z",
         "updateDate": "2020/2/23",
         "seriousRate": "14.24",
         "seriousDayRate": "0.00",
@@ -887,7 +887,7 @@
         "seriousIncreased": 0,
         "updateTime": "2/24",
         "insickCount": 49666,
-        "lastUpdate": "2020-02-24T15:17:28.820Z",
+        "lastUpdate": "2020-02-24T15:02:35.596Z",
         "updateDate": "2020/2/24",
         "seriousRate": "12.83",
         "seriousDayRate": "0.00",
@@ -916,7 +916,7 @@
         "seriousIncreased": 0,
         "updateTime": "2/25",
         "insickCount": 47464,
-        "lastUpdate": "2020-02-25T15:17:30.254Z",
+        "lastUpdate": "2020-02-25T15:14:30.774Z",
         "updateDate": "2020/2/25",
         "seriousRate": "11.73",
         "seriousDayRate": "0.00",
@@ -945,7 +945,7 @@
         "seriousIncreased": 0,
         "updateTime": "2/26",
         "insickCount": 45399,
-        "lastUpdate": "2020-02-26T15:17:29.932Z",
+        "lastUpdate": "2020-02-26T15:00:38.348Z",
         "updateDate": "2020/2/26",
         "seriousRate": "11.19",
         "seriousDayRate": "0.00",
@@ -974,7 +974,7 @@
         "seriousIncreased": 0,
         "updateTime": "2/27",
         "insickCount": 42968,
-        "lastUpdate": "2020-02-27T15:17:30.303Z",
+        "lastUpdate": "2020-02-27T14:59:34.685Z",
         "updateDate": "2020/2/27",
         "seriousRate": "10.61",
         "seriousDayRate": "0.00",
@@ -1003,7 +1003,7 @@
         "seriousIncreased": 0,
         "updateTime": "2/28",
         "insickCount": 39859,
-        "lastUpdate": "2020-02-28T15:17:27.319Z",
+        "lastUpdate": "2020-02-28T10:44:10.646Z",
         "updateDate": "2020/2/28",
         "seriousRate": "10.07",
         "seriousDayRate": "0.00",
@@ -1032,7 +1032,7 @@
         "seriousIncreased": 0,
         "updateTime": "2/29",
         "insickCount": 37464,
-        "lastUpdate": "2020-02-29T05:10:12.570Z",
+        "lastUpdate": "2020-02-29T05:08:48.516Z",
         "updateDate": "2020/2/29",
         "seriousRate": "9.65",
         "seriousDayRate": "0.00",
@@ -1051,6 +1051,7 @@
       {
         "lastUpdate": "2020-01-24T15:35:03.158Z",
         "updateTime": "1/24",
+        "zipCode": "440000",
         "confirmedCount": 317,
         "suspectedCount": 0,
         "curedCount": 4,
@@ -1068,6 +1069,7 @@
       {
         "lastUpdate": "2020-01-25T02:56:23.314Z",
         "updateTime": "1/25",
+        "zipCode": "440000",
         "confirmedCount": 594,
         "suspectedCount": 0,
         "curedCount": 6,
@@ -1085,6 +1087,7 @@
       {
         "lastUpdate": "2020-01-26T10:26:35.233Z",
         "updateTime": "1/26",
+        "zipCode": "440000",
         "confirmedCount": 966,
         "suspectedCount": 0,
         "curedCount": 6,
@@ -1102,6 +1105,7 @@
       {
         "lastUpdate": "2020-01-27T13:01:37.693Z",
         "updateTime": "1/27",
+        "zipCode": "440000",
         "confirmedCount": 1417,
         "suspectedCount": 0,
         "curedCount": 12,
@@ -1119,6 +1123,7 @@
       {
         "lastUpdate": "2020-01-28T10:44:36.890Z",
         "updateTime": "1/28",
+        "zipCode": "440000",
         "confirmedCount": 1895,
         "suspectedCount": 0,
         "curedCount": 21,
@@ -1136,6 +1141,7 @@
       {
         "lastUpdate": "2020-01-29T10:46:55.003Z",
         "updateTime": "1/29",
+        "zipCode": "440000",
         "confirmedCount": 2518,
         "suspectedCount": 0,
         "curedCount": 32,
@@ -1153,6 +1159,7 @@
       {
         "lastUpdate": "2020-01-30T12:06:26.034Z",
         "updateTime": "1/30",
+        "zipCode": "440000",
         "confirmedCount": 3221,
         "suspectedCount": 0,
         "curedCount": 45,
@@ -1170,6 +1177,7 @@
       {
         "lastUpdate": "2020-01-31T13:28:35.115Z",
         "updateTime": "1/31",
+        "zipCode": "440000",
         "confirmedCount": 3978,
         "suspectedCount": 0,
         "curedCount": 73,
@@ -1187,6 +1195,7 @@
       {
         "lastUpdate": "2020-02-01T14:22:54.190Z",
         "updateTime": "2/1",
+        "zipCode": "440000",
         "confirmedCount": 4719,
         "suspectedCount": 0,
         "curedCount": 107,
@@ -1204,6 +1213,7 @@
       {
         "lastUpdate": "2020-02-02T12:52:17.256Z",
         "updateTime": "2/2",
+        "zipCode": "440000",
         "confirmedCount": 5386,
         "suspectedCount": 0,
         "curedCount": 167,
@@ -1221,6 +1231,7 @@
       {
         "lastUpdate": "2020-02-03T12:50:01.604Z",
         "updateTime": "2/3",
+        "zipCode": "440000",
         "confirmedCount": 6133,
         "suspectedCount": 0,
         "curedCount": 227,
@@ -1238,6 +1249,7 @@
       {
         "lastUpdate": "2020-02-04T12:55:16.467Z",
         "updateTime": "2/4",
+        "zipCode": "440000",
         "confirmedCount": 6972,
         "suspectedCount": 0,
         "curedCount": 321,
@@ -1255,6 +1267,7 @@
       {
         "lastUpdate": "2020-02-05T13:18:47.516Z",
         "updateTime": "2/5",
+        "zipCode": "440000",
         "confirmedCount": 7716,
         "suspectedCount": 0,
         "curedCount": 482,
@@ -1272,6 +1285,7 @@
       {
         "lastUpdate": "2020-02-06T12:40:40.766Z",
         "updateTime": "2/6",
+        "zipCode": "440000",
         "confirmedCount": 8425,
         "suspectedCount": 0,
         "curedCount": 659,
@@ -1289,6 +1303,7 @@
       {
         "lastUpdate": "2020-02-07T10:14:50.649Z",
         "updateTime": "2/7",
+        "zipCode": "440000",
         "confirmedCount": 9103,
         "suspectedCount": 0,
         "curedCount": 884,
@@ -1306,6 +1321,7 @@
       {
         "lastUpdate": "2020-02-08T11:46:49.463Z",
         "updateTime": "2/8",
+        "zipCode": "440000",
         "confirmedCount": 9669,
         "suspectedCount": 0,
         "curedCount": 1155,
@@ -1323,6 +1339,7 @@
       {
         "lastUpdate": "2020-02-09T15:00:53.855Z",
         "updateTime": "2/9",
+        "zipCode": "440000",
         "confirmedCount": 10134,
         "suspectedCount": 0,
         "curedCount": 1419,
@@ -1340,6 +1357,7 @@
       {
         "lastUpdate": "2020-02-10T13:36:08.643Z",
         "updateTime": "2/10",
+        "zipCode": "440000",
         "confirmedCount": 10567,
         "suspectedCount": 0,
         "curedCount": 1695,
@@ -1357,6 +1375,7 @@
       {
         "lastUpdate": "2020-02-11T13:55:20.587Z",
         "updateTime": "2/11",
+        "zipCode": "440000",
         "confirmedCount": 10944,
         "suspectedCount": 0,
         "curedCount": 1989,
@@ -1374,6 +1393,7 @@
       {
         "lastUpdate": "2020-02-12T12:15:15.388Z",
         "updateTime": "2/12",
+        "zipCode": "440000",
         "confirmedCount": 11323,
         "suspectedCount": 0,
         "curedCount": 2376,
@@ -1391,6 +1411,7 @@
       {
         "lastUpdate": "2020-02-13T13:29:32.534Z",
         "updateTime": "2/13",
+        "zipCode": "440000",
         "confirmedCount": 11622,
         "suspectedCount": 0,
         "curedCount": 2751,
@@ -1408,6 +1429,7 @@
       {
         "lastUpdate": "2020-02-14T12:48:07.533Z",
         "updateTime": "2/14",
+        "zipCode": "440000",
         "confirmedCount": 11882,
         "suspectedCount": 0,
         "curedCount": 3186,
@@ -1423,8 +1445,9 @@
         "deadDayRate": "0.03"
       },
       {
-        "lastUpdate": "2020-02-15T14:08:57.299Z",
+        "lastUpdate": "2020-02-15T14:06:57.531Z",
         "updateTime": "2/15",
+        "zipCode": "440000",
         "confirmedCount": 12093,
         "suspectedCount": 0,
         "curedCount": 3667,
@@ -1440,8 +1463,9 @@
         "deadDayRate": "0.04"
       },
       {
-        "lastUpdate": "2020-02-16T15:17:32.676Z",
+        "lastUpdate": "2020-02-16T12:01:31.463Z",
         "updateTime": "2/16",
+        "zipCode": "440000",
         "confirmedCount": 12261,
         "suspectedCount": 0,
         "curedCount": 4088,
@@ -1453,70 +1477,74 @@
         "curedRate": "33.34",
         "deadRate": "0.56",
         "seriousDeadRate": "",
-        "curedDayRate": "6.02",
+        "curedDayRate": "6.07",
         "deadDayRate": "0.06"
       },
       {
-        "lastUpdate": "2020-02-17T15:17:29.229Z",
+        "lastUpdate": "2020-02-17T12:42:30.403Z",
         "updateTime": "2/17",
+        "zipCode": "440000",
         "confirmedCount": 12374,
         "suspectedCount": 0,
-        "curedCount": 4576,
+        "curedCount": 4580,
         "deadCount": 74,
-        "insickCount": 7724,
+        "insickCount": 7720,
         "confirmedIncreased": 113,
-        "curedIncreased": 488,
+        "curedIncreased": 492,
         "deadIncreased": 5,
-        "curedRate": "36.98",
+        "curedRate": "37.01",
         "deadRate": "0.60",
         "seriousDeadRate": "",
-        "curedDayRate": "6.15",
+        "curedDayRate": "6.10",
         "deadDayRate": "0.09"
       },
       {
-        "lastUpdate": "2020-02-18T15:17:30.126Z",
+        "lastUpdate": "2020-02-18T13:40:41.322Z",
         "updateTime": "2/18",
+        "zipCode": "440000",
         "confirmedCount": 12452,
         "suspectedCount": 0,
         "curedCount": 5051,
         "deadCount": 81,
         "insickCount": 7320,
         "confirmedIncreased": 78,
-        "curedIncreased": 475,
+        "curedIncreased": 471,
         "deadIncreased": 7,
         "curedRate": "40.56",
         "deadRate": "0.65",
         "seriousDeadRate": "",
-        "curedDayRate": "7.36",
+        "curedDayRate": "7.39",
         "deadDayRate": "0.05"
       },
       {
-        "lastUpdate": "2020-02-19T15:17:37.986Z",
+        "lastUpdate": "2020-02-19T10:15:57.660Z",
         "updateTime": "2/19",
+        "zipCode": "440000",
         "confirmedCount": 12508,
         "suspectedCount": 0,
-        "curedCount": 5590,
+        "curedCount": 5592,
         "deadCount": 85,
-        "insickCount": 6833,
+        "insickCount": 6831,
         "confirmedIncreased": 56,
-        "curedIncreased": 539,
+        "curedIncreased": 541,
         "deadIncreased": 4,
-        "curedRate": "44.69",
+        "curedRate": "44.71",
         "deadRate": "0.68",
         "seriousDeadRate": "",
-        "curedDayRate": "8.72",
+        "curedDayRate": "8.70",
         "deadDayRate": "0.07"
       },
       {
-        "lastUpdate": "2020-02-20T15:17:32.079Z",
+        "lastUpdate": "2020-02-20T11:07:19.834Z",
         "updateTime": "2/20",
+        "zipCode": "440000",
         "confirmedCount": 12550,
         "suspectedCount": 0,
         "curedCount": 6186,
         "deadCount": 90,
         "insickCount": 6274,
         "confirmedIncreased": 42,
-        "curedIncreased": 596,
+        "curedIncreased": 594,
         "deadIncreased": 5,
         "curedRate": "49.29",
         "deadRate": "0.72",
@@ -1525,8 +1553,9 @@
         "deadDayRate": "0.03"
       },
       {
-        "lastUpdate": "2020-02-21T15:17:39.053Z",
+        "lastUpdate": "2020-02-21T10:12:13.066Z",
         "updateTime": "2/21",
+        "zipCode": "440000",
         "confirmedCount": 12807,
         "suspectedCount": 0,
         "curedCount": 6793,
@@ -1542,8 +1571,9 @@
         "deadDayRate": "0.05"
       },
       {
-        "lastUpdate": "2020-02-22T15:17:37.221Z",
+        "lastUpdate": "2020-02-22T10:01:40.406Z",
         "updateTime": "2/22",
+        "zipCode": "440000",
         "confirmedCount": 12839,
         "suspectedCount": 0,
         "curedCount": 7371,
@@ -1559,8 +1589,9 @@
         "deadDayRate": "0.02"
       },
       {
-        "lastUpdate": "2020-02-23T15:17:32.766Z",
+        "lastUpdate": "2020-02-23T11:19:02.938Z",
         "updateTime": "2/23",
+        "zipCode": "440000",
         "confirmedCount": 12854,
         "suspectedCount": 0,
         "curedCount": 7821,
@@ -1576,8 +1607,9 @@
         "deadDayRate": "0.04"
       },
       {
-        "lastUpdate": "2020-02-24T15:17:28.820Z",
+        "lastUpdate": "2020-02-24T10:16:54.754Z",
         "updateTime": "2/24",
+        "zipCode": "440000",
         "confirmedCount": 12865,
         "suspectedCount": 0,
         "curedCount": 8229,
@@ -1593,8 +1625,9 @@
         "deadDayRate": "0.04"
       },
       {
-        "lastUpdate": "2020-02-25T15:17:30.254Z",
+        "lastUpdate": "2020-02-25T08:47:25.147Z",
         "updateTime": "2/25",
+        "zipCode": "440000",
         "confirmedCount": 12876,
         "suspectedCount": 0,
         "curedCount": 8653,
@@ -1610,8 +1643,9 @@
         "deadDayRate": "0.00"
       },
       {
-        "lastUpdate": "2020-02-26T15:17:29.932Z",
+        "lastUpdate": "2020-02-26T10:24:42.410Z",
         "updateTime": "2/26",
+        "zipCode": "440000",
         "confirmedCount": 12879,
         "suspectedCount": 0,
         "curedCount": 9073,
@@ -1627,8 +1661,9 @@
         "deadDayRate": "0.08"
       },
       {
-        "lastUpdate": "2020-02-27T15:17:30.303Z",
+        "lastUpdate": "2020-02-27T09:51:12.611Z",
         "updateTime": "2/27",
+        "zipCode": "440000",
         "confirmedCount": 12903,
         "suspectedCount": 0,
         "curedCount": 9496,
@@ -1644,8 +1679,9 @@
         "deadDayRate": "0.09"
       },
       {
-        "lastUpdate": "2020-02-28T15:17:27.319Z",
+        "lastUpdate": "2020-02-28T08:24:58.363Z",
         "updateTime": "2/28",
+        "zipCode": "440000",
         "confirmedCount": 12912,
         "suspectedCount": 0,
         "curedCount": 9865,
@@ -1661,8 +1697,9 @@
         "deadDayRate": "0.07"
       },
       {
-        "lastUpdate": "2020-02-29T05:10:12.570Z",
+        "lastUpdate": "2020-02-29T05:08:48.516Z",
         "updateTime": "2/29",
+        "zipCode": "440000",
         "confirmedCount": 12916,
         "suspectedCount": 0,
         "curedCount": 10145,
@@ -1676,8 +1713,9 @@
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-02-29T05:10:12.570Z",
+    "lastUpdate": "2020-02-29T05:08:48.516Z",
     "updateTime": "2/29",
+    "zipCode": "440000",
     "confirmedCount": 1349,
     "suspectedCount": 0,
     "curedCount": 973,
@@ -1696,6 +1734,7 @@
       {
         "lastUpdate": "2020-01-24T09:30:09.978Z",
         "updateTime": "1/24",
+        "zipCode": "420000",
         "confirmedCount": 549,
         "suspectedCount": 0,
         "curedCount": 31,
@@ -1713,6 +1752,7 @@
       {
         "lastUpdate": "2020-01-25T15:55:35.775Z",
         "updateTime": "1/25",
+        "zipCode": "420000",
         "confirmedCount": 730,
         "suspectedCount": 0,
         "curedCount": 32,
@@ -1730,6 +1770,7 @@
       {
         "lastUpdate": "2020-01-26T05:50:35.848Z",
         "updateTime": "1/26",
+        "zipCode": "420000",
         "confirmedCount": 1058,
         "suspectedCount": 0,
         "curedCount": 42,
@@ -1747,6 +1788,7 @@
       {
         "lastUpdate": "2020-01-27T08:42:57.343Z",
         "updateTime": "1/27",
+        "zipCode": "420000",
         "confirmedCount": 1423,
         "suspectedCount": 0,
         "curedCount": 47,
@@ -1764,6 +1806,7 @@
       {
         "lastUpdate": "2020-01-28T08:36:17.441Z",
         "updateTime": "1/28",
+        "zipCode": "420000",
         "confirmedCount": 2714,
         "suspectedCount": 0,
         "curedCount": 52,
@@ -1781,6 +1824,7 @@
       {
         "lastUpdate": "2020-01-29T12:34:44.154Z",
         "updateTime": "1/29",
+        "zipCode": "420000",
         "confirmedCount": 3554,
         "suspectedCount": 0,
         "curedCount": 87,
@@ -1798,6 +1842,7 @@
       {
         "lastUpdate": "2020-01-30T14:24:37.371Z",
         "updateTime": "1/30",
+        "zipCode": "420000",
         "confirmedCount": 4903,
         "suspectedCount": 0,
         "curedCount": 90,
@@ -1815,6 +1860,7 @@
       {
         "lastUpdate": "2020-01-31T14:06:41.473Z",
         "updateTime": "1/31",
+        "zipCode": "420000",
         "confirmedCount": 5806,
         "suspectedCount": 0,
         "curedCount": 141,
@@ -1832,6 +1878,7 @@
       {
         "lastUpdate": "2020-02-01T11:49:55.626Z",
         "updateTime": "2/1",
+        "zipCode": "420000",
         "confirmedCount": 7153,
         "suspectedCount": 0,
         "curedCount": 168,
@@ -1849,6 +1896,7 @@
       {
         "lastUpdate": "2020-02-02T12:50:05.247Z",
         "updateTime": "2/2",
+        "zipCode": "420000",
         "confirmedCount": 9074,
         "suspectedCount": 0,
         "curedCount": 267,
@@ -1866,6 +1914,7 @@
       {
         "lastUpdate": "2020-02-03T13:32:30.697Z",
         "updateTime": "2/3",
+        "zipCode": "420000",
         "confirmedCount": 11177,
         "suspectedCount": 0,
         "curedCount": 300,
@@ -1883,6 +1932,7 @@
       {
         "lastUpdate": "2020-02-04T09:34:45.960Z",
         "updateTime": "2/4",
+        "zipCode": "420000",
         "confirmedCount": 13522,
         "suspectedCount": 0,
         "curedCount": 397,
@@ -1900,6 +1950,7 @@
       {
         "lastUpdate": "2020-02-05T15:52:29.021Z",
         "updateTime": "2/5",
+        "zipCode": "420000",
         "confirmedCount": 16678,
         "suspectedCount": 0,
         "curedCount": 536,
@@ -1917,6 +1968,7 @@
       {
         "lastUpdate": "2020-02-06T12:28:31.381Z",
         "updateTime": "2/6",
+        "zipCode": "420000",
         "confirmedCount": 19665,
         "suspectedCount": 0,
         "curedCount": 712,
@@ -1934,6 +1986,7 @@
       {
         "lastUpdate": "2020-02-07T14:01:50.311Z",
         "updateTime": "2/7",
+        "zipCode": "420000",
         "confirmedCount": 22112,
         "suspectedCount": 0,
         "curedCount": 867,
@@ -1951,6 +2004,7 @@
       {
         "lastUpdate": "2020-02-08T14:02:50.042Z",
         "updateTime": "2/8",
+        "zipCode": "420000",
         "confirmedCount": 24953,
         "suspectedCount": 0,
         "curedCount": 1218,
@@ -1968,6 +2022,7 @@
       {
         "lastUpdate": "2020-02-09T11:09:33.896Z",
         "updateTime": "2/9",
+        "zipCode": "420000",
         "confirmedCount": 27100,
         "suspectedCount": 23638,
         "curedCount": 1480,
@@ -1985,6 +2040,7 @@
       {
         "lastUpdate": "2020-02-10T13:30:02.904Z",
         "updateTime": "2/10",
+        "zipCode": "420000",
         "confirmedCount": 29631,
         "suspectedCount": 0,
         "curedCount": 1854,
@@ -2002,6 +2058,7 @@
       {
         "lastUpdate": "2020-02-11T13:55:20.587Z",
         "updateTime": "2/11",
+        "zipCode": "420000",
         "confirmedCount": 31728,
         "suspectedCount": 0,
         "curedCount": 2310,
@@ -2019,6 +2076,7 @@
       {
         "lastUpdate": "2020-02-12T14:07:03.407Z",
         "updateTime": "2/12",
+        "zipCode": "420000",
         "confirmedCount": 33366,
         "suspectedCount": 0,
         "curedCount": 2686,
@@ -2036,6 +2094,7 @@
       {
         "lastUpdate": "2020-02-13T14:12:44.102Z",
         "updateTime": "2/13",
+        "zipCode": "420000",
         "confirmedCount": 48206,
         "suspectedCount": 0,
         "curedCount": 3459,
@@ -2053,6 +2112,7 @@
       {
         "lastUpdate": "2020-02-14T09:53:26.397Z",
         "updateTime": "2/14",
+        "zipCode": "420000",
         "confirmedCount": 51986,
         "suspectedCount": 0,
         "curedCount": 3900,
@@ -2070,6 +2130,7 @@
       {
         "lastUpdate": "2020-02-15T14:51:06.784Z",
         "updateTime": "2/15",
+        "zipCode": "420000",
         "confirmedCount": 54406,
         "suspectedCount": 0,
         "curedCount": 4821,
@@ -2085,8 +2146,9 @@
         "deadDayRate": "0.29"
       },
       {
-        "lastUpdate": "2020-02-16T15:17:32.676Z",
+        "lastUpdate": "2020-02-16T11:56:23.542Z",
         "updateTime": "2/16",
+        "zipCode": "420000",
         "confirmedCount": 56249,
         "suspectedCount": 0,
         "curedCount": 5666,
@@ -2102,8 +2164,9 @@
         "deadDayRate": "0.20"
       },
       {
-        "lastUpdate": "2020-02-17T15:17:29.229Z",
+        "lastUpdate": "2020-02-17T12:22:59.982Z",
         "updateTime": "2/17",
+        "zipCode": "420000",
         "confirmedCount": 58182,
         "suspectedCount": 0,
         "curedCount": 6693,
@@ -2119,8 +2182,9 @@
         "deadDayRate": "0.19"
       },
       {
-        "lastUpdate": "2020-02-18T15:17:30.126Z",
+        "lastUpdate": "2020-02-18T11:02:17.294Z",
         "updateTime": "2/18",
+        "zipCode": "420000",
         "confirmedCount": 59989,
         "suspectedCount": 0,
         "curedCount": 7943,
@@ -2136,8 +2200,9 @@
         "deadDayRate": "0.26"
       },
       {
-        "lastUpdate": "2020-02-19T15:17:37.986Z",
+        "lastUpdate": "2020-02-19T13:47:42.544Z",
         "updateTime": "2/19",
+        "zipCode": "420000",
         "confirmedCount": 61682,
         "suspectedCount": 0,
         "curedCount": 9336,
@@ -2153,8 +2218,9 @@
         "deadDayRate": "0.21"
       },
       {
-        "lastUpdate": "2020-02-20T15:17:32.079Z",
+        "lastUpdate": "2020-02-20T14:08:31.581Z",
         "updateTime": "2/20",
+        "zipCode": "420000",
         "confirmedCount": 62031,
         "suspectedCount": 0,
         "curedCount": 10521,
@@ -2170,8 +2236,9 @@
         "deadDayRate": "0.23"
       },
       {
-        "lastUpdate": "2020-02-21T15:17:39.053Z",
+        "lastUpdate": "2020-02-21T12:57:17.698Z",
         "updateTime": "2/21",
+        "zipCode": "420000",
         "confirmedCount": 62662,
         "suspectedCount": 0,
         "curedCount": 11881,
@@ -2187,8 +2254,9 @@
         "deadDayRate": "0.22"
       },
       {
-        "lastUpdate": "2020-02-22T15:17:37.221Z",
+        "lastUpdate": "2020-02-22T12:55:28.727Z",
         "updateTime": "2/22",
+        "zipCode": "420000",
         "confirmedCount": 63454,
         "suspectedCount": 0,
         "curedCount": 13690,
@@ -2204,8 +2272,9 @@
         "deadDayRate": "0.20"
       },
       {
-        "lastUpdate": "2020-02-23T15:17:32.766Z",
+        "lastUpdate": "2020-02-23T12:06:03.658Z",
         "updateTime": "2/23",
+        "zipCode": "420000",
         "confirmedCount": 64084,
         "suspectedCount": 0,
         "curedCount": 15343,
@@ -2221,8 +2290,9 @@
         "deadDayRate": "0.32"
       },
       {
-        "lastUpdate": "2020-02-24T15:17:28.820Z",
+        "lastUpdate": "2020-02-24T11:12:21.027Z",
         "updateTime": "2/24",
+        "zipCode": "420000",
         "confirmedCount": 64287,
         "suspectedCount": 0,
         "curedCount": 16748,
@@ -2238,8 +2308,9 @@
         "deadDayRate": "0.15"
       },
       {
-        "lastUpdate": "2020-02-25T15:17:30.254Z",
+        "lastUpdate": "2020-02-25T15:14:30.774Z",
         "updateTime": "2/25",
+        "zipCode": "420000",
         "confirmedCount": 64786,
         "suspectedCount": 0,
         "curedCount": 18971,
@@ -2255,8 +2326,9 @@
         "deadDayRate": "0.12"
       },
       {
-        "lastUpdate": "2020-02-26T15:17:29.932Z",
+        "lastUpdate": "2020-02-26T14:07:00.782Z",
         "updateTime": "2/26",
+        "zipCode": "420000",
         "confirmedCount": 65187,
         "suspectedCount": 0,
         "curedCount": 20969,
@@ -2272,8 +2344,9 @@
         "deadDayRate": "0.06"
       },
       {
-        "lastUpdate": "2020-02-27T15:17:30.303Z",
+        "lastUpdate": "2020-02-27T12:07:32.954Z",
         "updateTime": "2/27",
+        "zipCode": "420000",
         "confirmedCount": 65596,
         "suspectedCount": 0,
         "curedCount": 23383,
@@ -2289,8 +2362,9 @@
         "deadDayRate": "0.10"
       },
       {
-        "lastUpdate": "2020-02-28T15:17:27.319Z",
+        "lastUpdate": "2020-02-28T00:35:31.270Z",
         "updateTime": "2/28",
+        "zipCode": "420000",
         "confirmedCount": 65914,
         "suspectedCount": 0,
         "curedCount": 26403,
@@ -2306,8 +2380,9 @@
         "deadDayRate": "0.12"
       },
       {
-        "lastUpdate": "2020-02-29T05:10:12.570Z",
+        "lastUpdate": "2020-02-29T05:08:48.516Z",
         "updateTime": "2/29",
+        "zipCode": "420000",
         "confirmedCount": 66337,
         "suspectedCount": 0,
         "curedCount": 28895,
@@ -2321,8 +2396,9 @@
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-02-29T05:10:12.570Z",
+    "lastUpdate": "2020-02-29T05:08:48.516Z",
     "updateTime": "2/29",
+    "zipCode": "420000",
     "confirmedCount": 66337,
     "suspectedCount": 0,
     "curedCount": 28895,
