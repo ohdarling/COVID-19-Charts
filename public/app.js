@@ -668,12 +668,29 @@ async function showSummary() {
     v.updateTime = shortAreaName(v.updateTime);
   });
 
+  const accumRateName = [ '累计死亡率', '累计治愈率' ];
+  const accumRate = [ 'deadRate', 'curedRate' ].map((k, i) => {
+    return {
+      name: accumRateName[i],
+      records: records[0].records.map((v, i) => {
+        return {
+          updateTime: v.updateTime,
+          country: v[k],
+          nothubei: records[1].records[i][k],
+          hubei: records[2].records[i][k],
+        }
+      }),
+    };
+  })
+
   allCharts = [
     ...records.map((v, i) => {
       const cfg = createTrendsChartConfig(v);
       return cfg;
     }),
     ...[ lastDay ].map((v, i) => {
+      v = JSON.parse(JSON.stringify(v));
+      v.records.sort((a, b) => a.maxZeroIncrDays > b.maxZeroIncrDays ? -1 : 1);
       const cfg = createRateTrendsChartConfig(v, [
         { name: '新增确诊', key: 'confirmedIncreased' },
         { name: '无新增确诊天数', key: 'maxZeroIncrDays', config: { type: 'bar', itemStyle: { color: 'rgb(156,197,175)', }, } },
@@ -691,23 +708,38 @@ async function showSummary() {
       cfg.title[0].text += '无新增确诊天数';
       return cfg;
     }),
-    ...records.map((v, i) => {
+    ...[ lastDay ].map((v, i) => {
       const cfg = createRateTrendsChartConfig(v, [
-        { name: '累计死亡率', key: 'deadRate', },
-        { name: '新增死亡率', key: 'deadDayRate', },
-        { name: '累计治愈率', key: 'curedRate', },
-        { name: '新增治愈率', key: 'curedDayRate', },
+        { name: '现存确诊', key: 'insickCount', config: { type: 'bar', itemStyle: { color: 'rgb(156,197,175)', }, } },
+      ], {
+        xAxis: {
+          axisLabel: {
+            interval: 0,
+            rotate: 90,
+          }
+        },
+        yAxis: [{
+          type: 'value',
+        }],
+      });
+      cfg.title[0].text += '现存确诊';
+      return cfg;
+    }),
+    ...accumRate.map(v => {
+      const cfg = createRateTrendsChartConfig(v, [
+        { name: '全国', key: 'country', },
+        { name: '非湖北', key: 'nothubei', },
+        { name: '湖北', key: 'hubei', },
       ]);
-      cfg.title[0].text += '治愈/死亡率';
       return cfg;
     }),
     ...[ records[0], records[0], records[0] ].map((v, i) => {
       const cfg = createRateTrendsChartConfig(v, [
         [
-          { name: '累计疑似', key: 'suspectedAccum', },
-          { name: '累计确诊', key: 'confirmedCount', },
-          { name: '当前疑似', key: 'suspectedCount', config: { type: 'bar', }},
-          { name: '新增疑似', key: 'suspectedIncreased', config: { type: 'bar', }},
+          // { name: '累计疑似', key: 'suspectedAccum', },
+          // { name: '累计确诊', key: 'confirmedCount', },
+          { name: '当前疑似', key: 'suspectedCount', },
+          { name: '新增疑似', key: 'suspectedIncreased', config: { type: 'bar', yAxisIndex: 1 }},
         ],
         [
           { name: '疑似确诊比例', key: 'suspectedConfirmedRate', },
@@ -719,9 +751,9 @@ async function showSummary() {
         ],
         [
           { name: '累计重症比例', key: 'seriousRate', },
-          { name: '重症死亡比例', key: 'seriousDeadRate' },
-          { name: '新增重症比例', key: 'seriousDayRate' },
-          { name: '累计重症', key: 'seriousCount', config: { type: 'bar', yAxisIndex: 1 }},
+          // { name: '重症死亡比例', key: 'seriousDeadRate' },
+          // { name: '新增重症比例', key: 'seriousDayRate' },
+          { name: '累计重症', key: 'seriousCount', config: { type: 'bar', yAxisIndex: 1, itemStyle: { color: 'rgb(156,197,175)', }, } },
           { name: '新增重症', key: 'seriousIncreased', config: { type: 'bar', yAxisIndex: 1 }},
         ],
       ][i]);
@@ -734,7 +766,7 @@ async function showSummary() {
   ];
 
   const html = allCharts.map((_, i) => {
-    return `<div id="chart${i}" class="trends-chart"></div>`;
+    return `<div id="chart${i}" class="summary-chart"></div>`;
   }).join('');
   document.getElementById(chartsContainerId).innerHTML = html;
 
