@@ -698,7 +698,7 @@ async function showSummary() {
         xAxis: {
           axisLabel: {
             interval: 0,
-            rotate: 90,
+            rotate: 40,
           }
         },
         yAxis: [{
@@ -715,7 +715,7 @@ async function showSummary() {
         xAxis: {
           axisLabel: {
             interval: 0,
-            rotate: 90,
+            rotate: 40,
           }
         },
         yAxis: [{
