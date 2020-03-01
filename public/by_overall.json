@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-01T01:17:01.487Z",
+    "lastUpdate": "2020-03-01T03:01:02.195Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1061,7 +1061,7 @@
         "seriousIncreased": 0,
         "updateTime": "3/1",
         "insickCount": 35420,
-        "lastUpdate": "2020-03-01T01:17:01.487Z",
+        "lastUpdate": "2020-03-01T03:01:02.195Z",
         "updateDate": "2020/3/1",
         "seriousRate": "9.21",
         "seriousDayRate": "0.00",
@@ -1740,27 +1740,27 @@
         "curedRate": "79.50",
         "deadRate": "0.84",
         "seriousDeadRate": "",
-        "curedDayRate": "6.06",
+        "curedDayRate": "6.69",
         "deadDayRate": "0.04"
       },
       {
         "lastUpdate": "2020-03-01T01:12:02.297Z",
         "updateTime": "3/1",
         "zipCode": "440000",
-        "confirmedCount": 12917,
+        "confirmedCount": 12919,
         "suspectedCount": 0,
-        "curedCount": 10422,
+        "curedCount": 10438,
         "deadCount": 109,
-        "insickCount": 2386,
-        "confirmedIncreased": 1,
-        "curedIncreased": 154,
+        "insickCount": 2372,
+        "confirmedIncreased": 3,
+        "curedIncreased": 170,
         "deadIncreased": 1,
-        "curedRate": "80.68",
+        "curedRate": "80.80",
         "deadRate": "0.84",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-03-01T01:12:02.297Z",
+    "lastUpdate": "2020-03-01T03:01:02.195Z",
     "updateTime": "3/1",
     "zipCode": "440000",
     "confirmedCount": 1349,
@@ -2494,7 +2494,7 @@
         "updateTime": "浙江省",
         "maxZeroIncrDays": 8,
         "confirmedIncreased": 0,
-        "insickCount": 188
+        "insickCount": 177
       },
       {
         "updateTime": "四川省",
@@ -2522,9 +2522,9 @@
       },
       {
         "updateTime": "北京市",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 132
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 129
       },
       {
         "updateTime": "安徽省",
