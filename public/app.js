@@ -155,7 +155,7 @@ function createTrendsChartConfig(data) {
         target: 'self',
       },
       {
-        text: data.lastUpdate ? `最后更新时间：${new Date(data.lastUpdate).toLocaleString('zh-CN')}` : '',
+        text: data.lastUpdate ? `${getTextForKey('最后更新时间：')}${new Date(data.lastUpdate).toLocaleString('zh-CN')}` : '',
         right: 20, top: 4,
         textStyle: { fontSize: 12, fontWeight: 'normal', color: '#666', },
       }
