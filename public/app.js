@@ -164,7 +164,7 @@ function createTrendsChartConfig(data) {
       trigger: 'axis'
     },
     legend: {
-      data: [ '确诊', '治愈', '死亡', '治疗', '新增确诊', '新增治愈', '新增死亡' ],
+      data: [ '确诊', '治愈', '死亡', '治疗', '新增确诊', '新增治愈', '新增死亡' ].map(k => getTextForKey(k)),
       textStyle: {
         fontSize: 11,
       },
@@ -189,39 +189,39 @@ function createTrendsChartConfig(data) {
     ],
     series: [
       {
-        name: '确诊',
+        name: getTextForKey('确诊'),
         data: confirmed,
         type: 'line',
       },
       {
-        name: '治愈',
+        name: getTextForKey('治愈'),
         data: cured,
         type: 'line',
       },
       {
-        name: '死亡',
+        name: getTextForKey('死亡'),
         data: dead,
         type: 'line',
       },
       {
-        name: '治疗',
+        name: getTextForKey('治疗'),
         data: insick,
         type: 'line',
       },
       {
-        name: '新增确诊',
+        name: getTextForKey('新增确诊'),
         data: increase,
         type: 'bar',
         yAxisIndex: 1,
       },
       {
-        name: '新增治愈',
+        name: getTextForKey('新增治愈'),
         data: curedIncrease,
         type: 'bar',
         yAxisIndex: 1,
       },
       {
-        name: '新增死亡',
+        name: getTextForKey('新增死亡'),
         data: deadIncrease,
         type: 'bar',
         yAxisIndex: 1,
@@ -235,7 +235,7 @@ function createTrendsChartConfig(data) {
 
 function createRateTrendsChartConfig(data, seriesConfig = [], overrideConfig = {}) {
   const nameKey = currentLanguage === 'en' ? 'enName' : 'name';
-  const displayName = data[nameKey];
+  const displayName = data[nameKey] || data.name;
   const { name, records } = data;
   const days = records.map(v => v.updateTime);
   const seriesKeyMap = {};
@@ -297,6 +297,7 @@ function createRateTrendsChartConfig(data, seriesConfig = [], overrideConfig = {
       },
       {
         type: 'value',
+        splitLine: { show: false },
       },
     ],
     series,
@@ -684,10 +685,11 @@ async function showSummary() {
     v.updateTime = shortAreaName(v.updateTime);
   });
 
-  const accumRateName = [ '累计死亡率', '累计治愈率' ];
+  const accumRateName = [ getTextForKey('累计死亡率'), getTextForKey('累计治愈率') ];
   const accumRate = [ 'deadRate', 'curedRate' ].map((k, i) => {
     return {
       name: accumRateName[i],
+      enName: accumRateName[i],
       records: records[0].records.map((v, i) => {
         return {
           updateTime: v.updateTime,
@@ -726,7 +728,7 @@ async function showSummary() {
     }),
     ...[ lastDay ].map((v, i) => {
       const cfg = createRateTrendsChartConfig(v, [
-        { name: '现存确诊', key: 'insickCount', config: { type: 'bar', itemStyle: { color: 'rgb(156,197,175)', }, } },
+        { name: getTextForKey('现存确诊'), key: 'insickCount', config: { type: 'bar', itemStyle: { color: 'rgb(156,197,175)', }, } },
       ], {
         xAxis: {
           axisLabel: {
@@ -738,14 +740,14 @@ async function showSummary() {
           type: 'value',
         }],
       });
-      cfg.title[0].text += '现存确诊';
+      cfg.title[0].text += ' ' + getTextForKey('现存确诊');
       return cfg;
     }),
     ...accumRate.map(v => {
       const cfg = createRateTrendsChartConfig(v, [
-        { name: '全国', key: 'country', },
-        { name: '非湖北', key: 'nothubei', },
-        { name: '湖北', key: 'hubei', },
+        { name: getTextForKey('全国'), key: 'country', },
+        { name: getTextForKey('非湖北'), key: 'nothubei', },
+        { name: getTextForKey('湖北省'), key: 'hubei', },
       ]);
       return cfg;
     }),
@@ -754,8 +756,8 @@ async function showSummary() {
         [
           // { name: '累计疑似', key: 'suspectedAccum', },
           // { name: '累计确诊', key: 'confirmedCount', },
-          { name: '当前疑似', key: 'suspectedCount', },
-          { name: '新增疑似', key: 'suspectedIncreased', config: { type: 'bar', yAxisIndex: 1 }},
+          { name: getTextForKey('当前疑似'), key: 'suspectedCount', },
+          { name: getTextForKey('新增疑似'), key: 'suspectedIncreased', config: { type: 'bar', yAxisIndex: 1 }},
         ],
         [
           { name: getTextForKey('疑似确诊比例'), key: 'suspectedConfirmedRate', },
@@ -766,11 +768,11 @@ async function showSummary() {
           // { name: '疑似确诊', key: 'suspectedConfirmedCount', config: { type: 'bar', yAxisIndex: 1 }},
         ],
         [
-          { name: '累计重症比例', key: 'seriousRate', },
+          { name: getTextForKey('累计重症比例'), key: 'seriousRate', },
           // { name: '重症死亡比例', key: 'seriousDeadRate' },
           // { name: '新增重症比例', key: 'seriousDayRate' },
-          { name: '累计重症', key: 'seriousCount', config: { type: 'bar', yAxisIndex: 1, itemStyle: { color: 'rgb(156,197,175)', }, } },
-          { name: '新增重症', key: 'seriousIncreased', config: { type: 'bar', yAxisIndex: 1 }},
+          { name: getTextForKey('累计重症'), key: 'seriousCount', config: { type: 'bar', yAxisIndex: 1, itemStyle: { color: 'rgb(156,197,175)', }, } },
+          { name: getTextForKey('新增重症'), key: 'seriousIncreased', config: { type: 'bar', yAxisIndex: 1 }},
         ],
       ][i]);
       if (i === 0) {

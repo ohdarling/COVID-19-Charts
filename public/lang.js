@@ -45,6 +45,18 @@ const languageMap = {
   '疑似变化': 'Suspected Trend',
   '疑似检测/确诊': 'Suspected Processed',
   '重症率': 'Critical Rate',
+  '全国': 'Country',
+  '非湖北': 'Excl. Hubei',
+  '湖北省': 'Hubei',
+  '现存确诊': 'Exists Confirmed',
+  '累计死亡率': 'Accum. Dead Rate',
+  '累计治愈率': 'Accum. Cured Rate',
+  '累计重症比例': 'Accum. Critical Rate',
+  '累计重症': 'Accum. Critical',
+  '新增重症': 'Critical Incr.',
+  '新增治愈': 'Cured Incr.',
+  '新增死亡': 'Dead Incr.',
+  '确诊': 'Confirmed',
 };
 
 function getTextForKey(k) {
