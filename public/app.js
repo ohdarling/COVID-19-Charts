@@ -612,19 +612,20 @@ async function setupWorldMapCharts(records, container) {
         },
         data: records.map(r => {
           return {
-            name: r.countryEnglishName,
+            name: r.countryEnglishName || r.countryName,
             country: r.countryName,
             value: r.confirmedCount,
             confirmed: r.confirmedCount,
             dead: r.deadCount,
             cured: r.curedCount,
-            label: {
-              show: true,
-            }
+            // label: {
+            //   show: true,
+            // }
           };
         }),
         nameMap: {
           'United States': 'United States of America',
+          'United Kingdom': 'United Kiongdom',
         },
       },
     ]
