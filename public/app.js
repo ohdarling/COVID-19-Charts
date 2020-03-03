@@ -539,6 +539,8 @@ async function setupWorldMapCharts(records, container) {
   const html = `<div id="mapchart" class="mychart" style="display:inline-block;width:100%;height:100%;"></div>`;
   container.innerHTML = html;
 
+  records = records.sort((a, b) => a.confirmedCount < b.confirmedCount ? -1 : 1);
+
   const config = {
     tooltip: {
       show: true,
@@ -546,9 +548,53 @@ async function setupWorldMapCharts(records, container) {
     },
     visualMap: {
       type: 'piecewise',
-      pieces: getVisualPieces('city')
+      pieces: getVisualPieces('city'),
+      seriesIndex: 1,
+      right: 20,
     },
+    xAxis: [
+      {
+        type: 'value',
+        axisLine: { show: false, },
+        axisTick: { show: false, },
+        axisLabel: { show: false, },
+        splitLine: { show: false,},
+      }
+    ],
+    yAxis: [
+      {
+        type: 'category',
+        axisLabel: {
+          show: true,
+          interval: 0,
+        },
+        axisTick: { show: false, },
+        axisLine: { show: false, },
+      }
+    ],
+    grid: [
+      {
+        top: 10,
+        width: '100%',
+        left: 10,
+        containLabel: true
+      },
+    ],
     series: [
+      {
+        type: 'bar',
+        data: records.filter(r => r.countryName !== '中国').map(r => {
+          return [ r.confirmedCount, r.countryName ];
+        }),
+        label: {
+            position: 'inside',
+            show: true,
+            color: '#eee',
+            formatter: ({ data }) => {
+              return data[0] > 0 ? data[0] : '';
+            }
+        },
+      },
       {
         name: '',
         type: 'map',
@@ -580,7 +626,7 @@ async function setupWorldMapCharts(records, container) {
         nameMap: {
           'United States': 'United States of America',
         },
-      }
+      },
     ]
   };
 
