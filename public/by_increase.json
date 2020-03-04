@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-04T01:30:01.960Z",
+    "lastUpdate": "2020-03-04T02:37:18.804Z",
     "records": [
       {
         "updateTime": "山东省",
@@ -22,16 +22,16 @@
         "insickCount": 135
       },
       {
-        "updateTime": "北京市",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 118
-      },
-      {
         "updateTime": "浙江省",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 117
+      },
+      {
+        "updateTime": "北京市",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 3,
+        "insickCount": 115
       },
       {
         "updateTime": "湖南省",
@@ -1489,7 +1489,7 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-03T01:58:02.351Z",
+    "lastUpdate": "2020-03-04T03:18:02.069Z",
     "records": [
       {
         "updateTime": "朝阳区",
@@ -1511,9 +1511,9 @@
       },
       {
         "updateTime": "丰台区",
-        "maxZeroIncrDays": 6,
-        "confirmedIncreased": 0,
-        "insickCount": 39
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 40
       },
       {
         "updateTime": "大兴区",
@@ -1583,9 +1583,9 @@
       },
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 3,
-        "confirmedIncreased": 0,
-        "insickCount": 2
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 4
       },
       {
         "updateTime": "门头沟区",
