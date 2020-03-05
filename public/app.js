@@ -1,3 +1,6 @@
+/* global $ axios echarts build_timestamp getTextForKey getCurrentLang */
+/* exported switchMapMetrics */
+
 let allDataStore = {};
 let mapDisplayMetrics = 'accum';
 
@@ -30,19 +33,19 @@ const mobulesConfig = {
   },
 };
 
-const allDates = (() => {
-  const ret = [];
-  const day = new Date('2020-01-24T00:00:00+08:00');
-  const now = new Date();
-  while (day <= now) {
-    ret.push(day.toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' }).replace(/\/?2020\/?/, ''));
-    day.setHours(day.getHours() + 24);
-  }
-  return ret;
-})();
+// const allDates = (() => {
+//   const ret = [];
+//   const day = new Date('2020-01-24T00:00:00+08:00');
+//   const now = new Date();
+//   while (day <= now) {
+//     ret.push(day.toLocaleDateString('zh-CN', { timeZone: 'Asia/Shanghai' }).replace(/\/?2020\/?/, ''));
+//     day.setHours(day.getHours() + 24);
+//   }
+//   return ret;
+// })();
 
 const allTabs = (() => {
-  return [].slice.call(document.querySelectorAll("#navbar a.nav-link")).reduce((p, v) => {
+  return [].slice.call(document.querySelectorAll('#navbar a.nav-link')).reduce((p, v) => {
     const tab = v.href.split('#')[1].split('=')[1];
     p[tab] = {
       tab,
@@ -85,7 +88,7 @@ const showLoading = (() => {
         loading = null;
       }
     }
-  }
+  };
 
 })();
 
@@ -115,9 +118,9 @@ async function prepareChartMap(mapName) {
     const url = `map/json/${isProvince ? 'province/' : ''}${mapName}.json`;
     geoJSON = (await axios.get(url, {
       onDownloadProgress: (pe) => {
-          showLoading('map', pe);
-        }
-      })).data;
+        showLoading('map', pe);
+      }
+    })).data;
     echarts.registerMap(mapName, geoJSON);
   } else {
     geoJSON = echarts.getMap(mapName).geoJson;
@@ -161,7 +164,7 @@ function createTrendsChartConfig(data) {
   if (new Date(data.lastUpdate) < todayStart) {
     markArea = {
       itemStyle: {
-          color: '#eee',
+        color: '#eee',
       },
       silent: true,
       data: [ [{
@@ -173,7 +176,7 @@ function createTrendsChartConfig(data) {
       }, {
         xAxis: records[records.length - 1].updateTime,
       }] ]
-    }
+    };
   }
 
   const config = {
@@ -204,8 +207,8 @@ function createTrendsChartConfig(data) {
       y2: 70,
     },
     xAxis: {
-        type: 'category',
-        data: days,
+      type: 'category',
+      data: days,
     },
     yAxis: [
       {
@@ -263,9 +266,9 @@ function createTrendsChartConfig(data) {
 }
 
 function createRateTrendsChartConfig(data, seriesConfig = [], overrideConfig = {}) {
-  const nameKey = currentLanguage === 'en' ? 'enName' : 'name';
+  const nameKey = getCurrentLang() === 'en' ? 'enName' : 'name';
   const displayName = data[nameKey] || data.name;
-  const { name, records } = data;
+  const { records } = data;
   const days = records.map(v => v.updateTime);
   const seriesKeyMap = {};
   const series = seriesConfig.map(v => {
@@ -275,7 +278,7 @@ function createRateTrendsChartConfig(data, seriesConfig = [], overrideConfig = {
       data: records.map(r => r[v.key]),
       type: 'line',
       tooltip: { formatter: '{b}: {c}%' }
-    }, v.config || {})
+    }, v.config || {});
   });
 
   const config = {
@@ -296,7 +299,7 @@ function createRateTrendsChartConfig(data, seriesConfig = [], overrideConfig = {
       formatter: (params) => {
         if (params && params.length > 0) {
           return `<b>${params[0].name}<b><br />${params.map(v => {
-            return (`${v.seriesName}：${v.value || '--'}`) + (seriesKeyMap[v.seriesName].indexOf('Rate') > 0 ? '%' : '')
+            return (`${v.seriesName}：${v.value || '--'}`) + (seriesKeyMap[v.seriesName].indexOf('Rate') > 0 ? '%' : '');
           }).join('<br />')}`;
         }
         return '';
@@ -314,8 +317,8 @@ function createRateTrendsChartConfig(data, seriesConfig = [], overrideConfig = {
       y2: 70,
     },
     xAxis: {
-        type: 'category',
-        data: days,
+      type: 'category',
+      data: days,
     },
     yAxis: [
       {
@@ -344,7 +347,7 @@ function switchMapMetrics(m) {
   handleHashChanged();
 }
 
-async function createMapChartConfig({ mapName, data, title = '', valueKey = 'confirmedCount' }) {
+async function createMapChartConfig({ mapName, data, valueKey = 'confirmedCount' }) {
   valueKey = mapDisplayMetrics === 'accum' ? 'confirmedCount' : 'insickCount';
   let geoJSON = await prepareChartMap(mapName);
   geoJSON.features.forEach(v => {
@@ -356,7 +359,7 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
           r.showName = showName;
         }
       });
-    })
+    });
   });
 
   const visualPieces = getVisualPieces(mapName === 'china' ? 'country' : 'city');
@@ -367,12 +370,12 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
     stack: '人数',
     type: 'bar',
     label: {
-        position: 'inside',
-        show: true,
-        color: '#eee',
-        formatter: ({ data }) => {
-          return data[0] > 0 ? data[0] : '';
-        }
+      position: 'inside',
+      show: true,
+      color: '#eee',
+      formatter: ({ data }) => {
+        return data[0] > 0 ? data[0] : '';
+      }
     },
     barMaxWidth: 30,
   };
@@ -381,22 +384,22 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
     baseOption: {
       title: {
         text: mapDisplayMetrics === 'accum' ? getTextForKey('当前显示累计确诊') : getTextForKey('当前显示现存确诊'),
-        link: `javascript:switchMapMetrics("${mapDisplayMetrics === "accum" ? 'current' : 'accum'}")`,
+        link: `javascript:switchMapMetrics("${mapDisplayMetrics === 'accum' ? 'current' : 'accum'}")`,
         target: 'self',
         bottom: '10',
         left: '10',
       },
       timeline: {
-          axisType: 'category',
-          // realtime: false,
-          // loop: false,
-          autoPlay: false,
-          currentIndex: data.length - 1,
-          playInterval: 1000,
-          // controlStyle: {
-          //     position: 'left'
-          // },
-          data: data.map(d => d.day),
+        axisType: 'category',
+        // realtime: false,
+        // loop: false,
+        autoPlay: false,
+        currentIndex: data.length - 1,
+        playInterval: 1000,
+        // controlStyle: {
+        //     position: 'left'
+        // },
+        data: data.map(d => d.day),
       },
       tooltip: {
         show: true,
@@ -413,7 +416,8 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
       //     saveAsImage: {}
       //   }
       // },
-      grid: hideBarChart ? [] : [{
+      grid: hideBarChart ? [] : [
+        {
           top: 10,
           width: '100%',
           left: 10,
@@ -469,7 +473,7 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
           tooltip: {
             formatter: ({ name, data }) => {
               if (data) {
-                const { name, value, confirmed, dead, cured, increased } = data;
+                const { name, /*value,*/ confirmed, dead, cured, increased } = data;
                 const tip = `<b>${name}</b><br />${getTextForKey('确诊人数：')}${confirmed}<br />${getTextForKey('治愈人数：')}${cured}<br />${getTextForKey('死亡人数：')}${dead}<br />${getTextForKey('新增确诊：')}${increased}`;
                 return tip;
               }
@@ -548,10 +552,10 @@ async function setupMapCharts(records, container, province = '', allCities = fal
   const mapName = !province ? (allCities ? 'china-cities' : 'china') : {
     '安徽': 'anhui', '澳门': 'aomen', '北京': 'beijing', '重庆': 'chongqing', '福建': 'fujian', '甘肃': 'gansu', '广东': 'guangdong', '广西': 'guangxi', '贵州': 'guizhou', '海南': 'hainan', '河北': 'hebei', '黑龙江': 'heilongjiang', '河南': 'henan', '湖北': 'hubei', '湖南': 'hunan', '江苏': 'jiangsu', '江西': 'jiangxi', '吉林': 'jilin', '辽宁': 'liaoning', '内蒙古': 'neimenggu', '宁夏': 'ningxia', '青海': 'qinghai', '山东': 'shandong', '上海': 'shanghai', '山西': 'shanxi', '陕西': 'shanxi1', '四川': 'sichuan', '台湾': 'taiwan', '天津': 'tianjin', '香港': 'xianggang', '新疆': 'xinjiang', '西藏': 'xizang', '云南': 'yunnan', '浙江': 'zhejiang',
   }[shortAreaName(province)];
-  const html = `<div id="mapchart" class="mychart" style="display:inline-block;width:100%;height:100%;"></div>`;
+  const html = '<div id="mapchart" class="mychart" style="display:inline-block;width:100%;height:100%;"></div>';
   container.innerHTML = html;
   const cfg = await createMapChartConfig({ mapName, data: records });
-  const chart = echarts.init(document.getElementById(`mapchart`));
+  const chart = echarts.init(document.getElementById('mapchart'));
   chart.setOption(cfg);
 
   if (mapName === 'china') {
@@ -566,7 +570,7 @@ async function setupMapCharts(records, container, province = '', allCities = fal
 async function setupWorldMapCharts(records, container) {
   await prepareChartMap('world');
 
-  const html = `<div id="mapchart" class="mychart" style="display:inline-block;width:100%;height:100%;"></div>`;
+  const html = '<div id="mapchart" class="mychart" style="display:inline-block;width:100%;height:100%;"></div>';
   container.innerHTML = html;
 
   records = records.sort((a, b) => a.confirmedCount < b.confirmedCount ? -1 : 1);
@@ -617,12 +621,12 @@ async function setupWorldMapCharts(records, container) {
           return [ r.confirmedCount, getCurrentLang() === 'zh' ? r.countryName : (r.countryEnglishName || r.countryName) ];
         }),
         label: {
-            position: 'inside',
-            show: true,
-            color: '#eee',
-            formatter: ({ data }) => {
-              return data[0] > 0 ? data[0] : '';
-            }
+          position: 'inside',
+          show: true,
+          color: '#eee',
+          formatter: ({ data }) => {
+            return data[0] > 0 ? data[0] : '';
+          }
         },
       },
       {
@@ -633,7 +637,7 @@ async function setupWorldMapCharts(records, container) {
         tooltip: {
           formatter: ({ name, data }) => {
             if (data) {
-              const { name, country, value, confirmed, dead, cured, increased } = data;
+              const { name, country, /*value,*/ confirmed, dead, cured, /*increased*/ } = data;
               const tip = `<b>${country} (${name})</b><br />${getTextForKey('确诊人数：')}${confirmed}<br />${getTextForKey('治愈人数：')}${cured}<br />${getTextForKey('死亡人数：')}${dead}`;
               return tip;
             }
@@ -666,7 +670,7 @@ async function setupWorldMapCharts(records, container) {
     ]
   };
 
-  const chart = echarts.init(document.getElementById(`mapchart`));
+  const chart = echarts.init(document.getElementById('mapchart'));
   chart.setOption(config);
 
   chart.on('click', (params) => {
@@ -686,8 +690,9 @@ async function prepareChartData(name, type = 'area') {
 
   allCharts.forEach(c => {
     c.clear();
-    delete c;
+    c.dispose();
   });
+  allCharts = [];
 
   document.getElementById(chartsContainerId).innerHTML = 'Loading...';
 
@@ -716,7 +721,7 @@ function updateHash(tab, province, city) {
   let hash = '#tab=' + tab;
   Object.values(allTabs).forEach(t => {
     $(t.el)[t.tab == tab ? 'addClass' : 'removeClass']('active');
-  })
+  });
   if (province) {
     hash += `&${tabConfig.provinceKey || 'province'}=${encodeURIComponent(province)}`;
   }
@@ -763,10 +768,10 @@ async function showAllCitiesMap() {
     return {
       day: d.day,
       records: d.records.reduce((p, v) => {
-        return p.concat(zhixiashi.indexOf(v.name) > -1 ? v : v.cityList)
+        return p.concat(zhixiashi.indexOf(v.name) > -1 ? v : v.cityList);
       }, []),
-    }
-  })
+    };
+  });
   allCharts = await setupMapCharts(records, document.getElementById(chartsContainerId), '', true);
   updateHash('cities-map');
 }
@@ -796,17 +801,17 @@ async function showSummary() {
           country: v[k],
           nothubei: records[1].records[i][k],
           hubei: records[2].records[i][k],
-        }
+        };
       }),
     };
-  })
+  });
 
   allCharts = [
-    ...records.map((v, i) => {
+    ...records.map(v => {
       const cfg = createTrendsChartConfig(v);
       return cfg;
     }),
-    ...[ lastDay ].map((v, i) => {
+    ...[ lastDay ].map(v => {
       v = JSON.parse(JSON.stringify(v));
       v.records.sort((a, b) => a.maxZeroIncrDays > b.maxZeroIncrDays ? -1 : 1);
       const cfg = createRateTrendsChartConfig(v, [
@@ -826,7 +831,7 @@ async function showSummary() {
       cfg.title[0].text += ' ' + getTextForKey('无新增确诊天数');
       return cfg;
     }),
-    ...[ lastDay ].map((v, i) => {
+    ...[ lastDay ].map(v => {
       const cfg = createRateTrendsChartConfig(v, [
         { name: getTextForKey('现存确诊'), key: 'insickCount', config: { type: 'bar', itemStyle: { color: 'rgb(156,197,175)', }, } },
       ], {
@@ -900,7 +905,7 @@ async function showSummary() {
 async function showZeroDays() {
   const records = await prepareChartData('', 'increase');
 
-  allCharts = records.map((v, i) => {
+  allCharts = records.map(v => {
     v.records.forEach(r => {
       r.updateTime = shortAreaName(r.updateTime);
     });

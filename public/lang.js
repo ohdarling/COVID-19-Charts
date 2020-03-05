@@ -1,3 +1,6 @@
+/*global $*/
+/*exported setCurrentLang getCurrentLang*/
+
 let currentLanguage = 'zh';
 if (document.cookie.indexOf('lang=') > -1) {
   currentLanguage = document.cookie.indexOf('lang=en') > -1 ? 'en' : 'zh';
@@ -7,7 +10,7 @@ if (document.cookie.indexOf('lang=') > -1) {
 const langTitleMap = {
   'zh': '中文',
   'en': 'English',
-}
+};
 $('#langDropdown').html(langTitleMap[currentLanguage]);
 
 function setCurrentLang(lang) {
@@ -58,8 +61,6 @@ const languageMap = {
   '非湖北': 'Excl. Hubei',
   '湖北省': 'Hubei',
   '现存确诊': 'Exists Confirmed',
-  '累计死亡率': 'Accum. Dead Rate',
-  '累计治愈率': 'Accum. Cured Rate',
   '累计重症比例': 'Accum. Critical Rate',
   '累计重症': 'Accum. Critical',
   '新增重症': 'Critical Incr.',
