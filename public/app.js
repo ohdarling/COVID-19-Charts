@@ -614,7 +614,7 @@ async function setupWorldMapCharts(records, container) {
       {
         type: 'bar',
         data: records.filter(r => r.countryName !== '中国').map(r => {
-          return [ r.confirmedCount, r.countryName ];
+          return [ r.confirmedCount, getCurrentLang() === 'zh' ? r.countryName : (r.countryEnglishName || r.countryName) ];
         }),
         label: {
             position: 'inside',
@@ -643,6 +643,7 @@ async function setupWorldMapCharts(records, container) {
         data: records.map(r => {
           return {
             name: r.countryEnglishName || r.countryName,
+            continent: r.continentName,
             country: r.countryName,
             value: r.confirmedCount,
             confirmed: r.confirmedCount,
@@ -663,6 +664,12 @@ async function setupWorldMapCharts(records, container) {
 
   const chart = echarts.init(document.getElementById(`mapchart`));
   chart.setOption(config);
+
+  chart.on('click', (params) => {
+    if (params.data && params.data.continent && params.data.country !== '中国') {
+      showWorldTrends(params.data.continent, params.data.country);
+    }
+  });
 
   return [ chart ];
 }
