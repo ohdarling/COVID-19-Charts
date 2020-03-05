@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-05T09:26:01.778Z",
+    "lastUpdate": "2020-03-05T09:54:02.283Z",
     "records": [
       {
         "updateTime": "山东省",
@@ -31,7 +31,7 @@
         "updateTime": "浙江省",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 2,
-        "insickCount": 92
+        "insickCount": 90
       },
       {
         "updateTime": "黑龙江省",
@@ -61,7 +61,7 @@
         "updateTime": "广西壮族自治区",
         "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
-        "insickCount": 37
+        "insickCount": 36
       },
       {
         "updateTime": "江西省",
@@ -487,13 +487,13 @@
   },
   {
     "name": "浙江省",
-    "lastUpdate": "2020-03-05T07:02:02.158Z",
+    "lastUpdate": "2020-03-05T09:54:02.283Z",
     "records": [
       {
         "updateTime": "温州",
         "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
-        "insickCount": 23
+        "insickCount": 21
       },
       {
         "updateTime": "省十里丰监狱",
@@ -1861,7 +1861,7 @@
   },
   {
     "name": "广西壮族自治区",
-    "lastUpdate": "2020-03-05T00:53:02.026Z",
+    "lastUpdate": "2020-03-05T09:54:02.283Z",
     "records": [
       {
         "updateTime": "河池",
@@ -1891,7 +1891,7 @@
         "updateTime": "柳州",
         "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
-        "insickCount": 5
+        "insickCount": 4
       },
       {
         "updateTime": "南宁",
