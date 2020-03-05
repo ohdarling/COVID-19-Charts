@@ -1,5 +1,9 @@
 let currentLanguage = 'zh';
-currentLanguage = document.cookie.indexOf('lang=en') > -1 ? 'en' : 'zh';
+if (document.cookie.indexOf('lang=') > -1) {
+  currentLanguage = document.cookie.indexOf('lang=en') > -1 ? 'en' : 'zh';
+} else {
+  currentLanguage = (navigator.language || '').split('-')[0] === 'zh' ? 'zh' : 'en';
+}
 const langTitleMap = {
   'zh': '中文',
   'en': 'English',
