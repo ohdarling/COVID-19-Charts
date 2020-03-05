@@ -10,6 +10,7 @@
       html, body { height: 100%; }
       #chart_container { height: 90% }
       .trends-chart { display:inline-block; width:100%; height:400px; padding-bottom: 30px; }
+      .single-chart { display:inline-block; width:100%; height:100%; padding-bottom: 30px; }
       .summary-chart { display:inline-block; width:100%; height:400px; padding-bottom: 30px; }
       @media only screen and (min-width: 800px) {
         .trends-chart { width: 50% }
@@ -61,6 +62,18 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#tab=world-map">世界地图</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#tab=world-trends" id="continentDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">各国趋势</a>
+            <div class="dropdown-menu" aria-labelledby="continentDropdown">
+              <a class="dropdown-item" href="#tab=world-trends">全部国家</a>
+              <a class="dropdown-item" href="#tab=world-trends&amp;continent=亚洲">亚洲</a>
+              <a class="dropdown-item" href="#tab=world-trends&amp;continent=欧洲">欧洲</a>
+              <a class="dropdown-item" href="#tab=world-trends&amp;continent=大洋洲">大洋洲</a>
+              <a class="dropdown-item" href="#tab=world-trends&amp;continent=北美洲">北美洲</a>
+              <a class="dropdown-item" href="#tab=world-trends&amp;continent=南美洲">南美洲</a>
+              <a class="dropdown-item" href="#tab=world-trends&amp;continent=非洲">非洲</a>
+            </div>
           </li>
         </ul>
         <ul class="navbar-nav">

@@ -11,6 +11,10 @@ function setCurrentLang(lang) {
   location.reload();
 }
 
+const getCurrentLang = () => {
+  return currentLanguage;
+};
+
 const languageMap = {
   '总体趋势': 'Summary',
   '新增概览': 'Increasements',
@@ -19,6 +23,7 @@ const languageMap = {
   '全部城市地图': 'All Cities Map',
   '世界地图': 'World Map',
   '数据来源': 'Data Source',
+  '各国趋势': 'World Trends',
   '最后更新时间：': 'Last Update: ',
   '当前显示累计确诊': 'Display Total Confirmed',
   '当前显示现存确诊': 'Display Exists Confirmed',
@@ -57,6 +62,13 @@ const languageMap = {
   '新增治愈': 'Cured Incr.',
   '新增死亡': 'Dead Incr.',
   '确诊': 'Confirmed',
+  '亚洲': 'Asia',
+  '欧洲': 'Europe',
+  '北美洲': 'North America',
+  '南美洲': 'South America',
+  '非洲': 'Africa',
+  '大洋洲': 'Oceania',
+  '全部国家': 'All Countries',
 };
 
 function getTextForKey(k) {

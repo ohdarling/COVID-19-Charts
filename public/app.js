@@ -1,6 +1,35 @@
 let allDataStore = {};
 let mapDisplayMetrics = 'accum';
 
+const mobulesConfig = {
+  'summary': {
+    func: showSummary,
+  },
+  'zerodays': {
+    func: showZeroDays,
+  },
+  'map': {
+    func: showMap,
+    supportProvince: true,
+  },
+  'cities-map': {
+    func: showAllCitiesMap,
+  },
+  'world-map': {
+    func: showWorldMap,
+  },
+  'trends': {
+    func: showProvince,
+    supportProvince: true,
+  },
+  'world-trends': {
+    func: showWorldTrends,
+    supportProvince: true,
+    provinceKey: 'continent',
+    cityKey: 'country',
+  },
+};
+
 const allDates = (() => {
   const ret = [];
   const day = new Date('2020-01-24T00:00:00+08:00');
@@ -13,7 +42,7 @@ const allDates = (() => {
 })();
 
 const allTabs = (() => {
-  return [].slice.call(document.querySelectorAll("#navbar a")).reduce((p, v) => {
+  return [].slice.call(document.querySelectorAll("#navbar a.nav-link")).reduce((p, v) => {
     const tab = v.href.split('#')[1].split('=')[1];
     p[tab] = {
       tab,
@@ -117,7 +146,7 @@ function shortAreaName(name) {
 }
 
 function createTrendsChartConfig(data) {
-  const { name, records } = data;
+  const { name, enName, records } = data;
   const hasCity = !!data.cityList;
   const days = records.map(v => v.updateTime);
   const confirmed = records.map(v => v.confirmedCount);
@@ -140,7 +169,7 @@ function createTrendsChartConfig(data) {
         label: {
           color: '#aaa',
         },
-        xAxis: records[records.length - 2].updateTime,
+        xAxis: records[Math.max(records.length - 2, 0)].updateTime,
       }, {
         xAxis: records[records.length - 1].updateTime,
       }] ]
@@ -150,7 +179,7 @@ function createTrendsChartConfig(data) {
   const config = {
     title: [
       {
-        text: name,
+        text: getCurrentLang() === 'zh' ? name : (enName || name),
         link: hasCity ? `javascript:showProvince('${name}')` : '',
         target: 'self',
       },
@@ -501,8 +530,9 @@ async function createMapChartConfig({ mapName, data, title = '', valueKey = 'con
 }
 
 function setupTrendsCharts(records, container) {
+  const cls = records.length > 1 ? 'trends-chart' : 'single-chart';
   const html = records.map((v, i) => {
-    return `<div id="chart${i}" class="trends-chart"></div>`;
+    return `<div id="chart${i}" class="${cls}"></div>`;
   }).join('');
   container.innerHTML = html;
 
@@ -671,16 +701,16 @@ async function prepareChartData(name, type = 'area') {
 }
 
 function updateHash(tab, province, city) {
+  const tabConfig = mobulesConfig[tab];
   let hash = '#tab=' + tab;
   Object.values(allTabs).forEach(t => {
-    const newclass = "nav-link" + (t.tab == tab ? ' active' : '');
-    t.el.setAttribute('class', newclass);
+    $(t.el)[t.tab == tab ? 'addClass' : 'removeClass']('active');
   })
   if (province) {
-    hash += '&province=' + encodeURIComponent(province);
+    hash += `&${tabConfig.provinceKey || 'province'}=${encodeURIComponent(province)}`;
   }
   if (city) {
-    hash += '&city=' + encodeURIComponent(city);
+    hash += `&${tabConfig.cityKey || 'city'}=${encodeURIComponent(city)}`;
   }
   location.hash = hash;
 
@@ -694,6 +724,18 @@ async function showProvince(name, city = '') {
   }
   allCharts = setupTrendsCharts(records, document.getElementById(chartsContainerId));
   updateHash('trends', name, city);
+}
+
+async function showWorldTrends(continent = '', country = '') {
+  let records = await prepareChartData(name, 'world');
+  if (continent) {
+    records = records.filter(r => r.continentName === continent);
+  }
+  if (country) {
+    records = records.filter(r => r.countryName === country);
+  }
+  allCharts = setupTrendsCharts(records, document.getElementById(chartsContainerId));
+  updateHash('world-trends', continent, country);
 }
 
 async function showMap(name) {
@@ -891,33 +933,13 @@ function handleHashChanged() {
   const defaultTab = 'summary';
   const query = new URLSearchParams(location.hash.replace(/^#/, ''));
   const tab = query.get('tab') || defaultTab;
-  const province = query.get('province') || '';
-  const city = query.get('city') || '';
   let title = [ document.querySelector('title').innerHTML.split(' - ')[0] ];
 
-  const tabFuncs = {
-    'summary': {
-      func: showSummary,
-    },
-    'zerodays': {
-      func: showZeroDays,
-    },
-    'map': {
-      func: showMap,
-      supportProvince: true,
-    },
-    'cities-map': {
-      func: showAllCitiesMap,
-    },
-    'world-map': {
-      func: showWorldMap,
-    },
-    'trends': {
-      func: showProvince,
-      supportProvince: true,
-    }
-  };
-  const func = tabFuncs[tab] || tabFuncs[defaultTab];
+  const func = mobulesConfig[tab] || mobulesConfig[defaultTab];
+
+  const province = query.get(func.provinceKey || 'province') || '';
+  const city = query.get(func.cityKey || 'city') || '';
+
   func.func(province, city);
   title.push(allTabs[tab].title);
   if (func.supportProvince && province) {
