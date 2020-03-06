@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-05T16:01:16.430Z",
+    "lastUpdate": "2020-03-05T23:37:01.733Z",
     "records": [
       {
         "updateTime": "山东省",
@@ -49,7 +49,7 @@
         "updateTime": "重庆市",
         "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
-        "insickCount": 68
+        "insickCount": 58
       },
       {
         "updateTime": "江苏省",
@@ -324,12 +324,6 @@
       {
         "updateTime": "河源",
         "maxZeroIncrDays": 18,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 43,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -1039,7 +1033,7 @@
   },
   {
     "name": "重庆市",
-    "lastUpdate": "2020-03-04T23:40:01.788Z",
+    "lastUpdate": "2020-03-05T23:37:01.733Z",
     "records": [
       {
         "updateTime": "万州区",
@@ -1051,19 +1045,13 @@
         "updateTime": "长寿区",
         "maxZeroIncrDays": 11,
         "confirmedIncreased": 0,
-        "insickCount": 7
+        "insickCount": 6
       },
       {
         "updateTime": "潼南区",
         "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
-        "insickCount": 7
-      },
-      {
-        "updateTime": "南岸区",
-        "maxZeroIncrDays": 21,
-        "confirmedIncreased": 0,
-        "insickCount": 5
+        "insickCount": 6
       },
       {
         "updateTime": "綦江区",
@@ -1072,8 +1060,8 @@
         "insickCount": 4
       },
       {
-        "updateTime": "沙坪坝区",
-        "maxZeroIncrDays": 11,
+        "updateTime": "南岸区",
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
@@ -1082,18 +1070,6 @@
         "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 3
-      },
-      {
-        "updateTime": "垫江县",
-        "maxZeroIncrDays": 25,
-        "confirmedIncreased": 0,
-        "insickCount": 3
-      },
-      {
-        "updateTime": "合川区",
-        "maxZeroIncrDays": 21,
-        "confirmedIncreased": 0,
-        "insickCount": 2
       },
       {
         "updateTime": "奉节县",
@@ -1144,6 +1120,12 @@
         "insickCount": 2
       },
       {
+        "updateTime": "沙坪坝区",
+        "maxZeroIncrDays": 11,
+        "confirmedIncreased": 0,
+        "insickCount": 2
+      },
+      {
         "updateTime": "巴南区",
         "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
@@ -1156,14 +1138,14 @@
         "insickCount": 1
       },
       {
-        "updateTime": "开州区",
-        "maxZeroIncrDays": 13,
+        "updateTime": "忠县",
+        "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
-        "updateTime": "忠县",
-        "maxZeroIncrDays": 12,
+        "updateTime": "垫江县",
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -1190,6 +1172,18 @@
         "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 1
+      },
+      {
+        "updateTime": "合川区",
+        "maxZeroIncrDays": 21,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "开州区",
+        "maxZeroIncrDays": 13,
+        "confirmedIncreased": 0,
+        "insickCount": 0
       },
       {
         "updateTime": "巫溪县",
