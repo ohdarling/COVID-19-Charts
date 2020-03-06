@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-06T11:27:02.301Z",
+    "lastUpdate": "2020-03-06T13:14:02.299Z",
     "records": [
       {
         "updateTime": "山东省",
@@ -13,25 +13,25 @@
         "updateTime": "广东省",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 1,
-        "insickCount": 133
+        "insickCount": 129
       },
       {
         "updateTime": "北京市",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 4,
-        "insickCount": 116
+        "insickCount": 115
       },
       {
         "updateTime": "四川省",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
-        "insickCount": 101
+        "insickCount": 94
       },
       {
         "updateTime": "黑龙江省",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
-        "insickCount": 87
+        "insickCount": 85
       },
       {
         "updateTime": "浙江省",
@@ -94,16 +94,16 @@
         "insickCount": 18
       },
       {
-        "updateTime": "福建省",
-        "maxZeroIncrDays": 8,
-        "confirmedIncreased": 0,
-        "insickCount": 13
-      },
-      {
         "updateTime": "甘肃省",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 13
+      },
+      {
+        "updateTime": "福建省",
+        "maxZeroIncrDays": 8,
+        "confirmedIncreased": 0,
+        "insickCount": 11
       },
       {
         "updateTime": "内蒙古自治区",
@@ -130,12 +130,6 @@
         "insickCount": 7
       },
       {
-        "updateTime": "宁夏回族自治区",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 6
-      },
-      {
         "updateTime": "安徽省",
         "maxZeroIncrDays": 7,
         "confirmedIncreased": 0,
@@ -150,6 +144,12 @@
       {
         "updateTime": "海南省",
         "maxZeroIncrDays": 15,
+        "confirmedIncreased": 0,
+        "insickCount": 4
+      },
+      {
+        "updateTime": "宁夏回族自治区",
+        "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
@@ -193,7 +193,7 @@
   },
   {
     "name": "广东省",
-    "lastUpdate": "2020-03-06T10:21:01.795Z",
+    "lastUpdate": "2020-03-06T12:50:02.299Z",
     "records": [
       {
         "updateTime": "深圳",
@@ -214,16 +214,16 @@
         "insickCount": 12
       },
       {
-        "updateTime": "东莞",
-        "maxZeroIncrDays": 6,
-        "confirmedIncreased": 0,
-        "insickCount": 10
-      },
-      {
         "updateTime": "珠海",
         "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 7
+      },
+      {
+        "updateTime": "东莞",
+        "maxZeroIncrDays": 6,
+        "confirmedIncreased": 0,
+        "insickCount": 6
       },
       {
         "updateTime": "外地来粤人员",
@@ -1285,7 +1285,7 @@
   },
   {
     "name": "四川省",
-    "lastUpdate": "2020-03-06T10:21:01.795Z",
+    "lastUpdate": "2020-03-06T12:50:02.299Z",
     "records": [
       {
         "updateTime": "成都",
@@ -1297,7 +1297,7 @@
         "updateTime": "甘孜州",
         "maxZeroIncrDays": 7,
         "confirmedIncreased": 0,
-        "insickCount": 19
+        "insickCount": 12
       },
       {
         "updateTime": "南充",
@@ -1417,13 +1417,13 @@
   },
   {
     "name": "黑龙江省",
-    "lastUpdate": "2020-03-06T11:00:02.409Z",
+    "lastUpdate": "2020-03-06T12:50:02.299Z",
     "records": [
       {
         "updateTime": "哈尔滨",
         "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
-        "insickCount": 46
+        "insickCount": 44
       },
       {
         "updateTime": "双鸭山",
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-06T01:10:02.074Z",
+    "lastUpdate": "2020-03-06T12:50:02.299Z",
     "records": [
       {
         "updateTime": "朝阳区",
@@ -1531,19 +1531,19 @@
         "updateTime": "大兴区",
         "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
-        "insickCount": 37
-      },
-      {
-        "updateTime": "昌平区",
-        "maxZeroIncrDays": 17,
-        "confirmedIncreased": 0,
-        "insickCount": 29
+        "insickCount": 23
       },
       {
         "updateTime": "外地来京人员",
         "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 23
+      },
+      {
+        "updateTime": "昌平区",
+        "maxZeroIncrDays": 17,
+        "confirmedIncreased": 0,
+        "insickCount": 19
       },
       {
         "updateTime": "通州区",
@@ -1610,6 +1610,12 @@
         "maxZeroIncrDays": 32,
         "confirmedIncreased": 0,
         "insickCount": 1
+      },
+      {
+        "updateTime": "待明确地区",
+        "maxZeroIncrDays": 43,
+        "confirmedIncreased": 0,
+        "insickCount": 0
       }
     ]
   },
@@ -1807,7 +1813,7 @@
   },
   {
     "name": "福建省",
-    "lastUpdate": "2020-03-06T11:00:02.409Z",
+    "lastUpdate": "2020-03-06T12:50:02.299Z",
     "records": [
       {
         "updateTime": "莆田",
@@ -1822,14 +1828,14 @@
         "insickCount": 4
       },
       {
-        "updateTime": "泉州",
-        "maxZeroIncrDays": 10,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
         "updateTime": "福州",
         "maxZeroIncrDays": 8,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "泉州",
+        "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -2803,13 +2809,13 @@
   },
   {
     "name": "宁夏回族自治区",
-    "lastUpdate": "2020-03-04T01:26:02.243Z",
+    "lastUpdate": "2020-03-06T12:50:02.299Z",
     "records": [
       {
         "updateTime": "银川",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
-        "insickCount": 4
+        "insickCount": 2
       },
       {
         "updateTime": "吴忠",
