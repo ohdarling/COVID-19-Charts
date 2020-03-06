@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-06T07:31:02.431Z",
+    "lastUpdate": "2020-03-06T09:15:02.264Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1190,23 +1190,23 @@
         "curedRate": "64.91",
         "deadRate": "3.74",
         "seriousDeadRate": "50.67",
-        "curedDayRate": "6.83",
+        "curedDayRate": "6.84",
         "deadDayRate": "0.12"
       },
       {
         "confirmedCount": 80714,
         "suspectedCount": 482,
-        "curedCount": 53834,
+        "curedCount": 53837,
         "deadCount": 3045,
         "seriousCount": 5737,
         "suspectedIncreased": 102,
         "confirmedIncreased": 149,
-        "curedIncreased": 1725,
+        "curedIncreased": 1728,
         "deadIncreased": 30,
         "seriousIncreased": 0,
         "updateTime": "3/6",
-        "insickCount": 23835,
-        "lastUpdate": "2020-03-06T07:31:02.431Z",
+        "insickCount": 23832,
+        "lastUpdate": "2020-03-06T09:15:02.264Z",
         "updateDate": "2020/3/6",
         "seriousRate": "7.11",
         "seriousDayRate": "0.00",
@@ -1975,7 +1975,7 @@
         "curedRate": "89.90",
         "deadRate": "0.86",
         "seriousDeadRate": "",
-        "curedDayRate": "11.85",
+        "curedDayRate": "12.10",
         "deadDayRate": "0.00"
       },
       {
@@ -1984,18 +1984,18 @@
         "zipCode": "440000",
         "confirmedCount": 12965,
         "suspectedCount": 0,
-        "curedCount": 11789,
+        "curedCount": 11792,
         "deadCount": 111,
-        "insickCount": 1065,
+        "insickCount": 1062,
         "confirmedIncreased": 7,
-        "curedIncreased": 142,
+        "curedIncreased": 145,
         "deadIncreased": 0,
-        "curedRate": "90.93",
+        "curedRate": "90.95",
         "deadRate": "0.86",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-03-06T07:31:02.431Z",
+    "lastUpdate": "2020-03-06T08:02:02.123Z",
     "updateTime": "3/6",
     "zipCode": "440000",
     "confirmedCount": 1351,
@@ -2825,7 +2825,7 @@
         "updateTime": "四川省",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
-        "insickCount": 107
+        "insickCount": 106
       },
       {
         "updateTime": "黑龙江省",
@@ -2843,7 +2843,7 @@
         "updateTime": "湖南省",
         "maxZeroIncrDays": 6,
         "confirmedIncreased": 0,
-        "insickCount": 62
+        "insickCount": 60
       },
       {
         "updateTime": "重庆市",
