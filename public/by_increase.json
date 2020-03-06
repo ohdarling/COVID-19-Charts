@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-05T23:37:01.733Z",
+    "lastUpdate": "2020-03-06T00:20:03.245Z",
     "records": [
       {
         "updateTime": "山东省",
@@ -37,7 +37,7 @@
         "updateTime": "黑龙江省",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
-        "insickCount": 89
+        "insickCount": 88
       },
       {
         "updateTime": "湖南省",
@@ -115,7 +115,7 @@
         "updateTime": "内蒙古自治区",
         "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
-        "insickCount": 10
+        "insickCount": 9
       },
       {
         "updateTime": "河北省",
@@ -1405,7 +1405,7 @@
   },
   {
     "name": "黑龙江省",
-    "lastUpdate": "2020-03-05T00:53:02.026Z",
+    "lastUpdate": "2020-03-06T00:20:03.245Z",
     "records": [
       {
         "updateTime": "哈尔滨",
@@ -1450,16 +1450,16 @@
         "insickCount": 4
       },
       {
-        "updateTime": "七台河",
-        "maxZeroIncrDays": 17,
-        "confirmedIncreased": 0,
-        "insickCount": 3
-      },
-      {
         "updateTime": "黑河",
         "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 3
+      },
+      {
+        "updateTime": "七台河",
+        "maxZeroIncrDays": 17,
+        "confirmedIncreased": 0,
+        "insickCount": 2
       },
       {
         "updateTime": "鹤岗",
@@ -2833,7 +2833,7 @@
   },
   {
     "name": "内蒙古自治区",
-    "lastUpdate": "2020-03-05T07:02:02.158Z",
+    "lastUpdate": "2020-03-05T23:50:02.010Z",
     "records": [
       {
         "updateTime": "包头",
@@ -2848,12 +2848,6 @@
         "insickCount": 2
       },
       {
-        "updateTime": "呼和浩特",
-        "maxZeroIncrDays": 28,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
         "updateTime": "赤峰",
         "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
@@ -2862,6 +2856,12 @@
       {
         "updateTime": "锡林郭勒盟",
         "maxZeroIncrDays": 16,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "呼和浩特",
+        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
