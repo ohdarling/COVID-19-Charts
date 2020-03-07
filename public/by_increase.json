@@ -1,191 +1,191 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-07T13:54:02.244Z",
+    "lastUpdate": "2020-03-07T14:58:01.874Z",
     "records": [
       {
         "updateTime": "山东省",
-        "maxZeroIncrDays": 6,
+        "maxZeroIncrDays": 7,
         "confirmedIncreased": 0,
         "insickCount": 125
       },
       {
         "updateTime": "北京市",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 4,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 115
       },
       {
         "updateTime": "广东省",
-        "maxZeroIncrDays": 1,
+        "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
         "insickCount": 108
       },
       {
         "updateTime": "四川省",
-        "maxZeroIncrDays": 2,
+        "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
         "insickCount": 82
       },
       {
         "updateTime": "黑龙江省",
-        "maxZeroIncrDays": 2,
+        "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
         "insickCount": 65
       },
       {
         "updateTime": "浙江省",
-        "maxZeroIncrDays": 2,
+        "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
         "insickCount": 60
       },
       {
         "updateTime": "湖南省",
-        "maxZeroIncrDays": 7,
+        "maxZeroIncrDays": 8,
         "confirmedIncreased": 0,
         "insickCount": 54
       },
       {
         "updateTime": "重庆市",
-        "maxZeroIncrDays": 11,
+        "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
         "insickCount": 49
       },
       {
         "updateTime": "广西壮族自治区",
-        "maxZeroIncrDays": 11,
+        "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
-        "insickCount": 31
+        "insickCount": 32
       },
       {
         "updateTime": "甘肃省",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
-        "insickCount": 30
+        "insickCount": 31
       },
       {
         "updateTime": "贵州省",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 29
       },
       {
-        "updateTime": "江苏省",
-        "maxZeroIncrDays": 17,
+        "updateTime": "上海市",
+        "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
         "insickCount": 26
       },
       {
-        "updateTime": "上海市",
-        "maxZeroIncrDays": 1,
+        "updateTime": "江苏省",
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
-        "insickCount": 26
+        "insickCount": 25
       },
       {
         "updateTime": "江西省",
-        "maxZeroIncrDays": 8,
+        "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
         "insickCount": 18
       },
       {
         "updateTime": "陕西省",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 18
       },
       {
         "updateTime": "辽宁省",
-        "maxZeroIncrDays": 4,
+        "maxZeroIncrDays": 5,
         "confirmedIncreased": 0,
-        "insickCount": 18
+        "insickCount": 17
       },
       {
         "updateTime": "山西省",
-        "maxZeroIncrDays": 11,
+        "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
         "updateTime": "内蒙古自治区",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
         "updateTime": "河南省",
-        "maxZeroIncrDays": 9,
+        "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
         "insickCount": 6
       },
       {
         "updateTime": "安徽省",
-        "maxZeroIncrDays": 8,
+        "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "河北省",
-        "maxZeroIncrDays": 8,
+        "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "天津市",
-        "maxZeroIncrDays": 8,
+        "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "海南省",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "宁夏回族自治区",
-        "maxZeroIncrDays": 3,
+        "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "云南省",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "吉林省",
-        "maxZeroIncrDays": 12,
+        "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "澳门",
-        "maxZeroIncrDays": 41,
+        "maxZeroIncrDays": 42,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "新疆维吾尔自治区",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "福建省",
-        "maxZeroIncrDays": 9,
+        "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "青海省",
-        "maxZeroIncrDays": 30,
+        "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "西藏自治区",
-        "maxZeroIncrDays": 34,
+        "maxZeroIncrDays": 35,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -197,139 +197,139 @@
     "records": [
       {
         "updateTime": "深圳",
-        "maxZeroIncrDays": 1,
+        "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
         "insickCount": 55
       },
       {
         "updateTime": "广州",
-        "maxZeroIncrDays": 2,
+        "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
         "insickCount": 28
       },
       {
         "updateTime": "佛山",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 9
       },
       {
         "updateTime": "东莞",
-        "maxZeroIncrDays": 7,
+        "maxZeroIncrDays": 8,
         "confirmedIncreased": 0,
         "insickCount": 6
       },
       {
         "updateTime": "外地来粤人员",
-        "maxZeroIncrDays": 38,
+        "maxZeroIncrDays": 39,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "外地来穗人员",
-        "maxZeroIncrDays": 38,
+        "maxZeroIncrDays": 39,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "中山",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "江门",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
         "updateTime": "珠海",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "汕头",
-        "maxZeroIncrDays": 28,
+        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "梅州",
-        "maxZeroIncrDays": 20,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "韶关",
         "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
+        "updateTime": "韶关",
+        "maxZeroIncrDays": 22,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
         "updateTime": "惠州",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "湛江",
-        "maxZeroIncrDays": 22,
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "肇庆",
-        "maxZeroIncrDays": 14,
+        "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "阳江",
-        "maxZeroIncrDays": 12,
+        "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "茂名",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "清远",
-        "maxZeroIncrDays": 24,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "揭阳",
         "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "揭阳",
+        "maxZeroIncrDays": 26,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "汕尾",
-        "maxZeroIncrDays": 33,
+        "maxZeroIncrDays": 34,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "潮州",
-        "maxZeroIncrDays": 31,
+        "maxZeroIncrDays": 32,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "河源",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "待明确地区",
-        "maxZeroIncrDays": 44,
+        "maxZeroIncrDays": 45,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -341,145 +341,145 @@
     "records": [
       {
         "updateTime": "邓州",
-        "maxZeroIncrDays": 34,
+        "maxZeroIncrDays": 35,
         "confirmedIncreased": 0,
         "insickCount": 14
       },
       {
         "updateTime": "永城",
-        "maxZeroIncrDays": 34,
+        "maxZeroIncrDays": 35,
         "confirmedIncreased": 0,
         "insickCount": 8
       },
       {
         "updateTime": "信阳",
-        "maxZeroIncrDays": 13,
+        "maxZeroIncrDays": 14,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "周口",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "巩义",
-        "maxZeroIncrDays": 43,
+        "maxZeroIncrDays": 44,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "长垣",
-        "maxZeroIncrDays": 36,
+        "maxZeroIncrDays": 37,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "南阳",
-        "maxZeroIncrDays": 9,
+        "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "济源",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "固始县",
-        "maxZeroIncrDays": 42,
+        "maxZeroIncrDays": 43,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "滑县",
-        "maxZeroIncrDays": 37,
+        "maxZeroIncrDays": 38,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "郑州",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "驻马店",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "商丘",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "平顶山",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "新乡",
-        "maxZeroIncrDays": 19,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "安阳",
-        "maxZeroIncrDays": 16,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "许昌",
-        "maxZeroIncrDays": 17,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "漯河",
-        "maxZeroIncrDays": 16,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "焦作",
-        "maxZeroIncrDays": 19,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "洛阳",
-        "maxZeroIncrDays": 21,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "开封",
         "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
-        "updateTime": "鹤壁",
-        "maxZeroIncrDays": 24,
+        "updateTime": "安阳",
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
-        "updateTime": "濮阳",
+        "updateTime": "许昌",
+        "maxZeroIncrDays": 18,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "漯河",
+        "maxZeroIncrDays": 17,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "焦作",
+        "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "洛阳",
+        "maxZeroIncrDays": 22,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "开封",
         "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "鹤壁",
+        "maxZeroIncrDays": 25,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "濮阳",
+        "maxZeroIncrDays": 22,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "三门峡",
-        "maxZeroIncrDays": 35,
+        "maxZeroIncrDays": 36,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -491,79 +491,79 @@
     "records": [
       {
         "updateTime": "温州",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 16
       },
       {
         "updateTime": "台州",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 12
       },
       {
         "updateTime": "丽水",
-        "maxZeroIncrDays": 4,
+        "maxZeroIncrDays": 5,
         "confirmedIncreased": 0,
         "insickCount": 8
       },
       {
         "updateTime": "省十里丰监狱",
-        "maxZeroIncrDays": 14,
+        "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
         "updateTime": "杭州",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 6
       },
       {
         "updateTime": "嘉兴",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
         "updateTime": "绍兴",
-        "maxZeroIncrDays": 22,
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
         "updateTime": "宁波",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "湖州",
-        "maxZeroIncrDays": 2,
+        "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "金华",
-        "maxZeroIncrDays": 23,
+        "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 5,
+        "maxZeroIncrDays": 6,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "衢州",
-        "maxZeroIncrDays": 25,
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "舟山",
-        "maxZeroIncrDays": 25,
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -575,85 +575,85 @@
     "records": [
       {
         "updateTime": "长沙",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 31
       },
       {
         "updateTime": "岳阳",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 10
       },
       {
         "updateTime": "株洲",
-        "maxZeroIncrDays": 13,
+        "maxZeroIncrDays": 14,
         "confirmedIncreased": 0,
         "insickCount": 6
       },
       {
         "updateTime": "娄底",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "邵阳",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "益阳",
-        "maxZeroIncrDays": 7,
+        "maxZeroIncrDays": 8,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "常德",
-        "maxZeroIncrDays": 13,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "衡阳",
-        "maxZeroIncrDays": 19,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "永州",
-        "maxZeroIncrDays": 9,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "怀化",
-        "maxZeroIncrDays": 21,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "郴州",
-        "maxZeroIncrDays": 22,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "湘潭",
         "maxZeroIncrDays": 14,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "衡阳",
+        "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "永州",
+        "maxZeroIncrDays": 10,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "怀化",
+        "maxZeroIncrDays": 22,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "郴州",
+        "maxZeroIncrDays": 23,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "湘潭",
+        "maxZeroIncrDays": 15,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "湘西自治州",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "张家界",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -665,109 +665,109 @@
     "records": [
       {
         "updateTime": "宿松",
-        "maxZeroIncrDays": 37,
+        "maxZeroIncrDays": 38,
         "confirmedIncreased": 0,
         "insickCount": 6
       },
       {
         "updateTime": "合肥",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "歙县",
-        "maxZeroIncrDays": 38,
+        "maxZeroIncrDays": 39,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
         "updateTime": "芜湖",
-        "maxZeroIncrDays": 8,
+        "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "蚌埠",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "阜阳",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "亳州",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "安庆",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "六安",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "宿州",
-        "maxZeroIncrDays": 18,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "马鞍山",
-        "maxZeroIncrDays": 14,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "铜陵",
-        "maxZeroIncrDays": 18,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "淮南",
-        "maxZeroIncrDays": 18,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "淮北",
         "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
-        "updateTime": "池州",
-        "maxZeroIncrDays": 22,
+        "updateTime": "马鞍山",
+        "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
-        "updateTime": "滁州",
+        "updateTime": "铜陵",
+        "maxZeroIncrDays": 19,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "淮南",
+        "maxZeroIncrDays": 19,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "淮北",
+        "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "池州",
         "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "滁州",
+        "maxZeroIncrDays": 24,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "黄山",
-        "maxZeroIncrDays": 36,
+        "maxZeroIncrDays": 37,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "宣城",
-        "maxZeroIncrDays": 26,
+        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -779,73 +779,73 @@
     "records": [
       {
         "updateTime": "南昌",
-        "maxZeroIncrDays": 8,
+        "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
         "updateTime": "九江",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 6
       },
       {
         "updateTime": "新余",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "上饶",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "宜春",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "赣州",
-        "maxZeroIncrDays": 23,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "抚州",
-        "maxZeroIncrDays": 21,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "萍乡",
-        "maxZeroIncrDays": 19,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "吉安",
-        "maxZeroIncrDays": 18,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "鹰潭",
         "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
-        "updateTime": "景德镇",
+        "updateTime": "抚州",
+        "maxZeroIncrDays": 22,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "萍乡",
+        "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "吉安",
         "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "鹰潭",
+        "maxZeroIncrDays": 25,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "景德镇",
+        "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "赣江新区",
-        "maxZeroIncrDays": 26,
+        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -857,97 +857,97 @@
     "records": [
       {
         "updateTime": "任城监狱",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 200
       },
       {
         "updateTime": "济宁",
-        "maxZeroIncrDays": 6,
+        "maxZeroIncrDays": 7,
         "confirmedIncreased": 0,
         "insickCount": 86
       },
       {
         "updateTime": "德州",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 11
       },
       {
         "updateTime": "济南",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
         "updateTime": "烟台",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 6
       },
       {
         "updateTime": "淄博",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "潍坊",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "威海",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
         "updateTime": "青岛",
-        "maxZeroIncrDays": 12,
+        "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "临沂",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "日照",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "聊城",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "泰安",
-        "maxZeroIncrDays": 14,
+        "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "枣庄",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "菏泽",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "滨州",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -955,83 +955,83 @@
   },
   {
     "name": "江苏省",
-    "lastUpdate": "2020-03-07T13:54:02.244Z",
+    "lastUpdate": "2020-03-07T14:58:01.874Z",
     "records": [
       {
         "updateTime": "苏州",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 9
       },
       {
         "updateTime": "连云港",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "徐州",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
-        "insickCount": 4
+        "insickCount": 3
       },
       {
         "updateTime": "淮安",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
         "updateTime": "无锡",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
         "updateTime": "南京",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "镇江",
-        "maxZeroIncrDays": 27,
+        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "常州",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "南通",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "泰州",
-        "maxZeroIncrDays": 23,
+        "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "盐城",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "扬州",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "宿迁",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -1043,235 +1043,235 @@
     "records": [
       {
         "updateTime": "万州区",
-        "maxZeroIncrDays": 14,
+        "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "长寿区",
-        "maxZeroIncrDays": 12,
+        "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "綦江区",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "潼南区",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "南岸区",
-        "maxZeroIncrDays": 22,
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "江北区",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
         "updateTime": "奉节县",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "九龙坡区",
-        "maxZeroIncrDays": 11,
+        "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "渝中区",
-        "maxZeroIncrDays": 28,
+        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "两江新区",
-        "maxZeroIncrDays": 23,
+        "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "大足区",
-        "maxZeroIncrDays": 25,
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "丰都县",
-        "maxZeroIncrDays": 25,
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "铜梁区",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "荣昌区",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "巴南区",
-        "maxZeroIncrDays": 23,
+        "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "云阳县",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "垫江县",
-        "maxZeroIncrDays": 26,
+        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "渝北区",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "石柱县",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "沙坪坝区",
-        "maxZeroIncrDays": 12,
+        "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "涪陵区",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "合川区",
-        "maxZeroIncrDays": 22,
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "开州区",
-        "maxZeroIncrDays": 14,
+        "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "忠县",
-        "maxZeroIncrDays": 13,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "巫溪县",
-        "maxZeroIncrDays": 13,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "巫山县",
         "maxZeroIncrDays": 14,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "巫溪县",
+        "maxZeroIncrDays": 14,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "巫山县",
+        "maxZeroIncrDays": 15,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "璧山区",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "大渡口区",
-        "maxZeroIncrDays": 32,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "永川区",
-        "maxZeroIncrDays": 27,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "梁平区",
-        "maxZeroIncrDays": 30,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "江津区",
-        "maxZeroIncrDays": 31,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "高新区",
-        "maxZeroIncrDays": 31,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "城口县",
         "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
-        "updateTime": "黔江区",
-        "maxZeroIncrDays": 36,
+        "updateTime": "永川区",
+        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
-        "updateTime": "彭水县",
-        "maxZeroIncrDays": 32,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "秀山县",
-        "maxZeroIncrDays": 43,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "武隆区",
-        "maxZeroIncrDays": 37,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "酉阳县",
+        "updateTime": "梁平区",
         "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "江津区",
+        "maxZeroIncrDays": 32,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "高新区",
+        "maxZeroIncrDays": 32,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "城口县",
+        "maxZeroIncrDays": 34,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "黔江区",
+        "maxZeroIncrDays": 37,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "彭水县",
+        "maxZeroIncrDays": 33,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "秀山县",
+        "maxZeroIncrDays": 44,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "武隆区",
+        "maxZeroIncrDays": 38,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "酉阳县",
+        "maxZeroIncrDays": 32,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "万盛经开区",
-        "maxZeroIncrDays": 30,
+        "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -1283,127 +1283,127 @@
     "records": [
       {
         "updateTime": "成都",
-        "maxZeroIncrDays": 2,
+        "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
         "insickCount": 41
       },
       {
         "updateTime": "甘孜州",
-        "maxZeroIncrDays": 8,
+        "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
         "insickCount": 12
       },
       {
         "updateTime": "巴中",
-        "maxZeroIncrDays": 22,
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "绵阳",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "达州",
-        "maxZeroIncrDays": 11,
-        "confirmedIncreased": 0,
-        "insickCount": 3
-      },
-      {
-        "updateTime": "南充",
         "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
+        "updateTime": "南充",
+        "maxZeroIncrDays": 13,
+        "confirmedIncreased": 0,
+        "insickCount": 3
+      },
+      {
         "updateTime": "广安",
-        "maxZeroIncrDays": 25,
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
         "updateTime": "泸州",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "内江",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "遂宁",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "资阳",
-        "maxZeroIncrDays": 11,
+        "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "宜宾",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "眉山",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "雅安",
-        "maxZeroIncrDays": 23,
+        "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "德阳",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "攀枝花",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "凉山州",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "自贡",
-        "maxZeroIncrDays": 36,
+        "maxZeroIncrDays": 37,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "广元",
-        "maxZeroIncrDays": 32,
+        "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "乐山",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "阿坝州",
-        "maxZeroIncrDays": 36,
+        "maxZeroIncrDays": 37,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -1415,79 +1415,79 @@
     "records": [
       {
         "updateTime": "哈尔滨",
-        "maxZeroIncrDays": 13,
+        "maxZeroIncrDays": 14,
         "confirmedIncreased": 0,
         "insickCount": 28
       },
       {
         "updateTime": "双鸭山",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 8
       },
       {
         "updateTime": "绥化",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 6
       },
       {
         "updateTime": "齐齐哈尔",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 6
       },
       {
         "updateTime": "鸡西",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "大庆",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "牡丹江",
-        "maxZeroIncrDays": 2,
+        "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "七台河",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "黑河",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "鹤岗",
-        "maxZeroIncrDays": 26,
+        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "佳木斯",
-        "maxZeroIncrDays": 25,
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "大兴安岭",
-        "maxZeroIncrDays": 37,
+        "maxZeroIncrDays": 38,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "伊春",
-        "maxZeroIncrDays": 22,
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -1499,109 +1499,109 @@
     "records": [
       {
         "updateTime": "朝阳区",
-        "maxZeroIncrDays": 2,
+        "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
         "insickCount": 72
       },
       {
         "updateTime": "海淀区",
-        "maxZeroIncrDays": 5,
+        "maxZeroIncrDays": 6,
         "confirmedIncreased": 0,
         "insickCount": 63
       },
       {
         "updateTime": "西城区",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 53
       },
       {
         "updateTime": "丰台区",
-        "maxZeroIncrDays": 3,
+        "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
         "insickCount": 40
       },
       {
         "updateTime": "大兴区",
-        "maxZeroIncrDays": 22,
-        "confirmedIncreased": 0,
-        "insickCount": 23
-      },
-      {
-        "updateTime": "外地来京人员",
         "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 23
       },
       {
+        "updateTime": "外地来京人员",
+        "maxZeroIncrDays": 24,
+        "confirmedIncreased": 0,
+        "insickCount": 23
+      },
+      {
         "updateTime": "昌平区",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 19
       },
       {
         "updateTime": "通州区",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 18
       },
       {
         "updateTime": "房山区",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 13
       },
       {
         "updateTime": "石景山区",
-        "maxZeroIncrDays": 22,
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 13
       },
       {
         "updateTime": "东城区",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 1,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 13
       },
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 3,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 11
       },
       {
         "updateTime": "顺义区",
-        "maxZeroIncrDays": 27,
+        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 10
       },
       {
         "updateTime": "武汉来京人员",
-        "maxZeroIncrDays": 43,
+        "maxZeroIncrDays": 44,
         "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
         "updateTime": "怀柔区",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
         "updateTime": "密云区",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
         "updateTime": "门头沟区",
-        "maxZeroIncrDays": 33,
+        "maxZeroIncrDays": 34,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "延庆区",
-        "maxZeroIncrDays": 33,
+        "maxZeroIncrDays": 34,
         "confirmedIncreased": 0,
         "insickCount": 1
       }
@@ -1613,115 +1613,115 @@
     "records": [
       {
         "updateTime": "浦东区",
-        "maxZeroIncrDays": 36,
+        "maxZeroIncrDays": 37,
         "confirmedIncreased": 0,
         "insickCount": 25
       },
       {
         "updateTime": "外地来沪人员",
-        "maxZeroIncrDays": 4,
+        "maxZeroIncrDays": 5,
         "confirmedIncreased": 0,
         "insickCount": 11
       },
       {
         "updateTime": "浦东新区",
-        "maxZeroIncrDays": 3,
+        "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
         "insickCount": 6
       },
       {
         "updateTime": "宝山区",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 1,
+        "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "静安区",
-        "maxZeroIncrDays": 27,
+        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "嘉定区",
-        "maxZeroIncrDays": 22,
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "徐汇区",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "松江区",
-        "maxZeroIncrDays": 28,
+        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "虹口区",
-        "maxZeroIncrDays": 31,
+        "maxZeroIncrDays": 32,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "黄浦区",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "青浦区",
-        "maxZeroIncrDays": 11,
+        "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "闵行区",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "长宁区",
-        "maxZeroIncrDays": 23,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "普陀区",
         "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "普陀区",
+        "maxZeroIncrDays": 25,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "奉贤区",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "杨浦区",
-        "maxZeroIncrDays": 22,
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "金山区",
-        "maxZeroIncrDays": 9,
+        "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "崇明区",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -1733,67 +1733,67 @@
     "records": [
       {
         "updateTime": "张家口",
-        "maxZeroIncrDays": 8,
+        "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
         "updateTime": "唐山",
-        "maxZeroIncrDays": 13,
+        "maxZeroIncrDays": 14,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "沧州",
-        "maxZeroIncrDays": 18,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "保定",
-        "maxZeroIncrDays": 21,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "邯郸",
-        "maxZeroIncrDays": 13,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "廊坊",
-        "maxZeroIncrDays": 20,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "石家庄",
-        "maxZeroIncrDays": 14,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "邢台",
         "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
-        "updateTime": "秦皇岛",
+        "updateTime": "保定",
+        "maxZeroIncrDays": 22,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "邯郸",
+        "maxZeroIncrDays": 14,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "廊坊",
         "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "石家庄",
+        "maxZeroIncrDays": 15,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "邢台",
+        "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "秦皇岛",
+        "maxZeroIncrDays": 22,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "衡水",
-        "maxZeroIncrDays": 27,
+        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "承德",
-        "maxZeroIncrDays": 28,
+        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -1805,55 +1805,55 @@
     "records": [
       {
         "updateTime": "福州",
-        "maxZeroIncrDays": 9,
+        "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "莆田",
-        "maxZeroIncrDays": 9,
+        "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "泉州",
-        "maxZeroIncrDays": 11,
+        "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "厦门",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "宁德",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "漳州",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "南平",
-        "maxZeroIncrDays": 23,
+        "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "三明",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "龙岩",
-        "maxZeroIncrDays": 27,
+        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -1861,83 +1861,83 @@
   },
   {
     "name": "广西壮族自治区",
-    "lastUpdate": "2020-03-07T00:08:13.590Z",
+    "lastUpdate": "2020-03-07T14:58:01.874Z",
     "records": [
       {
         "updateTime": "河池",
-        "maxZeroIncrDays": 11,
+        "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
         "insickCount": 10
       },
       {
         "updateTime": "防城港",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
         "updateTime": "北海",
-        "maxZeroIncrDays": 18,
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
-        "insickCount": 4
+        "insickCount": 5
       },
       {
         "updateTime": "柳州",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "来宾",
-        "maxZeroIncrDays": 26,
+        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "南宁",
-        "maxZeroIncrDays": 14,
+        "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "桂林",
-        "maxZeroIncrDays": 14,
+        "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "玉林",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "钦州",
-        "maxZeroIncrDays": 28,
+        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "贵港",
-        "maxZeroIncrDays": 26,
+        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "梧州",
-        "maxZeroIncrDays": 35,
+        "maxZeroIncrDays": 36,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "贺州",
-        "maxZeroIncrDays": 33,
+        "maxZeroIncrDays": 34,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "百色",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -1949,73 +1949,73 @@
     "records": [
       {
         "updateTime": "西安",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 11
       },
       {
         "updateTime": "渭南",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "安康",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "汉中",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "咸阳",
-        "maxZeroIncrDays": 26,
+        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "铜川",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "商洛",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "宝鸡",
-        "maxZeroIncrDays": 27,
+        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "延安",
-        "maxZeroIncrDays": 28,
+        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "榆林",
-        "maxZeroIncrDays": 28,
+        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "韩城",
-        "maxZeroIncrDays": 37,
+        "maxZeroIncrDays": 38,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "杨凌",
-        "maxZeroIncrDays": 32,
+        "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2027,85 +2027,85 @@
     "records": [
       {
         "updateTime": "曲靖",
-        "maxZeroIncrDays": 25,
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "德宏州",
-        "maxZeroIncrDays": 25,
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "昆明",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "昭通",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "西双版纳",
-        "maxZeroIncrDays": 31,
+        "maxZeroIncrDays": 32,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "玉溪",
-        "maxZeroIncrDays": 28,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "大理州",
-        "maxZeroIncrDays": 25,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "保山",
         "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "大理州",
+        "maxZeroIncrDays": 26,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "保山",
+        "maxZeroIncrDays": 30,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "红河州",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "丽江",
-        "maxZeroIncrDays": 34,
+        "maxZeroIncrDays": 35,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "普洱",
-        "maxZeroIncrDays": 36,
+        "maxZeroIncrDays": 37,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "楚雄州",
-        "maxZeroIncrDays": 25,
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "文山州",
-        "maxZeroIncrDays": 25,
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "临沧",
-        "maxZeroIncrDays": 35,
+        "maxZeroIncrDays": 36,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2117,91 +2117,91 @@
     "records": [
       {
         "updateTime": "儋州",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "三亚",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "海口",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "万宁",
-        "maxZeroIncrDays": 25,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "澄迈",
-        "maxZeroIncrDays": 21,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "昌江",
-        "maxZeroIncrDays": 24,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "琼海",
-        "maxZeroIncrDays": 34,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "临高",
         "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
-        "updateTime": "陵水",
+        "updateTime": "澄迈",
+        "maxZeroIncrDays": 22,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "昌江",
+        "maxZeroIncrDays": 25,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "琼海",
         "maxZeroIncrDays": 35,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "临高",
+        "maxZeroIncrDays": 27,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "陵水",
+        "maxZeroIncrDays": 36,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "定安",
-        "maxZeroIncrDays": 32,
+        "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "东方",
-        "maxZeroIncrDays": 30,
+        "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "文昌",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "保亭",
-        "maxZeroIncrDays": 27,
+        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "乐东",
-        "maxZeroIncrDays": 27,
+        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "琼中",
-        "maxZeroIncrDays": 36,
+        "maxZeroIncrDays": 37,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2213,55 +2213,55 @@
     "records": [
       {
         "updateTime": "遵义",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 12
       },
       {
         "updateTime": "贵阳",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
         "updateTime": "毕节",
-        "maxZeroIncrDays": 22,
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
         "updateTime": "黔南州",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "六盘水",
-        "maxZeroIncrDays": 27,
+        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "铜仁",
-        "maxZeroIncrDays": 24,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "黔东南州",
         "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "黔东南州",
+        "maxZeroIncrDays": 26,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "黔西南州",
-        "maxZeroIncrDays": 28,
+        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "安顺",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2273,91 +2273,91 @@
     "records": [
       {
         "updateTime": "宝坻区",
-        "maxZeroIncrDays": 14,
+        "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "河北区",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "北辰区",
-        "maxZeroIncrDays": 23,
+        "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "津南区",
-        "maxZeroIncrDays": 8,
+        "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "河东区",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "和平区",
-        "maxZeroIncrDays": 32,
+        "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "南开区",
-        "maxZeroIncrDays": 23,
+        "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "外地来津人员",
-        "maxZeroIncrDays": 33,
+        "maxZeroIncrDays": 34,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "西青区",
-        "maxZeroIncrDays": 30,
+        "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "河西区",
-        "maxZeroIncrDays": 32,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "宁河区",
         "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "宁河区",
+        "maxZeroIncrDays": 34,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "东丽区",
-        "maxZeroIncrDays": 30,
+        "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "滨海新区",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "红桥区",
-        "maxZeroIncrDays": 37,
+        "maxZeroIncrDays": 38,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "武清区",
-        "maxZeroIncrDays": 22,
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2369,67 +2369,67 @@
     "records": [
       {
         "updateTime": "晋中",
-        "maxZeroIncrDays": 11,
+        "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
         "updateTime": "运城",
-        "maxZeroIncrDays": 25,
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "大同",
-        "maxZeroIncrDays": 23,
+        "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "太原",
-        "maxZeroIncrDays": 15,
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "晋城",
-        "maxZeroIncrDays": 17,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "长治",
-        "maxZeroIncrDays": 24,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "朔州",
         "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "长治",
+        "maxZeroIncrDays": 25,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "朔州",
+        "maxZeroIncrDays": 19,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "忻州",
-        "maxZeroIncrDays": 26,
+        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "吕梁",
-        "maxZeroIncrDays": 30,
+        "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "阳泉",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "临汾",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2437,83 +2437,83 @@
   },
   {
     "name": "辽宁省",
-    "lastUpdate": "2020-03-03T14:29:02.362Z",
+    "lastUpdate": "2020-03-07T14:58:01.874Z",
     "records": [
       {
         "updateTime": "大连",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "丹东",
-        "maxZeroIncrDays": 4,
+        "maxZeroIncrDays": 5,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "沈阳",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
         "updateTime": "葫芦岛",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
-        "insickCount": 3
+        "insickCount": 2
       },
       {
         "updateTime": "朝阳",
-        "maxZeroIncrDays": 35,
+        "maxZeroIncrDays": 36,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "铁岭",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "鞍山",
-        "maxZeroIncrDays": 22,
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "锦州",
-        "maxZeroIncrDays": 24,
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "盘锦",
-        "maxZeroIncrDays": 30,
+        "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "阜新",
-        "maxZeroIncrDays": 26,
+        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "本溪",
-        "maxZeroIncrDays": 37,
+        "maxZeroIncrDays": 38,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "辽阳",
-        "maxZeroIncrDays": 28,
+        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "营口",
-        "maxZeroIncrDays": 41,
+        "maxZeroIncrDays": 42,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2521,77 +2521,77 @@
   },
   {
     "name": "甘肃省",
-    "lastUpdate": "2020-03-06T15:09:02.356Z",
+    "lastUpdate": "2020-03-07T14:58:01.874Z",
     "records": [
       {
         "updateTime": "境外输入人员",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
-        "insickCount": 28
+        "insickCount": 29
       },
       {
         "updateTime": "兰州",
-        "maxZeroIncrDays": 19,
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "定西",
-        "maxZeroIncrDays": 23,
+        "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "天水",
-        "maxZeroIncrDays": 28,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "平凉",
-        "maxZeroIncrDays": 23,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "甘南",
-        "maxZeroIncrDays": 23,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "白银",
         "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "平凉",
+        "maxZeroIncrDays": 24,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "甘南",
+        "maxZeroIncrDays": 24,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "白银",
+        "maxZeroIncrDays": 30,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "陇南",
-        "maxZeroIncrDays": 33,
+        "maxZeroIncrDays": 34,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "临夏",
-        "maxZeroIncrDays": 33,
+        "maxZeroIncrDays": 34,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "庆阳",
-        "maxZeroIncrDays": 26,
+        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "张掖",
-        "maxZeroIncrDays": 38,
+        "maxZeroIncrDays": 39,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "金昌",
-        "maxZeroIncrDays": 39,
+        "maxZeroIncrDays": 40,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2603,61 +2603,61 @@
     "records": [
       {
         "updateTime": "长春",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "通化",
-        "maxZeroIncrDays": 12,
+        "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "四平市",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "辽源",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "公主岭",
-        "maxZeroIncrDays": 28,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "延边",
         "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "延边",
+        "maxZeroIncrDays": 30,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "吉林市",
-        "maxZeroIncrDays": 32,
+        "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "松原",
-        "maxZeroIncrDays": 40,
+        "maxZeroIncrDays": 41,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "白城",
-        "maxZeroIncrDays": 28,
+        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "梅河口",
-        "maxZeroIncrDays": 27,
+        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2669,127 +2669,127 @@
     "records": [
       {
         "updateTime": "第九师",
-        "maxZeroIncrDays": 34,
+        "maxZeroIncrDays": 35,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "塔城",
-        "maxZeroIncrDays": 30,
+        "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
         "updateTime": "兵团第九师",
-        "maxZeroIncrDays": 29,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "第七师",
-        "maxZeroIncrDays": 39,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "石河子",
-        "maxZeroIncrDays": 36,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "胡杨河",
-        "maxZeroIncrDays": 36,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "第八师",
-        "maxZeroIncrDays": 35,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "第六师",
-        "maxZeroIncrDays": 32,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "五家渠",
         "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
+        "updateTime": "第七师",
+        "maxZeroIncrDays": 40,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "石河子",
+        "maxZeroIncrDays": 37,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "胡杨河",
+        "maxZeroIncrDays": 37,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "第八师",
+        "maxZeroIncrDays": 36,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "第六师",
+        "maxZeroIncrDays": 33,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "五家渠",
+        "maxZeroIncrDays": 31,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
         "updateTime": "兵团第五师五家渠市",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "乌鲁木齐",
-        "maxZeroIncrDays": 22,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "伊犁州",
-        "maxZeroIncrDays": 19,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "兵团第四师",
         "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
-        "updateTime": "兵团第八师石河子市",
-        "maxZeroIncrDays": 18,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "昌吉州",
-        "maxZeroIncrDays": 25,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "吐鲁番市",
+        "updateTime": "伊犁州",
         "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
-        "updateTime": "巴州",
-        "maxZeroIncrDays": 27,
+        "updateTime": "兵团第四师",
+        "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
-        "updateTime": "兵团第十二师",
+        "updateTime": "兵团第八师石河子市",
         "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
-        "updateTime": "兵团第六师五家渠市",
+        "updateTime": "昌吉州",
+        "maxZeroIncrDays": 26,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "吐鲁番市",
         "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "巴州",
+        "maxZeroIncrDays": 28,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "兵团第十二师",
+        "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "兵团第六师五家渠市",
+        "maxZeroIncrDays": 22,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "兵团第七师",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "阿克苏地区",
-        "maxZeroIncrDays": 28,
+        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2801,37 +2801,37 @@
     "records": [
       {
         "updateTime": "银川",
-        "maxZeroIncrDays": 3,
+        "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "吴忠",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "中卫",
-        "maxZeroIncrDays": 9,
+        "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "固原",
-        "maxZeroIncrDays": 23,
+        "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "宁东",
-        "maxZeroIncrDays": 37,
+        "maxZeroIncrDays": 38,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "石嘴山",
-        "maxZeroIncrDays": 32,
+        "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2843,73 +2843,73 @@
     "records": [
       {
         "updateTime": "包头",
-        "maxZeroIncrDays": 26,
+        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
         "updateTime": "赤峰",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "锡林郭勒盟",
-        "maxZeroIncrDays": 17,
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "呼和浩特",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "乌兰察布",
-        "maxZeroIncrDays": 33,
+        "maxZeroIncrDays": 34,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "满洲里",
-        "maxZeroIncrDays": 43,
+        "maxZeroIncrDays": 44,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "鄂尔多斯",
-        "maxZeroIncrDays": 31,
+        "maxZeroIncrDays": 32,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "巴彦淖尔",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "呼伦贝尔",
-        "maxZeroIncrDays": 17,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "通辽",
         "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "通辽",
+        "maxZeroIncrDays": 19,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "乌海市",
-        "maxZeroIncrDays": 31,
+        "maxZeroIncrDays": 32,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "兴安盟",
-        "maxZeroIncrDays": 40,
+        "maxZeroIncrDays": 41,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2921,19 +2921,19 @@
     "records": [
       {
         "updateTime": "北海州",
-        "maxZeroIncrDays": 33,
+        "maxZeroIncrDays": 34,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "西宁",
-        "maxZeroIncrDays": 30,
+        "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "海北州",
-        "maxZeroIncrDays": 32,
+        "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2945,7 +2945,7 @@
     "records": [
       {
         "updateTime": "澳门",
-        "maxZeroIncrDays": 41,
+        "maxZeroIncrDays": 42,
         "confirmedIncreased": 0,
         "insickCount": 2
       }
@@ -2957,7 +2957,7 @@
     "records": [
       {
         "updateTime": "拉萨",
-        "maxZeroIncrDays": 32,
+        "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
