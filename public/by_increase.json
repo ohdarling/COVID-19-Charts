@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-06T16:01:25.462Z",
+    "lastUpdate": "2020-03-06T23:40:02.727Z",
     "records": [
       {
         "updateTime": "山东省",
@@ -326,12 +326,6 @@
         "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 0
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 44,
-        "confirmedIncreased": 0,
-        "insickCount": 0
       }
     ]
   },
@@ -480,12 +474,6 @@
       {
         "updateTime": "三门峡",
         "maxZeroIncrDays": 35,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 44,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -1610,12 +1598,6 @@
         "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 1
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 44,
-        "confirmedIncreased": 0,
-        "insickCount": 0
       }
     ]
   },
