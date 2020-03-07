@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-07T03:53:15.782Z",
+    "lastUpdate": "2020-03-07T09:32:01.802Z",
     "records": [
       {
         "updateTime": "山东省",
@@ -31,19 +31,19 @@
         "updateTime": "黑龙江省",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
-        "insickCount": 66
+        "insickCount": 65
       },
       {
         "updateTime": "浙江省",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
-        "insickCount": 65
+        "insickCount": 60
       },
       {
         "updateTime": "湖南省",
         "maxZeroIncrDays": 7,
         "confirmedIncreased": 0,
-        "insickCount": 55
+        "insickCount": 54
       },
       {
         "updateTime": "重庆市",
@@ -166,16 +166,16 @@
         "insickCount": 2
       },
       {
-        "updateTime": "新疆维吾尔自治区",
-        "maxZeroIncrDays": 18,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
         "updateTime": "澳门",
         "maxZeroIncrDays": 41,
         "confirmedIncreased": 0,
         "insickCount": 2
+      },
+      {
+        "updateTime": "新疆维吾尔自治区",
+        "maxZeroIncrDays": 18,
+        "confirmedIncreased": 0,
+        "insickCount": 1
       },
       {
         "updateTime": "青海省",
@@ -481,7 +481,7 @@
   },
   {
     "name": "浙江省",
-    "lastUpdate": "2020-03-07T01:06:01.884Z",
+    "lastUpdate": "2020-03-07T09:32:01.802Z",
     "records": [
       {
         "updateTime": "温州",
@@ -493,7 +493,7 @@
         "updateTime": "台州",
         "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
-        "insickCount": 16
+        "insickCount": 12
       },
       {
         "updateTime": "丽水",
@@ -517,7 +517,7 @@
         "updateTime": "嘉兴",
         "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
-        "insickCount": 4
+        "insickCount": 3
       },
       {
         "updateTime": "绍兴",
@@ -565,7 +565,7 @@
   },
   {
     "name": "湖南省",
-    "lastUpdate": "2020-03-07T01:06:01.884Z",
+    "lastUpdate": "2020-03-07T09:32:01.802Z",
     "records": [
       {
         "updateTime": "长沙",
@@ -604,12 +604,6 @@
         "insickCount": 1
       },
       {
-        "updateTime": "郴州",
-        "maxZeroIncrDays": 22,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
         "updateTime": "常德",
         "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
@@ -630,6 +624,12 @@
       {
         "updateTime": "怀化",
         "maxZeroIncrDays": 21,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "郴州",
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -1405,7 +1405,7 @@
   },
   {
     "name": "黑龙江省",
-    "lastUpdate": "2020-03-07T00:12:28.362Z",
+    "lastUpdate": "2020-03-07T09:32:01.802Z",
     "records": [
       {
         "updateTime": "哈尔滨",
@@ -1417,7 +1417,7 @@
         "updateTime": "双鸭山",
         "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
-        "insickCount": 9
+        "insickCount": 8
       },
       {
         "updateTime": "绥化",
@@ -2659,7 +2659,7 @@
   },
   {
     "name": "新疆维吾尔自治区",
-    "lastUpdate": "2020-03-06T06:07:02.179Z",
+    "lastUpdate": "2020-03-07T09:32:01.802Z",
     "records": [
       {
         "updateTime": "第九师",
@@ -2676,12 +2676,6 @@
       {
         "updateTime": "兵团第九师",
         "maxZeroIncrDays": 29,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "吐鲁番市",
-        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -2754,6 +2748,12 @@
       {
         "updateTime": "昌吉州",
         "maxZeroIncrDays": 25,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "吐鲁番市",
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
