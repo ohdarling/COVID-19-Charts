@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-07T16:26:02.037Z",
+    "lastUpdate": "2020-03-07T23:57:02.034Z",
     "records": [
       {
         "updateTime": "山东省",
@@ -49,7 +49,7 @@
         "updateTime": "重庆市",
         "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
-        "insickCount": 49
+        "insickCount": 44
       },
       {
         "updateTime": "广西壮族自治区",
@@ -106,14 +106,14 @@
         "insickCount": 7
       },
       {
-        "updateTime": "内蒙古自治区",
-        "maxZeroIncrDays": 18,
-        "confirmedIncreased": 0,
-        "insickCount": 7
-      },
-      {
         "updateTime": "河南省",
         "maxZeroIncrDays": 10,
+        "confirmedIncreased": 0,
+        "insickCount": 6
+      },
+      {
+        "updateTime": "内蒙古自治区",
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 6
       },
@@ -324,12 +324,6 @@
       {
         "updateTime": "河源",
         "maxZeroIncrDays": 20,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 45,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -1039,17 +1033,11 @@
   },
   {
     "name": "重庆市",
-    "lastUpdate": "2020-03-07T13:54:02.244Z",
+    "lastUpdate": "2020-03-07T23:14:22.550Z",
     "records": [
       {
         "updateTime": "万州区",
         "maxZeroIncrDays": 15,
-        "confirmedIncreased": 0,
-        "insickCount": 5
-      },
-      {
-        "updateTime": "长寿区",
-        "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
         "insickCount": 5
       },
@@ -1060,20 +1048,26 @@
         "insickCount": 4
       },
       {
+        "updateTime": "长寿区",
+        "maxZeroIncrDays": 13,
+        "confirmedIncreased": 0,
+        "insickCount": 4
+      },
+      {
         "updateTime": "潼南区",
         "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
       {
-        "updateTime": "南岸区",
-        "maxZeroIncrDays": 23,
-        "confirmedIncreased": 0,
-        "insickCount": 4
-      },
-      {
         "updateTime": "江北区",
         "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 3
+      },
+      {
+        "updateTime": "南岸区",
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
@@ -1086,12 +1080,6 @@
       {
         "updateTime": "九龙坡区",
         "maxZeroIncrDays": 12,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
-        "updateTime": "渝中区",
-        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
@@ -1144,8 +1132,8 @@
         "insickCount": 1
       },
       {
-        "updateTime": "渝北区",
-        "maxZeroIncrDays": 16,
+        "updateTime": "渝中区",
+        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -1158,12 +1146,6 @@
       {
         "updateTime": "沙坪坝区",
         "maxZeroIncrDays": 13,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "涪陵区",
-        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -1182,6 +1164,12 @@
       {
         "updateTime": "忠县",
         "maxZeroIncrDays": 14,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "渝北区",
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -1206,6 +1194,12 @@
       {
         "updateTime": "大渡口区",
         "maxZeroIncrDays": 33,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "涪陵区",
+        "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -2839,13 +2833,13 @@
   },
   {
     "name": "内蒙古自治区",
-    "lastUpdate": "2020-03-07T03:50:02.081Z",
+    "lastUpdate": "2020-03-07T23:57:02.034Z",
     "records": [
       {
         "updateTime": "包头",
         "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
-        "insickCount": 3
+        "insickCount": 2
       },
       {
         "updateTime": "赤峰",
