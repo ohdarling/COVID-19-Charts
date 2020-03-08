@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-08T10:05:01.822Z",
+    "lastUpdate": "2020-03-08T12:52:45.742Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -25,7 +25,7 @@
         "updateTime": "四川省",
         "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
-        "insickCount": 77
+        "insickCount": 72
       },
       {
         "updateTime": "黑龙江省",
@@ -43,7 +43,7 @@
         "updateTime": "湖南省",
         "maxZeroIncrDays": 8,
         "confirmedIncreased": 0,
-        "insickCount": 48
+        "insickCount": 46
       },
       {
         "updateTime": "重庆市",
@@ -565,7 +565,7 @@
   },
   {
     "name": "湖南省",
-    "lastUpdate": "2020-03-08T05:19:01.846Z",
+    "lastUpdate": "2020-03-08T12:44:06.300Z",
     "records": [
       {
         "updateTime": "长沙",
@@ -580,16 +580,16 @@
         "insickCount": 9
       },
       {
-        "updateTime": "株洲",
-        "maxZeroIncrDays": 14,
-        "confirmedIncreased": 0,
-        "insickCount": 6
-      },
-      {
         "updateTime": "娄底",
         "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 5
+      },
+      {
+        "updateTime": "株洲",
+        "maxZeroIncrDays": 14,
+        "confirmedIncreased": 0,
+        "insickCount": 4
       },
       {
         "updateTime": "邵阳",
@@ -1273,7 +1273,7 @@
   },
   {
     "name": "四川省",
-    "lastUpdate": "2020-03-08T05:19:01.846Z",
+    "lastUpdate": "2020-03-08T12:44:06.300Z",
     "records": [
       {
         "updateTime": "成都",
@@ -1285,7 +1285,7 @@
         "updateTime": "甘孜州",
         "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
-        "insickCount": 12
+        "insickCount": 7
       },
       {
         "updateTime": "巴中",
