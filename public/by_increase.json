@@ -1,14 +1,8 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-09T05:00:55.111Z",
+    "lastUpdate": "2020-03-09T07:29:33.889Z",
     "records": [
-      {
-        "updateTime": "山东省",
-        "maxZeroIncrDays": 8,
-        "confirmedIncreased": 0,
-        "insickCount": 105
-      },
       {
         "updateTime": "北京市",
         "maxZeroIncrDays": 1,
@@ -28,6 +22,12 @@
         "insickCount": 71
       },
       {
+        "updateTime": "山东省",
+        "maxZeroIncrDays": 8,
+        "confirmedIncreased": 0,
+        "insickCount": 53
+      },
+      {
         "updateTime": "黑龙江省",
         "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
@@ -37,7 +37,7 @@
         "updateTime": "重庆市",
         "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
-        "insickCount": 43
+        "insickCount": 42
       },
       {
         "updateTime": "浙江省",
@@ -847,7 +847,7 @@
   },
   {
     "name": "山东省",
-    "lastUpdate": "2020-03-09T04:09:24.843Z",
+    "lastUpdate": "2020-03-09T07:29:33.889Z",
     "records": [
       {
         "updateTime": "任城监狱",
@@ -859,19 +859,13 @@
         "updateTime": "济宁",
         "maxZeroIncrDays": 8,
         "confirmedIncreased": 0,
-        "insickCount": 82
+        "insickCount": 31
       },
       {
         "updateTime": "烟台",
         "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 5
-      },
-      {
-        "updateTime": "济南",
-        "maxZeroIncrDays": 26,
-        "confirmedIncreased": 0,
-        "insickCount": 4
       },
       {
         "updateTime": "德州",
@@ -884,6 +878,12 @@
         "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 4
+      },
+      {
+        "updateTime": "济南",
+        "maxZeroIncrDays": 26,
+        "confirmedIncreased": 0,
+        "insickCount": 3
       },
       {
         "updateTime": "威海",
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "重庆市",
-    "lastUpdate": "2020-03-09T04:09:24.843Z",
+    "lastUpdate": "2020-03-09T07:13:20.931Z",
     "records": [
       {
         "updateTime": "万州区",
@@ -1138,12 +1138,6 @@
         "insickCount": 1
       },
       {
-        "updateTime": "石柱县",
-        "maxZeroIncrDays": 17,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
         "updateTime": "沙坪坝区",
         "maxZeroIncrDays": 14,
         "confirmedIncreased": 0,
@@ -1169,6 +1163,12 @@
       },
       {
         "updateTime": "渝北区",
+        "maxZeroIncrDays": 17,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "石柱县",
         "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 0
