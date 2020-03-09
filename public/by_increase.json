@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-09T10:08:41.230Z",
+    "lastUpdate": "2020-03-09T12:47:25.089Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -31,7 +31,7 @@
         "updateTime": "黑龙江省",
         "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
-        "insickCount": 47
+        "insickCount": 45
       },
       {
         "updateTime": "重庆市",
@@ -103,7 +103,7 @@
         "updateTime": "山西省",
         "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
-        "insickCount": 7
+        "insickCount": 6
       },
       {
         "updateTime": "河北省",
@@ -1405,7 +1405,7 @@
   },
   {
     "name": "黑龙江省",
-    "lastUpdate": "2020-03-09T04:09:24.843Z",
+    "lastUpdate": "2020-03-09T12:47:25.089Z",
     "records": [
       {
         "updateTime": "哈尔滨",
@@ -1420,12 +1420,6 @@
         "insickCount": 5
       },
       {
-        "updateTime": "鸡西",
-        "maxZeroIncrDays": 22,
-        "confirmedIncreased": 0,
-        "insickCount": 5
-      },
-      {
         "updateTime": "双鸭山",
         "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
@@ -1436,6 +1430,12 @@
         "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 4
+      },
+      {
+        "updateTime": "鸡西",
+        "maxZeroIncrDays": 22,
+        "confirmedIncreased": 0,
+        "insickCount": 3
       },
       {
         "updateTime": "大庆",
@@ -2365,13 +2365,13 @@
   },
   {
     "name": "山西省",
-    "lastUpdate": "2020-03-05T14:51:01.569Z",
+    "lastUpdate": "2020-03-09T11:42:37.850Z",
     "records": [
       {
         "updateTime": "晋中",
         "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
-        "insickCount": 5
+        "insickCount": 4
       },
       {
         "updateTime": "运城",
