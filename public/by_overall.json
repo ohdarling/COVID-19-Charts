@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-10T09:32:59.026Z",
+    "lastUpdate": "2020-03-10T11:30:02.435Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1298,36 +1298,36 @@
         "seriousRate": "6.32",
         "seriousDayRate": "0.00",
         "suspectedAccum": 85533,
-        "suspectedDayProcessed": 108,
+        "suspectedDayProcessed": 421,
         "suspectedConfirmedCount": 24,
         "suspectedConfirmedRate": "5.70",
-        "suspectedDayProcessedRate": "25.65",
-        "suspectedDayConfirmedRate": "22.22",
+        "suspectedDayProcessedRate": "100.00",
+        "suspectedDayConfirmedRate": "5.70",
         "curedRate": "72.71",
         "deadRate": "3.86",
         "seriousDeadRate": "61.12",
-        "curedDayRate": "7.94",
+        "curedDayRate": "7.97",
         "deadDayRate": "0.09"
       },
       {
         "confirmedCount": 80928,
-        "suspectedCount": 349,
-        "curedCount": 60189,
+        "suspectedCount": 0,
+        "curedCount": 60195,
         "deadCount": 3140,
         "seriousCount": 4794,
-        "suspectedIncreased": 36,
+        "suspectedIncreased": 0,
         "confirmedIncreased": 24,
-        "curedIncreased": 1505,
+        "curedIncreased": 1511,
         "deadIncreased": 17,
         "seriousIncreased": 0,
         "updateTime": "3/10",
-        "insickCount": 17599,
-        "lastUpdate": "2020-03-10T09:32:59.026Z",
+        "insickCount": 17593,
+        "lastUpdate": "2020-03-10T11:30:02.435Z",
         "updateDate": "2020/3/10",
         "seriousRate": "5.92",
         "seriousDayRate": "0.00",
-        "suspectedAccum": 85569,
-        "curedRate": "74.37",
+        "suspectedAccum": 0,
+        "curedRate": "74.38",
         "deadRate": "3.88",
         "seriousDeadRate": "65.50"
       }
@@ -2163,7 +2163,7 @@
         "curedRate": "94.20",
         "deadRate": "0.86",
         "seriousDeadRate": "",
-        "curedDayRate": "17.13",
+        "curedDayRate": "18.07",
         "deadDayRate": "0.00"
       },
       {
@@ -2172,18 +2172,18 @@
         "zipCode": "440000",
         "confirmedCount": 12998,
         "suspectedCount": 0,
-        "curedCount": 12350,
+        "curedCount": 12356,
         "deadCount": 112,
-        "insickCount": 536,
+        "insickCount": 530,
         "confirmedIncreased": 4,
-        "curedIncreased": 110,
+        "curedIncreased": 116,
         "deadIncreased": 0,
-        "curedRate": "95.01",
+        "curedRate": "95.06",
         "deadRate": "0.86",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-03-10T09:32:59.026Z",
+    "lastUpdate": "2020-03-10T10:23:08.482Z",
     "updateTime": "3/10",
     "zipCode": "440000",
     "confirmedCount": 1353,
@@ -3079,7 +3079,7 @@
         "updateTime": "四川省",
         "maxZeroIncrDays": 5,
         "confirmedIncreased": 0,
-        "insickCount": 60
+        "insickCount": 58
       },
       {
         "updateTime": "黑龙江省",
@@ -3106,16 +3106,16 @@
         "insickCount": 28
       },
       {
-        "updateTime": "浙江省",
-        "maxZeroIncrDays": 5,
-        "confirmedIncreased": 0,
-        "insickCount": 26
-      },
-      {
         "updateTime": "湖南省",
         "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
         "insickCount": 24
+      },
+      {
+        "updateTime": "浙江省",
+        "maxZeroIncrDays": 5,
+        "confirmedIncreased": 0,
+        "insickCount": 23
       },
       {
         "updateTime": "上海市",
@@ -3196,14 +3196,14 @@
         "insickCount": 3
       },
       {
-        "updateTime": "天津市",
-        "maxZeroIncrDays": 11,
-        "confirmedIncreased": 0,
-        "insickCount": 3
-      },
-      {
         "updateTime": "云南省",
         "maxZeroIncrDays": 18,
+        "confirmedIncreased": 0,
+        "insickCount": 2
+      },
+      {
+        "updateTime": "天津市",
+        "maxZeroIncrDays": 11,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
