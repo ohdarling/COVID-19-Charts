@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-09T23:28:37.728Z",
+    "lastUpdate": "2020-03-10T00:28:58.756Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -34,16 +34,16 @@
         "insickCount": 38
       },
       {
-        "updateTime": "黑龙江省",
-        "maxZeroIncrDays": 5,
-        "confirmedIncreased": 0,
-        "insickCount": 38
-      },
-      {
         "updateTime": "湖南省",
         "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
         "insickCount": 35
+      },
+      {
+        "updateTime": "黑龙江省",
+        "maxZeroIncrDays": 5,
+        "confirmedIncreased": 0,
+        "insickCount": 34
       },
       {
         "updateTime": "甘肃省",
@@ -85,7 +85,7 @@
         "updateTime": "辽宁省",
         "maxZeroIncrDays": 7,
         "confirmedIncreased": 0,
-        "insickCount": 15
+        "insickCount": 14
       },
       {
         "updateTime": "江西省",
@@ -1405,31 +1405,25 @@
   },
   {
     "name": "黑龙江省",
-    "lastUpdate": "2020-03-09T14:17:01.250Z",
+    "lastUpdate": "2020-03-10T00:10:37.117Z",
     "records": [
       {
         "updateTime": "哈尔滨",
         "maxZeroIncrDays": 16,
         "confirmedIncreased": 0,
-        "insickCount": 21
-      },
-      {
-        "updateTime": "绥化",
-        "maxZeroIncrDays": 20,
-        "confirmedIncreased": 0,
-        "insickCount": 5
+        "insickCount": 16
       },
       {
         "updateTime": "双鸭山",
         "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
-        "insickCount": 4
+        "insickCount": 3
       },
       {
-        "updateTime": "齐齐哈尔",
-        "maxZeroIncrDays": 21,
+        "updateTime": "绥化",
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
-        "insickCount": 4
+        "insickCount": 3
       },
       {
         "updateTime": "鸡西",
@@ -1438,10 +1432,16 @@
         "insickCount": 3
       },
       {
+        "updateTime": "齐齐哈尔",
+        "maxZeroIncrDays": 21,
+        "confirmedIncreased": 0,
+        "insickCount": 2
+      },
+      {
         "updateTime": "大庆",
         "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
-        "insickCount": 3
+        "insickCount": 2
       },
       {
         "updateTime": "牡丹江",
@@ -2431,7 +2431,7 @@
   },
   {
     "name": "辽宁省",
-    "lastUpdate": "2020-03-08T05:19:01.846Z",
+    "lastUpdate": "2020-03-10T00:11:41.774Z",
     "records": [
       {
         "updateTime": "大连",
@@ -2449,7 +2449,7 @@
         "updateTime": "沈阳",
         "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
-        "insickCount": 3
+        "insickCount": 2
       },
       {
         "updateTime": "葫芦岛",
