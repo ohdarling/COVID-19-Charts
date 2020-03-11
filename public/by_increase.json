@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-11T03:18:08.793Z",
+    "lastUpdate": "2020-03-11T04:02:28.639Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -19,7 +19,7 @@
         "updateTime": "四川省",
         "maxZeroIncrDays": 6,
         "confirmedIncreased": 0,
-        "insickCount": 52
+        "insickCount": 51
       },
       {
         "updateTime": "甘肃省",
@@ -106,14 +106,14 @@
         "insickCount": 4
       },
       {
-        "updateTime": "内蒙古自治区",
-        "maxZeroIncrDays": 21,
-        "confirmedIncreased": 0,
-        "insickCount": 4
-      },
-      {
         "updateTime": "海南省",
         "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 3
+      },
+      {
+        "updateTime": "内蒙古自治区",
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
@@ -1279,7 +1279,7 @@
   },
   {
     "name": "四川省",
-    "lastUpdate": "2020-03-11T00:49:58.271Z",
+    "lastUpdate": "2020-03-11T03:49:34.575Z",
     "records": [
       {
         "updateTime": "成都",
@@ -1318,12 +1318,6 @@
         "insickCount": 1
       },
       {
-        "updateTime": "内江",
-        "maxZeroIncrDays": 25,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
         "updateTime": "眉山",
         "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
@@ -1350,6 +1344,12 @@
       {
         "updateTime": "泸州",
         "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "内江",
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -2839,7 +2839,7 @@
   },
   {
     "name": "内蒙古自治区",
-    "lastUpdate": "2020-03-08T05:19:01.846Z",
+    "lastUpdate": "2020-03-11T03:49:34.575Z",
     "records": [
       {
         "updateTime": "包头",
@@ -2850,12 +2850,6 @@
       {
         "updateTime": "呼和浩特",
         "maxZeroIncrDays": 33,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "乌兰察布",
-        "maxZeroIncrDays": 37,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -2898,6 +2892,12 @@
       {
         "updateTime": "通辽",
         "maxZeroIncrDays": 22,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "乌兰察布",
+        "maxZeroIncrDays": 37,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
