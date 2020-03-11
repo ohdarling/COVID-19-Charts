@@ -3836,6 +3836,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
+    "keywords": [
+      "巴拿马",
+      "Panama"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=墨西哥",
     "keywords": [
       "墨西哥",
@@ -3854,6 +3861,27 @@
     "keywords": [
       "北马其顿",
       null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=波黑",
+    "keywords": [
+      "波黑",
+      null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=阿富汗",
+    "keywords": [
+      "阿富汗",
+      "Afghanistan"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=南非",
+    "keywords": [
+      "南非",
+      "South Africa"
     ]
   },
   {
@@ -3906,17 +3934,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=波黑",
+    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
     "keywords": [
-      "波黑",
+      "塞尔维亚",
       null
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=阿富汗",
+    "url": "#tab=world-trends&continent=欧洲&country=马耳他",
     "keywords": [
-      "阿富汗",
-      "Afghanistan"
+      "马耳他",
+      "Malta"
     ]
   },
   {
@@ -3924,13 +3952,6 @@
     "keywords": [
       "塞内加尔",
       "Senegal"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
-    "keywords": [
-      "塞尔维亚",
-      null
     ]
   },
   {
@@ -3955,13 +3976,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=喀麦隆",
-    "keywords": [
-      "喀麦隆",
-      "Cameroon"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=柬埔寨",
     "keywords": [
       "柬埔寨",
@@ -3969,10 +3983,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=南非",
+    "url": "#tab=world-trends&continent=南美洲&country=哥伦比亚",
     "keywords": [
-      "南非",
-      "South Africa"
+      "哥伦比亚",
+      "Colombia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=喀麦隆",
+    "keywords": [
+      "喀麦隆",
+      "Cameroon"
     ]
   },
   {
@@ -4008,6 +4029,20 @@
     "keywords": [
       "斯里兰卡",
       "SriLanka"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=巴拉圭",
+    "keywords": [
+      "巴拉圭",
+      "Paraguay"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=玻利维亚",
+    "keywords": [
+      "玻利维亚",
+      "Bolivia"
     ]
   },
   {
@@ -4088,31 +4123,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=哥伦比亚",
-    "keywords": [
-      "哥伦比亚",
-      "Colombia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=多哥",
     "keywords": [
       "多哥",
       "Togo"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=巴拉圭",
-    "keywords": [
-      "巴拉圭",
-      "Paraguay"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=马耳他",
-    "keywords": [
-      "马耳他",
-      "Malta"
     ]
   },
   {
@@ -4130,17 +4144,24 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
-    "keywords": [
-      "巴拿马",
-      "Panama"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=土耳其",
     "keywords": [
       "土耳其",
       "Turkey"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=牙买加",
+    "keywords": [
+      "牙买加",
+      "Jamaica"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=刚果（金）",
+    "keywords": [
+      "刚果（金）",
+      null
     ]
   }
 ]
