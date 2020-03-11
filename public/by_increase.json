@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-10T16:00:23.410Z",
+    "lastUpdate": "2020-03-10T23:32:44.158Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -40,12 +40,6 @@
         "insickCount": 33
       },
       {
-        "updateTime": "重庆市",
-        "maxZeroIncrDays": 15,
-        "confirmedIncreased": 0,
-        "insickCount": 28
-      },
-      {
         "updateTime": "湖南省",
         "maxZeroIncrDays": 11,
         "confirmedIncreased": 0,
@@ -54,6 +48,12 @@
       {
         "updateTime": "浙江省",
         "maxZeroIncrDays": 6,
+        "confirmedIncreased": 0,
+        "insickCount": 23
+      },
+      {
+        "updateTime": "重庆市",
+        "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 23
       },
@@ -100,12 +100,6 @@
         "insickCount": 5
       },
       {
-        "updateTime": "山西省",
-        "maxZeroIncrDays": 15,
-        "confirmedIncreased": 0,
-        "insickCount": 5
-      },
-      {
         "updateTime": "江苏省",
         "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
@@ -144,6 +138,12 @@
       {
         "updateTime": "天津市",
         "maxZeroIncrDays": 12,
+        "confirmedIncreased": 0,
+        "insickCount": 2
+      },
+      {
+        "updateTime": "山西省",
+        "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "重庆市",
-    "lastUpdate": "2020-03-09T23:11:23.682Z",
+    "lastUpdate": "2020-03-10T23:14:25.217Z",
     "records": [
       {
         "updateTime": "长寿区",
@@ -1042,38 +1042,32 @@
         "insickCount": 4
       },
       {
-        "updateTime": "万州区",
-        "maxZeroIncrDays": 18,
-        "confirmedIncreased": 0,
-        "insickCount": 3
-      },
-      {
-        "updateTime": "江北区",
-        "maxZeroIncrDays": 23,
-        "confirmedIncreased": 0,
-        "insickCount": 3
-      },
-      {
-        "updateTime": "綦江区",
-        "maxZeroIncrDays": 25,
-        "confirmedIncreased": 0,
-        "insickCount": 3
-      },
-      {
         "updateTime": "潼南区",
         "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
-        "updateTime": "九龙坡区",
-        "maxZeroIncrDays": 15,
+        "updateTime": "万州区",
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
-        "updateTime": "南岸区",
-        "maxZeroIncrDays": 26,
+        "updateTime": "江北区",
+        "maxZeroIncrDays": 23,
+        "confirmedIncreased": 0,
+        "insickCount": 2
+      },
+      {
+        "updateTime": "綦江区",
+        "maxZeroIncrDays": 25,
+        "confirmedIncreased": 0,
+        "insickCount": 2
+      },
+      {
+        "updateTime": "九龙坡区",
+        "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
@@ -1086,6 +1080,12 @@
       {
         "updateTime": "两江新区",
         "maxZeroIncrDays": 27,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "南岸区",
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -1110,12 +1110,6 @@
       {
         "updateTime": "沙坪坝区",
         "maxZeroIncrDays": 16,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "巴南区",
-        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -1194,6 +1188,12 @@
       {
         "updateTime": "大渡口区",
         "maxZeroIncrDays": 36,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "巴南区",
+        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -2359,13 +2359,13 @@
   },
   {
     "name": "山西省",
-    "lastUpdate": "2020-03-10T04:51:05.731Z",
+    "lastUpdate": "2020-03-10T23:14:25.217Z",
     "records": [
       {
         "updateTime": "晋中",
         "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
-        "insickCount": 4
+        "insickCount": 1
       },
       {
         "updateTime": "大同",
