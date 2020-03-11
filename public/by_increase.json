@@ -35,9 +35,9 @@
       },
       {
         "updateTime": "山东省",
-        "maxZeroIncrDays": 10,
-        "confirmedIncreased": 0,
-        "insickCount": 33
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 32
       },
       {
         "updateTime": "重庆市",
@@ -70,12 +70,6 @@
         "insickCount": 16
       },
       {
-        "updateTime": "贵州省",
-        "maxZeroIncrDays": 23,
-        "confirmedIncreased": 0,
-        "insickCount": 15
-      },
-      {
         "updateTime": "广西壮族自治区",
         "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
@@ -86,6 +80,12 @@
         "maxZeroIncrDays": 8,
         "confirmedIncreased": 0,
         "insickCount": 13
+      },
+      {
+        "updateTime": "贵州省",
+        "maxZeroIncrDays": 23,
+        "confirmedIncreased": 0,
+        "insickCount": 11
       },
       {
         "updateTime": "河北省",
@@ -847,7 +847,7 @@
   },
   {
     "name": "山东省",
-    "lastUpdate": "2020-03-10T07:33:12.306Z",
+    "lastUpdate": "2020-03-11T01:58:09.624Z",
     "records": [
       {
         "updateTime": "任城监狱",
@@ -874,12 +874,6 @@
         "insickCount": 3
       },
       {
-        "updateTime": "淄博",
-        "maxZeroIncrDays": 19,
-        "confirmedIncreased": 0,
-        "insickCount": 3
-      },
-      {
         "updateTime": "济南",
         "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
@@ -901,6 +895,18 @@
         "updateTime": "临沂",
         "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "淄博",
+        "maxZeroIncrDays": 19,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "境外输入人员",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
         "insickCount": 1
       },
       {
@@ -2203,25 +2209,25 @@
   },
   {
     "name": "贵州省",
-    "lastUpdate": "2020-03-10T01:01:27.844Z",
+    "lastUpdate": "2020-03-11T02:26:12.300Z",
     "records": [
       {
         "updateTime": "贵阳",
         "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
-        "insickCount": 6
+        "insickCount": 4
       },
       {
         "updateTime": "遵义",
         "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
-        "insickCount": 4
+        "insickCount": 3
       },
       {
         "updateTime": "毕节",
         "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
-        "insickCount": 3
+        "insickCount": 2
       },
       {
         "updateTime": "黔南州",

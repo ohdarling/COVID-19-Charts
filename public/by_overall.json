@@ -2210,27 +2210,27 @@
         "curedRate": "95.05",
         "deadRate": "0.86",
         "seriousDeadRate": "",
-        "curedDayRate": "8.66",
+        "curedDayRate": "9.79",
         "deadDayRate": "0.00"
       },
       {
         "lastUpdate": "2020-03-11T01:21:21.712Z",
         "updateTime": "3/11",
         "zipCode": "440000",
-        "confirmedCount": 13006,
+        "confirmedCount": 13007,
         "suspectedCount": 0,
-        "curedCount": 12402,
+        "curedCount": 12408,
         "deadCount": 112,
-        "insickCount": 492,
-        "confirmedIncreased": 7,
-        "curedIncreased": 46,
+        "insickCount": 487,
+        "confirmedIncreased": 8,
+        "curedIncreased": 52,
         "deadIncreased": 0,
-        "curedRate": "95.36",
+        "curedRate": "95.39",
         "deadRate": "0.86",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-03-11T01:33:18.914Z",
+    "lastUpdate": "2020-03-11T02:26:12.300Z",
     "updateTime": "3/11",
     "zipCode": "440000",
     "confirmedCount": 1353,
@@ -3160,9 +3160,9 @@
       },
       {
         "updateTime": "山东省",
-        "maxZeroIncrDays": 10,
-        "confirmedIncreased": 0,
-        "insickCount": 33
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 32
       },
       {
         "updateTime": "重庆市",
@@ -3195,12 +3195,6 @@
         "insickCount": 16
       },
       {
-        "updateTime": "贵州省",
-        "maxZeroIncrDays": 23,
-        "confirmedIncreased": 0,
-        "insickCount": 15
-      },
-      {
         "updateTime": "广西壮族自治区",
         "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
@@ -3211,6 +3205,12 @@
         "maxZeroIncrDays": 8,
         "confirmedIncreased": 0,
         "insickCount": 13
+      },
+      {
+        "updateTime": "贵州省",
+        "maxZeroIncrDays": 23,
+        "confirmedIncreased": 0,
+        "insickCount": 11
       },
       {
         "updateTime": "河北省",
