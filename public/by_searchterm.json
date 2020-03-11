@@ -3395,17 +3395,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=法国",
-    "keywords": [
-      "法国",
-      "France"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=西班牙",
     "keywords": [
       "西班牙",
       "Spain"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=法国",
+    "keywords": [
+      "法国",
+      "France"
     ]
   },
   {
