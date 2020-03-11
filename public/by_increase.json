@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-11T01:31:09.531Z",
+    "lastUpdate": "2020-03-11T03:18:08.793Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -46,14 +46,14 @@
         "insickCount": 23
       },
       {
-        "updateTime": "上海市",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 22
-      },
-      {
         "updateTime": "浙江省",
         "maxZeroIncrDays": 6,
+        "confirmedIncreased": 0,
+        "insickCount": 21
+      },
+      {
+        "updateTime": "上海市",
+        "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 21
       },
@@ -1609,7 +1609,7 @@
   },
   {
     "name": "上海市",
-    "lastUpdate": "2020-03-10T05:59:33.071Z",
+    "lastUpdate": "2020-03-11T03:10:35.414Z",
     "records": [
       {
         "updateTime": "浦东区",
@@ -1621,7 +1621,7 @@
         "updateTime": "外地来沪人员",
         "maxZeroIncrDays": 8,
         "confirmedIncreased": 0,
-        "insickCount": 10
+        "insickCount": 7
       },
       {
         "updateTime": "境外输入人员",
@@ -1639,7 +1639,7 @@
         "updateTime": "宝山区",
         "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
-        "insickCount": 3
+        "insickCount": 2
       },
       {
         "updateTime": "静安区",
