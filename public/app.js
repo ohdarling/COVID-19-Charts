@@ -798,9 +798,9 @@ async function showSummary() {
       records: records[0].records.map((v, i) => {
         return {
           updateTime: v.updateTime,
-          country: v[k],
-          nothubei: records[1].records[i][k],
-          hubei: records[2].records[i][k],
+          countryRate: v[k],
+          nothubeiRate: records[1].records[i][k],
+          hubeiRate: records[2].records[i][k],
         };
       }),
     };
@@ -850,9 +850,9 @@ async function showSummary() {
     }),
     ...accumRate.map(v => {
       const cfg = createRateTrendsChartConfig(v, [
-        { name: getTextForKey('全国'), key: 'country', },
-        { name: getTextForKey('非湖北'), key: 'nothubei', },
-        { name: getTextForKey('湖北省'), key: 'hubei', },
+        { name: getTextForKey('全国'), key: 'countryRate', },
+        { name: getTextForKey('非湖北'), key: 'nothubeiRate', },
+        { name: getTextForKey('湖北省'), key: 'hubeiRate', },
       ]);
       return cfg;
     }),
