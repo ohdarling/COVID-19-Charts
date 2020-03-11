@@ -1,5 +1,5 @@
 /* global $ axios echarts build_timestamp getTextForKey getCurrentLang */
-/* exported switchMapMetrics */
+/* exported switchMapMetrics searchArea */
 
 let allDataStore = {};
 let mapDisplayMetrics = 'accum';
@@ -963,6 +963,25 @@ function handleHashChanged() {
   }
 
   document.querySelector('title').innerHTML = title.join(' - ');
+}
+
+async function searchArea() {
+  const term = $('#searchField').val().trim().toLowerCase();
+  if (term.length === 0) {
+    $('#searchField').focus();
+    return;
+  }
+
+  const data = await prepareChartData('', 'searchterm');
+  const ret = data.filter(v => {
+    return v.keywords.filter(k => {
+      return k && k.toLowerCase().indexOf(term) > -1;
+    }).length > 0;
+  });
+
+  if (ret.length > 0) {
+    location.hash = ret[0].url + '&t=' + (new Date() * 1);
+  }
 }
 
 async function main() {

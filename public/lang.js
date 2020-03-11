@@ -32,6 +32,7 @@ const languageMap = {
   '数据来源': 'Data Source',
   '各国趋势': 'World Trends',
   '最后更新时间：': 'Last Update: ',
+  '其他': 'Others',
   '当前显示累计确诊': 'Display Total Confirmed',
   '当前显示现存确诊': 'Display Exists Confirmed',
   '确诊人数：': 'Confirmed: ',
@@ -74,6 +75,8 @@ const languageMap = {
   '非洲': 'Africa',
   '大洋洲': 'Oceania',
   '全部国家': 'All Countries',
+  '国家或城市': 'Country or city',
+  '搜索': 'Search',
 };
 
 function getTextForKey(k) {
@@ -86,4 +89,10 @@ function getTextForKey(k) {
 
 $('#navbarSupportedContent a').get().forEach(a => {
   a.innerHTML = getTextForKey(a.innerHTML);
+});
+$('#navbarSupportedContent input').get().forEach(el => {
+  el.placeholder = getTextForKey(el.placeholder);
+});
+$('#navbarSupportedContent button').get().forEach(el => {
+  el.innerHTML = getTextForKey(el.innerHTML);
 });
