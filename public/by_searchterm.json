@@ -3661,6 +3661,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=波兰",
+    "keywords": [
+      "波兰",
+      "Poland"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=巴勒斯坦",
     "keywords": [
       "巴勒斯坦",
@@ -3696,10 +3703,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=波兰",
+    "url": "#tab=world-trends&continent=北美洲&country=哥斯达黎加",
     "keywords": [
-      "波兰",
-      "Poland"
+      "哥斯达黎加",
+      "Costa Rica"
     ]
   },
   {
@@ -3812,13 +3819,6 @@
     "keywords": [
       "阿塞拜疆",
       "Azerbaijan"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=哥斯达黎加",
-    "keywords": [
-      "哥斯达黎加",
-      "Costa Rica"
     ]
   },
   {
