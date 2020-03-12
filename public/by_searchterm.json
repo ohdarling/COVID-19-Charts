@@ -3563,6 +3563,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=泰国",
+    "keywords": [
+      "泰国",
+      "Thailand"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=科威特",
     "keywords": [
       "科威特",
@@ -3602,13 +3609,6 @@
     "keywords": [
       "芬兰",
       "Finland"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=泰国",
-    "keywords": [
-      "泰国",
-      "Thailand"
     ]
   },
   {
@@ -3703,6 +3703,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=智利",
+    "keywords": [
+      "智利",
+      "Chile"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=哥斯达黎加",
     "keywords": [
       "哥斯达黎加",
@@ -3787,13 +3794,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=智利",
-    "keywords": [
-      "智利",
-      "Chile"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=爱沙尼亚",
     "keywords": [
       "爱沙尼亚",
@@ -3836,6 +3836,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=墨西哥",
+    "keywords": [
+      "墨西哥",
+      "Mexico"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=斯洛伐克",
     "keywords": [
       "斯洛伐克",
@@ -3875,13 +3882,6 @@
     "keywords": [
       "哥伦比亚",
       "Colombia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=墨西哥",
-    "keywords": [
-      "墨西哥",
-      "Mexico"
     ]
   },
   {
@@ -4001,6 +4001,13 @@
     "keywords": [
       "摩尔多瓦",
       "Moldova"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=古巴",
+    "keywords": [
+      "古巴",
+      "Cuba"
     ]
   },
   {
@@ -4162,6 +4169,13 @@
     "keywords": [
       "科特迪瓦",
       "Ivory Coast"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=圭亚那",
+    "keywords": [
+      "圭亚那",
+      "Guyana"
     ]
   }
 ]

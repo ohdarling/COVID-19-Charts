@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-12T05:23:50.169Z",
+    "lastUpdate": "2020-03-12T08:04:29.574Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -37,13 +37,13 @@
         "updateTime": "山东省",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
-        "insickCount": 21
+        "insickCount": 20
       },
       {
         "updateTime": "上海市",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
-        "insickCount": 21
+        "insickCount": 20
       },
       {
         "updateTime": "浙江省",
@@ -847,7 +847,7 @@
   },
   {
     "name": "山东省",
-    "lastUpdate": "2020-03-12T00:31:51.091Z",
+    "lastUpdate": "2020-03-12T07:43:52.922Z",
     "records": [
       {
         "updateTime": "任城监狱",
@@ -860,12 +860,6 @@
         "maxZeroIncrDays": 11,
         "confirmedIncreased": 0,
         "insickCount": 12
-      },
-      {
-        "updateTime": "威海",
-        "maxZeroIncrDays": 29,
-        "confirmedIncreased": 0,
-        "insickCount": 2
       },
       {
         "updateTime": "德州",
@@ -887,6 +881,12 @@
       },
       {
         "updateTime": "济南",
+        "maxZeroIncrDays": 29,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "威海",
         "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 1
@@ -1609,7 +1609,7 @@
   },
   {
     "name": "上海市",
-    "lastUpdate": "2020-03-11T03:10:35.414Z",
+    "lastUpdate": "2020-03-12T07:43:52.922Z",
     "records": [
       {
         "updateTime": "浦东区",
@@ -1621,7 +1621,7 @@
         "updateTime": "外地来沪人员",
         "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
-        "insickCount": 7
+        "insickCount": 6
       },
       {
         "updateTime": "境外输入人员",
@@ -1642,12 +1642,6 @@
         "insickCount": 2
       },
       {
-        "updateTime": "静安区",
-        "maxZeroIncrDays": 32,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
         "updateTime": "嘉定区",
         "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
@@ -1656,6 +1650,12 @@
       {
         "updateTime": "徐汇区",
         "maxZeroIncrDays": 26,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "静安区",
+        "maxZeroIncrDays": 32,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
