@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-12T01:13:58.631Z",
+    "lastUpdate": "2020-03-12T03:31:41.999Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -124,12 +124,6 @@
         "insickCount": 2
       },
       {
-        "updateTime": "江西省",
-        "maxZeroIncrDays": 13,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
         "updateTime": "云南省",
         "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
@@ -161,6 +155,12 @@
       },
       {
         "updateTime": "安徽省",
+        "maxZeroIncrDays": 13,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "江西省",
         "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
         "insickCount": 0
@@ -769,19 +769,13 @@
   },
   {
     "name": "江西省",
-    "lastUpdate": "2020-03-11T01:21:21.712Z",
+    "lastUpdate": "2020-03-12T02:08:05.610Z",
     "records": [
       {
         "updateTime": "南昌",
         "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "九江",
-        "maxZeroIncrDays": 23,
-        "confirmedIncreased": 0,
-        "insickCount": 1
+        "insickCount": 0
       },
       {
         "updateTime": "新余",
@@ -792,6 +786,12 @@
       {
         "updateTime": "上饶",
         "maxZeroIncrDays": 26,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "九江",
+        "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
         "insickCount": 0
       },

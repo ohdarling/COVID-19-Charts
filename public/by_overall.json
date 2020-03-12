@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-12T01:13:58.631Z",
+    "lastUpdate": "2020-03-12T03:31:41.999Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1380,7 +1380,7 @@
         "seriousIncreased": 0,
         "updateTime": "3/12",
         "insickCount": 14920,
-        "lastUpdate": "2020-03-12T01:13:58.631Z",
+        "lastUpdate": "2020-03-12T03:31:41.999Z",
         "updateDate": "2020/3/12",
         "seriousRate": "5.26",
         "seriousDayRate": "0.00",
@@ -2257,7 +2257,7 @@
         "curedRate": "95.51",
         "deadRate": "0.86",
         "seriousDeadRate": "",
-        "curedDayRate": "10.59",
+        "curedDayRate": "11.02",
         "deadDayRate": "0.21"
       },
       {
@@ -2266,18 +2266,18 @@
         "zipCode": "440000",
         "confirmedCount": 13014,
         "suspectedCount": 0,
-        "curedCount": 12480,
+        "curedCount": 12482,
         "deadCount": 113,
-        "insickCount": 421,
+        "insickCount": 419,
         "confirmedIncreased": 0,
-        "curedIncreased": 50,
+        "curedIncreased": 52,
         "deadIncreased": 1,
-        "curedRate": "95.90",
+        "curedRate": "95.91",
         "deadRate": "0.87",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-03-12T01:35:37.935Z",
+    "lastUpdate": "2020-03-12T02:08:05.610Z",
     "updateTime": "3/12",
     "zipCode": "440000",
     "confirmedCount": 1356,
@@ -3314,12 +3314,6 @@
         "insickCount": 2
       },
       {
-        "updateTime": "江西省",
-        "maxZeroIncrDays": 13,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
         "updateTime": "云南省",
         "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
@@ -3351,6 +3345,12 @@
       },
       {
         "updateTime": "安徽省",
+        "maxZeroIncrDays": 13,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "江西省",
         "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
         "insickCount": 0
