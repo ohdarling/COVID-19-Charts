@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-11T19:03:09.651Z",
+    "lastUpdate": "2020-03-11T23:41:08.490Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -40,12 +40,6 @@
         "insickCount": 28
       },
       {
-        "updateTime": "重庆市",
-        "maxZeroIncrDays": 16,
-        "confirmedIncreased": 0,
-        "insickCount": 21
-      },
-      {
         "updateTime": "上海市",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
@@ -62,6 +56,12 @@
         "maxZeroIncrDays": 12,
         "confirmedIncreased": 0,
         "insickCount": 19
+      },
+      {
+        "updateTime": "重庆市",
+        "maxZeroIncrDays": 16,
+        "confirmedIncreased": 0,
+        "insickCount": 16
       },
       {
         "updateTime": "辽宁省",
@@ -324,12 +324,6 @@
       {
         "updateTime": "河源",
         "maxZeroIncrDays": 24,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 49,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -1045,25 +1039,13 @@
   },
   {
     "name": "重庆市",
-    "lastUpdate": "2020-03-11T05:56:46.112Z",
+    "lastUpdate": "2020-03-11T23:09:57.162Z",
     "records": [
       {
         "updateTime": "长寿区",
         "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
-        "insickCount": 4
-      },
-      {
-        "updateTime": "潼南区",
-        "maxZeroIncrDays": 25,
-        "confirmedIncreased": 0,
         "insickCount": 3
-      },
-      {
-        "updateTime": "江北区",
-        "maxZeroIncrDays": 24,
-        "confirmedIncreased": 0,
-        "insickCount": 2
       },
       {
         "updateTime": "綦江区",
@@ -1084,8 +1066,14 @@
         "insickCount": 2
       },
       {
-        "updateTime": "两江新区",
-        "maxZeroIncrDays": 28,
+        "updateTime": "江北区",
+        "maxZeroIncrDays": 24,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "潼南区",
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -1170,6 +1158,12 @@
       {
         "updateTime": "渝北区",
         "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "两江新区",
+        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
