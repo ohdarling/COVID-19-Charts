@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-12T11:36:20.882Z",
+    "lastUpdate": "2020-03-12T13:56:32.751Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1364,23 +1364,23 @@
         "curedRate": "76.16",
         "deadRate": "3.91",
         "seriousDeadRate": "70.39",
-        "curedDayRate": "8.38",
+        "curedDayRate": "8.41",
         "deadDayRate": "0.07"
       },
       {
         "confirmedCount": 80981,
         "suspectedCount": 85,
-        "curedCount": 62920,
+        "curedCount": 62924,
         "deadCount": 3173,
         "seriousCount": 4257,
         "suspectedIncreased": 6,
         "confirmedIncreased": 26,
-        "curedIncreased": 1353,
+        "curedIncreased": 1357,
         "deadIncreased": 11,
         "seriousIncreased": 0,
         "updateTime": "3/12",
-        "insickCount": 14888,
-        "lastUpdate": "2020-03-12T11:36:20.882Z",
+        "insickCount": 14884,
+        "lastUpdate": "2020-03-12T13:56:32.751Z",
         "updateDate": "2020/3/12",
         "seriousRate": "5.26",
         "seriousDayRate": "0.00",
@@ -2257,7 +2257,7 @@
         "curedRate": "95.51",
         "deadRate": "0.86",
         "seriousDeadRate": "",
-        "curedDayRate": "13.35",
+        "curedDayRate": "14.19",
         "deadDayRate": "0.21"
       },
       {
@@ -2266,18 +2266,18 @@
         "zipCode": "440000",
         "confirmedCount": 13014,
         "suspectedCount": 0,
-        "curedCount": 12493,
+        "curedCount": 12497,
         "deadCount": 113,
-        "insickCount": 408,
+        "insickCount": 404,
         "confirmedIncreased": 0,
-        "curedIncreased": 63,
+        "curedIncreased": 67,
         "deadIncreased": 1,
-        "curedRate": "96.00",
+        "curedRate": "96.03",
         "deadRate": "0.87",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-03-12T09:33:24.482Z",
+    "lastUpdate": "2020-03-12T12:54:34.585Z",
     "updateTime": "3/12",
     "zipCode": "440000",
     "confirmedCount": 1356,
@@ -3209,7 +3209,7 @@
         "updateTime": "四川省",
         "maxZeroIncrDays": 7,
         "confirmedIncreased": 0,
-        "insickCount": 40
+        "insickCount": 38
       },
       {
         "updateTime": "甘肃省",
@@ -3221,7 +3221,7 @@
         "updateTime": "黑龙江省",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
-        "insickCount": 29
+        "insickCount": 28
       },
       {
         "updateTime": "山东省",
@@ -3338,12 +3338,6 @@
         "insickCount": 1
       },
       {
-        "updateTime": "吉林省",
-        "maxZeroIncrDays": 17,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
         "updateTime": "安徽省",
         "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
@@ -3358,6 +3352,12 @@
       {
         "updateTime": "福建省",
         "maxZeroIncrDays": 14,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "吉林省",
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 0
       },

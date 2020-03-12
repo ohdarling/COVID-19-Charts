@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-12T11:36:20.882Z",
+    "lastUpdate": "2020-03-12T13:56:32.751Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -19,7 +19,7 @@
         "updateTime": "四川省",
         "maxZeroIncrDays": 7,
         "confirmedIncreased": 0,
-        "insickCount": 40
+        "insickCount": 38
       },
       {
         "updateTime": "甘肃省",
@@ -31,7 +31,7 @@
         "updateTime": "黑龙江省",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
-        "insickCount": 29
+        "insickCount": 28
       },
       {
         "updateTime": "山东省",
@@ -148,12 +148,6 @@
         "insickCount": 1
       },
       {
-        "updateTime": "吉林省",
-        "maxZeroIncrDays": 17,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
         "updateTime": "安徽省",
         "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
@@ -168,6 +162,12 @@
       {
         "updateTime": "福建省",
         "maxZeroIncrDays": 14,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "吉林省",
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -1279,7 +1279,7 @@
   },
   {
     "name": "四川省",
-    "lastUpdate": "2020-03-12T09:33:24.482Z",
+    "lastUpdate": "2020-03-12T12:10:01.147Z",
     "records": [
       {
         "updateTime": "成都",
@@ -1288,16 +1288,16 @@
         "insickCount": 28
       },
       {
-        "updateTime": "甘孜州",
-        "maxZeroIncrDays": 13,
-        "confirmedIncreased": 0,
-        "insickCount": 4
-      },
-      {
         "updateTime": "巴中",
         "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 3
+      },
+      {
+        "updateTime": "甘孜州",
+        "maxZeroIncrDays": 13,
+        "confirmedIncreased": 0,
+        "insickCount": 2
       },
       {
         "updateTime": "绵阳",
@@ -1411,7 +1411,7 @@
   },
   {
     "name": "黑龙江省",
-    "lastUpdate": "2020-03-12T00:12:24.595Z",
+    "lastUpdate": "2020-03-12T12:54:34.585Z",
     "records": [
       {
         "updateTime": "哈尔滨",
@@ -1432,12 +1432,6 @@
         "insickCount": 2
       },
       {
-        "updateTime": "鸡西",
-        "maxZeroIncrDays": 25,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
         "updateTime": "齐齐哈尔",
         "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
@@ -1454,6 +1448,12 @@
         "maxZeroIncrDays": 7,
         "confirmedIncreased": 0,
         "insickCount": 2
+      },
+      {
+        "updateTime": "鸡西",
+        "maxZeroIncrDays": 25,
+        "confirmedIncreased": 0,
+        "insickCount": 1
       },
       {
         "updateTime": "七台河",
@@ -2599,14 +2599,8 @@
   },
   {
     "name": "吉林省",
-    "lastUpdate": "2020-03-09T14:18:06.071Z",
+    "lastUpdate": "2020-03-12T12:54:34.585Z",
     "records": [
-      {
-        "updateTime": "通化",
-        "maxZeroIncrDays": 17,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
       {
         "updateTime": "长春",
         "maxZeroIncrDays": 25,
@@ -2628,6 +2622,12 @@
       {
         "updateTime": "公主岭",
         "maxZeroIncrDays": 33,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "通化",
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
