@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-12T16:00:10.906Z",
+    "lastUpdate": "2020-03-12T16:45:43.611Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1409,7 +1409,7 @@
         "seriousIncreased": 0,
         "updateTime": "3/13",
         "insickCount": 14884,
-        "lastUpdate": "2020-03-12T16:00:10.906Z",
+        "lastUpdate": "2020-03-12T16:45:43.611Z",
         "updateDate": "2020/3/13",
         "seriousRate": "5.26",
         "seriousDayRate": "0.00",
