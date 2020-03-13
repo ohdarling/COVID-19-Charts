@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-13T16:00:12.362Z",
+    "lastUpdate": "2020-03-13T23:14:25.618Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -79,7 +79,7 @@
         "updateTime": "重庆市",
         "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
-        "insickCount": 6
+        "insickCount": 4
       },
       {
         "updateTime": "贵州省",
@@ -1039,17 +1039,17 @@
   },
   {
     "name": "重庆市",
-    "lastUpdate": "2020-03-12T23:43:54.319Z",
+    "lastUpdate": "2020-03-13T23:08:58.955Z",
     "records": [
-      {
-        "updateTime": "长寿区",
-        "maxZeroIncrDays": 19,
-        "confirmedIncreased": 0,
-        "insickCount": 3
-      },
       {
         "updateTime": "綦江区",
         "maxZeroIncrDays": 28,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "长寿区",
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
