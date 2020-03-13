@@ -3514,17 +3514,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
-    "keywords": [
-      "澳大利亚",
-      "Australia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=北美洲&country=加拿大",
     "keywords": [
       "加拿大",
       "Canada"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
+    "keywords": [
+      "澳大利亚",
+      "Australia"
     ]
   },
   {
@@ -4095,6 +4095,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=加纳",
+    "keywords": [
+      "加纳",
+      "Ghana"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=列支敦士登",
     "keywords": [
       "列支敦士登",
@@ -4183,6 +4190,13 @@
     "keywords": [
       "圭亚那",
       "Guyana"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=特立尼达和多巴哥",
+    "keywords": [
+      "特立尼达和多巴哥",
+      "Trinidad and Tobago"
     ]
   }
 ]
