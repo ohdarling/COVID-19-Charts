@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-13T10:10:26.005Z",
+    "lastUpdate": "2020-03-13T11:47:26.047Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -193,19 +193,19 @@
   },
   {
     "name": "广东省",
-    "lastUpdate": "2020-03-13T01:24:11.607Z",
+    "lastUpdate": "2020-03-13T11:41:49.921Z",
     "records": [
       {
         "updateTime": "深圳",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
-        "insickCount": 25
+        "insickCount": 22
       },
       {
         "updateTime": "广州",
         "maxZeroIncrDays": 8,
         "confirmedIncreased": 0,
-        "insickCount": 20
+        "insickCount": 16
       },
       {
         "updateTime": "佛山",
