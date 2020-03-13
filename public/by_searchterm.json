@@ -3430,6 +3430,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=丹麦",
+    "keywords": [
+      "丹麦",
+      "Denmark"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=挪威",
     "keywords": [
       "挪威",
@@ -3455,13 +3462,6 @@
     "keywords": [
       "瑞典",
       "Sweden"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=丹麦",
-    "keywords": [
-      "丹麦",
-      "Denmark"
     ]
   },
   {
@@ -3521,6 +3521,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=芬兰",
+    "keywords": [
+      "芬兰",
+      "Finland"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=加拿大",
     "keywords": [
       "加拿大",
@@ -3535,13 +3542,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=希腊",
-    "keywords": [
-      "希腊",
-      "Greece"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=以色列",
     "keywords": [
       "以色列",
@@ -3549,17 +3549,17 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=希腊",
+    "keywords": [
+      "希腊",
+      "Greece"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=冰岛",
     "keywords": [
       "冰岛",
       "Iceland"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=芬兰",
-    "keywords": [
-      "芬兰",
-      "Finland"
     ]
   },
   {
@@ -3654,13 +3654,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=阿尔及利亚",
-    "keywords": [
-      "阿尔及利亚",
-      "Algeria"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=葡萄牙",
     "keywords": [
       "葡萄牙",
@@ -3738,6 +3731,20 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=克罗地亚",
+    "keywords": [
+      "克罗地亚",
+      null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=阿尔及利亚",
+    "keywords": [
+      "阿尔及利亚",
+      "Algeria"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=文莱",
     "keywords": [
       "文莱",
@@ -3749,13 +3756,6 @@
     "keywords": [
       "格鲁吉亚",
       "Georgia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=克罗地亚",
-    "keywords": [
-      "克罗地亚",
-      null
     ]
   },
   {
@@ -3857,6 +3857,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
+    "keywords": [
+      "匈牙利",
+      "Hungary"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=厄瓜多尔",
     "keywords": [
       "厄瓜多尔",
@@ -3882,13 +3889,6 @@
     "keywords": [
       "突尼斯",
       "Tunisia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
-    "keywords": [
-      "匈牙利",
-      "Hungary"
     ]
   },
   {
@@ -3976,6 +3976,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=摩尔多瓦",
+    "keywords": [
+      "摩尔多瓦",
+      "Moldova"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
     "keywords": [
       "新西兰",
@@ -3987,6 +3994,13 @@
     "keywords": [
       "柬埔寨",
       "Kampuchea (Cambodia )"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=法属圭亚那",
+    "keywords": [
+      "法属圭亚那",
+      "French Guiana"
     ]
   },
   {
@@ -4018,13 +4032,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=摩尔多瓦",
-    "keywords": [
-      "摩尔多瓦",
-      "Moldova"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
     "keywords": [
       "斯里兰卡",
@@ -4036,6 +4043,13 @@
     "keywords": [
       "乌克兰",
       "Ukraine"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=马提尼克",
+    "keywords": [
+      "马提尼克",
+      "Martinique"
     ]
   },
   {
@@ -4113,6 +4127,20 @@
     "keywords": [
       "土耳其",
       "Turkey"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=法罗群岛",
+    "keywords": [
+      "法罗群岛",
+      null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=圣马丁岛",
+    "keywords": [
+      "圣马丁岛",
+      null
     ]
   },
   {
@@ -4218,6 +4246,34 @@
     "keywords": [
       "肯尼亚",
       "Kenya"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=直布罗陀",
+    "keywords": [
+      "直布罗陀",
+      "Gibraltar"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=根西岛",
+    "keywords": [
+      "根西岛",
+      null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=大洋洲&country=法属波利尼西亚",
+    "keywords": [
+      "法属波利尼西亚",
+      null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=圣巴泰勒米",
+    "keywords": [
+      "圣巴泰勒米",
+      null
     ]
   }
 ]
