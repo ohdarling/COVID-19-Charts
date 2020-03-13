@@ -1,19 +1,19 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-13T00:56:51.510Z",
+    "lastUpdate": "2020-03-13T01:39:23.646Z",
     "records": [
       {
         "updateTime": "北京市",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 93
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 86
       },
       {
         "updateTime": "广东省",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
-        "insickCount": 59
+        "insickCount": 52
       },
       {
         "updateTime": "甘肃省",
@@ -46,12 +46,6 @@
         "insickCount": 17
       },
       {
-        "updateTime": "湖南省",
-        "maxZeroIncrDays": 13,
-        "confirmedIncreased": 0,
-        "insickCount": 15
-      },
-      {
         "updateTime": "山东省",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
@@ -68,6 +62,12 @@
         "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 11
+      },
+      {
+        "updateTime": "湖南省",
+        "maxZeroIncrDays": 13,
+        "confirmedIncreased": 0,
+        "insickCount": 10
       },
       {
         "updateTime": "广西壮族自治区",
@@ -193,7 +193,7 @@
   },
   {
     "name": "广东省",
-    "lastUpdate": "2020-03-12T03:50:05.976Z",
+    "lastUpdate": "2020-03-13T01:24:11.607Z",
     "records": [
       {
         "updateTime": "深圳",
@@ -565,13 +565,13 @@
   },
   {
     "name": "湖南省",
-    "lastUpdate": "2020-03-12T09:33:24.482Z",
+    "lastUpdate": "2020-03-13T01:24:11.607Z",
     "records": [
       {
         "updateTime": "长沙",
         "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
-        "insickCount": 8
+        "insickCount": 4
       },
       {
         "updateTime": "岳阳",
@@ -586,14 +586,14 @@
         "insickCount": 2
       },
       {
-        "updateTime": "娄底",
-        "maxZeroIncrDays": 25,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
         "updateTime": "邵阳",
         "maxZeroIncrDays": 23,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "娄底",
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -1495,7 +1495,7 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-12T01:09:39.886Z",
+    "lastUpdate": "2020-03-13T01:24:11.607Z",
     "records": [
       {
         "updateTime": "朝阳区",
@@ -1535,9 +1535,9 @@
       },
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 20
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 21
       },
       {
         "updateTime": "昌平区",
