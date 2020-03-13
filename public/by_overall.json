@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-13T06:02:23.036Z",
+    "lastUpdate": "2020-03-13T08:03:57.573Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1400,23 +1400,23 @@
         "confirmedCount": 81003,
         "suspectedCount": 88,
         "curedCount": 64216,
-        "deadCount": 3180,
+        "deadCount": 3181,
         "seriousCount": 4020,
         "suspectedIncreased": 3,
         "confirmedIncreased": 11,
         "curedIncreased": 1329,
-        "deadIncreased": 7,
+        "deadIncreased": 8,
         "seriousIncreased": 0,
         "updateTime": "3/13",
-        "insickCount": 13607,
-        "lastUpdate": "2020-03-13T06:02:23.036Z",
+        "insickCount": 13606,
+        "lastUpdate": "2020-03-13T08:03:57.573Z",
         "updateDate": "2020/3/13",
         "seriousRate": "4.96",
         "seriousDayRate": "0.00",
         "suspectedAccum": 85564,
         "curedRate": "79.28",
         "deadRate": "3.93",
-        "seriousDeadRate": "79.10"
+        "seriousDeadRate": "79.13"
       }
     ]
   },
