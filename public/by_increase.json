@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-12T16:45:43.611Z",
+    "lastUpdate": "2020-03-12T23:43:54.319Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -52,12 +52,6 @@
         "insickCount": 17
       },
       {
-        "updateTime": "重庆市",
-        "maxZeroIncrDays": 17,
-        "confirmedIncreased": 0,
-        "insickCount": 16
-      },
-      {
         "updateTime": "湖南省",
         "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
@@ -86,6 +80,12 @@
         "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 7
+      },
+      {
+        "updateTime": "重庆市",
+        "maxZeroIncrDays": 17,
+        "confirmedIncreased": 0,
+        "insickCount": 6
       },
       {
         "updateTime": "河北省",
@@ -1039,7 +1039,7 @@
   },
   {
     "name": "重庆市",
-    "lastUpdate": "2020-03-11T23:09:57.162Z",
+    "lastUpdate": "2020-03-12T23:43:54.319Z",
     "records": [
       {
         "updateTime": "长寿区",
@@ -1051,47 +1051,11 @@
         "updateTime": "綦江区",
         "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
-        "updateTime": "九龙坡区",
-        "maxZeroIncrDays": 17,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
-        "updateTime": "丰都县",
-        "maxZeroIncrDays": 31,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
-        "updateTime": "江北区",
-        "maxZeroIncrDays": 25,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "潼南区",
-        "maxZeroIncrDays": 26,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "南岸区",
-        "maxZeroIncrDays": 28,
-        "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "大足区",
         "maxZeroIncrDays": 31,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "铜梁区",
-        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -1102,14 +1066,14 @@
         "insickCount": 1
       },
       {
-        "updateTime": "沙坪坝区",
-        "maxZeroIncrDays": 18,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
         "updateTime": "万州区",
         "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "江北区",
+        "maxZeroIncrDays": 25,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -1128,6 +1092,12 @@
       {
         "updateTime": "奉节县",
         "maxZeroIncrDays": 22,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "九龙坡区",
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -1156,6 +1126,12 @@
         "insickCount": 0
       },
       {
+        "updateTime": "潼南区",
+        "maxZeroIncrDays": 26,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "渝北区",
         "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
@@ -1174,6 +1150,12 @@
         "insickCount": 0
       },
       {
+        "updateTime": "南岸区",
+        "maxZeroIncrDays": 28,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "巫溪县",
         "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
@@ -1186,8 +1168,26 @@
         "insickCount": 0
       },
       {
+        "updateTime": "丰都县",
+        "maxZeroIncrDays": 31,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "铜梁区",
+        "maxZeroIncrDays": 21,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "璧山区",
         "maxZeroIncrDays": 26,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "沙坪坝区",
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
