@@ -3640,6 +3640,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
+    "keywords": [
+      "沙特阿拉伯",
+      "Saudi Arabia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=阿尔及利亚",
     "keywords": [
       "阿尔及利亚",
@@ -3672,13 +3679,6 @@
     "keywords": [
       "罗马尼亚",
       "Romania"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
-    "keywords": [
-      "沙特阿拉伯",
-      "Saudi Arabia"
     ]
   },
   {
@@ -3990,6 +3990,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=古巴",
+    "keywords": [
+      "古巴",
+      "Cuba"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=孟加拉国",
     "keywords": [
       "孟加拉国",
@@ -4008,13 +4015,6 @@
     "keywords": [
       "摩尔多瓦",
       "Moldova"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=古巴",
-    "keywords": [
-      "古巴",
-      "Cuba"
     ]
   },
   {
