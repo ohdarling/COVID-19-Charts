@@ -1883,6 +1883,13 @@
     ]
   },
   {
+    "url": "#tab=trends&province=上海市&city=境外输入人员",
+    "keywords": [
+      "境外输入人员",
+      ""
+    ]
+  },
+  {
     "url": "#tab=trends&province=上海市&city=虹口区",
     "keywords": [
       "虹口区",
@@ -1901,13 +1908,6 @@
     "keywords": [
       "青浦区",
       "Qingpu District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=上海市&city=境外输入人员",
-    "keywords": [
-      "境外输入人员",
-      ""
     ]
   },
   {
@@ -3416,6 +3416,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=挪威",
+    "keywords": [
+      "挪威",
+      "Norway"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=其他&country=钻石公主号邮轮",
     "keywords": [
       "钻石公主号邮轮",
@@ -3430,10 +3437,24 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=瑞典",
+    "keywords": [
+      "瑞典",
+      "Sweden"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=丹麦",
     "keywords": [
       "丹麦",
       "Denmark"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=英国",
+    "keywords": [
+      "英国",
+      "United Kiongdom"
     ]
   },
   {
@@ -3444,31 +3465,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=瑞典",
-    "keywords": [
-      "瑞典",
-      "Sweden"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=挪威",
-    "keywords": [
-      "挪威",
-      "Norway"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=瑞士",
     "keywords": [
       "瑞士",
       "Switzerland"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=英国",
-    "keywords": [
-      "英国",
-      "United Kiongdom"
     ]
   },
   {
@@ -3521,17 +3521,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=加拿大",
-    "keywords": [
-      "加拿大",
-      "Canada"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=以色列",
     "keywords": [
       "以色列",
       "Israel"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=加拿大",
+    "keywords": [
+      "加拿大",
+      "Canada"
     ]
   },
   {
@@ -3553,6 +3553,27 @@
     "keywords": [
       "希腊",
       "Greece"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=斯洛文尼亚",
+    "keywords": [
+      "斯洛文尼亚",
+      "Slovenia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=埃及",
+    "keywords": [
+      "埃及",
+      "Egypt"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=巴西",
+    "keywords": [
+      "巴西",
+      "Brazil"
     ]
   },
   {
@@ -3598,17 +3619,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=埃及",
-    "keywords": [
-      "埃及",
-      "Egypt"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=芬兰",
     "keywords": [
       "芬兰",
       "Finland"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=阿尔及利亚",
+    "keywords": [
+      "阿尔及利亚",
+      "Algeria"
     ]
   },
   {
@@ -3619,24 +3640,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=斯洛文尼亚",
-    "keywords": [
-      "斯洛文尼亚",
-      "Slovenia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
     "keywords": [
       "黎巴嫩",
       "Lebanon"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=巴西",
-    "keywords": [
-      "巴西",
-      "Brazil"
     ]
   },
   {
@@ -3675,6 +3682,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=智利",
+    "keywords": [
+      "智利",
+      "Chile"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=波兰",
     "keywords": [
       "波兰",
@@ -3703,13 +3717,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=阿尔及利亚",
-    "keywords": [
-      "阿尔及利亚",
-      "Algeria"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=文莱",
     "keywords": [
       "文莱",
@@ -3724,10 +3731,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=智利",
+    "url": "#tab=world-trends&continent=欧洲&country=保加利亚",
     "keywords": [
-      "智利",
-      "Chile"
+      "保加利亚",
+      "Bulgaria"
     ]
   },
   {
@@ -3738,10 +3745,24 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
+    "keywords": [
+      "秘鲁",
+      "Peru"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=其他&country=至尊公主邮轮",
     "keywords": [
       "至尊公主邮轮",
       null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
+    "keywords": [
+      "阿根廷",
+      "Argentina"
     ]
   },
   {
@@ -3756,13 +3777,6 @@
     "keywords": [
       "英国（含北爱尔兰）",
       null
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
-    "keywords": [
-      "阿根廷",
-      "Argentina"
     ]
   },
   {
@@ -3836,6 +3850,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=突尼斯",
+    "keywords": [
+      "突尼斯",
+      "Tunisia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
     "keywords": [
       "巴拿马",
@@ -3868,6 +3889,13 @@
     "keywords": [
       "拉脱维亚",
       "Latvia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=塞浦路斯",
+    "keywords": [
+      "塞浦路斯",
+      "Cyprus"
     ]
   },
   {
@@ -3906,20 +3934,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=突尼斯",
-    "keywords": [
-      "突尼斯",
-      "Tunisia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=保加利亚",
-    "keywords": [
-      "保加利亚",
-      "Bulgaria"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
     "keywords": [
       "卢森堡",
@@ -3927,24 +3941,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
-    "keywords": [
-      "秘鲁",
-      "Peru"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=马尔代夫",
     "keywords": [
       "马尔代夫",
       "Maldives"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=塞浦路斯",
-    "keywords": [
-      "塞浦路斯",
-      "Cyprus"
     ]
   },
   {
@@ -4074,6 +4074,20 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=安道尔",
+    "keywords": [
+      "安道尔",
+      null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=刚果（金）",
+    "keywords": [
+      "刚果（金）",
+      null
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=列支敦士登",
     "keywords": [
       "列支敦士登",
@@ -4099,13 +4113,6 @@
     "keywords": [
       "尼泊尔",
       "Nepal"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=安道尔",
-    "keywords": [
-      "安道尔",
-      null
     ]
   },
   {
@@ -4162,13 +4169,6 @@
     "keywords": [
       "牙买加",
       "Jamaica"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=刚果（金）",
-    "keywords": [
-      "刚果（金）",
-      null
     ]
   },
   {
