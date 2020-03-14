@@ -3395,17 +3395,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=德国",
-    "keywords": [
-      "德国",
-      "Germany"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=法国",
     "keywords": [
       "法国",
       "France"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=德国",
+    "keywords": [
+      "德国",
+      "Germany"
     ]
   },
   {

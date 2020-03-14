@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-14T00:09:12.403Z",
+    "lastUpdate": "2020-03-14T01:15:08.848Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -13,7 +13,7 @@
         "updateTime": "广东省",
         "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
-        "insickCount": 52
+        "insickCount": 49
       },
       {
         "updateTime": "甘肃省",
@@ -25,7 +25,7 @@
         "updateTime": "四川省",
         "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
-        "insickCount": 33
+        "insickCount": 26
       },
       {
         "updateTime": "黑龙江省",
@@ -49,7 +49,7 @@
         "updateTime": "山东省",
         "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
-        "insickCount": 14
+        "insickCount": 13
       },
       {
         "updateTime": "陕西省",
@@ -64,26 +64,20 @@
         "insickCount": 11
       },
       {
-        "updateTime": "湖南省",
-        "maxZeroIncrDays": 14,
-        "confirmedIncreased": 0,
-        "insickCount": 9
-      },
-      {
         "updateTime": "广西壮族自治区",
         "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
-        "updateTime": "重庆市",
-        "maxZeroIncrDays": 18,
+        "updateTime": "湖南省",
+        "maxZeroIncrDays": 14,
         "confirmedIncreased": 0,
-        "insickCount": 4
+        "insickCount": 5
       },
       {
-        "updateTime": "贵州省",
-        "maxZeroIncrDays": 26,
+        "updateTime": "重庆市",
+        "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
         "insickCount": 4
       },
@@ -132,6 +126,12 @@
       {
         "updateTime": "江苏省",
         "maxZeroIncrDays": 24,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "贵州省",
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -193,7 +193,7 @@
   },
   {
     "name": "广东省",
-    "lastUpdate": "2020-03-13T11:41:49.921Z",
+    "lastUpdate": "2020-03-14T01:10:43.323Z",
     "records": [
       {
         "updateTime": "深圳",
@@ -565,13 +565,13 @@
   },
   {
     "name": "湖南省",
-    "lastUpdate": "2020-03-13T08:47:50.998Z",
+    "lastUpdate": "2020-03-14T00:52:03.290Z",
     "records": [
       {
         "updateTime": "长沙",
         "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
-        "insickCount": 4
+        "insickCount": 2
       },
       {
         "updateTime": "岳阳",
@@ -580,26 +580,26 @@
         "insickCount": 2
       },
       {
-        "updateTime": "邵阳",
-        "maxZeroIncrDays": 24,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
         "updateTime": "株洲",
         "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
-        "updateTime": "娄底",
-        "maxZeroIncrDays": 26,
+        "updateTime": "邵阳",
+        "maxZeroIncrDays": 24,
         "confirmedIncreased": 0,
-        "insickCount": 1
+        "insickCount": 0
       },
       {
         "updateTime": "常德",
         "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "娄底",
+        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -847,7 +847,7 @@
   },
   {
     "name": "山东省",
-    "lastUpdate": "2020-03-13T03:40:39.728Z",
+    "lastUpdate": "2020-03-14T00:52:03.290Z",
     "records": [
       {
         "updateTime": "任城监狱",
@@ -859,7 +859,7 @@
         "updateTime": "济宁",
         "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
-        "insickCount": 7
+        "insickCount": 6
       },
       {
         "updateTime": "德州",
@@ -1279,13 +1279,13 @@
   },
   {
     "name": "四川省",
-    "lastUpdate": "2020-03-13T10:03:52.065Z",
+    "lastUpdate": "2020-03-14T00:38:51.760Z",
     "records": [
       {
         "updateTime": "成都",
         "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
-        "insickCount": 26
+        "insickCount": 20
       },
       {
         "updateTime": "巴中",
@@ -1298,12 +1298,6 @@
         "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 2
-      },
-      {
-        "updateTime": "广安",
-        "maxZeroIncrDays": 32,
-        "confirmedIncreased": 0,
-        "insickCount": 1
       },
       {
         "updateTime": "眉山",
@@ -1320,6 +1314,12 @@
       {
         "updateTime": "南充",
         "maxZeroIncrDays": 19,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "广安",
+        "maxZeroIncrDays": 32,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -2209,25 +2209,19 @@
   },
   {
     "name": "贵州省",
-    "lastUpdate": "2020-03-13T00:56:51.510Z",
+    "lastUpdate": "2020-03-14T00:52:03.290Z",
     "records": [
       {
         "updateTime": "贵阳",
         "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
-        "insickCount": 2
+        "insickCount": 1
       },
       {
         "updateTime": "遵义",
         "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "六盘水",
-        "maxZeroIncrDays": 34,
-        "confirmedIncreased": 0,
-        "insickCount": 1
+        "insickCount": 0
       },
       {
         "updateTime": "毕节",
@@ -2244,6 +2238,12 @@
       {
         "updateTime": "铜仁",
         "maxZeroIncrDays": 31,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "六盘水",
+        "maxZeroIncrDays": 34,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
