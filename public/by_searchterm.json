@@ -1855,6 +1855,13 @@
     ]
   },
   {
+    "url": "#tab=trends&province=上海市&city=境外输入人员",
+    "keywords": [
+      "境外输入人员",
+      ""
+    ]
+  },
+  {
     "url": "#tab=trends&province=上海市&city=普陀区",
     "keywords": [
       "普陀区",
@@ -1880,13 +1887,6 @@
     "keywords": [
       "杨浦区",
       "Yangpu District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=上海市&city=境外输入人员",
-    "keywords": [
-      "境外输入人员",
-      ""
     ]
   },
   {
@@ -3437,10 +3437,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=日本",
+    "url": "#tab=world-trends&continent=欧洲&country=瑞典",
     "keywords": [
-      "日本",
-      "Japan"
+      "瑞典",
+      "Sweden"
     ]
   },
   {
@@ -3451,17 +3451,17 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=日本",
+    "keywords": [
+      "日本",
+      "Japan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=其他&country=钻石公主号邮轮",
     "keywords": [
       "钻石公主号邮轮",
       "Diamond Princess Cruise Ship"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=瑞典",
-    "keywords": [
-      "瑞典",
-      "Sweden"
     ]
   },
   {
@@ -3556,10 +3556,38 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=巴西",
+    "keywords": [
+      "巴西",
+      "Brazil"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=捷克",
     "keywords": [
       "捷克",
       "Czech Republic"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
+    "keywords": [
+      "伊拉克",
+      "Iraq"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=埃及",
+    "keywords": [
+      "埃及",
+      "Egypt"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=爱尔兰",
+    "keywords": [
+      "爱尔兰",
+      "Ireland"
     ]
   },
   {
@@ -3577,13 +3605,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
-    "keywords": [
-      "伊拉克",
-      "Iraq"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=印度",
     "keywords": [
       "印度",
@@ -3591,24 +3612,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=埃及",
-    "keywords": [
-      "埃及",
-      "Egypt"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=科威特",
     "keywords": [
       "科威特",
       "Kuwait"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=巴西",
-    "keywords": [
-      "巴西",
-      "Brazil"
     ]
   },
   {
@@ -3626,10 +3633,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=爱尔兰",
+    "url": "#tab=world-trends&continent=欧洲&country=圣马力诺",
     "keywords": [
-      "爱尔兰",
-      "Ireland"
+      "圣马力诺",
+      "San Marino"
     ]
   },
   {
@@ -3637,13 +3644,6 @@
     "keywords": [
       "罗马尼亚",
       "Romania"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=圣马力诺",
-    "keywords": [
-      "圣马力诺",
-      "San Marino"
     ]
   },
   {
@@ -3703,6 +3703,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=巴勒斯坦",
+    "keywords": [
+      "巴勒斯坦",
+      null
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=智利",
     "keywords": [
       "智利",
@@ -3714,13 +3721,6 @@
     "keywords": [
       "阿尔巴尼亚",
       "Albania"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=巴勒斯坦",
-    "keywords": [
-      "巴勒斯坦",
-      null
     ]
   },
   {
@@ -3742,6 +3742,20 @@
     "keywords": [
       "克罗地亚",
       null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=保加利亚",
+    "keywords": [
+      "保加利亚",
+      "Bulgaria"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
+    "keywords": [
+      "秘鲁",
+      "Peru"
     ]
   },
   {
@@ -3773,10 +3787,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=保加利亚",
+    "url": "#tab=world-trends&continent=南美洲&country=厄瓜多尔",
     "keywords": [
-      "保加利亚",
-      "Bulgaria"
+      "厄瓜多尔",
+      "Ecuador"
     ]
   },
   {
@@ -3784,13 +3798,6 @@
     "keywords": [
       "哥斯达黎加",
       "Costa Rica"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
-    "keywords": [
-      "秘鲁",
-      "Peru"
     ]
   },
   {
@@ -3836,6 +3843,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
+    "keywords": [
+      "匈牙利",
+      "Hungary"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=undefined&country=undefined",
     "keywords": [
       null,
@@ -3861,20 +3875,6 @@
     "keywords": [
       "拉脱维亚",
       "Latvia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
-    "keywords": [
-      "匈牙利",
-      "Hungary"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=厄瓜多尔",
-    "keywords": [
-      "厄瓜多尔",
-      "Ecuador"
     ]
   },
   {
@@ -3976,6 +3976,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
+    "keywords": [
+      "斯里兰卡",
+      "SriLanka"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
     "keywords": [
       "新西兰",
@@ -4011,6 +4018,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "keywords": [
+      "哈萨克斯坦",
+      "Kazakstan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=孟加拉国",
     "keywords": [
       "孟加拉国",
@@ -4025,13 +4039,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
-    "keywords": [
-      "斯里兰卡",
-      "SriLanka"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
     "keywords": [
       "乌克兰",
@@ -4043,13 +4050,6 @@
     "keywords": [
       "马提尼克",
       "Martinique"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
-    "keywords": [
-      "哈萨克斯坦",
-      "Kazakstan"
     ]
   },
   {
@@ -4281,6 +4281,13 @@
     "keywords": [
       "埃塞俄比亚",
       "Ethiopia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=危地马拉",
+    "keywords": [
+      "危地马拉",
+      "Guatemala"
     ]
   }
 ]
