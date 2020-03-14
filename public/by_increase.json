@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-13T23:14:25.618Z",
+    "lastUpdate": "2020-03-14T00:09:12.403Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -31,7 +31,7 @@
         "updateTime": "黑龙江省",
         "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
-        "insickCount": 23
+        "insickCount": 22
       },
       {
         "updateTime": "上海市",
@@ -52,14 +52,14 @@
         "insickCount": 14
       },
       {
-        "updateTime": "辽宁省",
-        "maxZeroIncrDays": 11,
-        "confirmedIncreased": 0,
-        "insickCount": 12
-      },
-      {
         "updateTime": "陕西省",
         "maxZeroIncrDays": 23,
+        "confirmedIncreased": 0,
+        "insickCount": 11
+      },
+      {
+        "updateTime": "辽宁省",
+        "maxZeroIncrDays": 11,
         "confirmedIncreased": 0,
         "insickCount": 11
       },
@@ -1411,7 +1411,7 @@
   },
   {
     "name": "黑龙江省",
-    "lastUpdate": "2020-03-13T00:18:41.198Z",
+    "lastUpdate": "2020-03-14T00:07:01.138Z",
     "records": [
       {
         "updateTime": "哈尔滨",
@@ -1444,12 +1444,6 @@
         "insickCount": 2
       },
       {
-        "updateTime": "牡丹江",
-        "maxZeroIncrDays": 9,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
         "updateTime": "鸡西",
         "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
@@ -1458,6 +1452,12 @@
       {
         "updateTime": "七台河",
         "maxZeroIncrDays": 25,
+        "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "牡丹江",
+        "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -1722,12 +1722,6 @@
       {
         "updateTime": "崇明区",
         "maxZeroIncrDays": 26,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 35,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2521,7 +2515,7 @@
   },
   {
     "name": "辽宁省",
-    "lastUpdate": "2020-03-12T09:33:24.482Z",
+    "lastUpdate": "2020-03-14T00:09:12.403Z",
     "records": [
       {
         "updateTime": "丹东",
@@ -2530,14 +2524,14 @@
         "insickCount": 4
       },
       {
-        "updateTime": "大连",
-        "maxZeroIncrDays": 27,
-        "confirmedIncreased": 0,
-        "insickCount": 3
-      },
-      {
         "updateTime": "沈阳",
         "maxZeroIncrDays": 31,
+        "confirmedIncreased": 0,
+        "insickCount": 2
+      },
+      {
+        "updateTime": "大连",
+        "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
         "insickCount": 2
       },

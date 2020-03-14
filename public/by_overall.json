@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-13T23:14:25.618Z",
+    "lastUpdate": "2020-03-14T00:09:12.403Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1428,7 +1428,7 @@
       {
         "confirmedCount": 81007,
         "suspectedCount": 88,
-        "curedCount": 64228,
+        "curedCount": 64230,
         "deadCount": 3181,
         "seriousCount": 4020,
         "updateTime": "3/14",
@@ -1437,8 +1437,8 @@
         "curedIncreased": 0,
         "deadIncreased": 0,
         "seriousIncreased": 0,
-        "insickCount": 13598,
-        "lastUpdate": "2020-03-13T23:14:25.618Z",
+        "insickCount": 13596,
+        "lastUpdate": "2020-03-14T00:09:12.403Z",
         "updateDate": "2020/3/14",
         "seriousRate": "4.96",
         "seriousDayRate": "0.00",
@@ -2351,27 +2351,27 @@
         "curedRate": "96.45",
         "deadRate": "0.88",
         "seriousDeadRate": "",
-        "curedDayRate": "0.57",
+        "curedDayRate": "1.15",
         "deadDayRate": "0.00"
       },
       {
         "confirmedCount": 13017,
-        "curedCount": 12557,
+        "curedCount": 12559,
         "deadCount": 114,
         "lastUpdate": "2020-03-13T11:41:49.921Z",
         "updateTime": "3/14",
         "zipCode": "440000",
         "suspectedCount": 0,
-        "insickCount": 346,
+        "insickCount": 344,
         "confirmedIncreased": 0,
-        "curedIncreased": 2,
+        "curedIncreased": 4,
         "deadIncreased": 0,
-        "curedRate": "96.47",
+        "curedRate": "96.48",
         "deadRate": "0.88",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-03-13T23:08:58.955Z",
+    "lastUpdate": "2020-03-14T00:09:12.403Z",
     "updateTime": "3/14",
     "zipCode": "440000",
     "confirmedCount": 1356,
@@ -3351,7 +3351,7 @@
         "updateTime": "黑龙江省",
         "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
-        "insickCount": 23
+        "insickCount": 22
       },
       {
         "updateTime": "上海市",
@@ -3372,14 +3372,14 @@
         "insickCount": 14
       },
       {
-        "updateTime": "辽宁省",
-        "maxZeroIncrDays": 11,
-        "confirmedIncreased": 0,
-        "insickCount": 12
-      },
-      {
         "updateTime": "陕西省",
         "maxZeroIncrDays": 23,
+        "confirmedIncreased": 0,
+        "insickCount": 11
+      },
+      {
+        "updateTime": "辽宁省",
+        "maxZeroIncrDays": 11,
         "confirmedIncreased": 0,
         "insickCount": 11
       },
