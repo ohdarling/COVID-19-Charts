@@ -3619,6 +3619,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
+    "keywords": [
+      "黎巴嫩",
+      "Lebanon"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=爱尔兰",
     "keywords": [
       "爱尔兰",
@@ -3651,13 +3658,6 @@
     "keywords": [
       "泰国",
       "Thailand"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
-    "keywords": [
-      "黎巴嫩",
-      "Lebanon"
     ]
   },
   {
@@ -3969,6 +3969,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
+    "keywords": [
+      "斯里兰卡",
+      "SriLanka"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
     "keywords": [
       "卢森堡",
@@ -3987,13 +3994,6 @@
     "keywords": [
       "马耳他",
       "Malta"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
-    "keywords": [
-      "斯里兰卡",
-      "SriLanka"
     ]
   },
   {
@@ -4088,6 +4088,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=留尼汪",
+    "keywords": [
+      "留尼汪",
+      null
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=尼日利亚",
     "keywords": [
       "尼日利亚",
@@ -4162,6 +4169,13 @@
     "keywords": [
       "委内瑞拉",
       "Venezuela"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=泽西岛",
+    "keywords": [
+      "泽西岛",
+      null
     ]
   },
   {
@@ -4323,6 +4337,20 @@
     "keywords": [
       "苏里南",
       "Suriname"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=纳米比亚",
+    "keywords": [
+      "纳米比亚",
+      "Namibia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=圣文森特和格林纳丁斯",
+    "keywords": [
+      "圣文森特和格林纳丁斯",
+      null
     ]
   }
 ]
