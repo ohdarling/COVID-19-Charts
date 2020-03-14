@@ -3591,6 +3591,20 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
+    "keywords": [
+      "菲律宾",
+      "Philippines"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=印度尼西亚",
+    "keywords": [
+      "印度尼西亚",
+      "Indonesia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
     "keywords": [
       "伊拉克",
@@ -3633,17 +3647,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
-    "keywords": [
-      "黎巴嫩",
-      "Lebanon"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=泰国",
     "keywords": [
       "泰国",
       "Thailand"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
+    "keywords": [
+      "黎巴嫩",
+      "Lebanon"
     ]
   },
   {
@@ -3661,13 +3675,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=印度尼西亚",
-    "keywords": [
-      "印度尼西亚",
-      "Indonesia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=爱沙尼亚",
     "keywords": [
       "爱沙尼亚",
@@ -3679,13 +3686,6 @@
     "keywords": [
       "波兰",
       "Poland"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
-    "keywords": [
-      "菲律宾",
-      "Philippines"
     ]
   },
   {
@@ -3717,6 +3717,20 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
+    "keywords": [
+      "塞尔维亚",
+      null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=克罗地亚",
+    "keywords": [
+      "克罗地亚",
+      null
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=文莱",
     "keywords": [
       "文莱",
@@ -3734,13 +3748,6 @@
     "url": "#tab=world-trends&continent=亚洲&country=巴勒斯坦",
     "keywords": [
       "巴勒斯坦",
-      null
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
-    "keywords": [
-      "塞尔维亚",
       null
     ]
   },
@@ -3766,13 +3773,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=克罗地亚",
-    "keywords": [
-      "克罗地亚",
-      null
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=保加利亚",
     "keywords": [
       "保加利亚",
@@ -3780,17 +3780,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
-    "keywords": [
-      "秘鲁",
-      "Peru"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=巴基斯坦",
     "keywords": [
       "巴基斯坦",
       "Pakistan"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
+    "keywords": [
+      "秘鲁",
+      "Peru"
     ]
   },
   {
@@ -3927,6 +3927,20 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=北马其顿",
+    "keywords": [
+      "北马其顿",
+      null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=亚美尼亚",
+    "keywords": [
+      "亚美尼亚",
+      "Armenia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=白俄罗斯",
     "keywords": [
       "白俄罗斯",
@@ -3934,10 +3948,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=北马其顿",
+    "url": "#tab=world-trends&continent=亚洲&country=阿富汗",
     "keywords": [
-      "北马其顿",
-      null
+      "阿富汗",
+      "Afghanistan"
     ]
   },
   {
@@ -3952,13 +3966,6 @@
     "keywords": [
       "摩尔多瓦",
       "Moldova"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=阿富汗",
-    "keywords": [
-      "阿富汗",
-      "Afghanistan"
     ]
   },
   {
@@ -4011,6 +4018,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "keywords": [
+      "哈萨克斯坦",
+      "Kazakstan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=柬埔寨",
     "keywords": [
       "柬埔寨",
@@ -4032,24 +4046,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=亚美尼亚",
-    "keywords": [
-      "亚美尼亚",
-      "Armenia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=北美洲&country=古巴",
     "keywords": [
       "古巴",
       "Cuba"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
-    "keywords": [
-      "哈萨克斯坦",
-      "Kazakstan"
     ]
   },
   {
