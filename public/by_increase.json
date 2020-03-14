@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-14T04:13:25.720Z",
+    "lastUpdate": "2020-03-14T04:26:38.867Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -25,7 +25,7 @@
         "updateTime": "四川省",
         "maxZeroIncrDays": 9,
         "confirmedIncreased": 0,
-        "insickCount": 26
+        "insickCount": 25
       },
       {
         "updateTime": "上海市",
@@ -49,7 +49,7 @@
         "updateTime": "山东省",
         "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
-        "insickCount": 13
+        "insickCount": 12
       },
       {
         "updateTime": "陕西省",
@@ -847,7 +847,7 @@
   },
   {
     "name": "山东省",
-    "lastUpdate": "2020-03-14T00:52:03.290Z",
+    "lastUpdate": "2020-03-14T04:23:21.810Z",
     "records": [
       {
         "updateTime": "任城监狱",
@@ -874,12 +874,6 @@
         "insickCount": 1
       },
       {
-        "updateTime": "临沂",
-        "maxZeroIncrDays": 23,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
         "updateTime": "济南",
         "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
@@ -896,6 +890,12 @@
         "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
         "insickCount": 1
+      },
+      {
+        "updateTime": "临沂",
+        "maxZeroIncrDays": 23,
+        "confirmedIncreased": 0,
+        "insickCount": 0
       },
       {
         "updateTime": "烟台",
@@ -1279,7 +1279,7 @@
   },
   {
     "name": "四川省",
-    "lastUpdate": "2020-03-14T00:38:51.760Z",
+    "lastUpdate": "2020-03-14T04:23:21.810Z",
     "records": [
       {
         "updateTime": "成都",
@@ -1298,12 +1298,6 @@
         "maxZeroIncrDays": 15,
         "confirmedIncreased": 0,
         "insickCount": 2
-      },
-      {
-        "updateTime": "眉山",
-        "maxZeroIncrDays": 31,
-        "confirmedIncreased": 0,
-        "insickCount": 1
       },
       {
         "updateTime": "达州",
@@ -1374,6 +1368,12 @@
       {
         "updateTime": "自贡",
         "maxZeroIncrDays": 43,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "眉山",
+        "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
