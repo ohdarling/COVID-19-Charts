@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-14T02:09:58.182Z",
+    "lastUpdate": "2020-03-14T04:13:25.720Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -17,9 +17,9 @@
       },
       {
         "updateTime": "甘肃省",
-        "maxZeroIncrDays": 3,
-        "confirmedIncreased": 0,
-        "insickCount": 37
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 38
       },
       {
         "updateTime": "四川省",
@@ -70,12 +70,6 @@
         "insickCount": 7
       },
       {
-        "updateTime": "湖南省",
-        "maxZeroIncrDays": 14,
-        "confirmedIncreased": 0,
-        "insickCount": 5
-      },
-      {
         "updateTime": "重庆市",
         "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
@@ -96,6 +90,12 @@
       {
         "updateTime": "河南省",
         "maxZeroIncrDays": 3,
+        "confirmedIncreased": 0,
+        "insickCount": 2
+      },
+      {
+        "updateTime": "湖南省",
+        "maxZeroIncrDays": 14,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
@@ -565,7 +565,7 @@
   },
   {
     "name": "湖南省",
-    "lastUpdate": "2020-03-14T00:52:03.290Z",
+    "lastUpdate": "2020-03-14T04:13:25.720Z",
     "records": [
       {
         "updateTime": "长沙",
@@ -577,13 +577,7 @@
         "updateTime": "岳阳",
         "maxZeroIncrDays": 23,
         "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
-        "updateTime": "株洲",
-        "maxZeroIncrDays": 20,
-        "confirmedIncreased": 0,
-        "insickCount": 1
+        "insickCount": 0
       },
       {
         "updateTime": "邵阳",
@@ -593,6 +587,12 @@
       },
       {
         "updateTime": "常德",
+        "maxZeroIncrDays": 20,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "株洲",
         "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
@@ -2437,19 +2437,13 @@
   },
   {
     "name": "甘肃省",
-    "lastUpdate": "2020-03-11T14:26:04.504Z",
+    "lastUpdate": "2020-03-14T03:05:20.567Z",
     "records": [
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 3,
-        "confirmedIncreased": 0,
-        "insickCount": 36
-      },
-      {
-        "updateTime": "定西",
-        "maxZeroIncrDays": 30,
-        "confirmedIncreased": 0,
-        "insickCount": 1
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 38
       },
       {
         "updateTime": "兰州",
@@ -2460,6 +2454,12 @@
       {
         "updateTime": "天水",
         "maxZeroIncrDays": 35,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "定西",
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
