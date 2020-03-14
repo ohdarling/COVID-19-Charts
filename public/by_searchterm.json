@@ -1848,17 +1848,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=上海市&city=长宁区",
-    "keywords": [
-      "长宁区",
-      "Changning District"
-    ]
-  },
-  {
     "url": "#tab=trends&province=上海市&city=境外输入人员",
     "keywords": [
       "境外输入人员",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=上海市&city=长宁区",
+    "keywords": [
+      "长宁区",
+      "Changning District"
     ]
   },
   {
@@ -3437,6 +3437,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=英国",
+    "keywords": [
+      "英国",
+      "United Kiongdom"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=瑞典",
     "keywords": [
       "瑞典",
@@ -3462,13 +3469,6 @@
     "keywords": [
       "钻石公主号邮轮",
       "Diamond Princess Cruise Ship"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=英国",
-    "keywords": [
-      "英国",
-      "United Kiongdom"
     ]
   },
   {
@@ -3542,10 +3542,24 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=以色列",
+    "keywords": [
+      "以色列",
+      "Israel"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=捷克",
     "keywords": [
       "捷克",
       "Czech Republic"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=斯洛文尼亚",
+    "keywords": [
+      "斯洛文尼亚",
+      "Slovenia"
     ]
   },
   {
@@ -3556,10 +3570,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=以色列",
+    "url": "#tab=world-trends&continent=亚洲&country=科威特",
     "keywords": [
-      "以色列",
-      "Israel"
+      "科威特",
+      "Kuwait"
     ]
   },
   {
@@ -3591,13 +3605,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=斯洛文尼亚",
-    "keywords": [
-      "斯洛文尼亚",
-      "Slovenia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
     "keywords": [
       "沙特阿拉伯",
@@ -3616,13 +3623,6 @@
     "keywords": [
       "印度",
       "India"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=科威特",
-    "keywords": [
-      "科威特",
-      "Kuwait"
     ]
   },
   {
@@ -3962,17 +3962,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=马耳他",
-    "keywords": [
-      "马耳他",
-      "Malta"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
     "keywords": [
       "摩洛哥",
       "Morocco"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=马耳他",
+    "keywords": [
+      "马耳他",
+      "Malta"
     ]
   },
   {
@@ -3994,6 +3994,13 @@
     "keywords": [
       "新西兰",
       "New Zealand"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=巴拉圭",
+    "keywords": [
+      "巴拉圭",
+      "Paraguay"
     ]
   },
   {
@@ -4085,13 +4092,6 @@
     "keywords": [
       "布基纳法索",
       "Burkina Faso"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=巴拉圭",
-    "keywords": [
-      "巴拉圭",
-      "Paraguay"
     ]
   },
   {
