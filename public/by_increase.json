@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-15T01:33:29.555Z",
+    "lastUpdate": "2020-03-15T03:37:10.875Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -19,7 +19,7 @@
         "updateTime": "甘肃省",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 3,
-        "insickCount": 41
+        "insickCount": 39
       },
       {
         "updateTime": "上海市",
@@ -106,12 +106,6 @@
         "insickCount": 1
       },
       {
-        "updateTime": "重庆市",
-        "maxZeroIncrDays": 19,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
         "updateTime": "贵州省",
         "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
@@ -144,6 +138,12 @@
       {
         "updateTime": "江苏省",
         "maxZeroIncrDays": 25,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "重庆市",
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -1045,14 +1045,8 @@
   },
   {
     "name": "重庆市",
-    "lastUpdate": "2020-03-14T23:34:42.863Z",
+    "lastUpdate": "2020-03-15T03:37:10.875Z",
     "records": [
-      {
-        "updateTime": "长寿区",
-        "maxZeroIncrDays": 20,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
       {
         "updateTime": "万州区",
         "maxZeroIncrDays": 22,
@@ -1080,6 +1074,12 @@
       {
         "updateTime": "綦江区",
         "maxZeroIncrDays": 29,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "长寿区",
+        "maxZeroIncrDays": 20,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -2443,13 +2443,13 @@
   },
   {
     "name": "甘肃省",
-    "lastUpdate": "2020-03-14T23:57:42.402Z",
+    "lastUpdate": "2020-03-15T02:03:21.082Z",
     "records": [
       {
         "updateTime": "境外输入人员",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 3,
-        "insickCount": 41
+        "insickCount": 39
       },
       {
         "updateTime": "兰州",

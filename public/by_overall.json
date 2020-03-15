@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-15T01:33:29.555Z",
+    "lastUpdate": "2020-03-15T03:37:10.875Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1451,28 +1451,28 @@
         "curedRate": "81.05",
         "deadRate": "3.94",
         "seriousDeadRate": "88.48",
-        "curedDayRate": "11.29",
+        "curedDayRate": "11.30",
         "deadDayRate": "0.08"
       },
       {
         "confirmedCount": 81048,
         "suspectedCount": 111,
-        "curedCount": 67022,
+        "curedCount": 67023,
         "deadCount": 3204,
         "seriousCount": 3226,
         "suspectedIncreased": 16,
         "confirmedIncreased": 27,
-        "curedIncreased": 1373,
+        "curedIncreased": 1374,
         "deadIncreased": 10,
         "seriousIncreased": 0,
         "updateTime": "3/15",
-        "insickCount": 10822,
-        "lastUpdate": "2020-03-15T01:33:29.555Z",
+        "insickCount": 10821,
+        "lastUpdate": "2020-03-15T03:37:10.875Z",
         "updateDate": "2020/3/15",
         "seriousRate": "3.98",
         "seriousDayRate": "0.00",
         "suspectedAccum": 85587,
-        "curedRate": "82.69",
+        "curedRate": "82.70",
         "deadRate": "3.95",
         "seriousDeadRate": "99.32"
       }
@@ -2398,7 +2398,7 @@
         "curedRate": "96.70",
         "deadRate": "0.87",
         "seriousDeadRate": "",
-        "curedDayRate": "7.59",
+        "curedDayRate": "8.54",
         "deadDayRate": "0.00"
       },
       {
@@ -2407,18 +2407,18 @@
         "zipCode": "440000",
         "confirmedCount": 13052,
         "suspectedCount": 0,
-        "curedCount": 12632,
+        "curedCount": 12635,
         "deadCount": 114,
-        "insickCount": 306,
+        "insickCount": 303,
         "confirmedIncreased": 14,
-        "curedIncreased": 24,
+        "curedIncreased": 27,
         "deadIncreased": 0,
-        "curedRate": "96.78",
+        "curedRate": "96.81",
         "deadRate": "0.87",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-03-15T01:47:45.850Z",
+    "lastUpdate": "2020-03-15T03:37:10.875Z",
     "updateTime": "3/15",
     "zipCode": "440000",
     "confirmedCount": 1357,
@@ -3404,7 +3404,7 @@
         "updateTime": "甘肃省",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 3,
-        "insickCount": 41
+        "insickCount": 39
       },
       {
         "updateTime": "上海市",
@@ -3491,12 +3491,6 @@
         "insickCount": 1
       },
       {
-        "updateTime": "重庆市",
-        "maxZeroIncrDays": 19,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
         "updateTime": "贵州省",
         "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
@@ -3529,6 +3523,12 @@
       {
         "updateTime": "江苏省",
         "maxZeroIncrDays": 25,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "重庆市",
+        "maxZeroIncrDays": 19,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
