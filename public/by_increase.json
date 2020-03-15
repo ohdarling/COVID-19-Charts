@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-14T23:57:42.402Z",
+    "lastUpdate": "2020-03-15T00:49:13.790Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -37,7 +37,7 @@
         "updateTime": "黑龙江省",
         "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
-        "insickCount": 22
+        "insickCount": 16
       },
       {
         "updateTime": "浙江省",
@@ -1417,19 +1417,13 @@
   },
   {
     "name": "黑龙江省",
-    "lastUpdate": "2020-03-14T00:07:01.138Z",
+    "lastUpdate": "2020-03-15T00:15:18.221Z",
     "records": [
       {
         "updateTime": "哈尔滨",
         "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
-        "insickCount": 8
-      },
-      {
-        "updateTime": "双鸭山",
-        "maxZeroIncrDays": 26,
-        "confirmedIncreased": 0,
-        "insickCount": 2
+        "insickCount": 7
       },
       {
         "updateTime": "绥化",
@@ -1450,20 +1444,8 @@
         "insickCount": 2
       },
       {
-        "updateTime": "鸡西",
-        "maxZeroIncrDays": 28,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "七台河",
+        "updateTime": "双鸭山",
         "maxZeroIncrDays": 26,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "牡丹江",
-        "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -1474,20 +1456,38 @@
         "insickCount": 1
       },
       {
-        "updateTime": "鹤岗",
-        "maxZeroIncrDays": 34,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
         "updateTime": "大兴安岭",
         "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
+        "updateTime": "鸡西",
+        "maxZeroIncrDays": 28,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "七台河",
+        "maxZeroIncrDays": 26,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "牡丹江",
+        "maxZeroIncrDays": 10,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "佳木斯",
         "maxZeroIncrDays": 33,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "鹤岗",
+        "maxZeroIncrDays": 34,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
