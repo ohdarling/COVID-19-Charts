@@ -1848,17 +1848,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=上海市&city=松江区",
-    "keywords": [
-      "松江区",
-      "Songjiang District"
-    ]
-  },
-  {
     "url": "#tab=trends&province=上海市&city=境外输入人员",
     "keywords": [
       "境外输入人员",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=上海市&city=松江区",
+    "keywords": [
+      "松江区",
+      "Songjiang District"
     ]
   },
   {
