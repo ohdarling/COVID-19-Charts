@@ -3731,6 +3731,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=文莱",
+    "keywords": [
+      "文莱",
+      "Brunei"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
     "keywords": [
       "塞尔维亚",
@@ -3784,13 +3791,6 @@
     "keywords": [
       "墨西哥",
       "Mexico"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=文莱",
-    "keywords": [
-      "文莱",
-      "Brunei"
     ]
   },
   {
@@ -3899,6 +3899,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
+    "keywords": [
+      "阿曼",
+      "Oman"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=大不列颠及北爱尔兰联合王国",
     "keywords": [
       "大不列颠及北爱尔兰联合王国",
@@ -3910,13 +3917,6 @@
     "keywords": [
       "英国（含北爱尔兰）",
       null
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
-    "keywords": [
-      "阿曼",
-      "Oman"
     ]
   },
   {
