@@ -31,6 +31,9 @@ const mobulesConfig = {
     provinceKey: 'continent',
     cityKey: 'country',
   },
+  'countries-compare': {
+    func: showCountriesCompare,
+  },
 };
 
 // const allDates = (() => {
@@ -758,6 +761,94 @@ async function showMap(name) {
   const records = await prepareChartData(name, 'date');
   allCharts = await setupMapCharts(records, document.getElementById(chartsContainerId), name);
   updateHash('map', name);
+}
+
+
+async function showCountriesCompare() {
+  const records = await prepareChartData('', 'world');
+
+  let maxDays = 0;
+  const data = records.filter(c => {
+    return !!c.name && c.confirmedCount >= 100;
+  }).map(c => {
+    c.records = c.records.filter(r => r.confirmedCount >= 100);
+    c.records.forEach((r, i) => r.index = i);
+    if (c.records.length > maxDays) {
+      maxDays = c.records.length;
+    }
+    return c;
+  });
+
+  const allConfigs = [
+    {
+      tooltip: {
+        trigger: 'axis',
+        // formatter: (params) => {
+        //   if (params && params.length > 0) {
+        //     return `<b>${params[0].name}<b><br />${params.map(v => {
+        //       return (`${v.seriesName}：${v.value || '--'}`) + (seriesKeyMap[v.seriesName].indexOf('Rate') > 0 ? '%' : '');
+        //     }).join('<br />')}`;
+        //   }
+        //   return '';
+        // }
+      },
+      title: {
+        text: '确诊人数 >= 100 国家增长趋势',
+      },
+      legend: {
+        data: data.map(s => s.name),
+        textStyle: {
+          fontSize: 11,
+        },
+        bottom: 0,
+        selected: data.reduce((p, v) => {
+          p[v.name] = v.confirmedCount >= 500 ? true : false;
+          return p;
+        }, {}),
+        selectedMode: 'multiple',
+      },
+      grid: {
+        bottom: '15%',
+      },
+      xAxis: {
+        type: 'category',
+        data: new Array(maxDays).join(',').split(',').map((v, i) => i + 1),
+      },
+      yAxis: [
+        {
+          type: 'log',
+          // axisLabel: {
+          //   formatter: '{value}%',
+          // }
+        },
+        {
+          type: 'value',
+          splitLine: { show: false },
+        },
+      ],
+      series: data.map(d => {
+        return {
+          type: 'line',
+          name: d.name,
+          data: d.records.map(r => r.confirmedCount),
+          smooth: true,
+        };
+      })
+    }
+  ];
+
+  const html = allConfigs.map((_, i) => {
+    return `<div id="chart${i}" class="single-chart"></div>`;
+  }).join('');
+  document.getElementById(chartsContainerId).innerHTML = html;
+
+  allCharts = allConfigs.map((cfg, i) => {
+    const chart = echarts.init(document.getElementById(`chart${i}`));
+    chart.setOption(cfg);
+    return chart;
+  });
+
+  updateHash('countries-compare');
 }
 
 
