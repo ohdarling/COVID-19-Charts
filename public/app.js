@@ -622,8 +622,8 @@ async function setupWorldMapCharts(records, container) {
     series: [
       {
         type: 'bar',
-        data: records.filter(r => r.countryName !== '中国' && r.confirmedCount >= 100).map(r => {
-          return [ r.confirmedCount, getCurrentLang() === 'zh' ? r.countryName : (r.countryEnglishName || r.countryName) ];
+        data: records.filter(r => r.name !== '中国' && r.confirmedCount >= 100).map(r => {
+          return [ r.confirmedCount, getCurrentLang() === 'zh' ? r.name : (r.enName || r.name) ];
         }),
         label: {
           position: 'right',
@@ -651,9 +651,9 @@ async function setupWorldMapCharts(records, container) {
         },
         data: records.map(r => {
           return {
-            name: r.countryEnglishName || r.countryName,
+            name: r.enName || r.name,
             continent: r.continentName,
-            country: r.countryName,
+            country: r.name,
             value: r.confirmedCount,
             confirmed: r.confirmedCount,
             dead: r.deadCount,
@@ -664,12 +664,12 @@ async function setupWorldMapCharts(records, container) {
           };
         }),
         nameMap: {
-          'United States': 'United States of America',
-          'Croatia': '克罗地亚',
-          'Czech Rep.': '捷克',
-          'Dominican Rep.': '多米尼加',
-          'Bosnia and Herz.': '波黑',
-          'Republic of Serbia': '塞尔维亚',
+          // 'United States': 'United States of America',
+          // 'Croatia': '克罗地亚',
+          // 'Czech Rep.': '捷克',
+          // 'Dominican Rep.': '多米尼加',
+          // 'Bosnia and Herz.': '波黑',
+          // 'Republic of Serbia': '塞尔维亚',
         },
       },
     ]
@@ -753,7 +753,7 @@ async function showWorldTrends(continent = '', country = '') {
     records = records.filter(r => r.continentName === continent);
   }
   if (country) {
-    records = records.filter(r => r.countryName === country);
+    records = records.filter(r => r.name === country);
   }
   allCharts = setupTrendsCharts(records, document.getElementById(chartsContainerId));
   updateHash('world-trends', continent, country);
