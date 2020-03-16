@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-16T16:00:54.449Z",
+    "lastUpdate": "2020-03-16T16:59:15.473Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1525,7 +1525,7 @@
         "seriousIncreased": 0,
         "updateTime": "3/17",
         "insickCount": 9951,
-        "lastUpdate": "2020-03-16T16:00:54.449Z",
+        "lastUpdate": "2020-03-16T16:59:15.473Z",
         "updateDate": "2020/3/17",
         "seriousRate": "3.74",
         "seriousDayRate": "0.00",
@@ -2343,24 +2343,24 @@
         "deadDayRate": "0.00"
       },
       {
-        "confirmedCount": 172193,
+        "confirmedCount": 173109,
         "curedCount": 78146,
-        "deadCount": 6653,
+        "deadCount": 6657,
         "lastUpdate": "2020-03-16T13:54:38.537Z",
         "updateTime": "3/17",
         "zipCode": "951001",
         "suspectedCount": 0,
-        "insickCount": 87394,
-        "confirmedIncreased": 0,
+        "insickCount": 88306,
+        "confirmedIncreased": 916,
         "curedIncreased": 0,
-        "deadIncreased": 0,
-        "curedRate": "45.38",
-        "deadRate": "3.86",
+        "deadIncreased": 4,
+        "curedRate": "45.14",
+        "deadRate": "3.85",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-03-16T15:57:43.501Z",
-    "updateTime": "3/16",
+    "lastUpdate": "2020-03-16T16:59:15.473Z",
+    "updateTime": "3/17",
     "zipCode": "951001",
     "confirmedCount": 81099,
     "suspectedCount": 0,
@@ -3223,9 +3223,9 @@
       },
       {
         "updateTime": "荷兰",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 1115
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 278,
+        "insickCount": 1389
       },
       {
         "updateTime": "挪威",
@@ -3234,16 +3234,16 @@
         "insickCount": 1074
       },
       {
+        "updateTime": "比利时",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 172,
+        "insickCount": 1054
+      },
+      {
         "updateTime": "瑞典",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 1015
-      },
-      {
-        "updateTime": "比利时",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 882
       },
       {
         "updateTime": "丹麦",
@@ -3259,21 +3259,21 @@
       },
       {
         "updateTime": "日本",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 637
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 15,
+        "insickCount": 652
+      },
+      {
+        "updateTime": "马来西亚",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 125,
+        "insickCount": 511
       },
       {
         "updateTime": "卡塔尔",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 401
-      },
-      {
-        "updateTime": "马来西亚",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 386
       },
       {
         "updateTime": "加拿大",
@@ -3288,16 +3288,22 @@
         "insickCount": 328
       },
       {
+        "updateTime": "澳大利亚",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 57,
+        "insickCount": 323
+      },
+      {
         "updateTime": "捷克",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 298
       },
       {
-        "updateTime": "澳大利亚",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 266
+        "updateTime": "以色列",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 37,
+        "insickCount": 248
       },
       {
         "updateTime": "钻石公主号邮轮",
@@ -3322,12 +3328,6 @@
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 219
-      },
-      {
-        "updateTime": "以色列",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 211
       },
       {
         "updateTime": "巴西",
@@ -3355,21 +3355,27 @@
       },
       {
         "updateTime": "巴林",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 154
-      },
-      {
-        "updateTime": "菲律宾",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 128
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 7,
+        "insickCount": 161
       },
       {
         "updateTime": "新加坡",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 121
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 17,
+        "insickCount": 138
+      },
+      {
+        "updateTime": "菲律宾",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 130
+      },
+      {
+        "updateTime": "印度尼西亚",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 17,
+        "insickCount": 130
       },
       {
         "updateTime": "罗马尼亚",
@@ -3378,10 +3384,16 @@
         "insickCount": 120
       },
       {
-        "updateTime": "印度尼西亚",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 113
+        "updateTime": "科威特",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 11,
+        "insickCount": 118
+      },
+      {
+        "updateTime": "泰国",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 33,
+        "insickCount": 111
       },
       {
         "updateTime": "波兰",
@@ -3390,16 +3402,10 @@
         "insickCount": 109
       },
       {
-        "updateTime": "科威特",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 107
-      },
-      {
         "updateTime": "印度",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 105
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 4,
+        "insickCount": 109
       },
       {
         "updateTime": "沙特阿拉伯",
@@ -3420,6 +3426,12 @@
         "insickCount": 96
       },
       {
+        "updateTime": "巴基斯坦",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 41,
+        "insickCount": 93
+      },
+      {
         "updateTime": "伊拉克",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
@@ -3438,16 +3450,10 @@
         "insickCount": 84
       },
       {
-        "updateTime": "泰国",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 78
-      },
-      {
         "updateTime": "卢森堡",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 76
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 4,
+        "insickCount": 80
       },
       {
         "updateTime": "阿联酋",
@@ -3474,6 +3480,12 @@
         "insickCount": 67
       },
       {
+        "updateTime": "南非",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 11,
+        "insickCount": 62
+      },
+      {
         "updateTime": "斯洛伐克",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
@@ -3486,9 +3498,21 @@
         "insickCount": 60
       },
       {
+        "updateTime": "塞尔维亚",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 7,
+        "insickCount": 55
+      },
+      {
         "updateTime": "巴拿马",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
+        "insickCount": 54
+      },
+      {
+        "updateTime": "文莱",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 4,
         "insickCount": 54
       },
       {
@@ -3498,40 +3522,16 @@
         "insickCount": 53
       },
       {
-        "updateTime": "巴基斯坦",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 52
-      },
-      {
         "updateTime": "墨西哥",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 52
       },
       {
-        "updateTime": "南非",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 51
-      },
-      {
-        "updateTime": "文莱",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 50
-      },
-      {
         "updateTime": "保加利亚",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 49
-      },
-      {
-        "updateTime": "塞尔维亚",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 48
       },
       {
         "updateTime": "广东省",
@@ -3594,9 +3594,21 @@
         "insickCount": 35
       },
       {
+        "updateTime": "白俄罗斯",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 9,
+        "insickCount": 33
+      },
+      {
         "updateTime": "格鲁吉亚",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
+        "insickCount": 33
+      },
+      {
+        "updateTime": "塞浦路斯",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 12,
         "insickCount": 33
       },
       {
@@ -3612,22 +3624,22 @@
         "insickCount": 30
       },
       {
+        "updateTime": "亚美尼亚",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 28
+      },
+      {
         "updateTime": "上海市",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 2,
         "insickCount": 27
       },
       {
-        "updateTime": "亚美尼亚",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 26
-      },
-      {
-        "updateTime": "白俄罗斯",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 24
+        "updateTime": "摩洛哥",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 13,
+        "insickCount": 27
       },
       {
         "updateTime": "波黑",
@@ -3654,14 +3666,20 @@
         "insickCount": 22
       },
       {
-        "updateTime": "至尊公主邮轮",
-        "maxZeroIncrDays": 10,
-        "confirmedIncreased": 0,
+        "updateTime": "斯里兰卡",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 3,
         "insickCount": 21
       },
       {
-        "updateTime": "塞浦路斯",
-        "maxZeroIncrDays": 3,
+        "updateTime": "阿富汗",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 5,
+        "insickCount": 21
+      },
+      {
+        "updateTime": "至尊公主邮轮",
+        "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
         "insickCount": 21
       },
@@ -3678,9 +3696,9 @@
         "insickCount": 20
       },
       {
-        "updateTime": "斯里兰卡",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
+        "updateTime": "阿塞拜疆",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
         "insickCount": 18
       },
       {
@@ -3702,16 +3720,16 @@
         "insickCount": 18
       },
       {
-        "updateTime": "阿塞拜疆",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 16
+        "updateTime": "约旦",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 3,
+        "insickCount": 15
       },
       {
-        "updateTime": "阿富汗",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 16
+        "updateTime": "布基纳法索",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 13,
+        "insickCount": 15
       },
       {
         "updateTime": "浙江省",
@@ -3722,12 +3740,6 @@
       {
         "updateTime": "黑龙江省",
         "maxZeroIncrDays": 5,
-        "confirmedIncreased": 0,
-        "insickCount": 14
-      },
-      {
-        "updateTime": "摩洛哥",
-        "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
         "insickCount": 14
       },
@@ -3752,12 +3764,6 @@
       {
         "updateTime": "大不列颠及北爱尔兰联合王国",
         "maxZeroIncrDays": 17,
-        "confirmedIncreased": 0,
-        "insickCount": 12
-      },
-      {
-        "updateTime": "约旦",
-        "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 12
       },
@@ -3789,6 +3795,12 @@
         "updateTime": "新西兰",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
+        "insickCount": 8
+      },
+      {
+        "updateTime": "孟加拉国",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 3,
         "insickCount": 8
       },
       {
@@ -3834,15 +3846,33 @@
         "insickCount": 6
       },
       {
-        "updateTime": "孟加拉国",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
+        "updateTime": "乌兹别克斯坦",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 5,
+        "insickCount": 6
+      },
+      {
+        "updateTime": "乌克兰",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 5
+      },
+      {
+        "updateTime": "喀麦隆",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
         "insickCount": 5
       },
       {
         "updateTime": "法属圭亚那",
         "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
+        "insickCount": 5
+      },
+      {
+        "updateTime": "埃塞俄比亚",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
         "insickCount": 5
       },
       {
@@ -3853,12 +3883,6 @@
       },
       {
         "updateTime": "列支敦士登",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 4
-      },
-      {
-        "updateTime": "喀麦隆",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 4
@@ -3876,12 +3900,6 @@
         "insickCount": 4
       },
       {
-        "updateTime": "埃塞俄比亚",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 4
-      },
-      {
         "updateTime": "圭亚那",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
@@ -3890,12 +3908,6 @@
       {
         "updateTime": "摩纳哥",
         "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 3
-      },
-      {
-        "updateTime": "乌克兰",
-        "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
@@ -3944,12 +3956,6 @@
       {
         "updateTime": "尼日利亚",
         "maxZeroIncrDays": 8,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
-        "updateTime": "布基纳法索",
-        "maxZeroIncrDays": 7,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
@@ -4154,12 +4160,6 @@
       {
         "updateTime": "安提瓜和巴布达",
         "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "乌兹别克斯坦",
-        "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
