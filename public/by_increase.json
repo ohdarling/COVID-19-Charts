@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-16T19:21:32.766Z",
+    "lastUpdate": "2020-03-16T21:21:50.168Z",
     "records": [
       {
         "updateTime": "意大利",
@@ -71,9 +71,15 @@
       },
       {
         "updateTime": "挪威",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 1074
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 254,
+        "insickCount": 1328
+      },
+      {
+        "updateTime": "瑞典",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 96,
+        "insickCount": 1112
       },
       {
         "updateTime": "比利时",
@@ -82,22 +88,16 @@
         "insickCount": 1054
       },
       {
-        "updateTime": "瑞典",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 1015
+        "updateTime": "奥地利",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 156,
+        "insickCount": 1007
       },
       {
         "updateTime": "丹麦",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 860
-      },
-      {
-        "updateTime": "奥地利",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 853
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 50,
+        "insickCount": 909
       },
       {
         "updateTime": "日本",
@@ -142,6 +142,18 @@
         "insickCount": 298
       },
       {
+        "updateTime": "芬兰",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 29,
+        "insickCount": 271
+      },
+      {
+        "updateTime": "斯洛文尼亚",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 34,
+        "insickCount": 252
+      },
+      {
         "updateTime": "以色列",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 37,
@@ -160,22 +172,16 @@
         "insickCount": 245
       },
       {
-        "updateTime": "芬兰",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 242
-      },
-      {
-        "updateTime": "斯洛文尼亚",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 219
-      },
-      {
         "updateTime": "巴西",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 200
+      },
+      {
+        "updateTime": "巴基斯坦",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 131,
+        "insickCount": 183
       },
       {
         "updateTime": "冰岛",
@@ -196,10 +202,16 @@
         "insickCount": 167
       },
       {
+        "updateTime": "波兰",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 52,
+        "insickCount": 161
+      },
+      {
         "updateTime": "巴林",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 7,
-        "insickCount": 161
+        "confirmedIncreased": 13,
+        "insickCount": 149
       },
       {
         "updateTime": "新加坡",
@@ -220,6 +232,12 @@
         "insickCount": 130
       },
       {
+        "updateTime": "沙特阿拉伯",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 30,
+        "insickCount": 127
+      },
+      {
         "updateTime": "罗马尼亚",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
@@ -238,22 +256,10 @@
         "insickCount": 111
       },
       {
-        "updateTime": "波兰",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 109
-      },
-      {
         "updateTime": "印度",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 4,
         "insickCount": 109
-      },
-      {
-        "updateTime": "沙特阿拉伯",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 102
       },
       {
         "updateTime": "埃及",
@@ -268,15 +274,9 @@
         "insickCount": 96
       },
       {
-        "updateTime": "巴基斯坦",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 41,
-        "insickCount": 93
-      },
-      {
         "updateTime": "伊拉克",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 9,
         "insickCount": 91
       },
       {
@@ -388,6 +388,12 @@
         "insickCount": 46
       },
       {
+        "updateTime": "阿尔及利亚",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 6,
+        "insickCount": 46
+      },
+      {
         "updateTime": "克罗地亚",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
@@ -404,12 +410,6 @@
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 45
-      },
-      {
-        "updateTime": "阿尔及利亚",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 41
       },
       {
         "updateTime": "阿尔巴尼亚",
@@ -490,6 +490,12 @@
         "insickCount": 27
       },
       {
+        "updateTime": "塞内加尔",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 3,
+        "insickCount": 25
+      },
+      {
         "updateTime": "波黑",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
@@ -500,12 +506,6 @@
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 23
-      },
-      {
-        "updateTime": "塞内加尔",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 22
       },
       {
         "updateTime": "厄瓜多尔",
@@ -574,6 +574,12 @@
         "insickCount": 17
       },
       {
+        "updateTime": "阿曼",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 15
+      },
+      {
         "updateTime": "布基纳法索",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 13,
@@ -590,12 +596,6 @@
         "maxZeroIncrDays": 5,
         "confirmedIncreased": 0,
         "insickCount": 14
-      },
-      {
-        "updateTime": "阿曼",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 13
       },
       {
         "updateTime": "马尔代夫",
@@ -658,6 +658,12 @@
         "insickCount": 7
       },
       {
+        "updateTime": "卢旺达",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 7
+      },
+      {
         "updateTime": "柬埔寨",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
@@ -696,7 +702,7 @@
       {
         "updateTime": "乌克兰",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 2,
+        "confirmedIncreased": 4,
         "insickCount": 5
       },
       {
@@ -715,12 +721,6 @@
         "updateTime": "埃塞俄比亚",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 1,
-        "insickCount": 5
-      },
-      {
-        "updateTime": "卢旺达",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
@@ -1255,7 +1255,7 @@
   },
   {
     "name": "意大利",
-    "lastUpdate": "2020-03-16T17:51:24.536Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -1267,7 +1267,7 @@
   },
   {
     "name": "伊朗",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -1279,7 +1279,7 @@
   },
   {
     "name": "西班牙",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -1291,7 +1291,7 @@
   },
   {
     "name": "韩国",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -1303,7 +1303,7 @@
   },
   {
     "name": "德国",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -1315,7 +1315,7 @@
   },
   {
     "name": "法国",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -1327,7 +1327,7 @@
   },
   {
     "name": "美国",
-    "lastUpdate": "2020-03-16T18:56:01.032Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -1339,7 +1339,7 @@
   },
   {
     "name": "瑞士",
-    "lastUpdate": "2020-03-16T18:35:56.320Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -1351,7 +1351,7 @@
   },
   {
     "name": "英国",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -1363,7 +1363,7 @@
   },
   {
     "name": "荷兰",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -1508,6 +1508,18 @@
         "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 0
+      }
+    ]
+  },
+  {
+    "name": "挪威",
+    "lastUpdate": "2020-03-16T20:36:07.444Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
       }
     ]
   },
@@ -1752,8 +1764,8 @@
     ]
   },
   {
-    "name": "挪威",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "name": "瑞典",
+    "lastUpdate": "2020-03-16T20:36:07.444Z",
     "records": [
       {
         "updateTime": "",
@@ -1765,19 +1777,7 @@
   },
   {
     "name": "比利时",
-    "lastUpdate": "2020-03-16T16:59:15.473Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "瑞典",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -1874,6 +1874,18 @@
         "maxZeroIncrDays": 39,
         "confirmedIncreased": 0,
         "insickCount": 0
+      }
+    ]
+  },
+  {
+    "name": "奥地利",
+    "lastUpdate": "2020-03-16T20:36:07.444Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
       }
     ]
   },
@@ -2071,19 +2083,7 @@
   },
   {
     "name": "丹麦",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "奥地利",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T20:36:07.444Z",
     "records": [
       {
         "updateTime": "",
@@ -2095,7 +2095,7 @@
   },
   {
     "name": "日本",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -2215,7 +2215,7 @@
   },
   {
     "name": "钻石公主号邮轮",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -2551,7 +2551,7 @@
   },
   {
     "name": "马来西亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -2893,7 +2893,7 @@
   },
   {
     "name": "加拿大",
-    "lastUpdate": "2020-03-16T19:21:32.766Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -2905,7 +2905,7 @@
   },
   {
     "name": "卡塔尔",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -3043,7 +3043,7 @@
   },
   {
     "name": "澳大利亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -3055,7 +3055,7 @@
   },
   {
     "name": "希腊",
-    "lastUpdate": "2020-03-16T18:29:34.476Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -3139,7 +3139,7 @@
   },
   {
     "name": "捷克",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -3206,6 +3206,30 @@
         "maxZeroIncrDays": 37,
         "confirmedIncreased": 0,
         "insickCount": 0
+      }
+    ]
+  },
+  {
+    "name": "芬兰",
+    "lastUpdate": "2020-03-16T20:25:22.337Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "斯洛文尼亚",
+    "lastUpdate": "2020-03-16T20:36:07.444Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
       }
     ]
   },
@@ -3295,7 +3319,7 @@
   },
   {
     "name": "以色列",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -3385,7 +3409,7 @@
   },
   {
     "name": "葡萄牙",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -3397,19 +3421,7 @@
   },
   {
     "name": "新加坡",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "芬兰",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -3421,19 +3433,7 @@
   },
   {
     "name": "巴林",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "斯洛文尼亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T20:36:07.444Z",
     "records": [
       {
         "updateTime": "",
@@ -3445,7 +3445,19 @@
   },
   {
     "name": "巴西",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "巴基斯坦",
+    "lastUpdate": "2020-03-16T20:25:22.337Z",
     "records": [
       {
         "updateTime": "",
@@ -3457,7 +3469,19 @@
   },
   {
     "name": "冰岛",
-    "lastUpdate": "2020-03-16T18:35:56.320Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "波兰",
+    "lastUpdate": "2020-03-16T21:21:50.168Z",
     "records": [
       {
         "updateTime": "",
@@ -3565,7 +3589,7 @@
   },
   {
     "name": "爱沙尼亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -3577,7 +3601,7 @@
   },
   {
     "name": "爱尔兰",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -3703,7 +3727,7 @@
   },
   {
     "name": "泰国",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -3775,7 +3799,7 @@
   },
   {
     "name": "菲律宾",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -3883,7 +3907,7 @@
   },
   {
     "name": "印度尼西亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4044,8 +4068,32 @@
     ]
   },
   {
+    "name": "伊拉克",
+    "lastUpdate": "2020-03-16T20:25:22.337Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "沙特阿拉伯",
+    "lastUpdate": "2020-03-16T20:36:07.444Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
     "name": "埃及",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4140,32 +4188,8 @@
     ]
   },
   {
-    "name": "波兰",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "伊拉克",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
     "name": "科威特",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4177,7 +4201,7 @@
   },
   {
     "name": "罗马尼亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4189,19 +4213,7 @@
   },
   {
     "name": "印度",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "沙特阿拉伯",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4213,7 +4225,7 @@
   },
   {
     "name": "黎巴嫩",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4225,7 +4237,7 @@
   },
   {
     "name": "阿联酋",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4237,19 +4249,7 @@
   },
   {
     "name": "圣马力诺",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "巴基斯坦",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4327,7 +4327,7 @@
   },
   {
     "name": "卢森堡",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4591,7 +4591,7 @@
   },
   {
     "name": "智利",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4603,7 +4603,7 @@
   },
   {
     "name": "秘鲁",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4627,7 +4627,7 @@
   },
   {
     "name": "俄罗斯",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4639,7 +4639,7 @@
   },
   {
     "name": "南非",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4651,7 +4651,7 @@
   },
   {
     "name": "越南",
-    "lastUpdate": "2020-03-16T19:21:32.766Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4663,43 +4663,7 @@
   },
   {
     "name": "斯洛伐克",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "塞尔维亚",
-    "lastUpdate": "2020-03-16T18:35:56.320Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "阿根廷",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "巴拿马",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4711,7 +4675,43 @@
   },
   {
     "name": "阿尔及利亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T20:36:07.444Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "塞尔维亚",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "阿根廷",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "巴拿马",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4723,7 +4723,7 @@
   },
   {
     "name": "文莱",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4735,7 +4735,7 @@
   },
   {
     "name": "墨西哥",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4747,7 +4747,7 @@
   },
   {
     "name": "保加利亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4759,7 +4759,7 @@
   },
   {
     "name": "克罗地亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4771,7 +4771,7 @@
   },
   {
     "name": "哥伦比亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4783,7 +4783,7 @@
   },
   {
     "name": "阿尔巴尼亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4795,7 +4795,7 @@
   },
   {
     "name": "白俄罗斯",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4807,7 +4807,7 @@
   },
   {
     "name": "巴勒斯坦",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4819,7 +4819,7 @@
   },
   {
     "name": "哥斯达黎加",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4831,7 +4831,7 @@
   },
   {
     "name": "格鲁吉亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4843,7 +4843,7 @@
   },
   {
     "name": "塞浦路斯",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4855,7 +4855,7 @@
   },
   {
     "name": "匈牙利",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4867,7 +4867,7 @@
   },
   {
     "name": "拉脱维亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4879,7 +4879,7 @@
   },
   {
     "name": "斯里兰卡",
-    "lastUpdate": "2020-03-16T18:35:56.320Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4891,7 +4891,7 @@
   },
   {
     "name": "摩洛哥",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4903,19 +4903,7 @@
   },
   {
     "name": "亚美尼亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "阿塞拜疆",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4927,7 +4915,7 @@
   },
   {
     "name": "塞内加尔",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T20:25:22.337Z",
     "records": [
       {
         "updateTime": "",
@@ -4938,44 +4926,8 @@
     ]
   },
   {
-    "name": "波黑",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "厄瓜多尔",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "摩尔多瓦",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "阿富汗",
-    "lastUpdate": "2020-03-16T19:21:32.766Z",
+    "name": "阿塞拜疆",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -4987,7 +4939,55 @@
   },
   {
     "name": "阿曼",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T21:21:50.168Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "波黑",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "厄瓜多尔",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "摩尔多瓦",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "阿富汗",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5035,7 +5035,7 @@
   },
   {
     "name": "约旦",
-    "lastUpdate": "2020-03-16T18:47:35.592Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5047,7 +5047,7 @@
   },
   {
     "name": "突尼斯",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5083,7 +5083,7 @@
   },
   {
     "name": "北马其顿",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5095,7 +5095,7 @@
   },
   {
     "name": "马耳他",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5107,7 +5107,7 @@
   },
   {
     "name": "土耳其",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5119,7 +5119,7 @@
   },
   {
     "name": "立陶宛",
-    "lastUpdate": "2020-03-16T17:27:58.262Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5131,7 +5131,7 @@
   },
   {
     "name": "布基纳法索",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5143,7 +5143,7 @@
   },
   {
     "name": "马尔代夫",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5167,7 +5167,7 @@
   },
   {
     "name": "委内瑞拉",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5179,7 +5179,7 @@
   },
   {
     "name": "新西兰",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5191,7 +5191,7 @@
   },
   {
     "name": "孟加拉国",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5203,7 +5203,7 @@
   },
   {
     "name": "哈萨克斯坦",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5215,67 +5215,7 @@
   },
   {
     "name": "柬埔寨",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "巴拉圭",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "加纳",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "乌拉圭",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "留尼汪",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "乌兹别克斯坦",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5287,43 +5227,7 @@
   },
   {
     "name": "乌克兰",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "喀麦隆",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "法属圭亚那",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
-    "records": [
-      {
-        "updateTime": "",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": null,
-        "insickCount": null
-      }
-    ]
-  },
-  {
-    "name": "埃塞俄比亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T21:21:50.168Z",
     "records": [
       {
         "updateTime": "",
@@ -5335,7 +5239,103 @@
   },
   {
     "name": "卢旺达",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T21:21:50.168Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "巴拉圭",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "加纳",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "乌拉圭",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "留尼汪",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "乌兹别克斯坦",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "喀麦隆",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "法属圭亚那",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
+    "records": [
+      {
+        "updateTime": "",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": null,
+        "insickCount": null
+      }
+    ]
+  },
+  {
+    "name": "埃塞俄比亚",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5347,7 +5347,7 @@
   },
   {
     "name": "列支敦士登",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5359,7 +5359,7 @@
   },
   {
     "name": "科特迪瓦",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5371,7 +5371,7 @@
   },
   {
     "name": "圭亚那",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5383,7 +5383,7 @@
   },
   {
     "name": "古巴",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5395,7 +5395,7 @@
   },
   {
     "name": "摩纳哥",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5407,7 +5407,7 @@
   },
   {
     "name": "刚果（金）",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5419,7 +5419,7 @@
   },
   {
     "name": "肯尼亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5431,7 +5431,7 @@
   },
   {
     "name": "马提尼克",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5443,7 +5443,7 @@
   },
   {
     "name": "瓜德罗普岛",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5455,7 +5455,7 @@
   },
   {
     "name": "波多黎各",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5467,7 +5467,7 @@
   },
   {
     "name": "尼日利亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5479,7 +5479,7 @@
   },
   {
     "name": "安道尔",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5491,7 +5491,7 @@
   },
   {
     "name": "玻利维亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5503,7 +5503,7 @@
   },
   {
     "name": "洪都拉斯",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5515,7 +5515,7 @@
   },
   {
     "name": "圣马丁岛",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5527,7 +5527,7 @@
   },
   {
     "name": "法罗群岛",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5539,7 +5539,7 @@
   },
   {
     "name": "危地马拉",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5551,7 +5551,7 @@
   },
   {
     "name": "泽西岛",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5563,7 +5563,7 @@
   },
   {
     "name": "纳米比亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5575,7 +5575,7 @@
   },
   {
     "name": "塞舌尔",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5587,7 +5587,7 @@
   },
   {
     "name": "尼泊尔",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5623,7 +5623,7 @@
   },
   {
     "name": "多米尼加",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5635,7 +5635,7 @@
   },
   {
     "name": "不丹",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5647,7 +5647,7 @@
   },
   {
     "name": "梵蒂冈",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5659,7 +5659,7 @@
   },
   {
     "name": "多哥",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5671,7 +5671,7 @@
   },
   {
     "name": "蒙古",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5683,7 +5683,7 @@
   },
   {
     "name": "牙买加",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5695,7 +5695,7 @@
   },
   {
     "name": "特立尼达和多巴哥",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5707,7 +5707,7 @@
   },
   {
     "name": "加蓬",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5719,7 +5719,7 @@
   },
   {
     "name": "圣巴泰勒米",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5731,7 +5731,7 @@
   },
   {
     "name": "法属波利尼西亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5743,7 +5743,7 @@
   },
   {
     "name": "根西岛",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5755,7 +5755,7 @@
   },
   {
     "name": "直布罗陀",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5767,7 +5767,7 @@
   },
   {
     "name": "苏丹",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5779,7 +5779,7 @@
   },
   {
     "name": "苏里南",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5791,7 +5791,7 @@
   },
   {
     "name": "圣文森特和格林纳丁斯",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5803,7 +5803,7 @@
   },
   {
     "name": "斯威士兰",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5815,7 +5815,7 @@
   },
   {
     "name": "毛里塔尼亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5827,7 +5827,7 @@
   },
   {
     "name": "几内亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5839,7 +5839,7 @@
   },
   {
     "name": "赤道几内亚",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5851,7 +5851,7 @@
   },
   {
     "name": "安提瓜和巴布达",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5863,7 +5863,7 @@
   },
   {
     "name": "刚果（布）",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5875,7 +5875,7 @@
   },
   {
     "name": "中非共和国",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5887,7 +5887,7 @@
   },
   {
     "name": "巴哈马",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5899,7 +5899,7 @@
   },
   {
     "name": "马约特",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5911,7 +5911,7 @@
   },
   {
     "name": "开曼群岛",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",
@@ -5923,7 +5923,7 @@
   },
   {
     "name": "格陵兰",
-    "lastUpdate": "2020-03-16T16:34:54.625Z",
+    "lastUpdate": "2020-03-16T19:38:36.400Z",
     "records": [
       {
         "updateTime": "",

@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-16T19:21:32.766Z",
+    "lastUpdate": "2020-03-16T21:21:50.168Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1525,7 +1525,7 @@
         "deadIncreased": 0,
         "seriousIncreased": 0,
         "insickCount": 9951,
-        "lastUpdate": "2020-03-16T19:21:32.766Z",
+        "lastUpdate": "2020-03-16T21:21:50.168Z",
         "updateDate": "2020/3/17",
         "seriousRate": "3.74",
         "seriousDayRate": "0.00",
@@ -2339,27 +2339,27 @@
         "curedRate": "45.38",
         "deadRate": "3.86",
         "seriousDeadRate": "",
-        "curedDayRate": "0.47",
-        "deadDayRate": "0.41"
+        "curedDayRate": "0.51",
+        "deadDayRate": "0.42"
       },
       {
-        "confirmedCount": 176685,
-        "curedCount": 78560,
-        "deadCount": 7014,
+        "confirmedCount": 177506,
+        "curedCount": 78590,
+        "deadCount": 7022,
         "lastUpdate": "2020-03-16T13:54:38.537Z",
         "updateTime": "3/17",
         "zipCode": "951001",
         "suspectedCount": 0,
-        "insickCount": 91111,
-        "confirmedIncreased": 4492,
-        "curedIncreased": 414,
-        "deadIncreased": 361,
-        "curedRate": "44.46",
-        "deadRate": "3.97",
+        "insickCount": 91894,
+        "confirmedIncreased": 5313,
+        "curedIncreased": 444,
+        "deadIncreased": 370,
+        "curedRate": "44.27",
+        "deadRate": "3.96",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-03-16T19:21:32.766Z",
+    "lastUpdate": "2020-03-16T21:21:50.168Z",
     "updateTime": "3/17",
     "zipCode": "951001",
     "confirmedCount": 81099,
@@ -3229,9 +3229,15 @@
       },
       {
         "updateTime": "挪威",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 1074
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 254,
+        "insickCount": 1328
+      },
+      {
+        "updateTime": "瑞典",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 96,
+        "insickCount": 1112
       },
       {
         "updateTime": "比利时",
@@ -3240,22 +3246,16 @@
         "insickCount": 1054
       },
       {
-        "updateTime": "瑞典",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 1015
+        "updateTime": "奥地利",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 156,
+        "insickCount": 1007
       },
       {
         "updateTime": "丹麦",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 860
-      },
-      {
-        "updateTime": "奥地利",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 853
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 50,
+        "insickCount": 909
       },
       {
         "updateTime": "日本",
@@ -3300,6 +3300,18 @@
         "insickCount": 298
       },
       {
+        "updateTime": "芬兰",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 29,
+        "insickCount": 271
+      },
+      {
+        "updateTime": "斯洛文尼亚",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 34,
+        "insickCount": 252
+      },
+      {
         "updateTime": "以色列",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 37,
@@ -3318,22 +3330,16 @@
         "insickCount": 245
       },
       {
-        "updateTime": "芬兰",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 242
-      },
-      {
-        "updateTime": "斯洛文尼亚",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 219
-      },
-      {
         "updateTime": "巴西",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 200
+      },
+      {
+        "updateTime": "巴基斯坦",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 131,
+        "insickCount": 183
       },
       {
         "updateTime": "冰岛",
@@ -3354,10 +3360,16 @@
         "insickCount": 167
       },
       {
+        "updateTime": "波兰",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 52,
+        "insickCount": 161
+      },
+      {
         "updateTime": "巴林",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 7,
-        "insickCount": 161
+        "confirmedIncreased": 13,
+        "insickCount": 149
       },
       {
         "updateTime": "新加坡",
@@ -3378,6 +3390,12 @@
         "insickCount": 130
       },
       {
+        "updateTime": "沙特阿拉伯",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 30,
+        "insickCount": 127
+      },
+      {
         "updateTime": "罗马尼亚",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
@@ -3396,22 +3414,10 @@
         "insickCount": 111
       },
       {
-        "updateTime": "波兰",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 109
-      },
-      {
         "updateTime": "印度",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 4,
         "insickCount": 109
-      },
-      {
-        "updateTime": "沙特阿拉伯",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 102
       },
       {
         "updateTime": "埃及",
@@ -3426,15 +3432,9 @@
         "insickCount": 96
       },
       {
-        "updateTime": "巴基斯坦",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 41,
-        "insickCount": 93
-      },
-      {
         "updateTime": "伊拉克",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 9,
         "insickCount": 91
       },
       {
@@ -3546,6 +3546,12 @@
         "insickCount": 46
       },
       {
+        "updateTime": "阿尔及利亚",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 6,
+        "insickCount": 46
+      },
+      {
         "updateTime": "克罗地亚",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
@@ -3562,12 +3568,6 @@
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 45
-      },
-      {
-        "updateTime": "阿尔及利亚",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 41
       },
       {
         "updateTime": "阿尔巴尼亚",
@@ -3648,6 +3648,12 @@
         "insickCount": 27
       },
       {
+        "updateTime": "塞内加尔",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 3,
+        "insickCount": 25
+      },
+      {
         "updateTime": "波黑",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
@@ -3658,12 +3664,6 @@
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 23
-      },
-      {
-        "updateTime": "塞内加尔",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 22
       },
       {
         "updateTime": "厄瓜多尔",
@@ -3732,6 +3732,12 @@
         "insickCount": 17
       },
       {
+        "updateTime": "阿曼",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 15
+      },
+      {
         "updateTime": "布基纳法索",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 13,
@@ -3748,12 +3754,6 @@
         "maxZeroIncrDays": 5,
         "confirmedIncreased": 0,
         "insickCount": 14
-      },
-      {
-        "updateTime": "阿曼",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 13
       },
       {
         "updateTime": "马尔代夫",
@@ -3816,6 +3816,12 @@
         "insickCount": 7
       },
       {
+        "updateTime": "卢旺达",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 7
+      },
+      {
         "updateTime": "柬埔寨",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
@@ -3854,7 +3860,7 @@
       {
         "updateTime": "乌克兰",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 2,
+        "confirmedIncreased": 4,
         "insickCount": 5
       },
       {
@@ -3873,12 +3879,6 @@
         "updateTime": "埃塞俄比亚",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 1,
-        "insickCount": 5
-      },
-      {
-        "updateTime": "卢旺达",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
