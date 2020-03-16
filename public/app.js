@@ -1,4 +1,4 @@
-/* global $ axios echarts build_timestamp getTextForKey getCurrentLang */
+/* global $ axios echarts build_timestamp getTextForKey getCurrentLang getLangProp */
 /* exported switchMapMetrics searchArea */
 
 let allDataStore = {};
@@ -33,6 +33,8 @@ const mobulesConfig = {
   },
   'countries-compare': {
     func: showCountriesCompare,
+    supportProvince: true,
+    provinceKey: 'metrics',
   },
 };
 
@@ -764,14 +766,30 @@ async function showMap(name) {
 }
 
 
-async function showCountriesCompare() {
+async function showCountriesCompare(metrics) {
+  metrics = metrics || 'confirmed';
   const records = await prepareChartData('', 'world');
 
+  const valueKey = {
+    confirmed: 'confirmedCount',
+    exists: 'insickCount',
+    increase: 'confirmedIncreased',
+    dead: 'deadCount',
+  }[metrics] || 'confirmedCount';
+  const title = getTextForKey('累计确诊 >= 100 国家') + ' ' + getTextForKey({
+    confirmed: '累计确诊人数',
+    exists: '现存确诊人数',
+    increase: '新增确诊人数',
+    dead: '死亡人数',
+  }[metrics] || '累计确诊人数');
+  const valueType = [ 'confirmed', 'insickCount', ].indexOf(metrics) > -1 ? 'log' : 'value';
+
+  const alignCases = 100;
   let maxDays = 0;
   const data = records.filter(c => {
-    return !!c.name && c.confirmedCount >= 100;
+    return !!c.name && c.confirmedCount >= alignCases;
   }).map(c => {
-    c.records = c.records.filter(r => r.confirmedCount >= 100);
+    c.records = c.records.filter(r => r.confirmedCount >= alignCases);
     c.records.forEach((r, i) => r.index = i);
     if (c.records.length > maxDays) {
       maxDays = c.records.length;
@@ -797,16 +815,16 @@ async function showCountriesCompare() {
         }
       },
       title: {
-        text: '确诊人数 >= 100 国家增长趋势',
+        text: title,
       },
       legend: {
-        data: data.map(s => s.name),
+        data: data.map(s => getLangProp(s)),
         textStyle: {
           fontSize: 11,
         },
         bottom: 0,
         selected: data.reduce((p, v) => {
-          p[v.name] = v.confirmedCount >= 1000 ? true : false;
+          p[getLangProp(v)] = v.confirmedCount >= 2000 ? true : false;
           return p;
         }, {}),
         selectedMode: 'multiple',
@@ -820,20 +838,16 @@ async function showCountriesCompare() {
       },
       yAxis: [
         {
-          type: 'log',
-        },
-        {
-          type: 'value',
-          splitLine: { show: false },
+          type: valueType,
         },
       ],
       series: data.map(d => {
         return {
           type: 'line',
-          name: d.name,
+          name: getLangProp(d),
           data: d.records.map(r => {
             return {
-              value: r.confirmedCount,
+              value: r[valueKey],
               updateTime: r.updateTime,
             };
           }),
@@ -854,7 +868,7 @@ async function showCountriesCompare() {
     return chart;
   });
 
-  updateHash('countries-compare');
+  updateHash('countries-compare', metrics);
 }
 
 

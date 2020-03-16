@@ -76,8 +76,14 @@
               <a class="dropdown-item" href="#tab=world-trends&amp;continent=其他">其他</a>
             </div>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#tab=countries-compare">国家对比</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#tab=countries-compare" id="compareDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">国家对比</a>
+            <div class="dropdown-menu" aria-labelledby="compareDropdown">
+              <a class="dropdown-item" href="#tab=countries-compare">累计确诊人数</a>
+              <a class="dropdown-item" href="#tab=countries-compare&amp;metrics=exists">现存确诊人数</a>
+              <a class="dropdown-item" href="#tab=countries-compare&amp;metrics=increase">新增确诊人数</a>
+              <a class="dropdown-item" href="#tab=countries-compare&amp;metrics=dead">死亡人数</a>
+            </div>
           </li>
         </ul>
         <form class="form-inline my-2 my-lg-0 mr-2">
@@ -114,8 +120,8 @@
     <script>
     const build_timestamp='1584364741910';
     </script>
-    <script src="lang.js?t=3162"></script>
-    <script src="app.js?t=3162"></script>
+    <script src="lang.js?t=3163"></script>
+    <script src="app.js?t=3163"></script>
 
     <script src="assets/bootstrap.bundle.min.js"></script>
 

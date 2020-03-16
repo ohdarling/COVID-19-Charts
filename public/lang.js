@@ -1,5 +1,5 @@
-/*global $*/
-/*exported setCurrentLang getCurrentLang*/
+/* global $ */
+/* exported setCurrentLang getCurrentLang getLangProp */
 
 let currentLanguage = 'zh';
 if (document.cookie.indexOf('lang=') > -1) {
@@ -77,6 +77,12 @@ const languageMap = {
   '全部国家': 'All Countries',
   '国家或城市': 'Country or city',
   '搜索': 'Search',
+  '国家对比': 'Compare',
+  '累计确诊 >= 100 国家': 'Confirmed >= 100 Counties',
+  '累计确诊人数': 'Total Confirmed Count',
+  '现存确诊人数': 'Exists Confirmed Count',
+  '新增确诊人数': 'Increased Count',
+  '死亡人数': 'Dead Count',
 };
 
 function getTextForKey(k) {
@@ -85,6 +91,10 @@ function getTextForKey(k) {
   }
 
   return languageMap[k] || k;
+}
+
+function getLangProp(obj, { key = 'name', enKey = 'enName' } = {}) {
+  return getCurrentLang() === 'zh' ? obj[key] : (obj[enKey] || obj[key]);
 }
 
 $('#navbarSupportedContent a').get().forEach(a => {
