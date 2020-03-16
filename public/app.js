@@ -622,13 +622,13 @@ async function setupWorldMapCharts(records, container) {
     series: [
       {
         type: 'bar',
-        data: records.filter(r => r.countryName !== '中国').map(r => {
+        data: records.filter(r => r.countryName !== '中国' && r.confirmedCount >= 100).map(r => {
           return [ r.confirmedCount, getCurrentLang() === 'zh' ? r.countryName : (r.countryEnglishName || r.countryName) ];
         }),
         label: {
-          position: 'inside',
+          position: 'right',
           show: true,
-          color: '#eee',
+          color: '#333',
           formatter: ({ data }) => {
             return data[0] > 0 ? data[0] : '';
           }
