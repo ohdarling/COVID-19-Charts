@@ -779,18 +779,22 @@ async function showCountriesCompare() {
     return c;
   });
 
+  const formatTooltipLine = function(color){
+    return `<span style='display:inline-block;width:10px;height:10px;border-radius:50%;background-color:${color};margin-right:5px;'></span>`;
+  };
+
   const allConfigs = [
     {
       tooltip: {
         trigger: 'axis',
-        // formatter: (params) => {
-        //   if (params && params.length > 0) {
-        //     return `<b>${params[0].name}<b><br />${params.map(v => {
-        //       return (`${v.seriesName}：${v.value || '--'}`) + (seriesKeyMap[v.seriesName].indexOf('Rate') > 0 ? '%' : '');
-        //     }).join('<br />')}`;
-        //   }
-        //   return '';
-        // }
+        formatter: (params) => {
+          if (params && params.length > 0) {
+            return `<b>${params[0].name} days</b><small> since 100 cases</small><br />${params.map(v => {
+              return (`${formatTooltipLine(v.color)}${v.seriesName}：${v.value || '--'} <small>(${v.data.updateTime})</small>`);
+            }).join('<br />')}`;
+          }
+          return '';
+        }
       },
       title: {
         text: '确诊人数 >= 100 国家增长趋势',
@@ -802,7 +806,7 @@ async function showCountriesCompare() {
         },
         bottom: 0,
         selected: data.reduce((p, v) => {
-          p[v.name] = v.confirmedCount >= 500 ? true : false;
+          p[v.name] = v.confirmedCount >= 1000 ? true : false;
           return p;
         }, {}),
         selectedMode: 'multiple',
@@ -817,9 +821,6 @@ async function showCountriesCompare() {
       yAxis: [
         {
           type: 'log',
-          // axisLabel: {
-          //   formatter: '{value}%',
-          // }
         },
         {
           type: 'value',
@@ -830,7 +831,12 @@ async function showCountriesCompare() {
         return {
           type: 'line',
           name: d.name,
-          data: d.records.map(r => r.confirmedCount),
+          data: d.records.map(r => {
+            return {
+              value: r.confirmedCount,
+              updateTime: r.updateTime,
+            };
+          }),
           smooth: true,
         };
       })
