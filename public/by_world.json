@@ -5731,7 +5731,7 @@
     "timestamp": 1584366541800,
     "lastUpdate": "2020-03-16T13:49:01.800Z",
     "name": "美国",
-    "enName": "United States of America",
+    "enName": "United States",
     "confirmedIncreased": 815,
     "curedIncreased": 0,
     "deadIncreased": 6,
@@ -7081,7 +7081,7 @@
     "timestamp": 1584341625409,
     "lastUpdate": "2020-03-16T06:53:45.409Z",
     "name": "英国",
-    "enName": "United Kiongdom",
+    "enName": "United Kingdom",
     "confirmedIncreased": 232,
     "curedIncreased": 0,
     "deadIncreased": 14,
@@ -16131,7 +16131,7 @@
     "timestamp": 1584366541800,
     "lastUpdate": "2020-03-16T13:49:01.800Z",
     "name": "捷克",
-    "enName": "Czech Republic",
+    "enName": "Czech Rep.",
     "confirmedIncreased": 109,
     "curedIncreased": 0,
     "deadIncreased": 0,
@@ -34173,7 +34173,7 @@
   },
   {
     "name": "塞尔维亚",
-    "enName": "Republic of Serbia",
+    "enName": "Serbia",
     "records": [
       {
         "locationId": 965013,
@@ -38193,7 +38193,7 @@
   },
   {
     "name": "波黑",
-    "enName": "Bosnia and Herzegovina",
+    "enName": "Bosnia and Herz.",
     "records": [
       {
         "locationId": 965003,
@@ -41181,7 +41181,7 @@
     "timestamp": 1584341625409,
     "lastUpdate": "2020-03-16T06:53:45.409Z",
     "name": "斯里兰卡",
-    "enName": "SriLanka",
+    "enName": "Sri Lanka",
     "confirmedIncreased": 8,
     "curedIncreased": 0,
     "deadIncreased": 0,
@@ -41960,7 +41960,7 @@
     "timestamp": 1584341625409,
     "lastUpdate": "2020-03-16T06:53:45.409Z",
     "name": "北马其顿",
-    "enName": "North Macedonia",
+    "enName": "Macedonia",
     "confirmedIncreased": 5,
     "curedIncreased": 0,
     "deadIncreased": 0,
@@ -44313,7 +44313,7 @@
   },
   {
     "name": "哈萨克斯坦",
-    "enName": "Kazakstan",
+    "enName": "Kazakhstan",
     "records": [
       {
         "locationId": 954001,
@@ -44986,7 +44986,7 @@
     "timestamp": 1584366541800,
     "lastUpdate": "2020-03-16T13:49:01.800Z",
     "name": "柬埔寨",
-    "enName": "Kampuchea (Cambodia )",
+    "enName": "Cambodia",
     "confirmedIncreased": 2,
     "curedIncreased": 0,
     "deadIncreased": 0,
@@ -45889,7 +45889,7 @@
   },
   {
     "name": "卢旺达",
-    "enName": "Republic of Rwanda",
+    "enName": "Rwanda",
     "records": [
       {
         "locationId": 985006,
@@ -46115,7 +46115,7 @@
   },
   {
     "name": "科特迪瓦",
-    "enName": "Ivory Coast",
+    "enName": "Côte d'Ivoire",
     "records": [
       {
         "locationId": 982004,
@@ -50647,7 +50647,7 @@
     "timestamp": 1584341625409,
     "lastUpdate": "2020-03-16T06:53:45.409Z",
     "name": "多米尼加",
-    "enName": "Dominican Republic",
+    "enName": "Dominica",
     "confirmedIncreased": 0,
     "curedIncreased": 0,
     "deadIncreased": 0,
@@ -50656,7 +50656,7 @@
   },
   {
     "name": "不丹",
-    "enName": "Kingdom of Bhutan",
+    "enName": "Bhutan",
     "records": [
       {
         "locationId": 953002,
@@ -52867,7 +52867,7 @@
   },
   {
     "name": "赤道几内亚",
-    "enName": "The Republic of Equatorial Guinea",
+    "enName": "Eq. Guinea",
     "records": [
       {
         "locationId": 0,
@@ -53021,7 +53021,7 @@
   },
   {
     "name": "毛里塔尼亚",
-    "enName": "The Islamic Republic of Mauritania",
+    "enName": "Mauritania",
     "records": [
       {
         "locationId": 982012,
@@ -53098,7 +53098,7 @@
   },
   {
     "name": "安提瓜和巴布达",
-    "enName": "Antigua and Barbuda",
+    "enName": "Antigua and Barb.",
     "records": [
       {
         "locationId": 974001,
@@ -53281,7 +53281,7 @@
   },
   {
     "name": "中非共和国",
-    "enName": "Central African Republic",
+    "enName": "Central African Rep.",
     "records": [
       {
         "locationId": 983002,
@@ -53334,7 +53334,7 @@
   },
   {
     "name": "刚果（布）",
-    "enName": null,
+    "enName": "Dem. Rep. Congo",
     "records": [
       {
         "locationId": 0,
