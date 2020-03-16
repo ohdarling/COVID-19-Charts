@@ -1701,17 +1701,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=北京市&city=昌平区",
-    "keywords": [
-      "昌平区",
-      "Changping District"
-    ]
-  },
-  {
     "url": "#tab=trends&province=北京市&city=境外输入人员",
     "keywords": [
       "境外输入人员",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=昌平区",
+    "keywords": [
+      "昌平区",
+      "Changping District"
     ]
   },
   {
@@ -1841,17 +1841,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=上海市&city=静安区",
-    "keywords": [
-      "静安区",
-      "Jing'an District"
-    ]
-  },
-  {
     "url": "#tab=trends&province=上海市&city=境外输入人员",
     "keywords": [
       "境外输入人员",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=上海市&city=静安区",
+    "keywords": [
+      "静安区",
+      "Jing'an District"
     ]
   },
   {
@@ -2377,6 +2377,13 @@
     "keywords": [
       "临沧",
       "Lincang"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=云南省&city=境外输入人员",
+    "keywords": [
+      "境外输入人员",
+      ""
     ]
   },
   {
@@ -3437,6 +3444,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=荷兰",
+    "keywords": [
+      "荷兰",
+      "Netherlands"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=挪威",
     "keywords": [
       "挪威",
@@ -3448,13 +3462,6 @@
     "keywords": [
       "瑞典",
       "Sweden"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=荷兰",
-    "keywords": [
-      "荷兰",
-      "Netherlands"
     ]
   },
   {
