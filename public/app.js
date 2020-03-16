@@ -665,11 +665,11 @@ async function setupWorldMapCharts(records, container) {
         }),
         nameMap: {
           'United States': 'United States of America',
-          'United Kingdom': 'United Kiongdom',
           'Croatia': '克罗地亚',
           'Czech Rep.': '捷克',
           'Dominican Rep.': '多米尼加',
           'Bosnia and Herz.': '波黑',
+          'Republic of Serbia': '塞尔维亚',
         },
       },
     ]
