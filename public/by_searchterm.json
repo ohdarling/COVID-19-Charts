@@ -1932,6 +1932,13 @@
     ]
   },
   {
+    "url": "#tab=trends&province=上海市&city=待明确地区",
+    "keywords": [
+      "待明确地区",
+      "Area not defined"
+    ]
+  },
+  {
     "url": "#tab=trends&province=河北省",
     "keywords": [
       "河北省",
@@ -2496,6 +2503,13 @@
     "keywords": [
       "琼中",
       "Qiongzhong Li and Miao Autonomous County"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=待明确地区",
+    "keywords": [
+      "待明确地区",
+      "Area not defined"
     ]
   },
   {
