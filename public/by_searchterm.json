@@ -3528,6 +3528,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=加拿大",
+    "keywords": [
+      "加拿大",
+      "Canada"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
     "keywords": [
       "澳大利亚",
@@ -3549,13 +3556,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=加拿大",
-    "keywords": [
-      "加拿大",
-      "Canada"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=希腊",
     "keywords": [
       "希腊",
@@ -3570,6 +3570,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=芬兰",
+    "keywords": [
+      "芬兰",
+      "Finland"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=以色列",
     "keywords": [
       "以色列",
@@ -3577,10 +3584,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=芬兰",
+    "url": "#tab=world-trends&continent=欧洲&country=爱尔兰",
     "keywords": [
-      "芬兰",
-      "Finland"
+      "爱尔兰",
+      "Ireland"
     ]
   },
   {
@@ -3612,10 +3619,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=爱尔兰",
+    "url": "#tab=world-trends&continent=欧洲&country=冰岛",
     "keywords": [
-      "爱尔兰",
-      "Ireland"
+      "冰岛",
+      "Iceland"
     ]
   },
   {
@@ -3644,13 +3651,6 @@
     "keywords": [
       "菲律宾",
       "Philippines"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=冰岛",
-    "keywords": [
-      "冰岛",
-      "Iceland"
     ]
   },
   {
@@ -3693,6 +3693,13 @@
     "keywords": [
       "伊拉克",
       "Iraq"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
+    "keywords": [
+      "卢森堡",
+      "Luxembourg"
     ]
   },
   {
@@ -3752,10 +3759,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
+    "url": "#tab=world-trends&continent=欧洲&country=保加利亚",
     "keywords": [
-      "卢森堡",
-      "Luxembourg"
+      "保加利亚",
+      "Bulgaria"
     ]
   },
   {
@@ -3763,6 +3770,13 @@
     "keywords": [
       "斯洛伐克",
       "Slovakia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=亚美尼亚",
+    "keywords": [
+      "亚美尼亚",
+      "Armenia"
     ]
   },
   {
@@ -3798,13 +3812,6 @@
     "keywords": [
       "阿根廷",
       "Argentina"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=亚美尼亚",
-    "keywords": [
-      "亚美尼亚",
-      "Armenia"
     ]
   },
   {
@@ -3850,10 +3857,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=保加利亚",
+    "url": "#tab=world-trends&continent=欧洲&country=阿尔巴尼亚",
     "keywords": [
-      "保加利亚",
-      "Bulgaria"
+      "阿尔巴尼亚",
+      "Albania"
     ]
   },
   {
@@ -3875,13 +3882,6 @@
     "keywords": [
       "斯里兰卡",
       "Sri Lanka"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=阿尔巴尼亚",
-    "keywords": [
-      "阿尔巴尼亚",
-      "Albania"
     ]
   },
   {
@@ -3952,6 +3952,13 @@
     "keywords": [
       "哈萨克斯坦",
       "Kazakhstan"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=北马其顿",
+    "keywords": [
+      "北马其顿",
+      "Macedonia"
     ]
   },
   {
@@ -4046,13 +4053,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=北马其顿",
-    "keywords": [
-      "北马其顿",
-      "Macedonia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=布基纳法索",
     "keywords": [
       "布基纳法索",
@@ -4071,6 +4071,13 @@
     "keywords": [
       "马提尼克",
       "Martinique"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
+    "keywords": [
+      "乌克兰",
+      "Ukraine"
     ]
   },
   {
@@ -4162,13 +4169,6 @@
     "keywords": [
       "卢旺达",
       "Rwanda"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
-    "keywords": [
-      "乌克兰",
-      "Ukraine"
     ]
   },
   {
