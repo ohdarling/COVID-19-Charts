@@ -4221,6 +4221,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=圣巴泰勒米岛",
+    "keywords": [
+      "圣巴泰勒米岛",
+      null
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=尼日利亚",
     "keywords": [
       "尼日利亚",
@@ -4274,6 +4281,13 @@
     "keywords": [
       "危地马拉",
       "Guatemala"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=库拉索岛",
+    "keywords": [
+      "库拉索岛",
+      null
     ]
   },
   {
@@ -4470,6 +4484,13 @@
     "keywords": [
       "坦桑尼亚",
       "Tanzania"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=圣卢西亚",
+    "keywords": [
+      "圣卢西亚",
+      "St.Lucia"
     ]
   }
 ]
