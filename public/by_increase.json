@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-17T06:54:03.444Z",
+    "lastUpdate": "2020-03-17T09:30:30.996Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -29,9 +29,9 @@
       },
       {
         "updateTime": "四川省",
-        "maxZeroIncrDays": 12,
-        "confirmedIncreased": 0,
-        "insickCount": 16
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 17
       },
       {
         "updateTime": "浙江省",
@@ -100,6 +100,12 @@
         "insickCount": 1
       },
       {
+        "updateTime": "贵州省",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 1
+      },
+      {
         "updateTime": "内蒙古自治区",
         "maxZeroIncrDays": 27,
         "confirmedIncreased": 0,
@@ -138,12 +144,6 @@
       {
         "updateTime": "福建省",
         "maxZeroIncrDays": 19,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "贵州省",
-        "maxZeroIncrDays": 29,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -1285,7 +1285,7 @@
   },
   {
     "name": "四川省",
-    "lastUpdate": "2020-03-17T01:01:23.248Z",
+    "lastUpdate": "2020-03-17T08:29:02.677Z",
     "records": [
       {
         "updateTime": "成都",
@@ -1297,6 +1297,12 @@
         "updateTime": "甘孜州",
         "maxZeroIncrDays": 18,
         "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "绵阳",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
         "insickCount": 1
       },
       {
@@ -1326,12 +1332,6 @@
       {
         "updateTime": "巴中",
         "maxZeroIncrDays": 32,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "绵阳",
-        "maxZeroIncrDays": 34,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -2233,13 +2233,13 @@
   },
   {
     "name": "贵州省",
-    "lastUpdate": "2020-03-16T06:53:45.409Z",
+    "lastUpdate": "2020-03-17T07:16:26.726Z",
     "records": [
       {
         "updateTime": "贵阳",
-        "maxZeroIncrDays": 29,
-        "confirmedIncreased": 0,
-        "insickCount": 0
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 1
       },
       {
         "updateTime": "遵义",
