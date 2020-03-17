@@ -2058,20 +2058,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=加拿大",
-    "keywords": [
-      "加拿大",
-      "Canada"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=加拿大&city=",
-    "keywords": [
-      "",
-      ""
-    ]
-  },
-  {
     "url": "#tab=trends&province=卡塔尔",
     "keywords": [
       "卡塔尔",
@@ -2080,6 +2066,20 @@
   },
   {
     "url": "#tab=trends&province=卡塔尔&city=",
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=加拿大",
+    "keywords": [
+      "加拿大",
+      "Canada"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=加拿大&city=",
     "keywords": [
       "",
       ""
@@ -2254,6 +2254,20 @@
     ]
   },
   {
+    "url": "#tab=trends&province=捷克",
+    "keywords": [
+      "捷克",
+      "Czech Republic"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=捷克&city=",
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
     "url": "#tab=trends&province=河北省",
     "keywords": [
       "河北省",
@@ -2338,14 +2352,14 @@
     ]
   },
   {
-    "url": "#tab=trends&province=捷克",
+    "url": "#tab=trends&province=以色列",
     "keywords": [
-      "捷克",
-      "Czech Republic"
+      "以色列",
+      "Israel"
     ]
   },
   {
-    "url": "#tab=trends&province=捷克&city=",
+    "url": "#tab=trends&province=以色列&city=",
     "keywords": [
       "",
       ""
@@ -2430,20 +2444,6 @@
   },
   {
     "url": "#tab=trends&province=芬兰&city=",
-    "keywords": [
-      "",
-      ""
-    ]
-  },
-  {
-    "url": "#tab=trends&province=斯洛文尼亚",
-    "keywords": [
-      "斯洛文尼亚",
-      "Slovenia"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=斯洛文尼亚&city=",
     "keywords": [
       "",
       ""
@@ -2548,14 +2548,21 @@
     ]
   },
   {
-    "url": "#tab=trends&province=以色列",
+    "url": "#tab=trends&province=广西壮族自治区&city=境外输入人员",
     "keywords": [
-      "以色列",
-      "Israel"
+      "境外输入人员",
+      ""
     ]
   },
   {
-    "url": "#tab=trends&province=以色列&city=",
+    "url": "#tab=trends&province=斯洛文尼亚",
+    "keywords": [
+      "斯洛文尼亚",
+      "Slovenia"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=斯洛文尼亚&city=",
     "keywords": [
       "",
       ""
@@ -2703,6 +2710,20 @@
   },
   {
     "url": "#tab=trends&province=爱尔兰&city=",
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=爱沙尼亚",
+    "keywords": [
+      "爱沙尼亚",
+      "Estonia"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=爱沙尼亚&city=",
     "keywords": [
       "",
       ""
@@ -2863,13 +2884,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=云南省&city=临沧",
-    "keywords": [
-      "临沧",
-      "Lincang"
-    ]
-  },
-  {
     "url": "#tab=trends&province=云南省&city=境外输入人员",
     "keywords": [
       "境外输入人员",
@@ -2877,17 +2891,10 @@
     ]
   },
   {
-    "url": "#tab=trends&province=爱沙尼亚",
+    "url": "#tab=trends&province=云南省&city=临沧",
     "keywords": [
-      "爱沙尼亚",
-      "Estonia"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=爱沙尼亚&city=",
-    "keywords": [
-      "",
-      ""
+      "临沧",
+      "Lincang"
     ]
   },
   {
@@ -3017,6 +3024,20 @@
     ]
   },
   {
+    "url": "#tab=trends&province=罗马尼亚",
+    "keywords": [
+      "罗马尼亚",
+      "Romania"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=罗马尼亚&city=",
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
     "url": "#tab=trends&province=香港",
     "keywords": [
       "香港",
@@ -3025,6 +3046,20 @@
   },
   {
     "url": "#tab=trends&province=香港&city=",
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=智利",
+    "keywords": [
+      "智利",
+      "Chile"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=智利&city=",
     "keywords": [
       "",
       ""
@@ -3570,20 +3605,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=罗马尼亚",
-    "keywords": [
-      "罗马尼亚",
-      "Romania"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=罗马尼亚&city=",
-    "keywords": [
-      "",
-      ""
-    ]
-  },
-  {
     "url": "#tab=trends&province=印度",
     "keywords": [
       "印度",
@@ -3714,6 +3735,20 @@
     "keywords": [
       "梅河口",
       "Meihekou"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=俄罗斯",
+    "keywords": [
+      "俄罗斯",
+      "Russia"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=俄罗斯&city=",
+    "keywords": [
+      "",
+      ""
     ]
   },
   {
@@ -4025,20 +4060,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=智利",
-    "keywords": [
-      "智利",
-      "Chile"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=智利&city=",
-    "keywords": [
-      "",
-      ""
-    ]
-  },
-  {
     "url": "#tab=trends&province=秘鲁",
     "keywords": [
       "秘鲁",
@@ -4061,20 +4082,6 @@
   },
   {
     "url": "#tab=trends&province=台湾&city=",
-    "keywords": [
-      "",
-      ""
-    ]
-  },
-  {
-    "url": "#tab=trends&province=俄罗斯",
-    "keywords": [
-      "俄罗斯",
-      "Russia"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=俄罗斯&city=",
     "keywords": [
       "",
       ""
@@ -4131,6 +4138,20 @@
   },
   {
     "url": "#tab=trends&province=阿尔及利亚&city=",
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=克罗地亚",
+    "keywords": [
+      "克罗地亚",
+      "Croatia"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=克罗地亚&city=",
     "keywords": [
       "",
       ""
@@ -4235,20 +4256,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=克罗地亚",
-    "keywords": [
-      "克罗地亚",
-      "Croatia"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=克罗地亚&city=",
-    "keywords": [
-      "",
-      ""
-    ]
-  },
-  {
     "url": "#tab=trends&province=哥伦比亚",
     "keywords": [
       "哥伦比亚",
@@ -4271,6 +4278,20 @@
   },
   {
     "url": "#tab=trends&province=阿尔巴尼亚&city=",
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=摩洛哥",
+    "keywords": [
+      "摩洛哥",
+      "Morocco"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=摩洛哥&city=",
     "keywords": [
       "",
       ""
@@ -4319,6 +4340,20 @@
     ]
   },
   {
+    "url": "#tab=trends&province=拉脱维亚",
+    "keywords": [
+      "拉脱维亚",
+      "Latvia"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=拉脱维亚&city=",
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
     "url": "#tab=trends&province=格鲁吉亚",
     "keywords": [
       "格鲁吉亚",
@@ -4361,14 +4396,14 @@
     ]
   },
   {
-    "url": "#tab=trends&province=拉脱维亚",
+    "url": "#tab=trends&province=约旦",
     "keywords": [
-      "拉脱维亚",
-      "Latvia"
+      "约旦",
+      "Jordan"
     ]
   },
   {
-    "url": "#tab=trends&province=拉脱维亚&city=",
+    "url": "#tab=trends&province=约旦&city=",
     "keywords": [
       "",
       ""
@@ -4383,20 +4418,6 @@
   },
   {
     "url": "#tab=trends&province=斯里兰卡&city=",
-    "keywords": [
-      "",
-      ""
-    ]
-  },
-  {
-    "url": "#tab=trends&province=摩洛哥",
-    "keywords": [
-      "摩洛哥",
-      "Morocco"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=摩洛哥&city=",
     "keywords": [
       "",
       ""
@@ -4557,20 +4578,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=约旦",
-    "keywords": [
-      "约旦",
-      "Jordan"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=约旦&city=",
-    "keywords": [
-      "",
-      ""
-    ]
-  },
-  {
     "url": "#tab=trends&province=突尼斯",
     "keywords": [
       "突尼斯",
@@ -4649,6 +4656,20 @@
   },
   {
     "url": "#tab=trends&province=立陶宛&city=",
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=安道尔",
+    "keywords": [
+      "安道尔",
+      "Andorra"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=安道尔&city=",
     "keywords": [
       "",
       ""
@@ -4809,6 +4830,20 @@
     ]
   },
   {
+    "url": "#tab=trends&province=科特迪瓦",
+    "keywords": [
+      "科特迪瓦",
+      "Ivory Coast"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=科特迪瓦&city=",
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
     "url": "#tab=trends&province=加纳",
     "keywords": [
       "加纳",
@@ -4921,20 +4956,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=科特迪瓦",
-    "keywords": [
-      "科特迪瓦",
-      "Ivory Coast"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=科特迪瓦&city=",
-    "keywords": [
-      "",
-      ""
-    ]
-  },
-  {
     "url": "#tab=trends&province=圭亚那",
     "keywords": [
       "圭亚那",
@@ -4957,6 +4978,20 @@
   },
   {
     "url": "#tab=trends&province=古巴&city=",
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=塞舌尔",
+    "keywords": [
+      "塞舌尔",
+      "Seychelles"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=塞舌尔&city=",
     "keywords": [
       "",
       ""
@@ -5061,20 +5096,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=安道尔",
-    "keywords": [
-      "安道尔",
-      "Andorra"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=安道尔&city=",
-    "keywords": [
-      "",
-      ""
-    ]
-  },
-  {
     "url": "#tab=trends&province=玻利维亚",
     "keywords": [
       "玻利维亚",
@@ -5167,20 +5188,6 @@
   },
   {
     "url": "#tab=trends&province=纳米比亚&city=",
-    "keywords": [
-      "",
-      ""
-    ]
-  },
-  {
-    "url": "#tab=trends&province=塞舌尔",
-    "keywords": [
-      "塞舌尔",
-      "Seychelles"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=塞舌尔&city=",
     "keywords": [
       "",
       ""
@@ -5593,6 +5600,20 @@
     ]
   },
   {
+    "url": "#tab=trends&province=坦桑尼亚",
+    "keywords": [
+      "坦桑尼亚",
+      "Tanzania"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=坦桑尼亚&city=",
+    "keywords": [
+      "",
+      ""
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=意大利",
     "keywords": [
       "意大利",
@@ -5796,6 +5817,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=爱尔兰",
+    "keywords": [
+      "爱尔兰",
+      "Ireland"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=巴西",
     "keywords": [
       "巴西",
@@ -5831,10 +5859,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=爱尔兰",
+    "url": "#tab=world-trends&continent=非洲&country=埃及",
     "keywords": [
-      "爱尔兰",
-      "Ireland"
+      "埃及",
+      "Egypt"
     ]
   },
   {
@@ -5870,13 +5898,6 @@
     "keywords": [
       "沙特阿拉伯",
       "Saudi Arabia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=埃及",
-    "keywords": [
-      "埃及",
-      "Egypt"
     ]
   },
   {
@@ -6017,6 +6038,13 @@
     "keywords": [
       "保加利亚",
       "Bulgaria"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=土耳其",
+    "keywords": [
+      "土耳其",
+      "Turkey"
     ]
   },
   {
@@ -6199,13 +6227,6 @@
     "keywords": [
       "北马其顿",
       "Macedonia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=土耳其",
-    "keywords": [
-      "土耳其",
-      "Turkey"
     ]
   },
   {
