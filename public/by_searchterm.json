@@ -3423,17 +3423,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=韩国",
-    "keywords": [
-      "韩国",
-      "Korea"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=德国",
     "keywords": [
       "德国",
       "Germany"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=韩国",
+    "keywords": [
+      "韩国",
+      "Korea"
     ]
   },
   {
@@ -3892,6 +3892,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=约旦",
+    "keywords": [
+      "约旦",
+      "Jordan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=巴勒斯坦",
     "keywords": [
       "巴勒斯坦",
@@ -3917,13 +3924,6 @@
     "keywords": [
       "拉脱维亚",
       "Latvia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=约旦",
-    "keywords": [
-      "约旦",
-      "Jordan"
     ]
   },
   {
@@ -4004,6 +4004,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=立陶宛",
+    "keywords": [
+      "立陶宛",
+      "Lithuania"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=其他&country=至尊公主邮轮",
     "keywords": [
       "至尊公主邮轮",
@@ -4043,13 +4050,6 @@
     "keywords": [
       "北马其顿",
       "Macedonia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=立陶宛",
-    "keywords": [
-      "立陶宛",
-      "Lithuania"
     ]
   },
   {
