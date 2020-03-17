@@ -1960,17 +1960,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=北京市&city=大兴区",
-    "keywords": [
-      "大兴区",
-      "Daxing District"
-    ]
-  },
-  {
     "url": "#tab=trends&province=北京市&city=境外输入人员",
     "keywords": [
       "境外输入人员",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=大兴区",
+    "keywords": [
+      "大兴区",
+      "Daxing District"
     ]
   },
   {
@@ -2657,6 +2657,13 @@
     "keywords": [
       "杨凌",
       "Yangling District in Xianyang"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=陕西省&city=境外输入人员",
+    "keywords": [
+      "境外输入人员",
+      ""
     ]
   },
   {
@@ -5740,17 +5747,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=加拿大",
-    "keywords": [
-      "加拿大",
-      "Canada"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=卡塔尔",
     "keywords": [
       "卡塔尔",
       "Qatar"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=加拿大",
+    "keywords": [
+      "加拿大",
+      "Canada"
     ]
   },
   {
@@ -5775,6 +5782,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=以色列",
+    "keywords": [
+      "以色列",
+      "Israel"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=芬兰",
     "keywords": [
       "芬兰",
@@ -5786,13 +5800,6 @@
     "keywords": [
       "斯洛文尼亚",
       "Slovenia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=以色列",
-    "keywords": [
-      "以色列",
-      "Israel"
     ]
   },
   {
@@ -5824,6 +5831,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=爱沙尼亚",
+    "keywords": [
+      "爱沙尼亚",
+      "Estonia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=巴西",
     "keywords": [
       "巴西",
@@ -5852,17 +5866,24 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=爱沙尼亚",
-    "keywords": [
-      "爱沙尼亚",
-      "Estonia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=埃及",
     "keywords": [
       "埃及",
       "Egypt"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=罗马尼亚",
+    "keywords": [
+      "罗马尼亚",
+      "Romania"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=智利",
+    "keywords": [
+      "智利",
+      "Chile"
     ]
   },
   {
@@ -5901,13 +5922,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=罗马尼亚",
-    "keywords": [
-      "罗马尼亚",
-      "Romania"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=科威特",
     "keywords": [
       "科威特",
@@ -5943,6 +5957,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
+    "keywords": [
+      "俄罗斯",
+      "Russia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
     "keywords": [
       "卢森堡",
@@ -5950,24 +5971,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=智利",
-    "keywords": [
-      "智利",
-      "Chile"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
     "keywords": [
       "秘鲁",
       "Peru"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
-    "keywords": [
-      "俄罗斯",
-      "Russia"
     ]
   },
   {
@@ -6003,6 +6010,13 @@
     "keywords": [
       "塞尔维亚",
       "Serbia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=克罗地亚",
+    "keywords": [
+      "克罗地亚",
+      "Croatia"
     ]
   },
   {
@@ -6048,13 +6062,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=克罗地亚",
-    "keywords": [
-      "克罗地亚",
-      "Croatia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=南美洲&country=哥伦比亚",
     "keywords": [
       "哥伦比亚",
@@ -6066,6 +6073,13 @@
     "keywords": [
       "阿尔巴尼亚",
       "Albania"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
+    "keywords": [
+      "摩洛哥",
+      "Morocco"
     ]
   },
   {
@@ -6090,6 +6104,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=拉脱维亚",
+    "keywords": [
+      "拉脱维亚",
+      "Latvia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=格鲁吉亚",
     "keywords": [
       "格鲁吉亚",
@@ -6111,17 +6132,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=拉脱维亚",
+    "url": "#tab=world-trends&continent=亚洲&country=约旦",
     "keywords": [
-      "拉脱维亚",
-      "Latvia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
-    "keywords": [
-      "摩洛哥",
-      "Morocco"
+      "约旦",
+      "Jordan"
     ]
   },
   {
@@ -6202,13 +6216,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=约旦",
-    "keywords": [
-      "约旦",
-      "Jordan"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=undefined&country=undefined",
     "keywords": [
       null,
@@ -6241,6 +6248,13 @@
     "keywords": [
       "布基纳法索",
       "Burkina Faso"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=安道尔",
+    "keywords": [
+      "安道尔",
+      "Andorra"
     ]
   },
   {
@@ -6335,6 +6349,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=科特迪瓦",
+    "keywords": [
+      "科特迪瓦",
+      "Côte d'Ivoire"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=法属圭亚那",
     "keywords": [
       "法属圭亚那",
@@ -6363,13 +6384,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=科特迪瓦",
-    "keywords": [
-      "科特迪瓦",
-      "Côte d'Ivoire"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=南美洲&country=圭亚那",
     "keywords": [
       "圭亚那",
@@ -6381,6 +6395,13 @@
     "keywords": [
       "列支敦士登",
       "Liechtenstein"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=塞舌尔",
+    "keywords": [
+      "塞舌尔",
+      "Seychelles"
     ]
   },
   {
@@ -6447,13 +6468,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=安道尔",
-    "keywords": [
-      "安道尔",
-      "Andorra"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=法罗群岛",
     "keywords": [
       "法罗群岛",
@@ -6479,13 +6493,6 @@
     "keywords": [
       "纳米比亚",
       "Namibia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=塞舌尔",
-    "keywords": [
-      "塞舌尔",
-      "Seychelles"
     ]
   },
   {
@@ -6682,6 +6689,13 @@
     "keywords": [
       "格陵兰",
       null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=坦桑尼亚",
+    "keywords": [
+      "坦桑尼亚",
+      "Tanzania"
     ]
   }
 ]
