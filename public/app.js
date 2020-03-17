@@ -50,12 +50,16 @@ const mobulesConfig = {
 // })();
 
 const allTabs = (() => {
-  return [].slice.call(document.querySelectorAll('#navbar a.nav-link')).reduce((p, v) => {
-    const tab = v.href.split('#')[1].split('=')[1];
+  return [].slice.call(document.querySelectorAll('#navbar a.nav-link, #navbar a.dropdown-item')).reduce((p, v) => {
+    const tab = v.href.split('&')[0].split('#')[1].split('=')[1];
+    const titleMap = {
+      'world-trends': '各国趋势',
+      'countries-compare': '国家对比',
+    };
     p[tab] = {
       tab,
       el: v,
-      title: v.innerHTML.trim(),
+      title: titleMap[tab] || v.innerHTML.trim(),
     };
     return p;
   }, {});
