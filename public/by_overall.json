@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-16T21:21:50.168Z",
+    "lastUpdate": "2020-03-16T21:46:18.623Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1525,7 +1525,7 @@
         "deadIncreased": 0,
         "seriousIncreased": 0,
         "insickCount": 9951,
-        "lastUpdate": "2020-03-16T21:21:50.168Z",
+        "lastUpdate": "2020-03-16T21:46:18.623Z",
         "updateDate": "2020/3/17",
         "seriousRate": "3.74",
         "seriousDayRate": "0.00",
@@ -2343,23 +2343,23 @@
         "deadDayRate": "0.42"
       },
       {
-        "confirmedCount": 177506,
+        "confirmedCount": 177629,
         "curedCount": 78590,
         "deadCount": 7022,
         "lastUpdate": "2020-03-16T13:54:38.537Z",
         "updateTime": "3/17",
         "zipCode": "951001",
         "suspectedCount": 0,
-        "insickCount": 91894,
-        "confirmedIncreased": 5313,
+        "insickCount": 92017,
+        "confirmedIncreased": 5436,
         "curedIncreased": 444,
         "deadIncreased": 370,
-        "curedRate": "44.27",
-        "deadRate": "3.96",
+        "curedRate": "44.24",
+        "deadRate": "3.95",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-03-16T21:21:50.168Z",
+    "lastUpdate": "2020-03-16T21:46:18.623Z",
     "updateTime": "3/17",
     "zipCode": "951001",
     "confirmedCount": 81099,
@@ -3330,6 +3330,12 @@
         "insickCount": 245
       },
       {
+        "updateTime": "爱尔兰",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 54,
+        "insickCount": 221
+      },
+      {
         "updateTime": "巴西",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
@@ -3354,12 +3360,6 @@
         "insickCount": 171
       },
       {
-        "updateTime": "爱尔兰",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 167
-      },
-      {
         "updateTime": "波兰",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 52,
@@ -3375,6 +3375,12 @@
         "updateTime": "新加坡",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 17,
+        "insickCount": 138
+      },
+      {
+        "updateTime": "埃及",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 40,
         "insickCount": 138
       },
       {
@@ -3418,12 +3424,6 @@
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 4,
         "insickCount": 109
-      },
-      {
-        "updateTime": "埃及",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 98
       },
       {
         "updateTime": "黎巴嫩",
@@ -3537,6 +3537,12 @@
         "updateTime": "广东省",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 1,
+        "insickCount": 47
+      },
+      {
+        "updateTime": "土耳其",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 29,
         "insickCount": 47
       },
       {
@@ -3716,12 +3722,6 @@
       {
         "updateTime": "马耳他",
         "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 18
-      },
-      {
-        "updateTime": "土耳其",
-        "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 18
       },
