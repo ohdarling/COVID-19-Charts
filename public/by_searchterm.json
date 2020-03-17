@@ -3591,6 +3591,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=巴西",
+    "keywords": [
+      "巴西",
+      "Brazil"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=巴林",
     "keywords": [
       "巴林",
@@ -3609,13 +3616,6 @@
     "keywords": [
       "爱沙尼亚",
       "Estonia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=巴西",
-    "keywords": [
-      "巴西",
-      "Brazil"
     ]
   },
   {
@@ -3745,6 +3745,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=斯洛伐克",
+    "keywords": [
+      "斯洛伐克",
+      "Slovakia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
     "keywords": [
       "秘鲁",
@@ -3752,17 +3759,17 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
+    "keywords": [
+      "巴拿马",
+      "Panama"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=南非",
     "keywords": [
       "南非",
       "South Africa"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=斯洛伐克",
-    "keywords": [
-      "斯洛伐克",
-      "Slovakia"
     ]
   },
   {
@@ -3794,17 +3801,17 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=哥伦比亚",
+    "keywords": [
+      "哥伦比亚",
+      "Colombia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
     "keywords": [
       "阿根廷",
       "Argentina"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
-    "keywords": [
-      "巴拿马",
-      "Panama"
     ]
   },
   {
@@ -3836,17 +3843,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=哥伦比亚",
-    "keywords": [
-      "哥伦比亚",
-      "Colombia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=阿尔巴尼亚",
     "keywords": [
       "阿尔巴尼亚",
       "Albania"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=哥斯达黎加",
+    "keywords": [
+      "哥斯达黎加",
+      "Costa Rica"
     ]
   },
   {
@@ -3871,13 +3878,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=哥斯达黎加",
-    "keywords": [
-      "哥斯达黎加",
-      "Costa Rica"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=拉脱维亚",
     "keywords": [
       "拉脱维亚",
@@ -3899,6 +3899,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=委内瑞拉",
+    "keywords": [
+      "委内瑞拉",
+      "Venezuela"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
     "keywords": [
       "匈牙利",
@@ -3917,6 +3924,13 @@
     "keywords": [
       "斯里兰卡",
       "Sri Lanka"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=乌拉圭",
+    "keywords": [
+      "乌拉圭",
+      "Uruguay"
     ]
   },
   {
@@ -4039,10 +4053,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=委内瑞拉",
+    "url": "#tab=world-trends&continent=南美洲&country=巴拉圭",
     "keywords": [
-      "委内瑞拉",
-      "Venezuela"
+      "巴拉圭",
+      "Paraguay"
     ]
   },
   {
@@ -4085,20 +4099,6 @@
     "keywords": [
       "乌克兰",
       "Ukraine"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=巴拉圭",
-    "keywords": [
-      "巴拉圭",
-      "Paraguay"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=乌拉圭",
-    "keywords": [
-      "乌拉圭",
-      "Uruguay"
     ]
   },
   {
