@@ -2,7 +2,7 @@
 /* exported switchMapMetrics searchArea */
 
 let allDataStore = {};
-let mapDisplayMetrics = 'accum';
+let mapDisplayMetrics = 'current';
 
 const mobulesConfig = {
   'summary': {
@@ -482,8 +482,8 @@ async function createMapChartConfig({ mapName, data, valueKey = 'confirmedCount'
           tooltip: {
             formatter: ({ name, data }) => {
               if (data) {
-                const { name, /*value,*/ confirmed, dead, cured, increased } = data;
-                const tip = `<b>${name}</b><br />${getTextForKey('确诊人数：')}${confirmed}<br />${getTextForKey('治愈人数：')}${cured}<br />${getTextForKey('死亡人数：')}${dead}<br />${getTextForKey('新增确诊：')}${increased}`;
+                const { name, /*value,*/ confirmed, dead, cured, increased, insick } = data;
+                const tip = `<b>${name}</b><br />${getTextForKey('现存确诊：')}${insick}<br />${getTextForKey('累计确诊：')}${confirmed}<br />${getTextForKey('治愈人数：')}${cured}<br />${getTextForKey('死亡人数：')}${dead}<br />${getTextForKey('新增确诊：')}${increased}`;
                 return tip;
               }
               return `<b>${name}</b><br />${getTextForKey('暂无数据')}`;
@@ -525,6 +525,7 @@ async function createMapChartConfig({ mapName, data, valueKey = 'confirmedCount'
                 dead: r.deadCount,
                 cured: r.curedCount,
                 increased: r.confirmedIncreased,
+                insick: r.insickCount,
               };
             }),
           },
