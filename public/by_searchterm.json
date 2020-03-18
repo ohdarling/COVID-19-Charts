@@ -1820,17 +1820,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=上海市&city=宝山区",
-    "keywords": [
-      "宝山区",
-      "Baoshan District"
-    ]
-  },
-  {
     "url": "#tab=trends&province=上海市&city=境外输入人员",
     "keywords": [
       "境外输入人员",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=上海市&city=宝山区",
+    "keywords": [
+      "宝山区",
+      "Baoshan District"
     ]
   },
   {
@@ -3563,17 +3563,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=芬兰",
-    "keywords": [
-      "芬兰",
-      "Finland"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=以色列",
     "keywords": [
       "以色列",
       "Israel"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=芬兰",
+    "keywords": [
+      "芬兰",
+      "Finland"
     ]
   },
   {
@@ -3745,6 +3745,20 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=土耳其",
+    "keywords": [
+      "土耳其",
+      "Turkey"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=斯洛伐克",
+    "keywords": [
+      "斯洛伐克",
+      "Slovakia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
     "keywords": [
       "俄罗斯",
@@ -3763,13 +3777,6 @@
     "keywords": [
       "保加利亚",
       "Bulgaria"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=斯洛伐克",
-    "keywords": [
-      "斯洛伐克",
-      "Slovakia"
     ]
   },
   {
@@ -3864,13 +3871,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=土耳其",
-    "keywords": [
-      "土耳其",
-      "Turkey"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
     "keywords": [
       "斯里兰卡",
@@ -3941,6 +3941,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
+    "keywords": [
+      "阿曼",
+      "Oman"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
     "keywords": [
       "哈萨克斯坦",
@@ -3990,13 +3997,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
-    "keywords": [
-      "阿曼",
-      "Oman"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=阿富汗",
     "keywords": [
       "阿富汗",
@@ -4039,17 +4039,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=undefined&country=undefined",
-    "keywords": [
-      null,
-      null
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=布基纳法索",
     "keywords": [
       "布基纳法索",
       "Burkina Faso"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=undefined&country=undefined",
+    "keywords": [
+      null,
+      null
     ]
   },
   {
@@ -4277,6 +4277,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=关岛",
+    "keywords": [
+      "关岛",
+      "Guam"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=洪都拉斯",
     "keywords": [
       "洪都拉斯",
@@ -4336,6 +4343,13 @@
     "url": "#tab=world-trends&continent=欧洲&country=黑山",
     "keywords": [
       "黑山",
+      null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=美属维尔京群岛",
+    "keywords": [
+      "美属维尔京群岛",
       null
     ]
   },
@@ -4512,6 +4526,13 @@
     "keywords": [
       "圣卢西亚",
       "St.Lucia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=冈比亚",
+    "keywords": [
+      "冈比亚",
+      "Gambia"
     ]
   }
 ]
