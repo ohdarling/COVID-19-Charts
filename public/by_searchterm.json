@@ -1792,13 +1792,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=北京市&city=待明确地区",
-    "keywords": [
-      "待明确地区",
-      "Area not defined"
-    ]
-  },
-  {
     "url": "#tab=trends&province=上海市",
     "keywords": [
       "上海市",
@@ -3556,17 +3549,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=希腊",
-    "keywords": [
-      "希腊",
-      "Greece"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=捷克",
     "keywords": [
       "捷克",
       "Czech Rep."
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=希腊",
+    "keywords": [
+      "希腊",
+      "Greece"
     ]
   },
   {
@@ -3591,6 +3584,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=巴西",
+    "keywords": [
+      "巴西",
+      "Brazil"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=新加坡",
     "keywords": [
       "新加坡",
@@ -3609,13 +3609,6 @@
     "keywords": [
       "巴林",
       "Bahrain"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=巴西",
-    "keywords": [
-      "巴西",
-      "Brazil"
     ]
   },
   {
@@ -3647,6 +3640,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=埃及",
+    "keywords": [
+      "埃及",
+      "Egypt"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
     "keywords": [
       "菲律宾",
@@ -3665,13 +3665,6 @@
     "keywords": [
       "印度尼西亚",
       "Indonesia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=埃及",
-    "keywords": [
-      "埃及",
-      "Egypt"
     ]
   },
   {
@@ -3731,6 +3724,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
+    "keywords": [
+      "秘鲁",
+      "Peru"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=阿联酋",
     "keywords": [
       "阿联酋",
@@ -3777,13 +3777,6 @@
     "keywords": [
       "亚美尼亚",
       "Armenia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
-    "keywords": [
-      "秘鲁",
-      "Peru"
     ]
   },
   {
@@ -3962,6 +3955,20 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
+    "keywords": [
+      "塞内加尔",
+      "Senegal"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=摩尔多瓦",
+    "keywords": [
+      "摩尔多瓦",
+      "Moldova"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=乌拉圭",
     "keywords": [
       "乌拉圭",
@@ -3976,13 +3983,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
-    "keywords": [
-      "塞内加尔",
-      "Senegal"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=波黑",
     "keywords": [
       "波黑",
@@ -3994,13 +3994,6 @@
     "keywords": [
       "阿曼",
       "Oman"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=摩尔多瓦",
-    "keywords": [
-      "摩尔多瓦",
-      "Moldova"
     ]
   },
   {
@@ -4337,6 +4330,13 @@
     "keywords": [
       "利比里亚",
       "Liberia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=黑山",
+    "keywords": [
+      "黑山",
+      null
     ]
   },
   {

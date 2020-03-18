@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-17T21:04:31.914Z",
+    "lastUpdate": "2020-03-17T23:21:15.191Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -1610,12 +1610,6 @@
         "maxZeroIncrDays": 44,
         "confirmedIncreased": 0,
         "insickCount": 1
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 55,
-        "confirmedIncreased": 0,
-        "insickCount": 0
       }
     ]
   },
