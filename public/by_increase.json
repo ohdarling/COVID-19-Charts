@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-18T14:16:04.645Z",
+    "lastUpdate": "2020-03-18T16:31:40.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -193,7 +193,7 @@
   },
   {
     "name": "广东省",
-    "lastUpdate": "2020-03-18T08:52:18.730Z",
+    "lastUpdate": "2020-03-18T08:52:18.000Z",
     "records": [
       {
         "updateTime": "广州",
@@ -337,7 +337,7 @@
   },
   {
     "name": "河南省",
-    "lastUpdate": "2020-03-14T09:49:06.329Z",
+    "lastUpdate": "2020-03-14T09:49:06.000Z",
     "records": [
       {
         "updateTime": "邓州",
@@ -493,7 +493,7 @@
   },
   {
     "name": "浙江省",
-    "lastUpdate": "2020-03-17T02:00:13.343Z",
+    "lastUpdate": "2020-03-17T02:00:13.000Z",
     "records": [
       {
         "updateTime": "丽水",
@@ -577,7 +577,7 @@
   },
   {
     "name": "湖南省",
-    "lastUpdate": "2020-03-14T08:25:05.688Z",
+    "lastUpdate": "2020-03-14T08:25:05.000Z",
     "records": [
       {
         "updateTime": "长沙",
@@ -667,7 +667,7 @@
   },
   {
     "name": "安徽省",
-    "lastUpdate": "2020-03-08T05:19:01.846Z",
+    "lastUpdate": "2020-03-08T05:19:01.000Z",
     "records": [
       {
         "updateTime": "宿松",
@@ -781,7 +781,7 @@
   },
   {
     "name": "江西省",
-    "lastUpdate": "2020-03-12T02:08:05.610Z",
+    "lastUpdate": "2020-03-12T02:08:05.000Z",
     "records": [
       {
         "updateTime": "南昌",
@@ -859,7 +859,7 @@
   },
   {
     "name": "山东省",
-    "lastUpdate": "2020-03-17T00:32:28.482Z",
+    "lastUpdate": "2020-03-17T00:32:28.000Z",
     "records": [
       {
         "updateTime": "任城监狱",
@@ -967,7 +967,7 @@
   },
   {
     "name": "江苏省",
-    "lastUpdate": "2020-03-15T01:47:45.850Z",
+    "lastUpdate": "2020-03-15T01:47:45.000Z",
     "records": [
       {
         "updateTime": "南京",
@@ -1051,7 +1051,7 @@
   },
   {
     "name": "重庆市",
-    "lastUpdate": "2020-03-15T03:37:10.875Z",
+    "lastUpdate": "2020-03-15T03:37:10.000Z",
     "records": [
       {
         "updateTime": "万州区",
@@ -1291,7 +1291,7 @@
   },
   {
     "name": "四川省",
-    "lastUpdate": "2020-03-18T02:08:57.962Z",
+    "lastUpdate": "2020-03-18T02:08:57.000Z",
     "records": [
       {
         "updateTime": "成都",
@@ -1423,7 +1423,7 @@
   },
   {
     "name": "黑龙江省",
-    "lastUpdate": "2020-03-18T05:25:52.203Z",
+    "lastUpdate": "2020-03-18T05:25:52.000Z",
     "records": [
       {
         "updateTime": "齐齐哈尔",
@@ -1507,7 +1507,7 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-18T05:16:12.292Z",
+    "lastUpdate": "2020-03-18T05:16:12.000Z",
     "records": [
       {
         "updateTime": "朝阳区",
@@ -1621,7 +1621,7 @@
   },
   {
     "name": "上海市",
-    "lastUpdate": "2020-03-18T05:47:49.900Z",
+    "lastUpdate": "2020-03-18T05:47:49.000Z",
     "records": [
       {
         "updateTime": "浦东区",
@@ -1741,7 +1741,7 @@
   },
   {
     "name": "河北省",
-    "lastUpdate": "2020-03-13T00:11:06.362Z",
+    "lastUpdate": "2020-03-13T00:11:06.000Z",
     "records": [
       {
         "updateTime": "唐山",
@@ -1813,7 +1813,7 @@
   },
   {
     "name": "福建省",
-    "lastUpdate": "2020-03-07T13:54:02.244Z",
+    "lastUpdate": "2020-03-07T13:54:02.000Z",
     "records": [
       {
         "updateTime": "福州",
@@ -1873,7 +1873,7 @@
   },
   {
     "name": "广西壮族自治区",
-    "lastUpdate": "2020-03-18T00:25:23.165Z",
+    "lastUpdate": "2020-03-18T00:25:23.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
@@ -1963,7 +1963,7 @@
   },
   {
     "name": "陕西省",
-    "lastUpdate": "2020-03-18T03:50:40.951Z",
+    "lastUpdate": "2020-03-18T03:50:40.000Z",
     "records": [
       {
         "updateTime": "西安",
@@ -2047,7 +2047,7 @@
   },
   {
     "name": "云南省",
-    "lastUpdate": "2020-03-16T23:37:18.882Z",
+    "lastUpdate": "2020-03-16T23:37:18.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
@@ -2143,7 +2143,7 @@
   },
   {
     "name": "海南省",
-    "lastUpdate": "2020-03-16T13:49:01.800Z",
+    "lastUpdate": "2020-03-16T13:49:01.000Z",
     "records": [
       {
         "updateTime": "海口",
@@ -2239,7 +2239,7 @@
   },
   {
     "name": "贵州省",
-    "lastUpdate": "2020-03-18T01:37:43.374Z",
+    "lastUpdate": "2020-03-18T01:37:43.000Z",
     "records": [
       {
         "updateTime": "贵阳",
@@ -2299,7 +2299,7 @@
   },
   {
     "name": "天津市",
-    "lastUpdate": "2020-03-15T09:24:28.841Z",
+    "lastUpdate": "2020-03-15T09:24:28.000Z",
     "records": [
       {
         "updateTime": "宝坻区",
@@ -2395,7 +2395,7 @@
   },
   {
     "name": "山西省",
-    "lastUpdate": "2020-03-13T08:56:40.560Z",
+    "lastUpdate": "2020-03-13T08:56:40.000Z",
     "records": [
       {
         "updateTime": "晋中",
@@ -2467,7 +2467,7 @@
   },
   {
     "name": "甘肃省",
-    "lastUpdate": "2020-03-15T13:41:38.179Z",
+    "lastUpdate": "2020-03-15T13:41:38.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
@@ -2545,7 +2545,7 @@
   },
   {
     "name": "辽宁省",
-    "lastUpdate": "2020-03-18T02:08:57.962Z",
+    "lastUpdate": "2020-03-18T02:08:57.000Z",
     "records": [
       {
         "updateTime": "丹东",
@@ -2629,7 +2629,7 @@
   },
   {
     "name": "吉林省",
-    "lastUpdate": "2020-03-12T12:54:34.585Z",
+    "lastUpdate": "2020-03-12T12:54:34.000Z",
     "records": [
       {
         "updateTime": "长春",
@@ -2695,7 +2695,7 @@
   },
   {
     "name": "新疆维吾尔自治区",
-    "lastUpdate": "2020-03-08T05:31:02.507Z",
+    "lastUpdate": "2020-03-08T05:31:02.000Z",
     "records": [
       {
         "updateTime": "第九师",
@@ -2827,7 +2827,7 @@
   },
   {
     "name": "宁夏回族自治区",
-    "lastUpdate": "2020-03-16T08:47:05.867Z",
+    "lastUpdate": "2020-03-16T08:47:05.000Z",
     "records": [
       {
         "updateTime": "银川",
@@ -2869,7 +2869,7 @@
   },
   {
     "name": "内蒙古自治区",
-    "lastUpdate": "2020-03-16T13:49:01.800Z",
+    "lastUpdate": "2020-03-16T13:49:01.000Z",
     "records": [
       {
         "updateTime": "包头",
@@ -2947,7 +2947,7 @@
   },
   {
     "name": "青海省",
-    "lastUpdate": "2020-02-23T11:19:02.938Z",
+    "lastUpdate": "2020-02-23T11:19:02.000Z",
     "records": [
       {
         "updateTime": "北海州",
@@ -2971,7 +2971,7 @@
   },
   {
     "name": "澳门",
-    "lastUpdate": "2020-01-26T00:40:07.920Z",
+    "lastUpdate": "2020-01-26T00:40:07.000Z",
     "records": [
       {
         "updateTime": "澳门",
@@ -2983,7 +2983,7 @@
   },
   {
     "name": "西藏自治区",
-    "lastUpdate": "2020-02-23T11:19:02.938Z",
+    "lastUpdate": "2020-02-23T11:19:02.000Z",
     "records": [
       {
         "updateTime": "拉萨",

@@ -3563,17 +3563,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=希腊",
-    "keywords": [
-      "希腊",
-      "Greece"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=以色列",
     "keywords": [
       "以色列",
       "Israel"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=希腊",
+    "keywords": [
+      "希腊",
+      "Greece"
     ]
   },
   {
@@ -3661,6 +3661,20 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
+    "keywords": [
+      "卢森堡",
+      "Luxembourg"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
+    "keywords": [
+      "菲律宾",
+      "Philippines"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=智利",
     "keywords": [
       "智利",
@@ -3675,17 +3689,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
-    "keywords": [
-      "菲律宾",
-      "Philippines"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=印度尼西亚",
     "keywords": [
       "印度尼西亚",
       "Indonesia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
+    "keywords": [
+      "沙特阿拉伯",
+      "Saudi Arabia"
     ]
   },
   {
@@ -3700,20 +3714,6 @@
     "keywords": [
       "印度",
       "India"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
-    "keywords": [
-      "卢森堡",
-      "Luxembourg"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
-    "keywords": [
-      "沙特阿拉伯",
-      "Saudi Arabia"
     ]
   },
   {
@@ -3906,6 +3906,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=约旦",
+    "keywords": [
+      "约旦",
+      "Jordan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=法罗群岛",
     "keywords": [
       "法罗群岛",
@@ -3924,13 +3931,6 @@
     "keywords": [
       "摩洛哥",
       "Morocco"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=约旦",
-    "keywords": [
-      "约旦",
-      "Jordan"
     ]
   },
   {
