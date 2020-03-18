@@ -1680,6 +1680,13 @@
     ]
   },
   {
+    "url": "#tab=trends&province=北京市&city=境外输入人员",
+    "keywords": [
+      "境外输入人员",
+      ""
+    ]
+  },
+  {
     "url": "#tab=trends&province=北京市&city=西城区",
     "keywords": [
       "西城区",
@@ -1691,13 +1698,6 @@
     "keywords": [
       "丰台区",
       "Fengtai District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=境外输入人员",
-    "keywords": [
-      "境外输入人员",
-      ""
     ]
   },
   {
@@ -3521,17 +3521,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=加拿大",
-    "keywords": [
-      "加拿大",
-      "Canada"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
     "keywords": [
       "澳大利亚",
       "Australia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=加拿大",
+    "keywords": [
+      "加拿大",
+      "Canada"
     ]
   },
   {
@@ -3927,7 +3927,7 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=格鲁吉亚",
+    "url": "#tab=world-trends&continent=亚洲&country=格鲁吉亚",
     "keywords": [
       "格鲁吉亚",
       "Georgia"
@@ -4298,7 +4298,7 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=关岛",
+    "url": "#tab=world-trends&continent=大洋洲&country=关岛",
     "keywords": [
       "关岛",
       "Guam"
@@ -4389,7 +4389,7 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=阿鲁巴",
+    "url": "#tab=world-trends&continent=北美洲&country=阿鲁巴",
     "keywords": [
       "阿鲁巴",
       null
