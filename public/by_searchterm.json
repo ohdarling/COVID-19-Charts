@@ -3787,6 +3787,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
+    "keywords": [
+      "塞尔维亚",
+      "Serbia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
     "keywords": [
       "巴拿马",
@@ -3798,13 +3805,6 @@
     "keywords": [
       "越南",
       "Vietnam"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
-    "keywords": [
-      "塞尔维亚",
-      "Serbia"
     ]
   },
   {
@@ -3868,6 +3868,13 @@
     "keywords": [
       "匈牙利",
       "Hungary"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=法罗群岛",
+    "keywords": [
+      "法罗群岛",
+      "Faroe"
     ]
   },
   {
@@ -3976,6 +3983,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=马耳他",
+    "keywords": [
+      "马耳他",
+      "Malta"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=乌拉圭",
     "keywords": [
       "乌拉圭",
@@ -3997,6 +4011,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=柬埔寨",
+    "keywords": [
+      "柬埔寨",
+      "Cambodia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=阿富汗",
     "keywords": [
       "阿富汗",
@@ -4015,13 +4036,6 @@
     "keywords": [
       "至尊公主邮轮",
       "Grand Princess"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=马耳他",
-    "keywords": [
-      "马耳他",
-      "Malta"
     ]
   },
   {
@@ -4053,10 +4067,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=安道尔",
+    "url": "#tab=world-trends&continent=北美洲&country=瓜德罗普岛",
     "keywords": [
-      "安道尔",
-      "Andorra"
+      "瓜德罗普岛",
+      null
     ]
   },
   {
@@ -4064,6 +4078,13 @@
     "keywords": [
       "马提尼克",
       "Martinique"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=安道尔",
+    "keywords": [
+      "安道尔",
+      "Andorra"
     ]
   },
   {
@@ -4081,24 +4102,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=柬埔寨",
-    "keywords": [
-      "柬埔寨",
-      "Cambodia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=南美洲&country=玻利维亚",
     "keywords": [
       "玻利维亚",
       "Bolivia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=法罗群岛",
-    "keywords": [
-      "法罗群岛",
-      "Faroe"
     ]
   },
   {
@@ -4158,6 +4165,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=洪都拉斯",
+    "keywords": [
+      "洪都拉斯",
+      "Honduras"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=卢旺达",
     "keywords": [
       "卢旺达",
@@ -4200,13 +4214,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=瓜德罗普岛",
-    "keywords": [
-      "瓜德罗普岛",
-      null
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=埃塞俄比亚",
     "keywords": [
       "埃塞俄比亚",
@@ -4218,6 +4225,13 @@
     "keywords": [
       "古巴",
       "Cuba"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=特立尼达和多巴哥",
+    "keywords": [
+      "特立尼达和多巴哥",
+      "Trinidad and Tobago"
     ]
   },
   {
@@ -4239,6 +4253,13 @@
     "keywords": [
       "肯尼亚",
       "Kenya"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=蒙古",
+    "keywords": [
+      "蒙古",
+      "Mongolia"
     ]
   },
   {
@@ -4284,10 +4305,24 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=洪都拉斯",
+    "url": "#tab=world-trends&continent=北美洲&country=库拉索岛",
     "keywords": [
-      "洪都拉斯",
-      "Honduras"
+      "库拉索岛",
+      null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=直布罗陀",
+    "keywords": [
+      "直布罗陀",
+      "Gibraltar"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=圣巴泰勒米",
+    "keywords": [
+      "圣巴泰勒米",
+      "Saint Barthelemy"
     ]
   },
   {
@@ -4319,20 +4354,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=库拉索岛",
-    "keywords": [
-      "库拉索岛",
-      null
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=特立尼达和多巴哥",
-    "keywords": [
-      "特立尼达和多巴哥",
-      "Trinidad and Tobago"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=利比里亚",
     "keywords": [
       "利比里亚",
@@ -4350,6 +4371,27 @@
     "url": "#tab=world-trends&continent=北美洲&country=美属维尔京群岛",
     "keywords": [
       "美属维尔京群岛",
+      null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=苏丹",
+    "keywords": [
+      "苏丹",
+      "Sudan"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=圣卢西亚",
+    "keywords": [
+      "圣卢西亚",
+      "St.Lucia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=阿鲁巴",
+    "keywords": [
+      "阿鲁巴",
       null
     ]
   },
@@ -4382,13 +4424,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=蒙古",
-    "keywords": [
-      "蒙古",
-      "Mongolia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=加蓬",
     "keywords": [
       "加蓬",
@@ -4396,31 +4431,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=直布罗陀",
-    "keywords": [
-      "直布罗陀",
-      "Gibraltar"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=根西岛",
     "keywords": [
       "根西岛",
       "Guernsey"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=圣巴泰勒米",
-    "keywords": [
-      "圣巴泰勒米",
-      "Saint Barthelemy"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=苏丹",
-    "keywords": [
-      "苏丹",
-      "Sudan"
     ]
   },
   {
@@ -4522,17 +4536,24 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=圣卢西亚",
-    "keywords": [
-      "圣卢西亚",
-      "St.Lucia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=冈比亚",
     "keywords": [
       "冈比亚",
       "Gambia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=贝宁",
+    "keywords": [
+      "贝宁",
+      "Benin"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=索马里",
+    "keywords": [
+      "索马里",
+      "Somali"
     ]
   }
 ]
