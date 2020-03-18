@@ -592,7 +592,7 @@ async function setupWorldMapCharts(records, container) {
     },
     visualMap: {
       type: 'piecewise',
-      pieces: getVisualPieces('city'),
+      pieces: getVisualPieces('country'),
       seriesIndex: 1,
       right: 20,
     },
