@@ -3738,6 +3738,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=南非",
+    "keywords": [
+      "南非",
+      "South Africa"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
     "keywords": [
       "俄罗斯",
@@ -3791,13 +3798,6 @@
     "keywords": [
       "巴拿马",
       "Panama"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=南非",
-    "keywords": [
-      "南非",
-      "South Africa"
     ]
   },
   {
@@ -3962,6 +3962,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=柬埔寨",
+    "keywords": [
+      "柬埔寨",
+      "Cambodia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=阿塞拜疆",
     "keywords": [
       "阿塞拜疆",
@@ -4015,13 +4022,6 @@
     "keywords": [
       "波黑",
       "Bosnia and Herz."
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=柬埔寨",
-    "keywords": [
-      "柬埔寨",
-      "Cambodia"
     ]
   },
   {
@@ -4207,6 +4207,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=刚果（金）",
+    "keywords": [
+      "刚果（金）",
+      "Democratic Republic of the Congo"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=留尼汪",
     "keywords": [
       "留尼汪",
@@ -4267,13 +4274,6 @@
     "keywords": [
       "蒙古",
       "Mongolia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=刚果（金）",
-    "keywords": [
-      "刚果（金）",
-      "Democratic Republic of the Congo"
     ]
   },
   {
@@ -4351,6 +4351,13 @@
     "keywords": [
       "吉尔吉斯斯坦",
       null
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=坦桑尼亚",
+    "keywords": [
+      "坦桑尼亚",
+      "Tanzania"
     ]
   },
   {
@@ -4547,13 +4554,6 @@
     "keywords": [
       "格陵兰",
       null
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=坦桑尼亚",
-    "keywords": [
-      "坦桑尼亚",
-      "Tanzania"
     ]
   },
   {
