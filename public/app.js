@@ -1087,7 +1087,7 @@ function handleHashChanged() {
     $('#navbarSupportedContent').collapse('hide');
   }
 
-  const defaultTab = 'summary';
+  const defaultTab = 'world-map';
   const query = new URLSearchParams(location.hash.replace(/^#/, ''));
   const tab = query.get('tab') || defaultTab;
   let title = [ document.querySelector('title').innerHTML.split(' - ')[0] ];
