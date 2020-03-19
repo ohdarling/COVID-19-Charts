@@ -53901,7 +53901,7 @@
   },
   {
     "name": "刚果（金）",
-    "enName": "Democratic Republic of the Congo",
+    "enName": "Dem. Rep. Congo",
     "records": [
       {
         "locationId": 0,
@@ -59820,7 +59820,7 @@
   },
   {
     "name": "法属波利尼西亚",
-    "enName": "French Polynesia",
+    "enName": "Fr. Polynesia",
     "records": [
       {
         "locationId": 0,
@@ -60762,7 +60762,7 @@
   },
   {
     "name": "吉尔吉斯斯坦",
-    "enName": null,
+    "enName": "Kyrgyzstan",
     "records": [
       {
         "locationId": 954002,
@@ -60937,131 +60937,6 @@
     "curedIncreased": 0,
     "deadIncreased": 0,
     "maxZeroIncrDays": 1
-  },
-  {
-    "name": "刚果（布）",
-    "enName": "Dem. Rep. Congo",
-    "records": [
-      {
-        "locationId": 0,
-        "continentName": "非洲",
-        "continentEnglishName": "Africa",
-        "countryName": "刚果（布）",
-        "countryEnglishName": null,
-        "provinceName": "刚果（布）",
-        "provinceShortName": "刚果（布）",
-        "provinceEnglishName": null,
-        "currentConfirmedCount": 1,
-        "confirmedCount": 1,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "cities": null,
-        "comment": "",
-        "updateTime": "3/16",
-        "timestamp": 1584341625409,
-        "lastUpdate": "2020-03-16T06:53:45.409Z",
-        "insickCount": 1,
-        "confirmedIncreased": 1,
-        "curedIncreased": 0,
-        "deadIncreased": 0
-      },
-      {
-        "locationId": 0,
-        "continentName": "非洲",
-        "continentEnglishName": "Africa",
-        "countryName": "刚果（布）",
-        "countryEnglishName": null,
-        "provinceName": "刚果（布）",
-        "provinceShortName": "刚果（布）",
-        "provinceEnglishName": null,
-        "currentConfirmedCount": 1,
-        "confirmedCount": 1,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "cities": null,
-        "comment": "",
-        "updateTime": "3/17",
-        "timestamp": 1584452195891,
-        "lastUpdate": "2020-03-17T13:36:35.891Z",
-        "insickCount": 1,
-        "confirmedIncreased": 0,
-        "curedIncreased": 0,
-        "deadIncreased": 0
-      },
-      {
-        "locationId": 0,
-        "continentName": "非洲",
-        "continentEnglishName": "Africa",
-        "countryName": "刚果（布）",
-        "countryEnglishName": null,
-        "provinceName": "刚果（布）",
-        "provinceShortName": "刚果（布）",
-        "provinceEnglishName": null,
-        "currentConfirmedCount": 1,
-        "confirmedCount": 1,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "cities": null,
-        "comment": "",
-        "updateTime": "3/18",
-        "timestamp": 1584504675953,
-        "lastUpdate": "2020-03-18T04:11:15.953Z",
-        "insickCount": 1,
-        "confirmedIncreased": 0,
-        "curedIncreased": 0,
-        "deadIncreased": 0
-      },
-      {
-        "locationId": 0,
-        "continentName": "非洲",
-        "continentEnglishName": "Africa",
-        "countryName": "刚果（布）",
-        "countryEnglishName": null,
-        "provinceName": "刚果（布）",
-        "provinceShortName": "刚果（布）",
-        "provinceEnglishName": null,
-        "currentConfirmedCount": 3,
-        "confirmedCount": 3,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "cities": null,
-        "comment": "",
-        "updateTime": "3/19",
-        "timestamp": 1584593971822,
-        "lastUpdate": "2020-03-19T04:59:31.822Z",
-        "insickCount": 3,
-        "confirmedIncreased": 2,
-        "curedIncreased": 0,
-        "deadIncreased": 0
-      }
-    ],
-    "locationId": 0,
-    "continentName": "非洲",
-    "continentEnglishName": "Africa",
-    "countryName": "刚果（布）",
-    "countryEnglishName": null,
-    "provinceName": "刚果（布）",
-    "provinceShortName": "刚果（布）",
-    "provinceEnglishName": null,
-    "currentConfirmedCount": 3,
-    "confirmedCount": 3,
-    "suspectedCount": 0,
-    "curedCount": 0,
-    "deadCount": 0,
-    "cities": null,
-    "comment": "",
-    "updateTime": "3/19",
-    "timestamp": 1584593971822,
-    "lastUpdate": "2020-03-19T04:59:31.822Z",
-    "insickCount": 3,
-    "confirmedIncreased": 2,
-    "curedIncreased": 0,
-    "deadIncreased": 0,
-    "maxZeroIncrDays": 0
   },
   {
     "name": "毛里求斯",
@@ -61589,7 +61464,7 @@
   },
   {
     "name": "黑山",
-    "enName": null,
+    "enName": "Montenegro",
     "records": [
       {
         "locationId": 965018,
@@ -61666,7 +61541,7 @@
   },
   {
     "name": "美属维尔京群岛",
-    "enName": null,
+    "enName": "U.S. Virgin Is.",
     "records": [
       {
         "locationId": 0,
@@ -61916,7 +61791,7 @@
   },
   {
     "name": "圣卢西亚",
-    "enName": "St.Lucia",
+    "enName": "Saint Lucia",
     "records": [
       {
         "locationId": 974011,
@@ -62171,7 +62046,7 @@
   },
   {
     "name": "赞比亚共和国",
-    "enName": null,
+    "enName": "Zambia",
     "records": [
       {
         "locationId": 0,
@@ -65395,7 +65270,7 @@
   },
   {
     "name": "格陵兰",
-    "enName": null,
+    "enName": "Greenland",
     "records": [
       {
         "locationId": 0,
@@ -65674,7 +65549,7 @@
   },
   {
     "name": "索马里",
-    "enName": "Somali",
+    "enName": "Somalia",
     "records": [
       {
         "locationId": 985008,
@@ -65751,7 +65626,7 @@
   },
   {
     "name": "萨尔瓦多",
-    "enName": "EI Salvador",
+    "enName": "El Salvador",
     "records": [
       {
         "locationId": 972003,
