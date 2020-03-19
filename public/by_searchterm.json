@@ -3528,6 +3528,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=葡萄牙",
+    "keywords": [
+      "葡萄牙",
+      "Portugal"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
     "keywords": [
       "澳大利亚",
@@ -3553,13 +3560,6 @@
     "keywords": [
       "卡塔尔",
       "Qatar"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=葡萄牙",
-    "keywords": [
-      "葡萄牙",
-      "Portugal"
     ]
   },
   {
@@ -3703,6 +3703,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=印度",
+    "keywords": [
+      "印度",
+      "India"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
     "keywords": [
       "伊拉克",
@@ -3714,13 +3721,6 @@
     "keywords": [
       "厄瓜多尔",
       "Ecuador"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=印度",
-    "keywords": [
-      "印度",
-      "India"
     ]
   },
   {
@@ -3913,6 +3913,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
+    "keywords": [
+      "摩洛哥",
+      "Morocco"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=白俄罗斯",
     "keywords": [
       "白俄罗斯",
@@ -3924,13 +3931,6 @@
     "keywords": [
       "斯里兰卡",
       "Sri Lanka"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
-    "keywords": [
-      "摩洛哥",
-      "Morocco"
     ]
   },
   {
@@ -3969,6 +3969,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "keywords": [
+      "哈萨克斯坦",
+      "Kazakhstan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=摩尔多瓦",
     "keywords": [
       "摩尔多瓦",
@@ -3976,10 +3983,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
     "keywords": [
-      "哈萨克斯坦",
-      "Kazakhstan"
+      "塞内加尔",
+      "Senegal"
     ]
   },
   {
@@ -4015,13 +4022,6 @@
     "keywords": [
       "立陶宛",
       "Lithuania"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
-    "keywords": [
-      "塞内加尔",
-      "Senegal"
     ]
   },
   {
