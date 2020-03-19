@@ -2695,90 +2695,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=山西省",
-    "keywords": [
-      "山西省",
-      "Shanxi"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=晋中",
-    "keywords": [
-      "晋中",
-      "Jinzhong"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=太原",
-    "keywords": [
-      "太原",
-      "Taiyuan"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=运城",
-    "keywords": [
-      "运城",
-      "Yuncheng"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=大同",
-    "keywords": [
-      "大同",
-      "Datong"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=晋城",
-    "keywords": [
-      "晋城",
-      "Jincheng"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=长治",
-    "keywords": [
-      "长治",
-      "Changzhi"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=朔州",
-    "keywords": [
-      "朔州",
-      "Shuozhou"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=忻州",
-    "keywords": [
-      "忻州",
-      "Xinzhou"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=吕梁",
-    "keywords": [
-      "吕梁",
-      "Lüliang"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=阳泉",
-    "keywords": [
-      "阳泉",
-      "Yangquan"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=临汾",
-    "keywords": [
-      "临汾",
-      "Linfen"
-    ]
-  },
-  {
     "url": "#tab=trends&province=甘肃省",
     "keywords": [
       "甘肃省",
@@ -2867,6 +2783,90 @@
     "keywords": [
       "金昌",
       "Jinchang"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省",
+    "keywords": [
+      "山西省",
+      "Shanxi"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=晋中",
+    "keywords": [
+      "晋中",
+      "Jinzhong"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=太原",
+    "keywords": [
+      "太原",
+      "Taiyuan"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=运城",
+    "keywords": [
+      "运城",
+      "Yuncheng"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=大同",
+    "keywords": [
+      "大同",
+      "Datong"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=晋城",
+    "keywords": [
+      "晋城",
+      "Jincheng"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=长治",
+    "keywords": [
+      "长治",
+      "Changzhi"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=朔州",
+    "keywords": [
+      "朔州",
+      "Shuozhou"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=忻州",
+    "keywords": [
+      "忻州",
+      "Xinzhou"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=吕梁",
+    "keywords": [
+      "吕梁",
+      "Lüliang"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=阳泉",
+    "keywords": [
+      "阳泉",
+      "Yangquan"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=临汾",
+    "keywords": [
+      "临汾",
+      "Linfen"
     ]
   },
   {
@@ -4126,7 +4126,7 @@
     "url": "#tab=world-trends&continent=非洲&country=刚果（金）",
     "keywords": [
       "刚果（金）",
-      "Democratic Republic of the Congo"
+      "Dem. Rep. Congo"
     ]
   },
   {
@@ -4315,7 +4315,7 @@
     "url": "#tab=world-trends&continent=大洋洲&country=法属波利尼西亚",
     "keywords": [
       "法属波利尼西亚",
-      "French Polynesia"
+      "Fr. Polynesia"
     ]
   },
   {
@@ -4357,7 +4357,7 @@
     "url": "#tab=world-trends&continent=亚洲&country=吉尔吉斯斯坦",
     "keywords": [
       "吉尔吉斯斯坦",
-      null
+      "Kyrgyzstan"
     ]
   },
   {
@@ -4365,13 +4365,6 @@
     "keywords": [
       "坦桑尼亚",
       "Tanzania"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=刚果（布）",
-    "keywords": [
-      "刚果（布）",
-      "Dem. Rep. Congo"
     ]
   },
   {
@@ -4406,14 +4399,14 @@
     "url": "#tab=world-trends&continent=欧洲&country=黑山",
     "keywords": [
       "黑山",
-      null
+      "Montenegro"
     ]
   },
   {
     "url": "#tab=world-trends&continent=北美洲&country=美属维尔京群岛",
     "keywords": [
       "美属维尔京群岛",
-      null
+      "U.S. Virgin Is."
     ]
   },
   {
@@ -4427,7 +4420,7 @@
     "url": "#tab=world-trends&continent=南美洲&country=圣卢西亚",
     "keywords": [
       "圣卢西亚",
-      "St.Lucia"
+      "Saint Lucia"
     ]
   },
   {
@@ -4448,7 +4441,7 @@
     "url": "#tab=world-trends&continent=非洲&country=赞比亚共和国",
     "keywords": [
       "赞比亚共和国",
-      null
+      "Zambia"
     ]
   },
   {
@@ -4560,7 +4553,7 @@
     "url": "#tab=world-trends&continent=北美洲&country=格陵兰",
     "keywords": [
       "格陵兰",
-      null
+      "Greenland"
     ]
   },
   {
@@ -4581,14 +4574,14 @@
     "url": "#tab=world-trends&continent=非洲&country=索马里",
     "keywords": [
       "索马里",
-      "Somali"
+      "Somalia"
     ]
   },
   {
     "url": "#tab=world-trends&continent=北美洲&country=萨尔瓦多",
     "keywords": [
       "萨尔瓦多",
-      "EI Salvador"
+      "El Salvador"
     ]
   },
   {
