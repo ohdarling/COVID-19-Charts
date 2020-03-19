@@ -873,6 +873,10 @@ async function showCountriesCompare(metrics) {
               updateTime: r.updateTime,
               label: {
                 formatter: '{a}: {c}',
+                fontSize: 14,
+                backgroundColor: 'rgba(222,222,222,0.7)',
+                padding: 6,
+                borderRadius: 6,
                 show: i == d.records.length - 1,
               },
             };
