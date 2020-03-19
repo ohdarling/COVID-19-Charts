@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-19T05:56:56.000Z",
+    "lastUpdate": "2020-03-19T07:39:56.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -30,8 +30,8 @@
       {
         "updateTime": "浙江省",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 1,
-        "insickCount": 15
+        "confirmedIncreased": 2,
+        "insickCount": 16
       },
       {
         "updateTime": "黑龙江省",
@@ -46,16 +46,16 @@
         "insickCount": 7
       },
       {
-        "updateTime": "四川省",
+        "updateTime": "陕西省",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
         "insickCount": 6
       },
       {
-        "updateTime": "陕西省",
+        "updateTime": "四川省",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
-        "insickCount": 6
+        "insickCount": 3
       },
       {
         "updateTime": "河北省",
@@ -487,7 +487,7 @@
   },
   {
     "name": "浙江省",
-    "lastUpdate": "2020-03-19T01:32:24.000Z",
+    "lastUpdate": "2020-03-19T06:57:22.000Z",
     "records": [
       {
         "updateTime": "丽水",
@@ -1285,13 +1285,13 @@
   },
   {
     "name": "四川省",
-    "lastUpdate": "2020-03-19T00:58:42.000Z",
+    "lastUpdate": "2020-03-19T07:39:56.000Z",
     "records": [
       {
         "updateTime": "成都",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
-        "insickCount": 5
+        "insickCount": 2
       },
       {
         "updateTime": "甘孜州",
