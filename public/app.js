@@ -50,17 +50,28 @@ const mobulesConfig = {
 // })();
 
 const allTabs = (() => {
-  return [].slice.call(document.querySelectorAll('#navbar a.nav-link, #navbar a.dropdown-item')).reduce((p, v) => {
+  return $('#navbar a.nav-link, #navbar a.dropdown-item').get().reduce((p, v) => {
     const tab = v.href.split('&')[0].split('#')[1].split('=')[1];
     const titleMap = {
       'world-trends': '各国趋势',
       'countries-compare': '国家对比',
     };
-    p[tab] = {
+    const url = '#' + v.href.split('#')[1];
+    const item = {
       tab,
       el: v,
       title: titleMap[tab] || v.innerHTML.trim(),
+      url,
+      hasSubParam: url.indexOf('&') > -1,
     };
+    if ($(v).hasClass('dropdown-item')) {
+      item.isSubItem = true;
+      item.parent = $('.dropdown-toggle', $(v).parent().parent());
+      p[url] = item;
+    }
+    if (!item.hasSubParam) {
+      p[tab] = item;
+    }
     return p;
   }, {});
 })();
@@ -729,9 +740,6 @@ async function prepareChartData(name, type = 'area') {
 function updateHash(tab, province, city) {
   const tabConfig = mobulesConfig[tab];
   let hash = '#tab=' + tab;
-  Object.values(allTabs).forEach(t => {
-    $(t.el)[t.tab == tab ? 'addClass' : 'removeClass']('active');
-  });
   if (province) {
     hash += `&${tabConfig.provinceKey || 'province'}=${encodeURIComponent(province)}`;
   }
@@ -739,6 +747,15 @@ function updateHash(tab, province, city) {
     hash += `&${tabConfig.cityKey || 'city'}=${encodeURIComponent(city)}`;
   }
   location.hash = hash;
+
+  Object.values(allTabs).forEach(t => {
+    const isCurTab = t.hasSubParam ? t.url === hash : t.tab == tab;
+    const m = isCurTab ? 'addClass' : 'removeClass';
+    $(t.el)[m]('active');
+    if (t.isSubItem && isCurTab) {
+      $(t.parent)[m]('active');
+    }
+  });
 
   showLoading(false);
 }
@@ -754,7 +771,7 @@ async function showProvince(name, city = '') {
 
 async function showWorldTrends(continent = '', country = '') {
   let records = await prepareChartData(name, 'world');
-  if (continent) {
+  if (continent && continent !== 'all') {
     records = records.filter(r => r.continentName === continent);
   }
   if (country) {
@@ -850,10 +867,14 @@ async function showCountriesCompare(metrics) {
         return {
           type: 'line',
           name: getLangProp(d),
-          data: d.records.map(r => {
+          data: d.records.map((r, i) => {
             return {
               value: r[valueKey],
               updateTime: r.updateTime,
+              label: {
+                formatter: '{a}: {c}',
+                show: i == d.records.length - 1,
+              },
             };
           }),
           smooth: true,
