@@ -3563,17 +3563,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=卡塔尔",
-    "keywords": [
-      "卡塔尔",
-      "Qatar"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=希腊",
     "keywords": [
       "希腊",
       "Greece"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=卡塔尔",
+    "keywords": [
+      "卡塔尔",
+      "Qatar"
     ]
   },
   {
@@ -3731,6 +3731,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=南非",
+    "keywords": [
+      "南非",
+      "South Africa"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
     "keywords": [
       "黎巴嫩",
@@ -3770,13 +3777,6 @@
     "keywords": [
       "墨西哥",
       "Mexico"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=南非",
-    "keywords": [
-      "南非",
-      "South Africa"
     ]
   },
   {
