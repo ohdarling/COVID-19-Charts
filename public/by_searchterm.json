@@ -1673,17 +1673,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=北京市&city=海淀区",
-    "keywords": [
-      "海淀区",
-      "Haidian District"
-    ]
-  },
-  {
     "url": "#tab=trends&province=北京市&city=境外输入人员",
     "keywords": [
       "境外输入人员",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=海淀区",
+    "keywords": [
+      "海淀区",
+      "Haidian District"
     ]
   },
   {
