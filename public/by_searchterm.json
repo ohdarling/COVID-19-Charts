@@ -3451,17 +3451,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=德国",
-    "keywords": [
-      "德国",
-      "Germany"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=北美洲&country=美国",
     "keywords": [
       "美国",
       "United States"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=德国",
+    "keywords": [
+      "德国",
+      "Germany"
     ]
   },
   {
@@ -3927,6 +3927,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
+    "keywords": [
+      "摩洛哥",
+      "Morocco"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
     "keywords": [
       "斯里兰卡",
@@ -3962,10 +3969,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
+    "url": "#tab=world-trends&continent=欧洲&country=摩尔多瓦",
     "keywords": [
-      "摩洛哥",
-      "Morocco"
+      "摩尔多瓦",
+      "Moldova"
     ]
   },
   {
@@ -3990,17 +3997,17 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=突尼斯",
+    "keywords": [
+      "突尼斯",
+      "Tunisia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
     "keywords": [
       "哈萨克斯坦",
       "Kazakhstan"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=摩尔多瓦",
-    "keywords": [
-      "摩尔多瓦",
-      "Moldova"
     ]
   },
   {
@@ -4043,13 +4050,6 @@
     "keywords": [
       "立陶宛",
       "Lithuania"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=突尼斯",
-    "keywords": [
-      "突尼斯",
-      "Tunisia"
     ]
   },
   {
@@ -4228,6 +4228,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=毛里求斯",
+    "keywords": [
+      "毛里求斯",
+      "Mauritius"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=卢旺达",
     "keywords": [
       "卢旺达",
@@ -4302,13 +4309,6 @@
     "keywords": [
       "特立尼达和多巴哥",
       "Trinidad and Tobago"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=毛里求斯",
-    "keywords": [
-      "毛里求斯",
-      "Mauritius"
     ]
   },
   {
