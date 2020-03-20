@@ -3752,17 +3752,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
-    "keywords": [
-      "俄罗斯",
-      "Russia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=印度",
     "keywords": [
       "印度",
       "India"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
+    "keywords": [
+      "俄罗斯",
+      "Russia"
     ]
   },
   {
@@ -3808,6 +3808,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=亚美尼亚",
+    "keywords": [
+      "亚美尼亚",
+      "Armenia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
     "keywords": [
       "巴拿马",
@@ -3833,13 +3840,6 @@
     "keywords": [
       "斯洛伐克",
       "Slovakia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=亚美尼亚",
-    "keywords": [
-      "亚美尼亚",
-      "Armenia"
     ]
   },
   {
@@ -3934,10 +3934,24 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=白俄罗斯",
+    "keywords": [
+      "白俄罗斯",
+      "Belarus"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=塞浦路斯",
     "keywords": [
       "塞浦路斯",
       "Cyprus"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
+    "keywords": [
+      "斯里兰卡",
+      "Sri Lanka"
     ]
   },
   {
@@ -3955,13 +3969,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
-    "keywords": [
-      "斯里兰卡",
-      "Sri Lanka"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=阿尔巴尼亚",
     "keywords": [
       "阿尔巴尼亚",
@@ -3973,13 +3980,6 @@
     "keywords": [
       "法罗群岛",
       "Faroe"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=白俄罗斯",
-    "keywords": [
-      "白俄罗斯",
-      "Belarus"
     ]
   },
   {
@@ -4018,6 +4018,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=格鲁吉亚",
+    "keywords": [
+      "格鲁吉亚",
+      "Georgia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=委内瑞拉",
     "keywords": [
       "委内瑞拉",
@@ -4029,13 +4036,6 @@
     "keywords": [
       "立陶宛",
       "Lithuania"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=格鲁吉亚",
-    "keywords": [
-      "格鲁吉亚",
-      "Georgia"
     ]
   },
   {
@@ -4102,6 +4102,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
+    "keywords": [
+      "乌克兰",
+      "Ukraine"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=列支敦士登",
     "keywords": [
       "列支敦士登",
@@ -4141,20 +4148,6 @@
     "keywords": [
       "至尊公主邮轮",
       "Grand Princess"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
-    "keywords": [
-      "乌克兰",
-      "Ukraine"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=undefined&country=undefined",
-    "keywords": [
-      null,
-      null
     ]
   },
   {
