@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-20T06:31:54.000Z",
+    "lastUpdate": "2020-03-20T09:31:14.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -12,8 +12,8 @@
       {
         "updateTime": "广东省",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 14,
-        "insickCount": 53
+        "confirmedIncreased": 17,
+        "insickCount": 64
       },
       {
         "updateTime": "上海市",
@@ -193,19 +193,19 @@
   },
   {
     "name": "广东省",
-    "lastUpdate": "2020-03-20T06:13:27.000Z",
+    "lastUpdate": "2020-03-20T08:50:42.000Z",
     "records": [
       {
         "updateTime": "广州",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 5,
-        "insickCount": 29
+        "confirmedIncreased": 7,
+        "insickCount": 31
       },
       {
         "updateTime": "深圳",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 5,
-        "insickCount": 20
+        "confirmedIncreased": 6,
+        "insickCount": 21
       },
       {
         "updateTime": "佛山",
@@ -324,6 +324,12 @@
       {
         "updateTime": "河源",
         "maxZeroIncrDays": 32,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "待明确地区",
+        "maxZeroIncrDays": 57,
         "confirmedIncreased": 0,
         "insickCount": 0
       }

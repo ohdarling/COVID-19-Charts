@@ -294,6 +294,13 @@
     ]
   },
   {
+    "url": "#tab=trends&province=广东省&city=待明确地区",
+    "keywords": [
+      "待明确地区",
+      "Area not defined"
+    ]
+  },
+  {
     "url": "#tab=trends&province=河南省",
     "keywords": [
       "河南省",
@@ -3997,6 +4004,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
+    "keywords": [
+      "阿曼",
+      "Oman"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=巴勒斯坦",
     "keywords": [
       "巴勒斯坦",
@@ -4022,13 +4036,6 @@
     "keywords": [
       "格鲁吉亚",
       "Georgia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
-    "keywords": [
-      "阿曼",
-      "Oman"
     ]
   },
   {
