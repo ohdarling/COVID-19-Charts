@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-20T09:31:14.000Z",
+    "lastUpdate": "2020-03-20T16:00:29.000Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1612,11 +1612,40 @@
         "seriousIncreased": 0,
         "updateTime": "3/20",
         "insickCount": 6838,
-        "lastUpdate": "2020-03-20T09:31:14.000Z",
+        "lastUpdate": "2020-03-20T15:48:40.000Z",
         "updateDate": "2020/3/20",
         "seriousRate": "2.62",
         "seriousDayRate": "0.00",
         "suspectedAccum": 85708,
+        "suspectedDayProcessed": 39,
+        "suspectedConfirmedCount": 149,
+        "suspectedConfirmedRate": "65.35",
+        "suspectedDayProcessedRate": "17.11",
+        "suspectedDayConfirmedRate": "382.05",
+        "curedRate": "87.60",
+        "deadRate": "4.00",
+        "seriousDeadRate": "152.39",
+        "curedDayRate": "10.89",
+        "deadDayRate": "0.07"
+      },
+      {
+        "confirmedCount": 81385,
+        "suspectedCount": 228,
+        "curedCount": 71292,
+        "deadCount": 3255,
+        "seriousCount": 2136,
+        "suspectedIncreased": 39,
+        "confirmedIncreased": 149,
+        "curedIncreased": 745,
+        "deadIncreased": 5,
+        "seriousIncreased": 0,
+        "updateTime": "3/21",
+        "insickCount": 6838,
+        "lastUpdate": "2020-03-20T16:00:29.000Z",
+        "updateDate": "2020/3/21",
+        "seriousRate": "2.62",
+        "seriousDayRate": "0.00",
+        "suspectedAccum": 85747,
         "curedRate": "87.60",
         "deadRate": "4.00",
         "seriousDeadRate": "152.39"
@@ -2650,6 +2679,24 @@
         "deadIncreased": 1,
         "curedRate": "96.94",
         "deadRate": "0.88",
+        "seriousDeadRate": "",
+        "curedDayRate": "0.00",
+        "deadDayRate": "0.00"
+      },
+      {
+        "confirmedCount": 13179,
+        "curedCount": 12776,
+        "deadCount": 116,
+        "lastUpdate": "2020-03-20T08:50:42.000Z",
+        "updateTime": "3/21",
+        "zipCode": "440000",
+        "suspectedCount": 0,
+        "insickCount": 287,
+        "confirmedIncreased": 0,
+        "curedIncreased": 0,
+        "deadIncreased": 0,
+        "curedRate": "96.94",
+        "deadRate": "0.88",
         "seriousDeadRate": ""
       }
     ],
@@ -2661,10 +2708,10 @@
     "curedCount": 1323,
     "deadCount": 8,
     "insickCount": 64,
-    "confirmedIncreased": 17,
-    "curedIncreased": 5,
+    "confirmedIncreased": 0,
+    "curedIncreased": 0,
     "deadIncreased": 0,
-    "maxZeroIncrDays": 0
+    "maxZeroIncrDays": 1
   },
   {
     "name": "湖北省",
@@ -3693,6 +3740,24 @@
         "deadIncreased": 3,
         "curedRate": "86.11",
         "deadRate": "4.62",
+        "seriousDeadRate": "",
+        "curedDayRate": "0.00",
+        "deadDayRate": "0.00"
+      },
+      {
+        "confirmedCount": 67800,
+        "curedCount": 58382,
+        "deadCount": 3133,
+        "lastUpdate": "2020-03-20T07:29:42.000Z",
+        "updateTime": "3/21",
+        "zipCode": "420000",
+        "suspectedCount": 0,
+        "insickCount": 6285,
+        "confirmedIncreased": 0,
+        "curedIncreased": 0,
+        "deadIncreased": 0,
+        "curedRate": "86.11",
+        "deadRate": "4.62",
         "seriousDeadRate": ""
       }
     ],
@@ -3705,9 +3770,9 @@
     "deadCount": 3133,
     "insickCount": 6285,
     "confirmedIncreased": 0,
-    "curedIncreased": 700,
-    "deadIncreased": 3,
-    "maxZeroIncrDays": 2
+    "curedIncreased": 0,
+    "deadIncreased": 0,
+    "maxZeroIncrDays": 3
   },
   {
     "name": "非湖北",
@@ -3715,187 +3780,187 @@
     "records": [
       {
         "updateTime": "北京市",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 11,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 93
       },
       {
         "updateTime": "广东省",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 17,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 64
       },
       {
         "updateTime": "上海市",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 8,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 42
       },
       {
         "updateTime": "甘肃省",
-        "maxZeroIncrDays": 1,
+        "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
         "insickCount": 34
       },
       {
         "updateTime": "浙江省",
-        "maxZeroIncrDays": 1,
+        "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
         "insickCount": 14
       },
       {
         "updateTime": "黑龙江省",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 1,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 8
       },
       {
         "updateTime": "山东省",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 1,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
         "updateTime": "陕西省",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 1,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 7
       },
       {
         "updateTime": "福建省",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 3,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
         "updateTime": "四川省",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 1,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "河北省",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "广西壮族自治区",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 1,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "云南省",
-        "maxZeroIncrDays": 3,
+        "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "辽宁省",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 1,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "澳门",
-        "maxZeroIncrDays": 54,
+        "maxZeroIncrDays": 55,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
         "updateTime": "河南省",
-        "maxZeroIncrDays": 9,
+        "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "海南省",
-        "maxZeroIncrDays": 29,
+        "maxZeroIncrDays": 30,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "天津市",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 1,
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
         "updateTime": "湖南省",
-        "maxZeroIncrDays": 20,
+        "maxZeroIncrDays": 21,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "安徽省",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "江西省",
-        "maxZeroIncrDays": 21,
+        "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "江苏省",
-        "maxZeroIncrDays": 30,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "重庆市",
-        "maxZeroIncrDays": 24,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "贵州省",
-        "maxZeroIncrDays": 3,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "山西省",
-        "maxZeroIncrDays": 24,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "吉林省",
-        "maxZeroIncrDays": 25,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "新疆维吾尔自治区",
         "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
+        "updateTime": "重庆市",
+        "maxZeroIncrDays": 25,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "贵州省",
+        "maxZeroIncrDays": 4,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "山西省",
+        "maxZeroIncrDays": 25,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "吉林省",
+        "maxZeroIncrDays": 26,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "新疆维吾尔自治区",
+        "maxZeroIncrDays": 32,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "宁夏回族自治区",
-        "maxZeroIncrDays": 16,
+        "maxZeroIncrDays": 17,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "内蒙古自治区",
-        "maxZeroIncrDays": 30,
+        "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "青海省",
-        "maxZeroIncrDays": 43,
+        "maxZeroIncrDays": 44,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
       {
         "updateTime": "西藏自治区",
-        "maxZeroIncrDays": 47,
+        "maxZeroIncrDays": 48,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
