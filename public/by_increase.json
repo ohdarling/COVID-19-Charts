@@ -1,19 +1,19 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-20T05:32:07.000Z",
+    "lastUpdate": "2020-03-20T06:31:54.000Z",
     "records": [
       {
         "updateTime": "北京市",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 11,
-        "insickCount": 98
+        "insickCount": 93
       },
       {
         "updateTime": "广东省",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 14,
-        "insickCount": 62
+        "insickCount": 53
       },
       {
         "updateTime": "上海市",
@@ -193,19 +193,19 @@
   },
   {
     "name": "广东省",
-    "lastUpdate": "2020-03-20T04:33:45.000Z",
+    "lastUpdate": "2020-03-20T06:13:27.000Z",
     "records": [
       {
         "updateTime": "广州",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 5,
-        "insickCount": 32
+        "insickCount": 29
       },
       {
         "updateTime": "深圳",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 5,
-        "insickCount": 26
+        "insickCount": 20
       },
       {
         "updateTime": "佛山",
@@ -1417,7 +1417,7 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-20T05:32:07.000Z",
+    "lastUpdate": "2020-03-20T06:19:56.000Z",
     "records": [
       {
         "updateTime": "朝阳区",
@@ -1480,22 +1480,10 @@
         "insickCount": 13
       },
       {
-        "updateTime": "石景山区",
-        "maxZeroIncrDays": 35,
-        "confirmedIncreased": 0,
-        "insickCount": 13
-      },
-      {
         "updateTime": "东城区",
         "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
         "insickCount": 13
-      },
-      {
-        "updateTime": "顺义区",
-        "maxZeroIncrDays": 40,
-        "confirmedIncreased": 0,
-        "insickCount": 10
       },
       {
         "updateTime": "武汉来京人员",
@@ -1516,6 +1504,12 @@
         "insickCount": 7
       },
       {
+        "updateTime": "石景山区",
+        "maxZeroIncrDays": 35,
+        "confirmedIncreased": 0,
+        "insickCount": 5
+      },
+      {
         "updateTime": "门头沟区",
         "maxZeroIncrDays": 46,
         "confirmedIncreased": 0,
@@ -1526,6 +1520,12 @@
         "maxZeroIncrDays": 46,
         "confirmedIncreased": 0,
         "insickCount": 1
+      },
+      {
+        "updateTime": "顺义区",
+        "maxZeroIncrDays": 40,
+        "confirmedIncreased": 0,
+        "insickCount": 0
       }
     ]
   },
