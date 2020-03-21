@@ -3766,17 +3766,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
-    "keywords": [
-      "菲律宾",
-      "Philippines"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=印度",
     "keywords": [
       "印度",
       "India"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
+    "keywords": [
+      "菲律宾",
+      "Philippines"
     ]
   },
   {
