@@ -326,12 +326,6 @@
         "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 0
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 58,
-        "confirmedIncreased": 0,
-        "insickCount": 0
       }
     ]
   },
