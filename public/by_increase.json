@@ -1,25 +1,25 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-21T02:11:41.000Z",
+    "lastUpdate": "2020-03-21T13:34:02.000Z",
     "records": [
       {
         "updateTime": "北京市",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 8,
-        "insickCount": 99
+        "confirmedIncreased": 13,
+        "insickCount": 100
       },
       {
         "updateTime": "广东省",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 4,
-        "insickCount": 66
+        "confirmedIncreased": 5,
+        "insickCount": 67
       },
       {
         "updateTime": "上海市",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 9,
-        "insickCount": 51
+        "insickCount": 50
       },
       {
         "updateTime": "甘肃省",
@@ -29,9 +29,9 @@
       },
       {
         "updateTime": "浙江省",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 14
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 16
       },
       {
         "updateTime": "山东省",
@@ -193,7 +193,7 @@
   },
   {
     "name": "广东省",
-    "lastUpdate": "2020-03-21T02:03:01.000Z",
+    "lastUpdate": "2020-03-21T13:34:02.000Z",
     "records": [
       {
         "updateTime": "广州",
@@ -244,6 +244,12 @@
         "insickCount": 1
       },
       {
+        "updateTime": "湛江",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 1
+      },
+      {
         "updateTime": "肇庆",
         "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
@@ -276,12 +282,6 @@
       {
         "updateTime": "江门",
         "maxZeroIncrDays": 34,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "湛江",
-        "maxZeroIncrDays": 36,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -324,6 +324,12 @@
       {
         "updateTime": "河源",
         "maxZeroIncrDays": 33,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "待明确地区",
+        "maxZeroIncrDays": 58,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -487,7 +493,7 @@
   },
   {
     "name": "浙江省",
-    "lastUpdate": "2020-03-20T04:33:45.000Z",
+    "lastUpdate": "2020-03-21T03:21:58.000Z",
     "records": [
       {
         "updateTime": "丽水",
@@ -496,22 +502,22 @@
         "insickCount": 9
       },
       {
+        "updateTime": "温州",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 2
+      },
+      {
         "updateTime": "杭州",
         "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
       {
-        "updateTime": "温州",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
         "updateTime": "嘉兴",
-        "maxZeroIncrDays": 30,
-        "confirmedIncreased": 0,
-        "insickCount": 1
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 2
       },
       {
         "updateTime": "湖州",
@@ -1417,13 +1423,13 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-21T02:03:01.000Z",
+    "lastUpdate": "2020-03-21T13:34:02.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 8,
-        "insickCount": 77
+        "confirmedIncreased": 13,
+        "insickCount": 82
       },
       {
         "updateTime": "朝阳区",
@@ -1526,6 +1532,12 @@
         "maxZeroIncrDays": 41,
         "confirmedIncreased": 0,
         "insickCount": 0
+      },
+      {
+        "updateTime": "待明确地区",
+        "maxZeroIncrDays": 58,
+        "confirmedIncreased": 0,
+        "insickCount": 0
       }
     ]
   },
@@ -1621,7 +1633,7 @@
   },
   {
     "name": "上海市",
-    "lastUpdate": "2020-03-21T02:03:01.000Z",
+    "lastUpdate": "2020-03-21T13:34:02.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
@@ -1734,6 +1746,12 @@
       {
         "updateTime": "崇明区",
         "maxZeroIncrDays": 33,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "待明确地区",
+        "maxZeroIncrDays": 42,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
