@@ -154,17 +154,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=广东省&city=东莞",
-    "keywords": [
-      "东莞",
-      "Dongguan"
-    ]
-  },
-  {
     "url": "#tab=trends&province=广东省&city=珠海",
     "keywords": [
       "珠海",
       "Zhuhai"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=广东省&city=东莞",
+    "keywords": [
+      "东莞",
+      "Dongguan"
     ]
   },
   {
@@ -2086,17 +2086,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=福建省&city=龙岩",
-    "keywords": [
-      "龙岩",
-      "Longyan"
-    ]
-  },
-  {
     "url": "#tab=trends&province=福建省&city=境外输入人员",
     "keywords": [
       "境外输入人员",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=福建省&city=龙岩",
+    "keywords": [
+      "龙岩",
+      "Longyan"
     ]
   },
   {
