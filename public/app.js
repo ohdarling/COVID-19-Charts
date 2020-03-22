@@ -802,7 +802,7 @@ async function showCountriesCompare(metrics) {
     confirmed: '累计确诊人数',
     exists: '现存确诊人数',
     increase: '新增确诊人数',
-    dead: '死亡人数',
+    dead: '累计死亡人数',
   }[metrics] || '累计确诊人数');
   const valueType = [ 'confirmed', 'insickCount', ].indexOf(metrics) > -1 ? 'log' : 'value';
 

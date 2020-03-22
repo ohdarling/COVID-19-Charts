@@ -82,6 +82,7 @@ const languageMap = {
   '累计确诊人数': 'Total Confirmed Count',
   '现存确诊人数': 'Exists Confirmed Count',
   '新增确诊人数': 'Increased Count',
+  '累计死亡人数': 'Total Dead Count',
   '死亡人数': 'Dead Count',
   '中国趋势': 'China Trends',
 };
