@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-22T09:51:03.000Z",
+    "lastUpdate": "2020-03-22T11:43:20.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -106,6 +106,12 @@
         "insickCount": 1
       },
       {
+        "updateTime": "重庆市",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 1
+      },
+      {
         "updateTime": "海南省",
         "maxZeroIncrDays": 31,
         "confirmedIncreased": 0,
@@ -126,12 +132,6 @@
       {
         "updateTime": "安徽省",
         "maxZeroIncrDays": 23,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "重庆市",
-        "maxZeroIncrDays": 26,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -1045,8 +1045,14 @@
   },
   {
     "name": "重庆市",
-    "lastUpdate": "2020-03-15T03:37:10.000Z",
+    "lastUpdate": "2020-03-22T10:52:13.000Z",
     "records": [
+      {
+        "updateTime": "境外输入人员",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 1
+      },
       {
         "updateTime": "万州区",
         "maxZeroIncrDays": 29,
