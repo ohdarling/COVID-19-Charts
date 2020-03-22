@@ -3696,6 +3696,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=印度",
+    "keywords": [
+      "印度",
+      "India"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
     "keywords": [
       "菲律宾",
@@ -3707,13 +3714,6 @@
     "keywords": [
       "厄瓜多尔",
       "Ecuador"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=印度",
-    "keywords": [
-      "印度",
-      "India"
     ]
   },
   {
@@ -3913,6 +3913,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=越南",
+    "keywords": [
+      "越南",
+      "Vietnam"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
     "keywords": [
       "摩洛哥",
@@ -3927,10 +3934,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=越南",
+    "url": "#tab=world-trends&continent=欧洲&country=摩尔多瓦",
     "keywords": [
-      "越南",
-      "Vietnam"
+      "摩尔多瓦",
+      "Moldova"
     ]
   },
   {
@@ -3966,13 +3973,6 @@
     "keywords": [
       "法罗群岛",
       "Faroe"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=摩尔多瓦",
-    "keywords": [
-      "摩尔多瓦",
-      "Moldova"
     ]
   },
   {
