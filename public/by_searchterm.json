@@ -3563,17 +3563,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
-    "keywords": [
-      "澳大利亚",
-      "Australia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=日本",
     "keywords": [
       "日本",
       "Japan"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
+    "keywords": [
+      "澳大利亚",
+      "Australia"
     ]
   },
   {
@@ -3710,17 +3710,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=斯洛文尼亚",
-    "keywords": [
-      "斯洛文尼亚",
-      "Slovenia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=印度",
     "keywords": [
       "印度",
       "India"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=斯洛文尼亚",
+    "keywords": [
+      "斯洛文尼亚",
+      "Slovenia"
     ]
   },
   {
@@ -3913,6 +3913,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
+    "keywords": [
+      "摩洛哥",
+      "Morocco"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=约旦",
     "keywords": [
       "约旦",
@@ -3924,13 +3931,6 @@
     "keywords": [
       "越南",
       "Vietnam"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
-    "keywords": [
-      "摩洛哥",
-      "Morocco"
     ]
   },
   {
@@ -4179,6 +4179,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=毛里求斯",
+    "keywords": [
+      "毛里求斯",
+      "Mauritius"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=巴拉圭",
     "keywords": [
       "巴拉圭",
@@ -4211,13 +4218,6 @@
     "keywords": [
       "摩纳哥",
       "Monaco"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=毛里求斯",
-    "keywords": [
-      "毛里求斯",
-      "Mauritius"
     ]
   },
   {
@@ -4368,6 +4368,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=赤道几内亚",
+    "keywords": [
+      "赤道几内亚",
+      "Eq. Guinea"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=留尼汪",
     "keywords": [
       "留尼汪",
@@ -4379,13 +4386,6 @@
     "keywords": [
       "塞舌尔",
       "Seychelles"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=赤道几内亚",
-    "keywords": [
-      "赤道几内亚",
-      "Eq. Guinea"
     ]
   },
   {
