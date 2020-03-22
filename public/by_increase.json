@@ -326,12 +326,6 @@
         "maxZeroIncrDays": 34,
         "confirmedIncreased": 0,
         "insickCount": 0
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 59,
-        "confirmedIncreased": 0,
-        "insickCount": 0
       }
     ]
   },
@@ -1532,12 +1526,6 @@
         "maxZeroIncrDays": 42,
         "confirmedIncreased": 0,
         "insickCount": 0
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 59,
-        "confirmedIncreased": 0,
-        "insickCount": 0
       }
     ]
   },
@@ -1746,12 +1734,6 @@
       {
         "updateTime": "崇明区",
         "maxZeroIncrDays": 34,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 43,
         "confirmedIncreased": 0,
         "insickCount": 0
       }

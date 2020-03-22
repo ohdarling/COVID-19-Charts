@@ -294,13 +294,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=广东省&city=待明确地区",
-    "keywords": [
-      "待明确地区",
-      "Area not defined"
-    ]
-  },
-  {
     "url": "#tab=trends&province=河南省",
     "keywords": [
       "河南省",
@@ -1701,13 +1694,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=北京市&city=待明确地区",
-    "keywords": [
-      "待明确地区",
-      "Area not defined"
-    ]
-  },
-  {
     "url": "#tab=trends&province=黑龙江省",
     "keywords": [
       "黑龙江省",
@@ -1950,13 +1936,6 @@
     "keywords": [
       "崇明区",
       "Chongming District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=上海市&city=待明确地区",
-    "keywords": [
-      "待明确地区",
-      "Area not defined"
     ]
   },
   {
