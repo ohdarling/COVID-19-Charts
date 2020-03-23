@@ -69763,7 +69763,7 @@
   },
   {
     "name": "泽西岛",
-    "enName": "Bailiwick of Jersey",
+    "enName": "Jersey",
     "records": [
       {
         "locationId": 0,
@@ -76133,7 +76133,7 @@
   },
   {
     "name": "新喀里多尼亚",
-    "enName": null,
+    "enName": "New Caledonia",
     "records": [
       {
         "locationId": 0,
@@ -77959,7 +77959,7 @@
   },
   {
     "name": "佛得角",
-    "enName": null,
+    "enName": "Cape Verde",
     "records": [
       {
         "locationId": 982017,
@@ -79799,7 +79799,7 @@
   },
   {
     "name": "百慕大",
-    "enName": null,
+    "enName": "Bermuda",
     "records": [
       {
         "locationId": 0,
@@ -80626,7 +80626,7 @@
   },
   {
     "name": "马恩岛",
-    "enName": null,
+    "enName": "Isle of Man",
     "records": [
       {
         "locationId": 0,
@@ -81865,7 +81865,7 @@
   },
   {
     "name": "圣文森特和格林纳丁斯",
-    "enName": "Saint Vincent and the Grenadines",
+    "enName": "St. Vin. and Gren.",
     "records": [
       {
         "locationId": 974012,
@@ -83124,7 +83124,7 @@
   },
   {
     "name": "东帝汶",
-    "enName": null,
+    "enName": "Timor-Leste",
     "records": [
       {
         "locationId": 952004,
@@ -83225,7 +83225,7 @@
   },
   {
     "name": "巴布亚新几内亚",
-    "enName": "Papua New Cuinea",
+    "enName": "Papua New Guinea",
     "records": [
       {
         "locationId": 990009,
@@ -83379,7 +83379,7 @@
   },
   {
     "name": "厄立特里亚",
-    "enName": null,
+    "enName": "Eritrea",
     "records": [
       {
         "locationId": 985003,
@@ -83509,7 +83509,7 @@
   },
   {
     "name": "蒙特塞拉特",
-    "enName": null,
+    "enName": "Montserrat",
     "records": [
       {
         "locationId": 0,
