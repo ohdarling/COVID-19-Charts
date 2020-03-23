@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-23T01:27:01.000Z",
+    "lastUpdate": "2020-03-23T03:15:47.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -19,7 +19,7 @@
         "updateTime": "上海市",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 10,
-        "insickCount": 72
+        "insickCount": 71
       },
       {
         "updateTime": "甘肃省",
@@ -967,23 +967,23 @@
   },
   {
     "name": "江苏省",
-    "lastUpdate": "2020-03-22T07:20:38.000Z",
+    "lastUpdate": "2020-03-23T01:58:00.000Z",
     "records": [
       {
-        "updateTime": "苏州",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "宿迁",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 1
+        "updateTime": "境外输入人员",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 2
       },
       {
         "updateTime": "南京",
         "maxZeroIncrDays": 33,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "苏州",
+        "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -1038,6 +1038,12 @@
       {
         "updateTime": "扬州",
         "maxZeroIncrDays": 35,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "宿迁",
+        "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -1633,13 +1639,13 @@
   },
   {
     "name": "上海市",
-    "lastUpdate": "2020-03-22T23:53:14.000Z",
+    "lastUpdate": "2020-03-23T03:15:47.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 10,
-        "insickCount": 65
+        "insickCount": 64
       },
       {
         "updateTime": "浦东区",
@@ -1753,13 +1759,19 @@
   },
   {
     "name": "河北省",
-    "lastUpdate": "2020-03-22T07:20:38.000Z",
+    "lastUpdate": "2020-03-23T01:53:35.000Z",
     "records": [
       {
         "updateTime": "唐山",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
-        "insickCount": 3
+        "insickCount": 2
+      },
+      {
+        "updateTime": "境外输入人员",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 1
       },
       {
         "updateTime": "沧州",
