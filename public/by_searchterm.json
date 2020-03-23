@@ -3549,6 +3549,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=葡萄牙",
+    "keywords": [
+      "葡萄牙",
+      "Portugal"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=瑞典",
     "keywords": [
       "瑞典",
@@ -3560,13 +3567,6 @@
     "keywords": [
       "澳大利亚",
       "Australia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=葡萄牙",
-    "keywords": [
-      "葡萄牙",
-      "Portugal"
     ]
   },
   {
@@ -3710,6 +3710,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=新加坡",
+    "keywords": [
+      "新加坡",
+      "Singapore"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=厄瓜多尔",
     "keywords": [
       "厄瓜多尔",
@@ -3728,13 +3735,6 @@
     "keywords": [
       "菲律宾",
       "Philippines"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=新加坡",
-    "keywords": [
-      "新加坡",
-      "Singapore"
     ]
   },
   {
@@ -3941,6 +3941,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=安道尔",
+    "keywords": [
+      "安道尔",
+      "Andorra"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=越南",
     "keywords": [
       "越南",
@@ -3952,13 +3959,6 @@
     "keywords": [
       "摩洛哥",
       "Morocco"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=安道尔",
-    "keywords": [
-      "安道尔",
-      "Andorra"
     ]
   },
   {
@@ -4011,6 +4011,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=白俄罗斯",
+    "keywords": [
+      "白俄罗斯",
+      "Belarus"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
     "keywords": [
       "斯里兰卡",
@@ -4043,13 +4050,6 @@
     "keywords": [
       "阿尔巴尼亚",
       "Albania"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=白俄罗斯",
-    "keywords": [
-      "白俄罗斯",
-      "Belarus"
     ]
   },
   {
@@ -4778,6 +4778,13 @@
     "keywords": [
       "蒙特塞拉特",
       "Montserrat"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=叙利亚",
+    "keywords": [
+      "叙利亚",
+      "Syria"
     ]
   }
 ]
