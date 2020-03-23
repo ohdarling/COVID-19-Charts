@@ -3577,6 +3577,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=马来西亚",
+    "keywords": [
+      "马来西亚",
+      "Malaysia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=加拿大",
     "keywords": [
       "加拿大",
@@ -3588,13 +3595,6 @@
     "keywords": [
       "丹麦",
       "Denmark"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=马来西亚",
-    "keywords": [
-      "马来西亚",
-      "Malaysia"
     ]
   },
   {
@@ -3724,6 +3724,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
+    "keywords": [
+      "菲律宾",
+      "Philippines"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=新加坡",
     "keywords": [
       "新加坡",
@@ -3749,13 +3756,6 @@
     "keywords": [
       "斯洛文尼亚",
       "Slovenia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
-    "keywords": [
-      "菲律宾",
-      "Philippines"
     ]
   },
   {
@@ -3892,6 +3892,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
+    "keywords": [
+      "匈牙利",
+      "Hungary"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=乌拉圭",
     "keywords": [
       "乌拉圭",
@@ -3931,13 +3938,6 @@
     "keywords": [
       "哥斯达黎加",
       "Costa Rica"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
-    "keywords": [
-      "匈牙利",
-      "Hungary"
     ]
   },
   {
@@ -4095,6 +4095,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
+    "keywords": [
+      "阿曼",
+      "Oman"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=阿塞拜疆",
     "keywords": [
       "阿塞拜疆",
@@ -4120,13 +4127,6 @@
     "keywords": [
       "喀麦隆",
       "Cameroon"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
-    "keywords": [
-      "阿曼",
-      "Oman"
     ]
   },
   {
@@ -4172,6 +4172,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=尼日利亚",
+    "keywords": [
+      "尼日利亚",
+      "Nigeria"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=马提尼克",
     "keywords": [
       "马提尼克",
@@ -4183,13 +4190,6 @@
     "keywords": [
       "刚果（金）",
       "Dem. Rep. Congo"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=尼日利亚",
-    "keywords": [
-      "尼日利亚",
-      "Nigeria"
     ]
   },
   {
@@ -4315,7 +4315,7 @@
     "url": "#tab=world-trends&continent=欧洲&country=泽西岛",
     "keywords": [
       "泽西岛",
-      "Bailiwick of Jersey"
+      "Jersey"
     ]
   },
   {
@@ -4476,7 +4476,7 @@
     "url": "#tab=world-trends&continent=非洲&country=刚果（布）",
     "keywords": [
       "刚果（布）",
-      null
+      "Congo"
     ]
   },
   {
@@ -4497,7 +4497,7 @@
     "url": "#tab=world-trends&continent=大洋洲&country=新喀里多尼亚",
     "keywords": [
       "新喀里多尼亚",
-      null
+      "New Caledonia"
     ]
   },
   {
@@ -4567,7 +4567,7 @@
     "url": "#tab=world-trends&continent=非洲&country=佛得角",
     "keywords": [
       "佛得角",
-      null
+      "Cape Verde"
     ]
   },
   {
@@ -4623,7 +4623,7 @@
     "url": "#tab=world-trends&continent=北美洲&country=百慕大",
     "keywords": [
       "百慕大",
-      null
+      "Bermuda"
     ]
   },
   {
@@ -4672,7 +4672,7 @@
     "url": "#tab=world-trends&continent=欧洲&country=马恩岛",
     "keywords": [
       "马恩岛",
-      null
+      "Isle of Man"
     ]
   },
   {
@@ -4693,7 +4693,7 @@
     "url": "#tab=world-trends&continent=北美洲&country=圣文森特和格林纳丁斯",
     "keywords": [
       "圣文森特和格林纳丁斯",
-      "Saint Vincent and the Grenadines"
+      "St. Vin. and Gren."
     ]
   },
   {
@@ -4742,14 +4742,14 @@
     "url": "#tab=world-trends&continent=亚洲&country=东帝汶",
     "keywords": [
       "东帝汶",
-      null
+      "Timor-Leste"
     ]
   },
   {
     "url": "#tab=world-trends&continent=大洋洲&country=巴布亚新几内亚",
     "keywords": [
       "巴布亚新几内亚",
-      "Papua New Cuinea"
+      "Papua New Guinea"
     ]
   },
   {
@@ -4763,7 +4763,7 @@
     "url": "#tab=world-trends&continent=非洲&country=厄立特里亚",
     "keywords": [
       "厄立特里亚",
-      null
+      "Eritrea"
     ]
   },
   {
@@ -4777,7 +4777,7 @@
     "url": "#tab=world-trends&continent=北美洲&country=蒙特塞拉特",
     "keywords": [
       "蒙特塞拉特",
-      null
+      "Montserrat"
     ]
   }
 ]
