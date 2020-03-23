@@ -3759,6 +3759,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=南非",
+    "keywords": [
+      "南非",
+      "South Africa"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=罗马尼亚",
     "keywords": [
       "罗马尼亚",
@@ -3805,13 +3812,6 @@
     "keywords": [
       "巴拿马",
       "Panama"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=南非",
-    "keywords": [
-      "南非",
-      "South Africa"
     ]
   },
   {
@@ -3864,6 +3864,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=阿联酋",
+    "keywords": [
+      "阿联酋",
+      "United Arab Emirates"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=亚美尼亚",
     "keywords": [
       "亚美尼亚",
@@ -3906,13 +3913,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=阿联酋",
-    "keywords": [
-      "阿联酋",
-      "United Arab Emirates"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=圣马力诺",
     "keywords": [
       "圣马力诺",
@@ -3934,6 +3934,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=北马其顿",
+    "keywords": [
+      "北马其顿",
+      "Macedonia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=哥斯达黎加",
     "keywords": [
       "哥斯达黎加",
@@ -3945,6 +3952,13 @@
     "keywords": [
       "安道尔",
       "Andorra"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=波黑",
+    "keywords": [
+      "波黑",
+      "Bosnia and Herz."
     ]
   },
   {
@@ -3997,10 +4011,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=波黑",
+    "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
     "keywords": [
-      "波黑",
-      "Bosnia and Herz."
+      "斯里兰卡",
+      "Sri Lanka"
     ]
   },
   {
@@ -4018,17 +4032,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
+    "url": "#tab=world-trends&continent=非洲&country=突尼斯",
     "keywords": [
-      "斯里兰卡",
-      "Sri Lanka"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=北马其顿",
-    "keywords": [
-      "北马其顿",
-      "Macedonia"
+      "突尼斯",
+      "Tunisia"
     ]
   },
   {
@@ -4050,13 +4057,6 @@
     "keywords": [
       "阿尔巴尼亚",
       "Albania"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=突尼斯",
-    "keywords": [
-      "突尼斯",
-      "Tunisia"
     ]
   },
   {
@@ -4088,6 +4088,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=阿塞拜疆",
+    "keywords": [
+      "阿塞拜疆",
+      "Azerbaijan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
     "keywords": [
       "塞内加尔",
@@ -4099,13 +4106,6 @@
     "keywords": [
       "阿曼",
       "Oman"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=阿塞拜疆",
-    "keywords": [
-      "阿塞拜疆",
-      "Azerbaijan"
     ]
   },
   {
@@ -4305,6 +4305,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=吉尔吉斯斯坦",
+    "keywords": [
+      "吉尔吉斯斯坦",
+      "Kyrgyzstan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=法属圭亚那",
     "keywords": [
       "法属圭亚那",
@@ -4344,13 +4351,6 @@
     "keywords": [
       "黑山",
       "Montenegro"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=吉尔吉斯斯坦",
-    "keywords": [
-      "吉尔吉斯斯坦",
-      "Kyrgyzstan"
     ]
   },
   {
