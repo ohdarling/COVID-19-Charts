@@ -638,7 +638,7 @@ async function setupWorldMapCharts(records, container) {
     series: [
       {
         type: 'bar',
-        data: records.filter(r => r.name !== '中国' && r.confirmedCount >= 100).map(r => {
+        data: records.filter(r => r.name !== '中国' && r.confirmedCount >= 500).map(r => {
           return [ r.confirmedCount, getCurrentLang() === 'zh' ? r.name : (r.enName || r.name) ];
         }),
         label: {
