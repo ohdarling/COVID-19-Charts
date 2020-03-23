@@ -294,6 +294,13 @@
     ]
   },
   {
+    "url": "#tab=trends&province=广东省&city=待明确地区",
+    "keywords": [
+      "待明确地区",
+      "Area not defined"
+    ]
+  },
+  {
     "url": "#tab=trends&province=河南省",
     "keywords": [
       "河南省",
@@ -3591,6 +3598,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=以色列",
+    "keywords": [
+      "以色列",
+      "Israel"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=土耳其",
     "keywords": [
       "土耳其",
@@ -3609,13 +3623,6 @@
     "keywords": [
       "日本",
       "Japan"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=以色列",
-    "keywords": [
-      "以色列",
-      "Israel"
     ]
   },
   {
@@ -3682,17 +3689,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=冰岛",
-    "keywords": [
-      "冰岛",
-      "Iceland"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=印度尼西亚",
     "keywords": [
       "印度尼西亚",
       "Indonesia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=冰岛",
+    "keywords": [
+      "冰岛",
+      "Iceland"
     ]
   },
   {
@@ -3724,10 +3731,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=斯洛文尼亚",
+    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
     "keywords": [
-      "斯洛文尼亚",
-      "Slovenia"
+      "俄罗斯",
+      "Russia"
     ]
   },
   {
@@ -3738,10 +3745,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
+    "url": "#tab=world-trends&continent=欧洲&country=斯洛文尼亚",
     "keywords": [
-      "俄罗斯",
-      "Russia"
+      "斯洛文尼亚",
+      "Slovenia"
     ]
   },
   {
@@ -4060,6 +4067,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
+    "keywords": [
+      "乌克兰",
+      "Ukraine"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=多米尼加",
     "keywords": [
       "多米尼加",
@@ -4088,6 +4102,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "keywords": [
+      "哈萨克斯坦",
+      "Kazakhstan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=巴勒斯坦",
     "keywords": [
       "巴勒斯坦",
@@ -4095,10 +4116,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "url": "#tab=world-trends&continent=非洲&country=喀麦隆",
     "keywords": [
-      "哈萨克斯坦",
-      "Kazakhstan"
+      "喀麦隆",
+      "Cameroon"
     ]
   },
   {
@@ -4123,13 +4144,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
-    "keywords": [
-      "乌克兰",
-      "Ukraine"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=留尼旺",
     "keywords": [
       "留尼旺",
@@ -4141,13 +4155,6 @@
     "keywords": [
       "乌兹别克斯坦",
       "Uzbekistan"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=喀麦隆",
-    "keywords": [
-      "喀麦隆",
-      "Cameroon"
     ]
   },
   {
