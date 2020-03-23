@@ -1,13 +1,13 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-23T06:45:13.000Z",
+    "lastUpdate": "2020-03-23T09:44:01.000Z",
     "records": [
       {
         "updateTime": "北京市",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 23,
-        "insickCount": 129
+        "insickCount": 128
       },
       {
         "updateTime": "广东省",
@@ -43,7 +43,7 @@
         "updateTime": "山东省",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 1,
-        "insickCount": 9
+        "insickCount": 8
       },
       {
         "updateTime": "黑龙江省",
@@ -859,7 +859,7 @@
   },
   {
     "name": "山东省",
-    "lastUpdate": "2020-03-23T00:27:19.000Z",
+    "lastUpdate": "2020-03-23T08:27:24.000Z",
     "records": [
       {
         "updateTime": "任城监狱",
@@ -877,7 +877,7 @@
         "updateTime": "济宁",
         "maxZeroIncrDays": 22,
         "confirmedIncreased": 0,
-        "insickCount": 1
+        "insickCount": 0
       },
       {
         "updateTime": "青岛",
@@ -1435,7 +1435,7 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-23T05:56:24.000Z",
+    "lastUpdate": "2020-03-23T07:08:37.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",

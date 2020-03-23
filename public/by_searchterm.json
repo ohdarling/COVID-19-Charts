@@ -3626,17 +3626,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
-    "keywords": [
-      "卢森堡",
-      "Luxembourg"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=巴基斯坦",
     "keywords": [
       "巴基斯坦",
       "Pakistan"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
+    "keywords": [
+      "卢森堡",
+      "Luxembourg"
     ]
   },
   {
@@ -4004,6 +4004,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
+    "keywords": [
+      "斯里兰卡",
+      "Sri Lanka"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=北马其顿",
     "keywords": [
       "北马其顿",
@@ -4015,13 +4022,6 @@
     "keywords": [
       "柬埔寨",
       "Cambodia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
-    "keywords": [
-      "斯里兰卡",
-      "Sri Lanka"
     ]
   },
   {
