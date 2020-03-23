@@ -1,13 +1,13 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-23T05:34:12.000Z",
+    "lastUpdate": "2020-03-23T06:45:13.000Z",
     "records": [
       {
         "updateTime": "北京市",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 8,
-        "insickCount": 114
+        "confirmedIncreased": 23,
+        "insickCount": 129
       },
       {
         "updateTime": "广东省",
@@ -1435,13 +1435,13 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-23T00:45:59.000Z",
+    "lastUpdate": "2020-03-23T05:56:24.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 8,
-        "insickCount": 99
+        "confirmedIncreased": 23,
+        "insickCount": 114
       },
       {
         "updateTime": "朝阳区",
