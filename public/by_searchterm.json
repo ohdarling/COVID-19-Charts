@@ -2681,6 +2681,13 @@
     ]
   },
   {
+    "url": "#tab=trends&province=天津市&city=境外输入人员",
+    "keywords": [
+      "境外输入人员",
+      ""
+    ]
+  },
+  {
     "url": "#tab=trends&province=天津市&city=西青区",
     "keywords": [
       "西青区",
@@ -2734,13 +2741,6 @@
     "keywords": [
       "武清区",
       "Wuqing District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=天津市&city=境外输入人员",
-    "keywords": [
-      "境外输入人员",
-      ""
     ]
   },
   {
@@ -3549,6 +3549,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
+    "keywords": [
+      "澳大利亚",
+      "Australia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=葡萄牙",
     "keywords": [
       "葡萄牙",
@@ -3602,13 +3609,6 @@
     "keywords": [
       "日本",
       "Japan"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
-    "keywords": [
-      "澳大利亚",
-      "Australia"
     ]
   },
   {
@@ -3759,6 +3759,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
+    "keywords": [
+      "秘鲁",
+      "Peru"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=巴林",
     "keywords": [
       "巴林",
@@ -3780,20 +3787,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
-    "keywords": [
-      "秘鲁",
-      "Peru"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=南非",
-    "keywords": [
-      "南非",
-      "South Africa"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=北美洲&country=墨西哥",
     "keywords": [
       "墨西哥",
@@ -3808,6 +3801,20 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=南非",
+    "keywords": [
+      "南非",
+      "South Africa"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
+    "keywords": [
+      "阿根廷",
+      "Argentina"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
     "keywords": [
       "黎巴嫩",
@@ -3819,13 +3826,6 @@
     "keywords": [
       "伊拉克",
       "Iraq"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
-    "keywords": [
-      "阿根廷",
-      "Argentina"
     ]
   },
   {
@@ -3885,6 +3885,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=乌拉圭",
+    "keywords": [
+      "乌拉圭",
+      "Uruguay"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=阿联酋",
     "keywords": [
       "阿联酋",
@@ -3913,10 +3920,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=乌拉圭",
+    "url": "#tab=world-trends&continent=北美洲&country=哥斯达黎加",
     "keywords": [
-      "乌拉圭",
-      "Uruguay"
+      "哥斯达黎加",
+      "Costa Rica"
     ]
   },
   {
@@ -3924,13 +3931,6 @@
     "keywords": [
       "匈牙利",
       "Hungary"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=哥斯达黎加",
-    "keywords": [
-      "哥斯达黎加",
-      "Costa Rica"
     ]
   },
   {
@@ -4025,6 +4025,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=委内瑞拉",
+    "keywords": [
+      "委内瑞拉",
+      "Venezuela"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=阿尔巴尼亚",
     "keywords": [
       "阿尔巴尼亚",
@@ -4064,13 +4071,6 @@
     "keywords": [
       "布基纳法索",
       "Burkina Faso"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=委内瑞拉",
-    "keywords": [
-      "委内瑞拉",
-      "Venezuela"
     ]
   },
   {
@@ -4186,6 +4186,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=毛里求斯",
+    "keywords": [
+      "毛里求斯",
+      "Mauritius"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=孟加拉国",
     "keywords": [
       "孟加拉国",
@@ -4207,10 +4214,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=毛里求斯",
+    "url": "#tab=world-trends&continent=非洲&country=加纳",
     "keywords": [
-      "毛里求斯",
-      "Mauritius"
+      "加纳",
+      "Ghana"
     ]
   },
   {
@@ -4239,13 +4246,6 @@
     "keywords": [
       "古巴",
       "Cuba"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=加纳",
-    "keywords": [
-      "加纳",
-      "Ghana"
     ]
   },
   {
@@ -4571,7 +4571,7 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=圣卢西亚",
+    "url": "#tab=world-trends&continent=北美洲&country=圣卢西亚",
     "keywords": [
       "圣卢西亚",
       "Saint Lucia"
