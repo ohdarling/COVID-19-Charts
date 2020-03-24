@@ -3549,6 +3549,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
+    "keywords": [
+      "澳大利亚",
+      "Australia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=加拿大",
     "keywords": [
       "加拿大",
@@ -3577,17 +3584,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
+    "url": "#tab=world-trends&continent=亚洲&country=以色列",
     "keywords": [
-      "澳大利亚",
-      "Australia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=土耳其",
-    "keywords": [
-      "土耳其",
-      "Turkey"
+      "以色列",
+      "Israel"
     ]
   },
   {
@@ -3598,17 +3598,17 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=土耳其",
+    "keywords": [
+      "土耳其",
+      "Turkey"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=丹麦",
     "keywords": [
       "丹麦",
       "Denmark"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=以色列",
-    "keywords": [
-      "以色列",
-      "Israel"
     ]
   },
   {
@@ -3689,17 +3689,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=冰岛",
-    "keywords": [
-      "冰岛",
-      "Iceland"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=印度尼西亚",
     "keywords": [
       "印度尼西亚",
       "Indonesia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=冰岛",
+    "keywords": [
+      "冰岛",
+      "Iceland"
     ]
   },
   {
@@ -3892,6 +3892,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
+    "keywords": [
+      "匈牙利",
+      "Hungary"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=斯洛伐克",
     "keywords": [
       "斯洛伐克",
@@ -3903,13 +3910,6 @@
     "keywords": [
       "拉脱维亚",
       "Latvia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
-    "keywords": [
-      "匈牙利",
-      "Hungary"
     ]
   },
   {
@@ -4074,6 +4074,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
+    "keywords": [
+      "阿曼",
+      "Oman"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
     "keywords": [
       "塞内加尔",
@@ -4102,10 +4109,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
+    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
     "keywords": [
-      "阿曼",
-      "Oman"
+      "哈萨克斯坦",
+      "Kazakhstan"
     ]
   },
   {
@@ -4120,13 +4127,6 @@
     "keywords": [
       "格鲁吉亚",
       "Georgia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
-    "keywords": [
-      "哈萨克斯坦",
-      "Kazakhstan"
     ]
   },
   {
@@ -4508,6 +4508,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=贝宁",
+    "keywords": [
+      "贝宁",
+      "Benin"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=刚果（布）",
     "keywords": [
       "刚果（布）",
@@ -4634,13 +4641,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=贝宁",
-    "keywords": [
-      "贝宁",
-      "Benin"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=北美洲&country=百慕大",
     "keywords": [
       "百慕大",
@@ -4701,6 +4701,13 @@
     "keywords": [
       "缅甸",
       "Myanmar"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=老挝",
+    "keywords": [
+      "老挝",
+      "Laos"
     ]
   },
   {
