@@ -85,6 +85,7 @@ const languageMap = {
   '累计死亡人数': 'Total Dead Count',
   '死亡人数': 'Dead Count',
   '中国趋势': 'China Trends',
+  '每百万人口确诊人数': 'Confirmed per 1M People',
 };
 
 function getTextForKey(k) {
