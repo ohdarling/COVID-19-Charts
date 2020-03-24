@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-24T00:39:14.000Z",
+    "lastUpdate": "2020-03-24T01:27:08.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -22,16 +22,16 @@
         "insickCount": 75
       },
       {
+        "updateTime": "福建省",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 5,
+        "insickCount": 22
+      },
+      {
         "updateTime": "甘肃省",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
         "insickCount": 20
-      },
-      {
-        "updateTime": "福建省",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 17
       },
       {
         "updateTime": "浙江省",
@@ -46,6 +46,12 @@
         "insickCount": 9
       },
       {
+        "updateTime": "四川省",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 6
+      },
+      {
         "updateTime": "陕西省",
         "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
@@ -56,12 +62,6 @@
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 5
-      },
-      {
-        "updateTime": "四川省",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 4
       },
       {
         "updateTime": "黑龙江省",
@@ -1303,13 +1303,13 @@
   },
   {
     "name": "四川省",
-    "lastUpdate": "2020-03-22T07:20:38.000Z",
+    "lastUpdate": "2020-03-24T01:27:08.000Z",
     "records": [
       {
         "updateTime": "成都",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 4
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 6
       },
       {
         "updateTime": "甘孜州",
@@ -1837,13 +1837,13 @@
   },
   {
     "name": "福建省",
-    "lastUpdate": "2020-03-23T00:50:24.000Z",
+    "lastUpdate": "2020-03-24T01:27:08.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 17
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 5,
+        "insickCount": 22
       },
       {
         "updateTime": "福州",

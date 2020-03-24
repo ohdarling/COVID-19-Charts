@@ -2093,6 +2093,13 @@
     ]
   },
   {
+    "url": "#tab=trends&province=福建省&city=境外输入人员",
+    "keywords": [
+      "境外输入人员",
+      ""
+    ]
+  },
+  {
     "url": "#tab=trends&province=福建省&city=漳州",
     "keywords": [
       "漳州",
@@ -2104,13 +2111,6 @@
     "keywords": [
       "南平",
       "Nanping"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=福建省&city=境外输入人员",
-    "keywords": [
-      "境外输入人员",
-      ""
     ]
   },
   {
@@ -3773,6 +3773,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=埃及",
+    "keywords": [
+      "埃及",
+      "Egypt"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
     "keywords": [
       "秘鲁",
@@ -3791,13 +3798,6 @@
     "keywords": [
       "巴林",
       "Bahrain"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=埃及",
-    "keywords": [
-      "埃及",
-      "Egypt"
     ]
   },
   {
@@ -4235,6 +4235,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=加纳",
+    "keywords": [
+      "加纳",
+      "Ghana"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=洪都拉斯",
     "keywords": [
       "洪都拉斯",
@@ -4246,13 +4253,6 @@
     "keywords": [
       "科特迪瓦",
       "Côte d'Ivoire"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=加纳",
-    "keywords": [
-      "加纳",
-      "Ghana"
     ]
   },
   {
