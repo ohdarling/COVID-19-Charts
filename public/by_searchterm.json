@@ -1484,10 +1484,10 @@
     ]
   },
   {
-    "url": "#tab=trends&province=北京市&city=外地来京人员",
+    "url": "#tab=trends&province=北京市&city=外地来京",
     "keywords": [
-      "外地来京人员",
-      "People from other cities"
+      "外地来京",
+      ""
     ]
   },
   {
@@ -1827,16 +1827,16 @@
     ]
   },
   {
-    "url": "#tab=trends&province=上海市&city=外地来沪人员",
+    "url": "#tab=trends&province=上海市&city=外地来沪",
     "keywords": [
-      "外地来沪人员",
-      "People from other cities"
+      "外地来沪",
+      ""
     ]
   },
   {
-    "url": "#tab=trends&province=上海市&city=境外输入人员",
+    "url": "#tab=trends&province=上海市&city=境外输入",
     "keywords": [
-      "境外输入人员",
+      "境外输入",
       ""
     ]
   },
@@ -2667,10 +2667,10 @@
     ]
   },
   {
-    "url": "#tab=trends&province=天津市&city=外地来津人员",
+    "url": "#tab=trends&province=天津市&city=外地来津",
     "keywords": [
-      "外地来津人员",
-      "People from other cities"
+      "外地来津",
+      ""
     ]
   },
   {
@@ -2681,9 +2681,9 @@
     ]
   },
   {
-    "url": "#tab=trends&province=天津市&city=境外输入人员",
+    "url": "#tab=trends&province=天津市&city=境外输入",
     "keywords": [
-      "境外输入人员",
+      "境外输入",
       ""
     ]
   },
@@ -4091,7 +4091,7 @@
     "url": "#tab=world-trends&continent=北美洲&country=多米尼加",
     "keywords": [
       "多米尼加",
-      "Dominica"
+      "Dominican Rep."
     ]
   },
   {
@@ -4700,7 +4700,7 @@
     "url": "#tab=world-trends&continent=亚洲&country=缅甸",
     "keywords": [
       "缅甸",
-      "Burma"
+      "Myanmar"
     ]
   },
   {
@@ -4805,7 +4805,7 @@
     "url": "#tab=world-trends&continent=北美洲&country=格林那达",
     "keywords": [
       "格林那达",
-      null
+      "Grenada"
     ]
   },
   {

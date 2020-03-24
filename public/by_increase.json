@@ -1,13 +1,13 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-24T05:09:22.000Z",
+    "lastUpdate": "2020-03-24T09:49:13.000Z",
     "records": [
       {
         "updateTime": "北京市",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 17,
-        "insickCount": 145
+        "confirmedIncreased": 21,
+        "insickCount": 149
       },
       {
         "updateTime": "广东省",
@@ -19,7 +19,7 @@
         "updateTime": "上海市",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 10,
-        "insickCount": 81
+        "insickCount": 80
       },
       {
         "updateTime": "福建省",
@@ -58,15 +58,15 @@
         "insickCount": 6
       },
       {
+        "updateTime": "天津市",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 6
+      },
+      {
         "updateTime": "江苏省",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 3,
-        "insickCount": 5
-      },
-      {
-        "updateTime": "天津市",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
         "insickCount": 5
       },
       {
@@ -1303,13 +1303,13 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-24T04:09:14.000Z",
+    "lastUpdate": "2020-03-24T07:20:23.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 16,
-        "insickCount": 129
+        "confirmedIncreased": 20,
+        "insickCount": 133
       },
       {
         "updateTime": "朝阳区",
@@ -1342,9 +1342,9 @@
         "insickCount": 23
       },
       {
-        "updateTime": "外地来京人员",
-        "maxZeroIncrDays": 40,
-        "confirmedIncreased": 0,
+        "updateTime": "外地来京",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 25,
         "insickCount": 23
       },
       {
@@ -1639,13 +1639,13 @@
   },
   {
     "name": "上海市",
-    "lastUpdate": "2020-03-24T05:09:22.000Z",
+    "lastUpdate": "2020-03-24T08:05:18.000Z",
     "records": [
       {
-        "updateTime": "境外输入人员",
+        "updateTime": "境外输入",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 9,
-        "insickCount": 73
+        "confirmedIncreased": 75,
+        "insickCount": 72
       },
       {
         "updateTime": "浦东区",
@@ -1654,9 +1654,9 @@
         "insickCount": 25
       },
       {
-        "updateTime": "外地来沪人员",
-        "maxZeroIncrDays": 21,
-        "confirmedIncreased": 0,
+        "updateTime": "外地来沪",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 111,
         "insickCount": 4
       },
       {
@@ -2329,13 +2329,13 @@
   },
   {
     "name": "天津市",
-    "lastUpdate": "2020-03-23T03:57:57.000Z",
+    "lastUpdate": "2020-03-24T07:45:05.000Z",
     "records": [
       {
-        "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 5
+        "updateTime": "境外输入",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 6,
+        "insickCount": 6
       },
       {
         "updateTime": "宝坻区",
@@ -2368,9 +2368,9 @@
         "insickCount": 0
       },
       {
-        "updateTime": "外地来津人员",
-        "maxZeroIncrDays": 50,
-        "confirmedIncreased": 0,
+        "updateTime": "外地来津",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
         "insickCount": 0
       },
       {
