@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-23T23:45:40.000Z",
+    "lastUpdate": "2020-03-24T00:39:14.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -10,16 +10,16 @@
         "insickCount": 128
       },
       {
+        "updateTime": "上海市",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 9,
+        "insickCount": 80
+      },
+      {
         "updateTime": "广东省",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 75
-      },
-      {
-        "updateTime": "上海市",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 71
       },
       {
         "updateTime": "甘肃省",
@@ -46,12 +46,6 @@
         "insickCount": 9
       },
       {
-        "updateTime": "黑龙江省",
-        "maxZeroIncrDays": 4,
-        "confirmedIncreased": 0,
-        "insickCount": 6
-      },
-      {
         "updateTime": "陕西省",
         "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
@@ -68,6 +62,12 @@
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
         "insickCount": 4
+      },
+      {
+        "updateTime": "黑龙江省",
+        "maxZeroIncrDays": 4,
+        "confirmedIncreased": 0,
+        "insickCount": 3
       },
       {
         "updateTime": "河北省",
@@ -1549,7 +1549,7 @@
   },
   {
     "name": "黑龙江省",
-    "lastUpdate": "2020-03-23T00:06:26.000Z",
+    "lastUpdate": "2020-03-24T00:10:20.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
@@ -1558,28 +1558,16 @@
         "insickCount": 2
       },
       {
-        "updateTime": "哈尔滨",
-        "maxZeroIncrDays": 5,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
         "updateTime": "齐齐哈尔",
         "maxZeroIncrDays": 35,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
-        "updateTime": "黑河",
-        "maxZeroIncrDays": 37,
+        "updateTime": "哈尔滨",
+        "maxZeroIncrDays": 5,
         "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "大兴安岭",
-        "maxZeroIncrDays": 13,
-        "confirmedIncreased": 0,
-        "insickCount": 1
+        "insickCount": 0
       },
       {
         "updateTime": "双鸭山",
@@ -1624,8 +1612,20 @@
         "insickCount": 0
       },
       {
+        "updateTime": "黑河",
+        "maxZeroIncrDays": 37,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
         "updateTime": "鹤岗",
         "maxZeroIncrDays": 43,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "大兴安岭",
+        "maxZeroIncrDays": 13,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -1639,13 +1639,13 @@
   },
   {
     "name": "上海市",
-    "lastUpdate": "2020-03-23T14:18:01.000Z",
+    "lastUpdate": "2020-03-24T00:13:39.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 64
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 9,
+        "insickCount": 73
       },
       {
         "updateTime": "浦东区",
