@@ -1428,6 +1428,139 @@
     ]
   },
   {
+    "url": "#tab=trends&province=北京市",
+    "keywords": [
+      "北京市",
+      "Beijing"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=境外输入人员",
+    "keywords": [
+      "境外输入人员",
+      ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=朝阳区",
+    "keywords": [
+      "朝阳区",
+      "Chaoyang District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=海淀区",
+    "keywords": [
+      "海淀区",
+      "Haidian District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=西城区",
+    "keywords": [
+      "西城区",
+      "Xicheng District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=丰台区",
+    "keywords": [
+      "丰台区",
+      "Fengtai District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=大兴区",
+    "keywords": [
+      "大兴区",
+      "Daxing District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=昌平区",
+    "keywords": [
+      "昌平区",
+      "Changping District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=外地来京人员",
+    "keywords": [
+      "外地来京人员",
+      "People from other cities"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=通州区",
+    "keywords": [
+      "通州区",
+      "Tongzhou District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=房山区",
+    "keywords": [
+      "房山区",
+      "Fangshan District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=石景山区",
+    "keywords": [
+      "石景山区",
+      "Shijingshan District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=东城区",
+    "keywords": [
+      "东城区",
+      "Dongcheng District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=顺义区",
+    "keywords": [
+      "顺义区",
+      "Shunyi District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=武汉来京人员",
+    "keywords": [
+      "武汉来京人员",
+      ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=怀柔区",
+    "keywords": [
+      "怀柔区",
+      "Huairou District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=密云区",
+    "keywords": [
+      "密云区",
+      "Miyun District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=门头沟区",
+    "keywords": [
+      "门头沟区",
+      "Mentougou District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=北京市&city=延庆区",
+    "keywords": [
+      "延庆区",
+      "Yanqing District"
+    ]
+  },
+  {
     "url": "#tab=trends&province=四川省",
     "keywords": [
       "四川省",
@@ -1579,139 +1712,6 @@
     "keywords": [
       "阿坝州",
       "Ngawa Tibetan and Qiang Autonomous Prefecture"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市",
-    "keywords": [
-      "北京市",
-      "Beijing"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=境外输入人员",
-    "keywords": [
-      "境外输入人员",
-      ""
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=朝阳区",
-    "keywords": [
-      "朝阳区",
-      "Chaoyang District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=海淀区",
-    "keywords": [
-      "海淀区",
-      "Haidian District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=西城区",
-    "keywords": [
-      "西城区",
-      "Xicheng District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=丰台区",
-    "keywords": [
-      "丰台区",
-      "Fengtai District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=大兴区",
-    "keywords": [
-      "大兴区",
-      "Daxing District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=昌平区",
-    "keywords": [
-      "昌平区",
-      "Changping District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=外地来京人员",
-    "keywords": [
-      "外地来京人员",
-      "People from other cities"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=通州区",
-    "keywords": [
-      "通州区",
-      "Tongzhou District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=房山区",
-    "keywords": [
-      "房山区",
-      "Fangshan District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=石景山区",
-    "keywords": [
-      "石景山区",
-      "Shijingshan District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=东城区",
-    "keywords": [
-      "东城区",
-      "Dongcheng District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=顺义区",
-    "keywords": [
-      "顺义区",
-      "Shunyi District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=武汉来京人员",
-    "keywords": [
-      "武汉来京人员",
-      ""
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=怀柔区",
-    "keywords": [
-      "怀柔区",
-      "Huairou District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=密云区",
-    "keywords": [
-      "密云区",
-      "Miyun District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=门头沟区",
-    "keywords": [
-      "门头沟区",
-      "Mentougou District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=北京市&city=延庆区",
-    "keywords": [
-      "延庆区",
-      "Yanqing District"
     ]
   },
   {
@@ -2303,17 +2303,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=陕西省&city=榆林",
-    "keywords": [
-      "榆林",
-      "Yulin"
-    ]
-  },
-  {
     "url": "#tab=trends&province=陕西省&city=境外输入人员",
     "keywords": [
       "境外输入人员",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=陕西省&city=榆林",
+    "keywords": [
+      "榆林",
+      "Yulin"
     ]
   },
   {
@@ -3773,17 +3773,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=埃及",
-    "keywords": [
-      "埃及",
-      "Egypt"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
     "keywords": [
       "秘鲁",
       "Peru"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=埃及",
+    "keywords": [
+      "埃及",
+      "Egypt"
     ]
   },
   {
