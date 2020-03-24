@@ -3570,17 +3570,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
-    "keywords": [
-      "澳大利亚",
-      "Australia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=南美洲&country=巴西",
     "keywords": [
       "巴西",
       "Brazil"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
+    "keywords": [
+      "澳大利亚",
+      "Australia"
     ]
   },
   {
@@ -3647,6 +3647,20 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=波兰",
+    "keywords": [
+      "波兰",
+      "Poland"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=智利",
+    "keywords": [
+      "智利",
+      "Chile"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=泰国",
     "keywords": [
       "泰国",
@@ -3672,20 +3686,6 @@
     "keywords": [
       "希腊",
       "Greece"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=波兰",
-    "keywords": [
-      "波兰",
-      "Poland"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=智利",
-    "keywords": [
-      "智利",
-      "Chile"
     ]
   },
   {
@@ -3738,17 +3738,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=印度",
-    "keywords": [
-      "印度",
-      "India"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
     "keywords": [
       "菲律宾",
       "Philippines"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=印度",
+    "keywords": [
+      "印度",
+      "India"
     ]
   },
   {
@@ -3780,6 +3780,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=墨西哥",
+    "keywords": [
+      "墨西哥",
+      "Mexico"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=埃及",
     "keywords": [
       "埃及",
@@ -3794,17 +3801,17 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
+    "keywords": [
+      "巴拿马",
+      "Panama"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=巴林",
     "keywords": [
       "巴林",
       "Bahrain"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=墨西哥",
-    "keywords": [
-      "墨西哥",
-      "Mexico"
     ]
   },
   {
@@ -3815,10 +3822,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
+    "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
     "keywords": [
-      "巴拿马",
-      "Panama"
+      "阿根廷",
+      "Argentina"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=哥伦比亚",
+    "keywords": [
+      "哥伦比亚",
+      "Colombia"
     ]
   },
   {
@@ -3826,13 +3840,6 @@
     "keywords": [
       "黎巴嫩",
       "Lebanon"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
-    "keywords": [
-      "阿根廷",
-      "Argentina"
     ]
   },
   {
@@ -3847,13 +3854,6 @@
     "keywords": [
       "塞尔维亚",
       "Serbia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=哥伦比亚",
-    "keywords": [
-      "哥伦比亚",
-      "Colombia"
     ]
   },
   {
@@ -3948,6 +3948,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
+    "keywords": [
+      "新西兰",
+      "New Zealand"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=北马其顿",
     "keywords": [
       "北马其顿",
@@ -4011,13 +4018,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
-    "keywords": [
-      "新西兰",
-      "New Zealand"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=布基纳法索",
     "keywords": [
       "布基纳法索",
@@ -4067,17 +4067,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
-    "keywords": [
-      "塞内加尔",
-      "Senegal"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=南美洲&country=委内瑞拉",
     "keywords": [
       "委内瑞拉",
       "Venezuela"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
+    "keywords": [
+      "塞内加尔",
+      "Senegal"
     ]
   },
   {
@@ -4466,6 +4466,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=苏里南",
+    "keywords": [
+      "苏里南",
+      "Suriname"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=圭亚那",
     "keywords": [
       "圭亚那",
@@ -4477,13 +4484,6 @@
     "keywords": [
       "巴巴多斯",
       "Barbados"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=苏里南",
-    "keywords": [
-      "苏里南",
-      "Suriname"
     ]
   },
   {
