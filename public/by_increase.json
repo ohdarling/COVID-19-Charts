@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-23T20:32:19.000Z",
+    "lastUpdate": "2020-03-23T23:45:40.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -88,6 +88,12 @@
         "insickCount": 2
       },
       {
+        "updateTime": "重庆市",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 2
+      },
+      {
         "updateTime": "广西壮族自治区",
         "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
@@ -112,15 +118,15 @@
         "insickCount": 1
       },
       {
-        "updateTime": "重庆市",
-        "maxZeroIncrDays": 2,
+        "updateTime": "海南省",
+        "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
-        "updateTime": "海南省",
-        "maxZeroIncrDays": 33,
-        "confirmedIncreased": 0,
+        "updateTime": "山西省",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
         "insickCount": 1
       },
       {
@@ -144,12 +150,6 @@
       {
         "updateTime": "贵州省",
         "maxZeroIncrDays": 7,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "山西省",
-        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -324,12 +324,6 @@
       {
         "updateTime": "河源",
         "maxZeroIncrDays": 36,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 61,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -1063,13 +1057,13 @@
   },
   {
     "name": "重庆市",
-    "lastUpdate": "2020-03-22T10:52:13.000Z",
+    "lastUpdate": "2020-03-23T23:34:38.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 1
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 2
       },
       {
         "updateTime": "万州区",
@@ -2515,8 +2509,14 @@
   },
   {
     "name": "山西省",
-    "lastUpdate": "2020-03-13T08:56:40.000Z",
+    "lastUpdate": "2020-03-23T23:25:43.000Z",
     "records": [
+      {
+        "updateTime": "境外输入人员",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 1
+      },
       {
         "updateTime": "晋中",
         "maxZeroIncrDays": 28,

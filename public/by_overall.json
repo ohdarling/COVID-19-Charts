@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-23T20:32:19.000Z",
+    "lastUpdate": "2020-03-23T23:45:40.000Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1716,7 +1716,7 @@
         "deadDayRate": "0.00"
       },
       {
-        "confirmedCount": 81691,
+        "confirmedCount": 81693,
         "suspectedCount": 376,
         "curedCount": 72848,
         "deadCount": 3276,
@@ -1727,13 +1727,13 @@
         "curedIncreased": 0,
         "deadIncreased": 0,
         "seriousIncreased": 0,
-        "insickCount": 5567,
-        "lastUpdate": "2020-03-23T20:32:19.000Z",
+        "insickCount": 5569,
+        "lastUpdate": "2020-03-23T23:45:40.000Z",
         "updateDate": "2020/3/24",
         "seriousRate": "2.14",
         "seriousDayRate": "0.00",
         "suspectedAccum": 376,
-        "curedRate": "89.18",
+        "curedRate": "89.17",
         "deadRate": "4.01",
         "seriousDeadRate": "187.31"
       }
@@ -2825,24 +2825,24 @@
         "deadDayRate": "0.00"
       },
       {
-        "confirmedCount": 13318,
+        "confirmedCount": 13320,
         "curedCount": 12827,
         "deadCount": 117,
         "lastUpdate": "2020-03-23T10:21:49.000Z",
         "updateTime": "3/24",
         "zipCode": "440000",
         "suspectedCount": 0,
-        "insickCount": 374,
-        "confirmedIncreased": 0,
+        "insickCount": 376,
+        "confirmedIncreased": 2,
         "curedIncreased": 0,
         "deadIncreased": 0,
-        "curedRate": "96.31",
+        "curedRate": "96.30",
         "deadRate": "0.88",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-03-23T14:18:01.000Z",
-    "updateTime": "3/23",
+    "lastUpdate": "2020-03-23T23:34:38.000Z",
+    "updateTime": "3/24",
     "zipCode": "440000",
     "confirmedCount": 1415,
     "suspectedCount": 0,
@@ -4058,6 +4058,12 @@
         "insickCount": 2
       },
       {
+        "updateTime": "重庆市",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 2
+      },
+      {
         "updateTime": "广西壮族自治区",
         "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
@@ -4082,15 +4088,15 @@
         "insickCount": 1
       },
       {
-        "updateTime": "重庆市",
-        "maxZeroIncrDays": 2,
+        "updateTime": "海南省",
+        "maxZeroIncrDays": 33,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
       {
-        "updateTime": "海南省",
-        "maxZeroIncrDays": 33,
-        "confirmedIncreased": 0,
+        "updateTime": "山西省",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
         "insickCount": 1
       },
       {
@@ -4114,12 +4120,6 @@
       {
         "updateTime": "贵州省",
         "maxZeroIncrDays": 7,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "山西省",
-        "maxZeroIncrDays": 28,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
