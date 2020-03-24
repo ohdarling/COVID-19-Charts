@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-24T11:52:08.000Z",
+    "lastUpdate": "2020-03-24T13:59:18.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -37,7 +37,7 @@
         "updateTime": "甘肃省",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
-        "insickCount": 16
+        "insickCount": 15
       },
       {
         "updateTime": "山东省",
@@ -2431,13 +2431,13 @@
   },
   {
     "name": "甘肃省",
-    "lastUpdate": "2020-03-24T04:09:14.000Z",
+    "lastUpdate": "2020-03-24T13:59:18.000Z",
     "records": [
       {
-        "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 16
+        "updateTime": "境外输入",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 45,
+        "insickCount": 15
       },
       {
         "updateTime": "兰州",
