@@ -539,9 +539,9 @@
     ]
   },
   {
-    "url": "#tab=trends&province=浙江省&city=境外输入人员",
+    "url": "#tab=trends&province=浙江省&city=境外输入",
     "keywords": [
-      "境外输入人员",
+      "境外输入",
       ""
     ]
   },
@@ -1029,9 +1029,9 @@
     ]
   },
   {
-    "url": "#tab=trends&province=山东省&city=境外输入人员",
+    "url": "#tab=trends&province=山东省&city=境外输入",
     "keywords": [
-      "境外输入人员",
+      "境外输入",
       ""
     ]
   },
@@ -1134,9 +1134,9 @@
     ]
   },
   {
-    "url": "#tab=trends&province=江苏省&city=境外输入人员",
+    "url": "#tab=trends&province=江苏省&city=境外输入",
     "keywords": [
-      "境外输入人员",
+      "境外输入",
       ""
     ]
   },
@@ -1435,9 +1435,9 @@
     ]
   },
   {
-    "url": "#tab=trends&province=北京市&city=境外输入人员",
+    "url": "#tab=trends&province=北京市&city=境外输入",
     "keywords": [
-      "境外输入人员",
+      "境外输入",
       ""
     ]
   },
@@ -1960,6 +1960,83 @@
     ]
   },
   {
+    "url": "#tab=trends&province=福建省",
+    "keywords": [
+      "福建省",
+      "Fujian"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=福建省&city=福州",
+    "keywords": [
+      "福州",
+      "Fuzhou"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=福建省&city=莆田",
+    "keywords": [
+      "莆田",
+      "Putian"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=福建省&city=泉州",
+    "keywords": [
+      "泉州",
+      "Quanzhou"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=福建省&city=厦门",
+    "keywords": [
+      "厦门",
+      "Xiamen"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=福建省&city=宁德",
+    "keywords": [
+      "宁德",
+      "Ningde"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=福建省&city=境外输入人员",
+    "keywords": [
+      "境外输入人员",
+      ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=福建省&city=漳州",
+    "keywords": [
+      "漳州",
+      "Zhangzhou"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=福建省&city=南平",
+    "keywords": [
+      "南平",
+      "Nanping"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=福建省&city=三明",
+    "keywords": [
+      "三明",
+      "Sanming"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=福建省&city=龙岩",
+    "keywords": [
+      "龙岩",
+      "Longyan"
+    ]
+  },
+  {
     "url": "#tab=trends&province=河北省",
     "keywords": [
       "河北省",
@@ -2048,83 +2125,6 @@
     "keywords": [
       "境外输入人员",
       ""
-    ]
-  },
-  {
-    "url": "#tab=trends&province=福建省",
-    "keywords": [
-      "福建省",
-      "Fujian"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=福建省&city=福州",
-    "keywords": [
-      "福州",
-      "Fuzhou"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=福建省&city=莆田",
-    "keywords": [
-      "莆田",
-      "Putian"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=福建省&city=泉州",
-    "keywords": [
-      "泉州",
-      "Quanzhou"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=福建省&city=厦门",
-    "keywords": [
-      "厦门",
-      "Xiamen"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=福建省&city=宁德",
-    "keywords": [
-      "宁德",
-      "Ningde"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=福建省&city=境外输入人员",
-    "keywords": [
-      "境外输入人员",
-      ""
-    ]
-  },
-  {
-    "url": "#tab=trends&province=福建省&city=漳州",
-    "keywords": [
-      "漳州",
-      "Zhangzhou"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=福建省&city=南平",
-    "keywords": [
-      "南平",
-      "Nanping"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=福建省&city=三明",
-    "keywords": [
-      "三明",
-      "Sanming"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=福建省&city=龙岩",
-    "keywords": [
-      "龙岩",
-      "Longyan"
     ]
   },
   {
@@ -2303,9 +2303,9 @@
     ]
   },
   {
-    "url": "#tab=trends&province=陕西省&city=境外输入人员",
+    "url": "#tab=trends&province=陕西省&city=境外输入",
     "keywords": [
-      "境外输入人员",
+      "境外输入",
       ""
     ]
   },
@@ -3108,6 +3108,104 @@
     ]
   },
   {
+    "url": "#tab=trends&province=内蒙古自治区",
+    "keywords": [
+      "内蒙古自治区",
+      "Neimenggu"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=内蒙古自治区&city=鄂尔多斯",
+    "keywords": [
+      "鄂尔多斯",
+      "Ordos"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=内蒙古自治区&city=包头",
+    "keywords": [
+      "包头",
+      "Baotou"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=内蒙古自治区&city=赤峰",
+    "keywords": [
+      "赤峰",
+      "Chifeng"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=内蒙古自治区&city=锡林郭勒盟",
+    "keywords": [
+      "锡林郭勒盟",
+      "Linguolexi"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=内蒙古自治区&city=巴彦淖尔",
+    "keywords": [
+      "巴彦淖尔",
+      "Bayannur"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=内蒙古自治区&city=呼伦贝尔",
+    "keywords": [
+      "呼伦贝尔",
+      "Hulunbuir"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=内蒙古自治区&city=通辽",
+    "keywords": [
+      "通辽",
+      "Tongliao"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=内蒙古自治区&city=呼和浩特",
+    "keywords": [
+      "呼和浩特",
+      "Hohhot"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=内蒙古自治区&city=乌兰察布",
+    "keywords": [
+      "乌兰察布",
+      "Ulanqab"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=内蒙古自治区&city=乌海市",
+    "keywords": [
+      "乌海市",
+      "Wuhai"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=内蒙古自治区&city=境外输入人员",
+    "keywords": [
+      "境外输入人员",
+      ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=内蒙古自治区&city=满洲里",
+    "keywords": [
+      "满洲里",
+      ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=内蒙古自治区&city=兴安盟",
+    "keywords": [
+      "兴安盟",
+      "Xinganmeng"
+    ]
+  },
+  {
     "url": "#tab=trends&province=新疆维吾尔自治区",
     "keywords": [
       "新疆维吾尔自治区",
@@ -3308,97 +3406,6 @@
     "keywords": [
       "石嘴山",
       "Shizuishan"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区",
-    "keywords": [
-      "内蒙古自治区",
-      "Neimenggu"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区&city=鄂尔多斯",
-    "keywords": [
-      "鄂尔多斯",
-      "Ordos"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区&city=包头",
-    "keywords": [
-      "包头",
-      "Baotou"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区&city=赤峰",
-    "keywords": [
-      "赤峰",
-      "Chifeng"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区&city=锡林郭勒盟",
-    "keywords": [
-      "锡林郭勒盟",
-      "Linguolexi"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区&city=巴彦淖尔",
-    "keywords": [
-      "巴彦淖尔",
-      "Bayannur"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区&city=呼伦贝尔",
-    "keywords": [
-      "呼伦贝尔",
-      "Hulunbuir"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区&city=通辽",
-    "keywords": [
-      "通辽",
-      "Tongliao"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区&city=呼和浩特",
-    "keywords": [
-      "呼和浩特",
-      "Hohhot"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区&city=乌兰察布",
-    "keywords": [
-      "乌兰察布",
-      "Ulanqab"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区&city=乌海市",
-    "keywords": [
-      "乌海市",
-      "Wuhai"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区&city=满洲里",
-    "keywords": [
-      "满洲里",
-      ""
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区&city=兴安盟",
-    "keywords": [
-      "兴安盟",
-      "Xinganmeng"
     ]
   },
   {
