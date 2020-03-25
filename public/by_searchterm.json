@@ -4417,6 +4417,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=乌干达",
+    "keywords": [
+      "乌干达",
+      "Uganda"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=马尔代夫",
     "keywords": [
       "马尔代夫",
@@ -4445,6 +4452,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=赞比亚共和国",
+    "keywords": [
+      "赞比亚共和国",
+      "Zambia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=吉布提",
     "keywords": [
       "吉布提",
@@ -4463,13 +4477,6 @@
     "keywords": [
       "赤道几内亚",
       "Eq. Guinea"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=乌干达",
-    "keywords": [
-      "乌干达",
-      "Uganda"
     ]
   },
   {
@@ -4641,13 +4648,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=赞比亚共和国",
-    "keywords": [
-      "赞比亚共和国",
-      "Zambia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=佛得角",
     "keywords": [
       "佛得角",
@@ -4757,6 +4757,20 @@
     "keywords": [
       "缅甸",
       "Myanmar"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=马里",
+    "keywords": [
+      "马里",
+      "Mali"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=几内亚比绍",
+    "keywords": [
+      "几内亚比绍",
+      null
     ]
   },
   {
