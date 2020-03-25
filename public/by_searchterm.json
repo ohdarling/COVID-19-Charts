@@ -3556,13 +3556,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=挪威",
-    "keywords": [
-      "挪威",
-      "Norway"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=北美洲&country=加拿大",
     "keywords": [
       "加拿大",
@@ -3570,10 +3563,24 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=挪威",
+    "keywords": [
+      "挪威",
+      "Norway"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=葡萄牙",
     "keywords": [
       "葡萄牙",
       "Portugal"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
+    "keywords": [
+      "澳大利亚",
+      "Australia"
     ]
   },
   {
@@ -3588,13 +3595,6 @@
     "keywords": [
       "巴西",
       "Brazil"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
-    "keywords": [
-      "澳大利亚",
-      "Australia"
     ]
   },
   {
@@ -4214,17 +4214,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=列支敦士登",
-    "keywords": [
-      "列支敦士登",
-      "Liechtenstein"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=刚果（金）",
     "keywords": [
       "刚果（金）",
       "Dem. Rep. Congo"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=列支敦士登",
+    "keywords": [
+      "列支敦士登",
+      "Liechtenstein"
     ]
   },
   {
@@ -4291,6 +4291,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=肯尼亚",
+    "keywords": [
+      "肯尼亚",
+      "Kenya"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=黑山",
     "keywords": [
       "黑山",
@@ -4309,13 +4316,6 @@
     "keywords": [
       "玻利维亚",
       "Bolivia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=肯尼亚",
-    "keywords": [
-      "肯尼亚",
-      "Kenya"
     ]
   },
   {
@@ -4732,6 +4732,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=缅甸",
+    "keywords": [
+      "缅甸",
+      "Myanmar"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=毛里塔尼亚",
     "keywords": [
       "毛里塔尼亚",
@@ -4757,13 +4764,6 @@
     "keywords": [
       "尼泊尔",
       "Nepal"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=缅甸",
-    "keywords": [
-      "缅甸",
-      "Myanmar"
     ]
   },
   {
