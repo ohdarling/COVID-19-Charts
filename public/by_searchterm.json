@@ -3514,17 +3514,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=韩国",
-    "keywords": [
-      "韩国",
-      "Korea"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=瑞士",
     "keywords": [
       "瑞士",
       "Switzerland"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=韩国",
+    "keywords": [
+      "韩国",
+      "Korea"
     ]
   },
   {
@@ -3850,6 +3850,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
+    "keywords": [
+      "伊拉克",
+      "Iraq"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
     "keywords": [
       "黎巴嫩",
@@ -3861,13 +3868,6 @@
     "keywords": [
       "阿联酋",
       "United Arab Emirates"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
-    "keywords": [
-      "伊拉克",
-      "Iraq"
     ]
   },
   {
@@ -4585,6 +4585,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=莫桑比克",
+    "keywords": [
+      "莫桑比克",
+      "Mozambique"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=刚果（布）",
     "keywords": [
       "刚果（布）",
@@ -4694,13 +4701,6 @@
     "keywords": [
       "乍得",
       "Chad"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=莫桑比克",
-    "keywords": [
-      "莫桑比克",
-      "Mozambique"
     ]
   },
   {
