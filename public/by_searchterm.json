@@ -3752,10 +3752,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=罗马尼亚",
+    "url": "#tab=world-trends&continent=亚洲&country=新加坡",
     "keywords": [
-      "罗马尼亚",
-      "Romania"
+      "新加坡",
+      "Singapore"
     ]
   },
   {
@@ -3766,10 +3766,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=新加坡",
+    "url": "#tab=world-trends&continent=欧洲&country=罗马尼亚",
     "keywords": [
-      "新加坡",
-      "Singapore"
+      "罗马尼亚",
+      "Romania"
     ]
   },
   {
@@ -3794,24 +3794,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=墨西哥",
-    "keywords": [
-      "墨西哥",
-      "Mexico"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=埃及",
     "keywords": [
       "埃及",
       "Egypt"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
-    "keywords": [
-      "秘鲁",
-      "Peru"
     ]
   },
   {
@@ -3822,10 +3808,31 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=墨西哥",
+    "keywords": [
+      "墨西哥",
+      "Mexico"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
+    "keywords": [
+      "秘鲁",
+      "Peru"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
     "keywords": [
       "阿根廷",
       "Argentina"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
+    "keywords": [
+      "塞尔维亚",
+      "Serbia"
     ]
   },
   {
@@ -3850,6 +3857,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=阿联酋",
+    "keywords": [
+      "阿联酋",
+      "United Arab Emirates"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
     "keywords": [
       "伊拉克",
@@ -3864,13 +3878,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
-    "keywords": [
-      "塞尔维亚",
-      "Serbia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=亚美尼亚",
     "keywords": [
       "亚美尼亚",
@@ -3882,13 +3889,6 @@
     "keywords": [
       "阿尔及利亚",
       "Algeria"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=阿联酋",
-    "keywords": [
-      "阿联酋",
-      "United Arab Emirates"
     ]
   },
   {
@@ -4627,6 +4627,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=叙利亚",
+    "keywords": [
+      "叙利亚",
+      "Syria"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=圣巴泰勒米岛",
     "keywords": [
       "圣巴泰勒米岛",
@@ -4830,13 +4837,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=叙利亚",
-    "keywords": [
-      "叙利亚",
-      "Syria"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=北美洲&country=格林那达",
     "keywords": [
       "格林那达",
@@ -4862,6 +4862,13 @@
     "keywords": [
       "特克斯和凯科斯群岛",
       "Turks and Caicos Is."
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=利比亚",
+    "keywords": [
+      "利比亚",
+      "Libya"
     ]
   }
 ]
