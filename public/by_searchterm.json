@@ -3542,17 +3542,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=奥地利",
-    "keywords": [
-      "奥地利",
-      "Austria"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=比利时",
     "keywords": [
       "比利时",
       "Belgium"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=奥地利",
+    "keywords": [
+      "奥地利",
+      "Austria"
     ]
   },
   {
@@ -3843,6 +3843,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
+    "keywords": [
+      "黎巴嫩",
+      "Lebanon"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
     "keywords": [
       "伊拉克",
@@ -3861,13 +3868,6 @@
     "keywords": [
       "塞尔维亚",
       "Serbia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
-    "keywords": [
-      "黎巴嫩",
-      "Lebanon"
     ]
   },
   {
@@ -4445,6 +4445,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=吉布提",
+    "keywords": [
+      "吉布提",
+      "Djibouti"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=蒙古",
     "keywords": [
       "蒙古",
@@ -4652,13 +4659,6 @@
     "keywords": [
       "安哥拉",
       "Angola"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=吉布提",
-    "keywords": [
-      "吉布提",
-      "Djibouti"
     ]
   },
   {
