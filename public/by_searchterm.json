@@ -3724,10 +3724,24 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
+    "keywords": [
+      "俄罗斯",
+      "Russia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=冰岛",
     "keywords": [
       "冰岛",
       "Iceland"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
+    "keywords": [
+      "菲律宾",
+      "Philippines"
     ]
   },
   {
@@ -3752,24 +3766,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
-    "keywords": [
-      "菲律宾",
-      "Philippines"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=卡塔尔",
     "keywords": [
       "卡塔尔",
       "Qatar"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
-    "keywords": [
-      "俄罗斯",
-      "Russia"
     ]
   },
   {
@@ -3864,17 +3864,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=阿尔及利亚",
-    "keywords": [
-      "阿尔及利亚",
-      "Algeria"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=亚美尼亚",
     "keywords": [
       "亚美尼亚",
       "Armenia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=阿尔及利亚",
+    "keywords": [
+      "阿尔及利亚",
+      "Algeria"
     ]
   },
   {
@@ -4081,10 +4081,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=白俄罗斯",
+    "url": "#tab=world-trends&continent=亚洲&country=柬埔寨",
     "keywords": [
-      "白俄罗斯",
-      "Belarus"
+      "柬埔寨",
+      "Cambodia"
     ]
   },
   {
@@ -4095,10 +4095,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=柬埔寨",
+    "url": "#tab=world-trends&continent=欧洲&country=白俄罗斯",
     "keywords": [
-      "柬埔寨",
-      "Cambodia"
+      "白俄罗斯",
+      "Belarus"
     ]
   },
   {
@@ -4137,6 +4137,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=格鲁吉亚",
+    "keywords": [
+      "格鲁吉亚",
+      "Georgia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=喀麦隆",
     "keywords": [
       "喀麦隆",
@@ -4148,13 +4155,6 @@
     "keywords": [
       "留尼旺",
       "Reunion"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=格鲁吉亚",
-    "keywords": [
-      "格鲁吉亚",
-      "Georgia"
     ]
   },
   {
@@ -4711,6 +4711,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=老挝",
+    "keywords": [
+      "老挝",
+      "Lao PDR"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=毛里塔尼亚",
     "keywords": [
       "毛里塔尼亚",
@@ -4743,13 +4750,6 @@
     "keywords": [
       "缅甸",
       "Myanmar"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=老挝",
-    "keywords": [
-      "老挝",
-      "Lao PDR"
     ]
   },
   {
