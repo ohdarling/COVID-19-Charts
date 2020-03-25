@@ -3682,6 +3682,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
+    "keywords": [
+      "沙特阿拉伯",
+      "Saudi Arabia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=芬兰",
     "keywords": [
       "芬兰",
@@ -3700,13 +3707,6 @@
     "keywords": [
       "印度尼西亚",
       "Indonesia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
-    "keywords": [
-      "沙特阿拉伯",
-      "Saudi Arabia"
     ]
   },
   {
@@ -3962,17 +3962,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
-    "keywords": [
-      "摩洛哥",
-      "Morocco"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=安道尔",
     "keywords": [
       "安道尔",
       "Andorra"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
+    "keywords": [
+      "摩洛哥",
+      "Morocco"
     ]
   },
   {
@@ -3990,17 +3990,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=北马其顿",
-    "keywords": [
-      "北马其顿",
-      "Macedonia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=越南",
     "keywords": [
       "越南",
       "Vietnam"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=北马其顿",
+    "keywords": [
+      "北马其顿",
+      "Macedonia"
     ]
   },
   {
@@ -4165,6 +4165,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=加纳",
+    "keywords": [
+      "加纳",
+      "Ghana"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=瓜德罗普岛",
     "keywords": [
       "瓜德罗普岛",
@@ -4183,13 +4190,6 @@
     "keywords": [
       "乌兹别克斯坦",
       "Uzbekistan"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=加纳",
-    "keywords": [
-      "加纳",
-      "Ghana"
     ]
   },
   {
@@ -4770,7 +4770,7 @@
     "url": "#tab=world-trends&continent=非洲&country=几内亚比绍",
     "keywords": [
       "几内亚比绍",
-      null
+      "Guinea-Bissau"
     ]
   },
   {
@@ -4854,14 +4854,14 @@
     "url": "#tab=world-trends&continent=北美洲&country=多米尼克",
     "keywords": [
       "多米尼克",
-      null
+      "Dominica"
     ]
   },
   {
     "url": "#tab=world-trends&continent=北美洲&country=特克斯和凯科斯群岛",
     "keywords": [
       "特克斯和凯科斯群岛",
-      null
+      "Turks and Caicos Is."
     ]
   }
 ]
