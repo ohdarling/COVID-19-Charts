@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-25T10:37:09.000Z",
+    "lastUpdate": "2020-03-25T11:44:07.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -19,7 +19,7 @@
         "updateTime": "广东省",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 5,
-        "insickCount": 91
+        "insickCount": 89
       },
       {
         "updateTime": "福建省",
@@ -193,13 +193,13 @@
   },
   {
     "name": "广东省",
-    "lastUpdate": "2020-03-25T06:43:02.000Z",
+    "lastUpdate": "2020-03-25T10:50:39.000Z",
     "records": [
       {
         "updateTime": "广州",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 4,
-        "insickCount": 51
+        "insickCount": 50
       },
       {
         "updateTime": "深圳",
@@ -226,16 +226,16 @@
         "insickCount": 5
       },
       {
-        "updateTime": "中山",
-        "maxZeroIncrDays": 14,
-        "confirmedIncreased": 0,
-        "insickCount": 4
-      },
-      {
         "updateTime": "珠海",
         "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
         "insickCount": 3
+      },
+      {
+        "updateTime": "中山",
+        "maxZeroIncrDays": 14,
+        "confirmedIncreased": 0,
+        "insickCount": 2
       },
       {
         "updateTime": "湛江",
@@ -324,6 +324,12 @@
       {
         "updateTime": "河源",
         "maxZeroIncrDays": 37,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "待明确地区",
+        "maxZeroIncrDays": 62,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
