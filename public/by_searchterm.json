@@ -1995,17 +1995,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=福建省&city=宁德",
-    "keywords": [
-      "宁德",
-      "Ningde"
-    ]
-  },
-  {
     "url": "#tab=trends&province=福建省&city=境外输入人员",
     "keywords": [
       "境外输入人员",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=福建省&city=宁德",
+    "keywords": [
+      "宁德",
+      "Ningde"
     ]
   },
   {
@@ -3766,6 +3766,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
+    "keywords": [
+      "巴拿马",
+      "Panama"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=卡塔尔",
     "keywords": [
       "卡塔尔",
@@ -3798,13 +3805,6 @@
     "keywords": [
       "埃及",
       "Egypt"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
-    "keywords": [
-      "巴拿马",
-      "Panama"
     ]
   },
   {
@@ -4207,6 +4207,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=洪都拉斯",
+    "keywords": [
+      "洪都拉斯",
+      "Honduras"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=毛里求斯",
     "keywords": [
       "毛里求斯",
@@ -4295,13 +4302,6 @@
     "keywords": [
       "摩纳哥",
       "Monaco"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=洪都拉斯",
-    "keywords": [
-      "洪都拉斯",
-      "Honduras"
     ]
   },
   {

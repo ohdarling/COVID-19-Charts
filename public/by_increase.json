@@ -1,13 +1,13 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-26T00:33:21.000Z",
+    "lastUpdate": "2020-03-26T01:30:15.000Z",
     "records": [
       {
         "updateTime": "北京市",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 150
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 4,
+        "insickCount": 154
       },
       {
         "updateTime": "上海市",
@@ -23,9 +23,9 @@
       },
       {
         "updateTime": "福建省",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 26
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 6,
+        "insickCount": 32
       },
       {
         "updateTime": "浙江省",
@@ -52,16 +52,16 @@
         "insickCount": 10
       },
       {
+        "updateTime": "江苏省",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 9
+      },
+      {
         "updateTime": "四川省",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 8
-      },
-      {
-        "updateTime": "江苏省",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 7
       },
       {
         "updateTime": "陕西省",
@@ -967,13 +967,13 @@
   },
   {
     "name": "江苏省",
-    "lastUpdate": "2020-03-25T06:43:02.000Z",
+    "lastUpdate": "2020-03-26T01:23:32.000Z",
     "records": [
       {
         "updateTime": "境外输入",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 7
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 9
       },
       {
         "updateTime": "南京",
@@ -1303,13 +1303,13 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-25T07:35:38.000Z",
+    "lastUpdate": "2020-03-26T01:21:08.000Z",
     "records": [
       {
         "updateTime": "境外输入",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 134
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 4,
+        "insickCount": 138
       },
       {
         "updateTime": "朝阳区",
@@ -1759,13 +1759,13 @@
   },
   {
     "name": "福建省",
-    "lastUpdate": "2020-03-25T06:43:02.000Z",
+    "lastUpdate": "2020-03-26T01:21:08.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 26
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 6,
+        "insickCount": 32
       },
       {
         "updateTime": "福州",
