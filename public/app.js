@@ -1030,13 +1030,15 @@ async function showCountriesCompare(metrics) {
     increase: 'confirmedIncreased',
     dead: 'deadCount',
     percent: 'confirmedPer1M',
+    deadrate: 'deadRate',
   }[metrics] || 'confirmedCount';
   const title = getTextForKey('累计确诊 >= 100 国家') + ': ' + getTextForKey({
     confirmed: '累计确诊人数',
     exists: '现存确诊人数',
     increase: '新增确诊人数',
     dead: '累计死亡人数',
-    percent: '每百万人口确诊人数'
+    percent: '每百万人口确诊人数',
+    deadrate: '累计死亡率',
   }[metrics] || '累计确诊人数');
   const valueType = [ 'confirmed', 'insickCount', ].indexOf(metrics) > -1 ? 'log' : 'value';
 
@@ -1046,11 +1048,13 @@ async function showCountriesCompare(metrics) {
     return !!c.name && c.confirmedCount >= alignCases;
   }).map(c => {
     c.records = c.records.filter(r => r.confirmedCount >= alignCases);
-    c.records.forEach((r, i) => r.index = i);
+    c.records.forEach((r, i) => {
+      r.index = i;
+      r.deadRate = Math.floor(r.deadCount / r.confirmedCount * 10000) / 100;
+    });
     if (c.records.length > maxDays) {
       maxDays = c.records.length;
     }
-    console.log(c.name, populations[c.name]);
     if (populations[c.name]) {
       c.records.forEach(v => {
         v.confirmedPer1M = Math.floor(v.confirmedCount / (populations[c.name] / 1000000) * 100) / 100;
@@ -1063,6 +1067,8 @@ async function showCountriesCompare(metrics) {
     return `<span style='display:inline-block;width:10px;height:10px;border-radius:50%;background-color:${color};margin-right:5px;'></span>`;
   };
 
+  const valueSuffix = valueKey.endsWith('Rate') ? '%' : '';
+
   const allConfigs = [
     {
       tooltip: {
@@ -1070,7 +1076,8 @@ async function showCountriesCompare(metrics) {
         formatter: (params) => {
           if (params && params.length > 0) {
             return `<b>${params[0].name} days</b><small> since 100 cases</small><br />${params.map(v => {
-              return (`${formatTooltipLine(v.color)}${v.seriesName}：${v.value || '--'} <small>(${v.data.updateTime})</small>`);
+              const value = v.value ? `${v.value}${valueSuffix}` : '--';
+              return (`${formatTooltipLine(v.color)}${v.seriesName}：${value} <small>(${v.data.updateTime})</small>`);
             }).join('<br />')}`;
           }
           return '';
@@ -1112,7 +1119,7 @@ async function showCountriesCompare(metrics) {
               value: r[valueKey],
               updateTime: r.updateTime,
               label: {
-                formatter: '{a}: {c}',
+                formatter: `{a}: {c}${valueSuffix}`,
                 fontSize: 14,
                 backgroundColor: 'rgba(222,222,222,0.7)',
                 padding: 6,
