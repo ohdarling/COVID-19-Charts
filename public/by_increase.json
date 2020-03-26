@@ -1,13 +1,13 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-26T04:38:20.000Z",
+    "lastUpdate": "2020-03-26T06:49:10.000Z",
     "records": [
       {
         "updateTime": "北京市",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 4,
-        "insickCount": 154
+        "confirmedIncreased": 5,
+        "insickCount": 152
       },
       {
         "updateTime": "上海市",
@@ -118,6 +118,12 @@
         "insickCount": 2
       },
       {
+        "updateTime": "辽宁省",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 2
+      },
+      {
         "updateTime": "吉林省",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 1,
@@ -132,12 +138,6 @@
       {
         "updateTime": "江西省",
         "maxZeroIncrDays": 4,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "辽宁省",
-        "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -1303,12 +1303,12 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-26T01:21:08.000Z",
+    "lastUpdate": "2020-03-26T06:49:10.000Z",
     "records": [
       {
         "updateTime": "境外输入",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 4,
+        "confirmedIncreased": 5,
         "insickCount": 138
       },
       {
@@ -2587,13 +2587,13 @@
   },
   {
     "name": "辽宁省",
-    "lastUpdate": "2020-03-23T00:54:48.000Z",
+    "lastUpdate": "2020-03-26T05:54:02.000Z",
     "records": [
       {
-        "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 3,
-        "confirmedIncreased": 0,
-        "insickCount": 1
+        "updateTime": "境外输入",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 3,
+        "insickCount": 2
       },
       {
         "updateTime": "沈阳",
