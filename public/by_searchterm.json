@@ -3822,6 +3822,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=巴林",
+    "keywords": [
+      "巴林",
+      "Bahrain"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=埃及",
     "keywords": [
       "埃及",
@@ -3833,13 +3840,6 @@
     "keywords": [
       "克罗地亚",
       "Croatia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=巴林",
-    "keywords": [
-      "巴林",
-      "Bahrain"
     ]
   },
   {
@@ -3857,17 +3857,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
-    "keywords": [
-      "伊拉克",
-      "Iraq"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
     "keywords": [
       "黎巴嫩",
       "Lebanon"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
+    "keywords": [
+      "伊拉克",
+      "Iraq"
     ]
   },
   {
@@ -3906,6 +3906,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
+    "keywords": [
+      "匈牙利",
+      "Hungary"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=立陶宛",
     "keywords": [
       "立陶宛",
@@ -3917,13 +3924,6 @@
     "keywords": [
       "保加利亚",
       "Bulgaria"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
-    "keywords": [
-      "匈牙利",
-      "Hungary"
     ]
   },
   {
@@ -4032,6 +4032,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=布基纳法索",
+    "keywords": [
+      "布基纳法索",
+      "Burkina Faso"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=越南",
     "keywords": [
       "越南",
@@ -4060,13 +4067,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=布基纳法索",
-    "keywords": [
-      "布基纳法索",
-      "Burkina Faso"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=文莱",
     "keywords": [
       "文莱",
@@ -4085,6 +4085,13 @@
     "keywords": [
       "委内瑞拉",
       "Venezuela"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
+    "keywords": [
+      "塞内加尔",
+      "Senegal"
     ]
   },
   {
@@ -4120,13 +4127,6 @@
     "keywords": [
       "白俄罗斯",
       "Belarus"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
-    "keywords": [
-      "塞内加尔",
-      "Senegal"
     ]
   },
   {
@@ -4361,6 +4361,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=马达加斯加",
+    "keywords": [
+      "马达加斯加",
+      "Madagascar"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=其他&country=至尊公主邮轮",
     "keywords": [
       "至尊公主邮轮",
@@ -4386,13 +4393,6 @@
     "keywords": [
       "多哥",
       "Togo"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=马达加斯加",
-    "keywords": [
-      "马达加斯加",
-      "Madagascar"
     ]
   },
   {
