@@ -4088,6 +4088,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "keywords": [
+      "哈萨克斯坦",
+      "Kazakhstan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=柬埔寨",
     "keywords": [
       "柬埔寨",
@@ -4099,13 +4106,6 @@
     "keywords": [
       "阿塞拜疆",
       "Azerbaijan"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
-    "keywords": [
-      "哈萨克斯坦",
-      "Kazakhstan"
     ]
   },
   {
@@ -4214,6 +4214,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=尼日利亚",
+    "keywords": [
+      "尼日利亚",
+      "Nigeria"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=毛里求斯",
     "keywords": [
       "毛里求斯",
@@ -4239,13 +4246,6 @@
     "keywords": [
       "列支敦士登",
       "Liechtenstein"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=尼日利亚",
-    "keywords": [
-      "尼日利亚",
-      "Nigeria"
     ]
   },
   {
