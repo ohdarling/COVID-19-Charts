@@ -3703,6 +3703,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=印度尼西亚",
+    "keywords": [
+      "印度尼西亚",
+      "Indonesia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=芬兰",
     "keywords": [
       "芬兰",
@@ -3721,13 +3728,6 @@
     "keywords": [
       "希腊",
       "Greece"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=印度尼西亚",
-    "keywords": [
-      "印度尼西亚",
-      "Indonesia"
     ]
   },
   {
@@ -3892,17 +3892,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
-    "keywords": [
-      "新西兰",
-      "New Zealand"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=亚美尼亚",
     "keywords": [
       "亚美尼亚",
       "Armenia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
+    "keywords": [
+      "新西兰",
+      "New Zealand"
     ]
   },
   {
@@ -3955,17 +3955,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=哥斯达黎加",
-    "keywords": [
-      "哥斯达黎加",
-      "Costa Rica"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=科威特",
     "keywords": [
       "科威特",
       "Kuwait"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=哥斯达黎加",
+    "keywords": [
+      "哥斯达黎加",
+      "Costa Rica"
     ]
   },
   {
@@ -4564,6 +4564,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=老挝",
+    "keywords": [
+      "老挝",
+      "Lao PDR"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=圭亚那",
     "keywords": [
       "圭亚那",
@@ -4729,13 +4736,6 @@
     "keywords": [
       "圣卢西亚",
       "Saint Lucia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=老挝",
-    "keywords": [
-      "老挝",
-      "Lao PDR"
     ]
   },
   {
