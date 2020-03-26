@@ -441,6 +441,13 @@
     ]
   },
   {
+    "url": "#tab=trends&province=河南省&city=境外输入",
+    "keywords": [
+      "境外输入",
+      ""
+    ]
+  },
+  {
     "url": "#tab=trends&province=河南省&city=巩义",
     "keywords": [
       "巩义",
@@ -451,13 +458,6 @@
     "url": "#tab=trends&province=河南省&city=长垣",
     "keywords": [
       "长垣",
-      ""
-    ]
-  },
-  {
-    "url": "#tab=trends&province=河南省&city=境外输入人员",
-    "keywords": [
-      "境外输入人员",
       ""
     ]
   },
@@ -2296,17 +2296,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=陕西省&city=商洛",
-    "keywords": [
-      "商洛",
-      "Shangluo"
-    ]
-  },
-  {
     "url": "#tab=trends&province=陕西省&city=境外输入",
     "keywords": [
       "境外输入",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=陕西省&city=商洛",
+    "keywords": [
+      "商洛",
+      "Shangluo"
     ]
   },
   {
@@ -3115,6 +3115,13 @@
     ]
   },
   {
+    "url": "#tab=trends&province=内蒙古自治区&city=境外输入人员",
+    "keywords": [
+      "境外输入人员",
+      ""
+    ]
+  },
+  {
     "url": "#tab=trends&province=内蒙古自治区&city=鄂尔多斯",
     "keywords": [
       "鄂尔多斯",
@@ -3182,13 +3189,6 @@
     "keywords": [
       "乌海市",
       "Wuhai"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=内蒙古自治区&city=境外输入人员",
-    "keywords": [
-      "境外输入人员",
-      ""
     ]
   },
   {
@@ -3787,10 +3787,24 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
+    "keywords": [
+      "阿根廷",
+      "Argentina"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
     "keywords": [
       "秘鲁",
       "Peru"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=墨西哥",
+    "keywords": [
+      "墨西哥",
+      "Mexico"
     ]
   },
   {
@@ -3822,24 +3836,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=墨西哥",
-    "keywords": [
-      "墨西哥",
-      "Mexico"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=爱沙尼亚",
     "keywords": [
       "爱沙尼亚",
       "Estonia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
-    "keywords": [
-      "阿根廷",
-      "Argentina"
     ]
   },
   {
@@ -4067,6 +4067,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=委内瑞拉",
+    "keywords": [
+      "委内瑞拉",
+      "Venezuela"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
     "keywords": [
       "斯里兰卡",
@@ -4106,13 +4113,6 @@
     "keywords": [
       "塞内加尔",
       "Senegal"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=委内瑞拉",
-    "keywords": [
-      "委内瑞拉",
-      "Venezuela"
     ]
   },
   {
