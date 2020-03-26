@@ -2576,17 +2576,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=天津市&city=河北区",
-    "keywords": [
-      "河北区",
-      "Hebei District"
-    ]
-  },
-  {
     "url": "#tab=trends&province=天津市&city=境外输入",
     "keywords": [
       "境外输入",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=天津市&city=河北区",
+    "keywords": [
+      "河北区",
+      "Hebei District"
     ]
   },
   {
