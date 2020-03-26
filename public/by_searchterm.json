@@ -3570,6 +3570,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
+    "keywords": [
+      "澳大利亚",
+      "Australia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=瑞典",
     "keywords": [
       "瑞典",
@@ -3595,13 +3602,6 @@
     "keywords": [
       "以色列",
       "Israel"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
-    "keywords": [
-      "澳大利亚",
-      "Australia"
     ]
   },
   {
@@ -3654,17 +3654,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=巴基斯坦",
-    "keywords": [
-      "巴基斯坦",
-      "Pakistan"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=泰国",
     "keywords": [
       "泰国",
       "Thailand"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=巴基斯坦",
+    "keywords": [
+      "巴基斯坦",
+      "Pakistan"
     ]
   },
   {
@@ -3745,6 +3745,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=印度",
+    "keywords": [
+      "印度",
+      "India"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
     "keywords": [
       "菲律宾",
@@ -3756,13 +3763,6 @@
     "keywords": [
       "新加坡",
       "Singapore"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=印度",
-    "keywords": [
-      "印度",
-      "India"
     ]
   },
   {
@@ -4102,6 +4102,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "keywords": [
+      "哈萨克斯坦",
+      "Kazakhstan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=白俄罗斯",
     "keywords": [
       "白俄罗斯",
@@ -4127,13 +4134,6 @@
     "keywords": [
       "留尼旺",
       "Reunion"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
-    "keywords": [
-      "哈萨克斯坦",
-      "Kazakhstan"
     ]
   },
   {
