@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-25T23:50:22.000Z",
+    "lastUpdate": "2020-03-26T00:33:21.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -11,9 +11,9 @@
       },
       {
         "updateTime": "上海市",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 98
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 18,
+        "insickCount": 116
       },
       {
         "updateTime": "广东省",
@@ -76,12 +76,6 @@
         "insickCount": 4
       },
       {
-        "updateTime": "黑龙江省",
-        "maxZeroIncrDays": 6,
-        "confirmedIncreased": 0,
-        "insickCount": 3
-      },
-      {
         "updateTime": "河北省",
         "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
@@ -96,6 +90,12 @@
       {
         "updateTime": "重庆市",
         "maxZeroIncrDays": 2,
+        "confirmedIncreased": 0,
+        "insickCount": 2
+      },
+      {
+        "updateTime": "黑龙江省",
+        "maxZeroIncrDays": 6,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
@@ -1549,19 +1549,13 @@
   },
   {
     "name": "黑龙江省",
-    "lastUpdate": "2020-03-24T00:10:20.000Z",
+    "lastUpdate": "2020-03-26T00:15:39.000Z",
     "records": [
       {
-        "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 6,
-        "confirmedIncreased": 0,
+        "updateTime": "境外输入",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
         "insickCount": 2
-      },
-      {
-        "updateTime": "齐齐哈尔",
-        "maxZeroIncrDays": 37,
-        "confirmedIncreased": 0,
-        "insickCount": 1
       },
       {
         "updateTime": "哈尔滨",
@@ -1584,6 +1578,12 @@
       {
         "updateTime": "鸡西",
         "maxZeroIncrDays": 39,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "齐齐哈尔",
+        "maxZeroIncrDays": 37,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
@@ -1639,13 +1639,13 @@
   },
   {
     "name": "上海市",
-    "lastUpdate": "2020-03-25T06:43:02.000Z",
+    "lastUpdate": "2020-03-26T00:07:27.000Z",
     "records": [
       {
         "updateTime": "境外输入",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 91
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 18,
+        "insickCount": 109
       },
       {
         "updateTime": "浦东区",
