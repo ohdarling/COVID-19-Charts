@@ -113,21 +113,33 @@ const showLoading = (() => {
 })();
 
 function getVisualPieces(type) {
-  const visualPieces = type === 'country' ? [
-    { min: 10000, label: '10000人及以上', color: 'rgb(143,31,25)' },
-    { min: 1000, max: 9999, label: '1000-9999人', color: 'rgb(185,43,35)' },
-    { min: 500, max: 999, label: '500-999人', color: 'rgb(213,86,78)' },
-    { min: 100, max: 499, label: '100-499人', color: 'rgb(239,140,108)' },
-    { min: 10, max: 99, label: '10-99人', color: 'rgb(248,211,166)' },
-    { min: 1, max: 9, label: '1-9人', color: 'rgb(252,239,218)' },
-  ] : [
-    { min: 1000, label: '1000人及以上', color: 'rgb(143,31,25)' },
-    { min: 500, max: 999, label: '500-999人', color: 'rgb(185,43,35)' },
-    { min: 100, max: 499, label: '100-499人', color: 'rgb(213,86,78)' },
-    { min: 50, max: 100, label: '50-99人', color: 'rgb(239,140,108)' },
-    { min: 10, max: 49, label: '10-49人', color: 'rgb(248,211,166)' },
-    { min: 1, max: 9, label: '1-9人', color: 'rgb(252,239,218)' },
-  ];
+  const pieces = {
+    world: [
+      { min: 50000, label: '50000人及以上', color: 'rgb(143,31,25)' },
+      { min: 10000, max: 49999, label: '10000-49999人', color: 'rgb(185,43,35)' },
+      { min: 5000, max: 9999, label: '5000-9999人', color: 'rgb(213,86,78)' },
+      { min: 1000, max: 4999, label: '1000-4999人', color: 'rgb(239,140,108)' },
+      { min: 100, max: 999, label: '100-999人', color: 'rgb(248,211,166)' },
+      { min: 1, max: 99, label: '1-99人', color: 'rgb(252,239,218)' },
+    ],
+    country: [
+      { min: 10000, label: '10000人及以上', color: 'rgb(143,31,25)' },
+      { min: 1000, max: 9999, label: '1000-9999人', color: 'rgb(185,43,35)' },
+      { min: 500, max: 999, label: '500-999人', color: 'rgb(213,86,78)' },
+      { min: 100, max: 499, label: '100-499人', color: 'rgb(239,140,108)' },
+      { min: 10, max: 99, label: '10-99人', color: 'rgb(248,211,166)' },
+      { min: 1, max: 9, label: '1-9人', color: 'rgb(252,239,218)' },
+    ],
+    city: [
+      { min: 1000, label: '1000人及以上', color: 'rgb(143,31,25)' },
+      { min: 500, max: 999, label: '500-999人', color: 'rgb(185,43,35)' },
+      { min: 100, max: 499, label: '100-499人', color: 'rgb(213,86,78)' },
+      { min: 50, max: 100, label: '50-99人', color: 'rgb(239,140,108)' },
+      { min: 10, max: 49, label: '10-49人', color: 'rgb(248,211,166)' },
+      { min: 1, max: 9, label: '1-9人', color: 'rgb(252,239,218)' },
+    ]
+  };
+  const visualPieces = pieces[type] || pieces.city;
   return visualPieces;
 }
 
@@ -589,6 +601,8 @@ async function setupMapCharts(records, container, province = '', allCities = fal
 }
 
 async function setupWorldMapCharts(records, container) {
+  const valueKey = mapDisplayMetrics === 'accum' ? 'confirmedCount' : 'insickCount';
+
   await prepareChartMap('world');
 
   const html = '<div id="mapchart" class="mychart" style="display:inline-block;width:100%;height:100%;"></div>';
@@ -597,13 +611,20 @@ async function setupWorldMapCharts(records, container) {
   records = records.sort((a, b) => a.confirmedCount < b.confirmedCount ? -1 : 1);
 
   const config = {
+    title: {
+      text: mapDisplayMetrics === 'accum' ? getTextForKey('当前显示累计确诊') : getTextForKey('当前显示现存确诊'),
+      link: `javascript:switchMapMetrics("${mapDisplayMetrics === 'accum' ? 'current' : 'accum'}")`,
+      target: 'self',
+      bottom: '10',
+      left: '10',
+    },
     tooltip: {
       show: true,
       trigger: 'item',
     },
     visualMap: {
       type: 'piecewise',
-      pieces: getVisualPieces('country'),
+      pieces: getVisualPieces('world'),
       seriesIndex: 1,
       right: 20,
     },
@@ -658,8 +679,8 @@ async function setupWorldMapCharts(records, container) {
         tooltip: {
           formatter: ({ name, data }) => {
             if (data) {
-              const { name, country, /*value,*/ confirmed, dead, cured, /*increased*/ } = data;
-              const tip = `<b>${country} (${name})</b><br />${getTextForKey('确诊人数：')}${confirmed}<br />${getTextForKey('治愈人数：')}${cured}<br />${getTextForKey('死亡人数：')}${dead}`;
+              const { name, country, /*value,*/ confirmed, dead, cured, insick, /*increased*/ } = data;
+              const tip = `<b>${country} (${name})</b><br />${getTextForKey('累计确诊：')}${confirmed}<br />${getTextForKey('现存确诊：')}${insick}<br />${getTextForKey('治愈人数：')}${cured}<br />${getTextForKey('死亡人数：')}${dead}`;
               return tip;
             }
             return `<b>${name}</b><br />${getTextForKey('暂无数据')}`;
@@ -670,23 +691,16 @@ async function setupWorldMapCharts(records, container) {
             name: r.enName || r.name,
             continent: r.continentName,
             country: r.name,
-            value: r.confirmedCount,
+            value: r[valueKey],
             confirmed: r.confirmedCount,
             dead: r.deadCount,
             cured: r.curedCount,
+            insick: r.insickCount,
             // label: {
             //   show: true,
             // }
           };
         }),
-        nameMap: {
-          // 'United States': 'United States of America',
-          // 'Croatia': '克罗地亚',
-          // 'Czech Rep.': '捷克',
-          // 'Dominican Rep.': '多米尼加',
-          // 'Bosnia and Herz.': '波黑',
-          // 'Republic of Serbia': '塞尔维亚',
-        },
       },
     ]
   };
