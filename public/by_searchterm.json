@@ -3661,6 +3661,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=罗马尼亚",
+    "keywords": [
+      "罗马尼亚",
+      "Romania"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=波兰",
     "keywords": [
       "波兰",
@@ -3703,24 +3710,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=南非",
-    "keywords": [
-      "南非",
-      "South Africa"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=罗马尼亚",
-    "keywords": [
-      "罗马尼亚",
-      "Romania"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=希腊",
     "keywords": [
       "希腊",
       "Greece"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=南非",
+    "keywords": [
+      "南非",
+      "South Africa"
     ]
   },
   {
@@ -4039,6 +4039,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=塞浦路斯",
+    "keywords": [
+      "塞浦路斯",
+      "Cyprus"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=布基纳法索",
     "keywords": [
       "布基纳法索",
@@ -4057,13 +4064,6 @@
     "keywords": [
       "哈萨克斯坦",
       "Kazakhstan"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=塞浦路斯",
-    "keywords": [
-      "塞浦路斯",
-      "Cyprus"
     ]
   },
   {
