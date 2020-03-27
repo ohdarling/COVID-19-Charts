@@ -3535,17 +3535,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=奥地利",
-    "keywords": [
-      "奥地利",
-      "Austria"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=比利时",
     "keywords": [
       "比利时",
       "Belgium"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=奥地利",
+    "keywords": [
+      "奥地利",
+      "Austria"
     ]
   },
   {
@@ -3633,17 +3633,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
-    "keywords": [
-      "卢森堡",
-      "Luxembourg"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=日本",
     "keywords": [
       "日本",
       "Japan"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
+    "keywords": [
+      "卢森堡",
+      "Luxembourg"
     ]
   },
   {
@@ -3857,17 +3857,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
-    "keywords": [
-      "伊拉克",
-      "Iraq"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
     "keywords": [
       "黎巴嫩",
       "Lebanon"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
+    "keywords": [
+      "伊拉克",
+      "Iraq"
     ]
   },
   {
@@ -4074,6 +4074,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "keywords": [
+      "哈萨克斯坦",
+      "Kazakhstan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=阿塞拜疆",
     "keywords": [
       "阿塞拜疆",
@@ -4081,10 +4088,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
     "keywords": [
-      "哈萨克斯坦",
-      "Kazakhstan"
+      "塞内加尔",
+      "Senegal"
     ]
   },
   {
@@ -4106,13 +4113,6 @@
     "keywords": [
       "斯里兰卡",
       "Sri Lanka"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
-    "keywords": [
-      "塞内加尔",
-      "Senegal"
     ]
   },
   {
@@ -4438,6 +4438,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=埃塞俄比亚",
+    "keywords": [
+      "埃塞俄比亚",
+      "Ethiopia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=大洋洲&country=新喀里多尼亚",
     "keywords": [
       "新喀里多尼亚",
@@ -4463,13 +4470,6 @@
     "keywords": [
       "萨尔瓦多",
       "El Salvador"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=埃塞俄比亚",
-    "keywords": [
-      "埃塞俄比亚",
-      "Ethiopia"
     ]
   },
   {
