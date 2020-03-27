@@ -3577,6 +3577,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=以色列",
+    "keywords": [
+      "以色列",
+      "Israel"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
     "keywords": [
       "澳大利亚",
@@ -3595,13 +3602,6 @@
     "keywords": [
       "瑞典",
       "Sweden"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=以色列",
-    "keywords": [
-      "以色列",
-      "Israel"
     ]
   },
   {
@@ -3682,6 +3682,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
+    "keywords": [
+      "俄罗斯",
+      "Russia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
     "keywords": [
       "沙特阿拉伯",
@@ -3724,10 +3731,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
+    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
     "keywords": [
-      "俄罗斯",
-      "Russia"
+      "菲律宾",
+      "Philippines"
     ]
   },
   {
@@ -3749,13 +3756,6 @@
     "keywords": [
       "钻石公主号邮轮",
       "Diamond Princess Cruise Ship"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
-    "keywords": [
-      "菲律宾",
-      "Philippines"
     ]
   },
   {
@@ -4228,17 +4228,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=黑山",
-    "keywords": [
-      "黑山",
-      "Montenegro"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=刚果（金）",
     "keywords": [
       "刚果（金）",
       "Dem. Rep. Congo"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=黑山",
+    "keywords": [
+      "黑山",
+      "Montenegro"
     ]
   },
   {
