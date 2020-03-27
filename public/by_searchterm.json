@@ -4823,6 +4823,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=圣其茨和尼维斯",
+    "keywords": [
+      "圣其茨和尼维斯",
+      null
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=圣文森特和格林纳丁斯",
     "keywords": [
       "圣文森特和格林纳丁斯",
@@ -4862,13 +4869,6 @@
     "keywords": [
       "利比亚",
       "Libya"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=圣其茨和尼维斯",
-    "keywords": [
-      "圣其茨和尼维斯",
-      null
     ]
   }
 ]
