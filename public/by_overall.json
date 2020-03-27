@@ -3,7 +3,7 @@
     "name": "全国",
     "enName": "Country",
     "provinceName": "全国",
-    "lastUpdate": "2020-03-27T09:43:01.000Z",
+    "lastUpdate": "2020-03-27T11:00:48.000Z",
     "records": [
       {
         "confirmedCount": 897,
@@ -1792,8 +1792,8 @@
         "seriousDayRate": "0.00",
         "suspectedAccum": 86047,
         "suspectedDayProcessed": 0,
-        "suspectedConfirmedCount": 201,
-        "suspectedConfirmedRate": "37.15",
+        "suspectedConfirmedCount": 204,
+        "suspectedConfirmedRate": "37.71",
         "suspectedDayProcessedRate": "0.00",
         "suspectedDayConfirmedRate": "0.00",
         "curedRate": "90.46",
@@ -1803,19 +1803,19 @@
         "deadDayRate": "0.11"
       },
       {
-        "confirmedCount": 82161,
+        "confirmedCount": 82164,
         "suspectedCount": 595,
         "curedCount": 74743,
         "deadCount": 3298,
         "seriousCount": 1034,
         "suspectedIncreased": 54,
-        "confirmedIncreased": 201,
+        "confirmedIncreased": 204,
         "curedIncreased": 547,
         "deadIncreased": 5,
         "seriousIncreased": 0,
         "updateTime": "3/27",
-        "insickCount": 4120,
-        "lastUpdate": "2020-03-27T09:43:01.000Z",
+        "insickCount": 4123,
+        "lastUpdate": "2020-03-27T11:00:48.000Z",
         "updateDate": "2020/3/27",
         "seriousRate": "1.26",
         "seriousDayRate": "0.00",
@@ -2969,20 +2969,20 @@
         "lastUpdate": "2020-03-27T04:09:46.000Z",
         "updateTime": "3/27",
         "zipCode": "440000",
-        "confirmedCount": 13543,
+        "confirmedCount": 13546,
         "suspectedCount": 5,
         "curedCount": 12868,
         "deadCount": 118,
-        "insickCount": 563,
-        "confirmedIncreased": 44,
+        "insickCount": 566,
+        "confirmedIncreased": 47,
         "curedIncreased": 8,
         "deadIncreased": 0,
-        "curedRate": "95.02",
+        "curedRate": "94.99",
         "deadRate": "0.87",
         "seriousDeadRate": ""
       }
     ],
-    "lastUpdate": "2020-03-27T07:48:45.000Z",
+    "lastUpdate": "2020-03-27T10:48:42.000Z",
     "updateTime": "3/27",
     "zipCode": "440000",
     "confirmedCount": 1456,
@@ -4199,16 +4199,16 @@
         "insickCount": 24
       },
       {
+        "updateTime": "天津市",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 4,
+        "insickCount": 19
+      },
+      {
         "updateTime": "内蒙古自治区",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 3,
         "insickCount": 17
-      },
-      {
-        "updateTime": "天津市",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 1,
-        "insickCount": 16
       },
       {
         "updateTime": "山东省",

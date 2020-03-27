@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-27T09:43:01.000Z",
+    "lastUpdate": "2020-03-27T11:00:48.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -34,16 +34,16 @@
         "insickCount": 24
       },
       {
+        "updateTime": "天津市",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 4,
+        "insickCount": 19
+      },
+      {
         "updateTime": "内蒙古自治区",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 3,
         "insickCount": 17
-      },
-      {
-        "updateTime": "天津市",
-        "maxZeroIncrDays": 0,
-        "confirmedIncreased": 1,
-        "insickCount": 16
       },
       {
         "updateTime": "山东省",
@@ -2269,13 +2269,13 @@
   },
   {
     "name": "天津市",
-    "lastUpdate": "2020-03-26T17:03:36.000Z",
+    "lastUpdate": "2020-03-27T10:48:42.000Z",
     "records": [
       {
         "updateTime": "境外输入",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 1,
-        "insickCount": 16
+        "confirmedIncreased": 4,
+        "insickCount": 19
       },
       {
         "updateTime": "宝坻区",

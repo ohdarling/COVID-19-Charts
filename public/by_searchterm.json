@@ -3682,6 +3682,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=印度尼西亚",
+    "keywords": [
+      "印度尼西亚",
+      "Indonesia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
     "keywords": [
       "俄罗斯",
@@ -3707,13 +3714,6 @@
     "keywords": [
       "罗马尼亚",
       "Romania"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=印度尼西亚",
-    "keywords": [
-      "印度尼西亚",
-      "Indonesia"
     ]
   },
   {
@@ -3899,6 +3899,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
+    "keywords": [
+      "匈牙利",
+      "Hungary"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=立陶宛",
     "keywords": [
       "立陶宛",
@@ -3917,13 +3924,6 @@
     "keywords": [
       "保加利亚",
       "Bulgaria"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
-    "keywords": [
-      "匈牙利",
-      "Hungary"
     ]
   },
   {
@@ -3955,6 +3955,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=科威特",
+    "keywords": [
+      "科威特",
+      "Kuwait"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=安道尔",
     "keywords": [
       "安道尔",
@@ -3966,13 +3973,6 @@
     "keywords": [
       "约旦",
       "Jordan"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=科威特",
-    "keywords": [
-      "科威特",
-      "Kuwait"
     ]
   },
   {
@@ -4060,6 +4060,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
+    "keywords": [
+      "阿曼",
+      "Oman"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=马耳他",
     "keywords": [
       "马耳他",
@@ -4085,13 +4092,6 @@
     "keywords": [
       "文莱",
       "Brunei"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
-    "keywords": [
-      "阿曼",
-      "Oman"
     ]
   },
   {
@@ -4144,6 +4144,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=喀麦隆",
+    "keywords": [
+      "喀麦隆",
+      "Cameroon"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=白俄罗斯",
     "keywords": [
       "白俄罗斯",
@@ -4183,13 +4190,6 @@
     "keywords": [
       "瓜德罗普岛",
       null
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=喀麦隆",
-    "keywords": [
-      "喀麦隆",
-      "Cameroon"
     ]
   },
   {
