@@ -3507,17 +3507,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=瑞士",
-    "keywords": [
-      "瑞士",
-      "Switzerland"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=英国",
     "keywords": [
       "英国",
       "United Kingdom"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=瑞士",
+    "keywords": [
+      "瑞士",
+      "Switzerland"
     ]
   },
   {
@@ -3745,6 +3745,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=新加坡",
+    "keywords": [
+      "新加坡",
+      "Singapore"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=印度",
     "keywords": [
       "印度",
@@ -3756,13 +3763,6 @@
     "keywords": [
       "钻石公主号邮轮",
       "Diamond Princess Cruise Ship"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=新加坡",
-    "keywords": [
-      "新加坡",
-      "Singapore"
     ]
   },
   {
@@ -3815,6 +3815,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
+    "keywords": [
+      "塞尔维亚",
+      "Serbia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=埃及",
     "keywords": [
       "埃及",
@@ -3840,13 +3847,6 @@
     "keywords": [
       "伊拉克",
       "Iraq"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
-    "keywords": [
-      "塞尔维亚",
-      "Serbia"
     ]
   },
   {
@@ -3976,6 +3976,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
+    "keywords": [
+      "乌克兰",
+      "Ukraine"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=约旦",
     "keywords": [
       "约旦",
@@ -3987,13 +3994,6 @@
     "keywords": [
       "圣马力诺",
       "San Marino"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
-    "keywords": [
-      "乌克兰",
-      "Ukraine"
     ]
   },
   {
@@ -4046,6 +4046,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "keywords": [
+      "哈萨克斯坦",
+      "Kazakhstan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=塞浦路斯",
     "keywords": [
       "塞浦路斯",
@@ -4071,13 +4078,6 @@
     "keywords": [
       "马耳他",
       "Malta"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
-    "keywords": [
-      "哈萨克斯坦",
-      "Kazakhstan"
     ]
   },
   {
@@ -4144,6 +4144,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=毛里求斯",
+    "keywords": [
+      "毛里求斯",
+      "Mauritius"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=喀麦隆",
     "keywords": [
       "喀麦隆",
@@ -4169,13 +4176,6 @@
     "keywords": [
       "乌兹别克斯坦",
       "Uzbekistan"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=毛里求斯",
-    "keywords": [
-      "毛里求斯",
-      "Mauritius"
     ]
   },
   {
@@ -4368,17 +4368,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=马恩岛",
-    "keywords": [
-      "马恩岛",
-      "Isle of Man"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=马达加斯加",
     "keywords": [
       "马达加斯加",
       "Madagascar"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=马恩岛",
+    "keywords": [
+      "马恩岛",
+      "Isle of Man"
     ]
   },
   {
@@ -4704,6 +4704,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=尼泊尔",
+    "keywords": [
+      "尼泊尔",
+      "Nepal"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=圣巴泰勒米岛",
     "keywords": [
       "圣巴泰勒米岛",
@@ -4771,13 +4778,6 @@
     "keywords": [
       "毛里塔尼亚",
       "Mauritania"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=尼泊尔",
-    "keywords": [
-      "尼泊尔",
-      "Nepal"
     ]
   },
   {
