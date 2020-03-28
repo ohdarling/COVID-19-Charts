@@ -3577,17 +3577,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=巴西",
-    "keywords": [
-      "巴西",
-      "Brazil"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
     "keywords": [
       "澳大利亚",
       "Australia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=巴西",
+    "keywords": [
+      "巴西",
+      "Brazil"
     ]
   },
   {
@@ -4018,6 +4018,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "keywords": [
+      "哈萨克斯坦",
+      "Kazakhstan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=阿尔巴尼亚",
     "keywords": [
       "阿尔巴尼亚",
@@ -4053,10 +4060,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
     "keywords": [
-      "哈萨克斯坦",
-      "Kazakhstan"
+      "阿曼",
+      "Oman"
     ]
   },
   {
@@ -4085,13 +4092,6 @@
     "keywords": [
       "马耳他",
       "Malta"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=阿曼",
-    "keywords": [
-      "阿曼",
-      "Oman"
     ]
   },
   {
