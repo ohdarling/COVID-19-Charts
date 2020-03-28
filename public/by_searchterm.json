@@ -3682,17 +3682,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=南非",
-    "keywords": [
-      "南非",
-      "South Africa"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=泰国",
     "keywords": [
       "泰国",
       "Thailand"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=南非",
+    "keywords": [
+      "南非",
+      "South Africa"
     ]
   },
   {
@@ -3738,6 +3738,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=印度",
+    "keywords": [
+      "印度",
+      "India"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
     "keywords": [
       "菲律宾",
@@ -3756,13 +3763,6 @@
     "keywords": [
       "新加坡",
       "Singapore"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=印度",
-    "keywords": [
-      "印度",
-      "India"
     ]
   },
   {
