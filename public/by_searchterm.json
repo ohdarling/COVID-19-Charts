@@ -3696,6 +3696,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
+    "keywords": [
+      "沙特阿拉伯",
+      "Saudi Arabia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=南非",
     "keywords": [
       "南非",
@@ -3707,13 +3714,6 @@
     "keywords": [
       "印度尼西亚",
       "Indonesia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
-    "keywords": [
-      "沙特阿拉伯",
-      "Saudi Arabia"
     ]
   },
   {
@@ -3738,17 +3738,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=冰岛",
-    "keywords": [
-      "冰岛",
-      "Iceland"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=印度",
     "keywords": [
       "印度",
       "India"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=冰岛",
+    "keywords": [
+      "冰岛",
+      "Iceland"
     ]
   },
   {
@@ -3864,6 +3864,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=阿联酋",
+    "keywords": [
+      "阿联酋",
+      "United Arab Emirates"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
     "keywords": [
       "新西兰",
@@ -3882,13 +3889,6 @@
     "keywords": [
       "阿尔及利亚",
       "Algeria"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=阿联酋",
-    "keywords": [
-      "阿联酋",
-      "United Arab Emirates"
     ]
   },
   {
@@ -3920,17 +3920,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
-    "keywords": [
-      "乌克兰",
-      "Ukraine"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=保加利亚",
     "keywords": [
       "保加利亚",
       "Bulgaria"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
+    "keywords": [
+      "乌克兰",
+      "Ukraine"
     ]
   },
   {
@@ -4018,17 +4018,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
-    "keywords": [
-      "哈萨克斯坦",
-      "Kazakhstan"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=阿尔巴尼亚",
     "keywords": [
       "阿尔巴尼亚",
       "Albania"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "keywords": [
+      "哈萨克斯坦",
+      "Kazakhstan"
     ]
   },
   {
@@ -4095,17 +4095,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=文莱",
-    "keywords": [
-      "文莱",
-      "Brunei"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
     "keywords": [
       "塞内加尔",
       "Senegal"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=文莱",
+    "keywords": [
+      "文莱",
+      "Brunei"
     ]
   },
   {
@@ -4116,17 +4116,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=委内瑞拉",
-    "keywords": [
-      "委内瑞拉",
-      "Venezuela"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
     "keywords": [
       "斯里兰卡",
       "Sri Lanka"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=委内瑞拉",
+    "keywords": [
+      "委内瑞拉",
+      "Venezuela"
     ]
   },
   {
@@ -4186,6 +4186,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=尼日利亚",
+    "keywords": [
+      "尼日利亚",
+      "Nigeria"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=瓜德罗普岛",
     "keywords": [
       "瓜德罗普岛",
@@ -4197,13 +4204,6 @@
     "keywords": [
       "黑山",
       "Montenegro"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=尼日利亚",
-    "keywords": [
-      "尼日利亚",
-      "Nigeria"
     ]
   },
   {
@@ -4361,6 +4361,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=赞比亚共和国",
+    "keywords": [
+      "赞比亚共和国",
+      "Zambia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=牙买加",
     "keywords": [
       "牙买加",
@@ -4403,13 +4410,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=赞比亚共和国",
-    "keywords": [
-      "赞比亚共和国",
-      "Zambia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=其他&country=至尊公主邮轮",
     "keywords": [
       "至尊公主邮轮",
@@ -4435,6 +4435,13 @@
     "keywords": [
       "巴巴多斯",
       "Barbados"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=马里",
+    "keywords": [
+      "马里",
+      "Mali"
     ]
   },
   {
@@ -4466,17 +4473,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=马尔代夫",
-    "keywords": [
-      "马尔代夫",
-      "Maldives"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=坦桑尼亚",
     "keywords": [
       "坦桑尼亚",
       "Tanzania"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=马尔代夫",
+    "keywords": [
+      "马尔代夫",
+      "Maldives"
     ]
   },
   {
@@ -4512,13 +4519,6 @@
     "keywords": [
       "圣马丁岛",
       "Sint Maarten"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=马里",
-    "keywords": [
-      "马里",
-      "Mali"
     ]
   },
   {
