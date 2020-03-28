@@ -3577,6 +3577,20 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=巴西",
+    "keywords": [
+      "巴西",
+      "Brazil"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
+    "keywords": [
+      "澳大利亚",
+      "Australia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=瑞典",
     "keywords": [
       "瑞典",
@@ -3588,20 +3602,6 @@
     "keywords": [
       "以色列",
       "Israel"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
-    "keywords": [
-      "澳大利亚",
-      "Australia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=巴西",
-    "keywords": [
-      "巴西",
-      "Brazil"
     ]
   },
   {
@@ -3633,6 +3633,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=智利",
+    "keywords": [
+      "智利",
+      "Chile"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
     "keywords": [
       "卢森堡",
@@ -3647,17 +3654,17 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=波兰",
+    "keywords": [
+      "波兰",
+      "Poland"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=厄瓜多尔",
     "keywords": [
       "厄瓜多尔",
       "Ecuador"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=智利",
-    "keywords": [
-      "智利",
-      "Chile"
     ]
   },
   {
@@ -3672,13 +3679,6 @@
     "keywords": [
       "罗马尼亚",
       "Romania"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=波兰",
-    "keywords": [
-      "波兰",
-      "Poland"
     ]
   },
   {
@@ -3745,6 +3745,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
+    "keywords": [
+      "巴拿马",
+      "Panama"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=新加坡",
     "keywords": [
       "新加坡",
@@ -3759,6 +3766,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=墨西哥",
+    "keywords": [
+      "墨西哥",
+      "Mexico"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=其他&country=钻石公主号邮轮",
     "keywords": [
       "钻石公主号邮轮",
@@ -3766,10 +3780,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
+    "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
     "keywords": [
-      "巴拿马",
-      "Panama"
+      "阿根廷",
+      "Argentina"
     ]
   },
   {
@@ -3787,24 +3801,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
-    "keywords": [
-      "阿根廷",
-      "Argentina"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=克罗地亚",
     "keywords": [
       "克罗地亚",
       "Croatia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=墨西哥",
-    "keywords": [
-      "墨西哥",
-      "Mexico"
     ]
   },
   {
@@ -3864,6 +3864,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
+    "keywords": [
+      "新西兰",
+      "New Zealand"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=阿尔及利亚",
     "keywords": [
       "阿尔及利亚",
@@ -3896,13 +3903,6 @@
     "keywords": [
       "摩洛哥",
       "Morocco"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
-    "keywords": [
-      "新西兰",
-      "New Zealand"
     ]
   },
   {
@@ -4564,6 +4564,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=缅甸",
+    "keywords": [
+      "缅甸",
+      "Myanmar"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=塞舌尔",
     "keywords": [
       "塞舌尔",
@@ -4687,13 +4694,6 @@
     "keywords": [
       "斐济",
       "Fiji"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=缅甸",
-    "keywords": [
-      "缅甸",
-      "Myanmar"
     ]
   },
   {
