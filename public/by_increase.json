@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-28T12:36:37.000Z",
+    "lastUpdate": "2020-03-28T14:09:31.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -84,8 +84,8 @@
       {
         "updateTime": "辽宁省",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 3,
-        "insickCount": 5
+        "confirmedIncreased": 4,
+        "insickCount": 6
       },
       {
         "updateTime": "吉林省",
@@ -2587,14 +2587,8 @@
   },
   {
     "name": "辽宁省",
-    "lastUpdate": "2020-03-28T01:06:36.000Z",
+    "lastUpdate": "2020-03-28T13:46:17.000Z",
     "records": [
-      {
-        "updateTime": "境外输入",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 3
-      },
       {
         "updateTime": "大连",
         "maxZeroIncrDays": 0,
@@ -2617,6 +2611,12 @@
         "updateTime": "辽阳",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 1,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "境外输入",
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
         "insickCount": 1
       },
       {

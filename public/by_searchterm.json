@@ -3010,13 +3010,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=辽宁省&city=境外输入",
-    "keywords": [
-      "境外输入",
-      ""
-    ]
-  },
-  {
     "url": "#tab=trends&province=辽宁省&city=本溪",
     "keywords": [
       "本溪",
@@ -3028,6 +3021,13 @@
     "keywords": [
       "营口",
       "Yingkou"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=辽宁省&city=境外输入",
+    "keywords": [
+      "境外输入",
+      ""
     ]
   },
   {
@@ -4312,6 +4312,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=肯尼亚",
+    "keywords": [
+      "肯尼亚",
+      "Kenya"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=直布罗陀",
     "keywords": [
       "直布罗陀",
@@ -4337,13 +4344,6 @@
     "keywords": [
       "科索沃",
       null
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=肯尼亚",
-    "keywords": [
-      "肯尼亚",
-      "Kenya"
     ]
   },
   {
