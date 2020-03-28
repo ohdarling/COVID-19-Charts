@@ -3633,6 +3633,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=日本",
+    "keywords": [
+      "日本",
+      "Japan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=智利",
     "keywords": [
       "智利",
@@ -3644,13 +3651,6 @@
     "keywords": [
       "卢森堡",
       "Luxembourg"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=日本",
-    "keywords": [
-      "日本",
-      "Japan"
     ]
   },
   {
@@ -4249,17 +4249,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=列支敦士登",
-    "keywords": [
-      "列支敦士登",
-      "Liechtenstein"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=刚果（金）",
     "keywords": [
       "刚果（金）",
       "Dem. Rep. Congo"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=列支敦士登",
+    "keywords": [
+      "列支敦士登",
+      "Liechtenstein"
     ]
   },
   {
@@ -4459,6 +4459,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=吉布提",
+    "keywords": [
+      "吉布提",
+      "Djibouti"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=马尔代夫",
     "keywords": [
       "马尔代夫",
@@ -4484,13 +4491,6 @@
     "keywords": [
       "赤道几内亚",
       "Eq. Guinea"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=吉布提",
-    "keywords": [
-      "吉布提",
-      "Djibouti"
     ]
   },
   {
@@ -4704,6 +4704,20 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=尼泊尔",
+    "keywords": [
+      "尼泊尔",
+      "Nepal"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=苏丹",
+    "keywords": [
+      "苏丹",
+      "Sudan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=梵蒂冈",
     "keywords": [
       "梵蒂冈",
@@ -4715,13 +4729,6 @@
     "keywords": [
       "安哥拉",
       "Angola"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=尼泊尔",
-    "keywords": [
-      "尼泊尔",
-      "Nepal"
     ]
   },
   {
@@ -4750,13 +4757,6 @@
     "keywords": [
       "佛得角",
       "Cape Verde"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=苏丹",
-    "keywords": [
-      "苏丹",
-      "Sudan"
     ]
   },
   {
