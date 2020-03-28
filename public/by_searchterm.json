@@ -3913,6 +3913,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
+    "keywords": [
+      "乌克兰",
+      "Ukraine"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
     "keywords": [
       "匈牙利",
@@ -3990,13 +3997,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
-    "keywords": [
-      "乌克兰",
-      "Ukraine"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=圣马力诺",
     "keywords": [
       "圣马力诺",
@@ -4032,17 +4032,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=阿塞拜疆",
-    "keywords": [
-      "阿塞拜疆",
-      "Azerbaijan"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=越南",
     "keywords": [
       "越南",
       "Vietnam"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=阿塞拜疆",
+    "keywords": [
+      "阿塞拜疆",
+      "Azerbaijan"
     ]
   },
   {
