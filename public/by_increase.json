@@ -17,9 +17,9 @@
       },
       {
         "updateTime": "广东省",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 111
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 11,
+        "insickCount": 118
       },
       {
         "updateTime": "福建省",
@@ -41,21 +41,15 @@
       },
       {
         "updateTime": "内蒙古自治区",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 17
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 19
       },
       {
         "updateTime": "山东省",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 13
-      },
-      {
-        "updateTime": "甘肃省",
-        "maxZeroIncrDays": 6,
-        "confirmedIncreased": 0,
-        "insickCount": 11
       },
       {
         "updateTime": "江苏省",
@@ -66,6 +60,12 @@
       {
         "updateTime": "四川省",
         "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
+        "insickCount": 9
+      },
+      {
+        "updateTime": "甘肃省",
+        "maxZeroIncrDays": 6,
         "confirmedIncreased": 0,
         "insickCount": 9
       },
@@ -193,25 +193,25 @@
   },
   {
     "name": "广东省",
-    "lastUpdate": "2020-03-27T04:09:46.000Z",
+    "lastUpdate": "2020-03-28T02:13:23.000Z",
     "records": [
       {
         "updateTime": "广州",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 68
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 8,
+        "insickCount": 76
       },
       {
         "updateTime": "深圳",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 27
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 29
       },
       {
         "updateTime": "佛山",
-        "maxZeroIncrDays": 4,
-        "confirmedIncreased": 0,
-        "insickCount": 7
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 8
       },
       {
         "updateTime": "外地来粤人员",
@@ -2431,13 +2431,13 @@
   },
   {
     "name": "甘肃省",
-    "lastUpdate": "2020-03-27T02:24:01.000Z",
+    "lastUpdate": "2020-03-28T02:33:36.000Z",
     "records": [
       {
         "updateTime": "境外输入",
         "maxZeroIncrDays": 4,
         "confirmedIncreased": 0,
-        "insickCount": 13
+        "insickCount": 9
       },
       {
         "updateTime": "兰州",
@@ -2743,13 +2743,13 @@
   },
   {
     "name": "内蒙古自治区",
-    "lastUpdate": "2020-03-27T01:40:02.000Z",
+    "lastUpdate": "2020-03-28T02:19:27.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 17
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 19
       },
       {
         "updateTime": "满洲里",
