@@ -3752,17 +3752,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
-    "keywords": [
-      "巴拿马",
-      "Panama"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=新加坡",
     "keywords": [
       "新加坡",
       "Singapore"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
+    "keywords": [
+      "巴拿马",
+      "Panama"
     ]
   },
   {
@@ -3784,6 +3784,13 @@
     "keywords": [
       "阿根廷",
       "Argentina"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
+    "keywords": [
+      "塞尔维亚",
+      "Serbia"
     ]
   },
   {
@@ -3833,13 +3840,6 @@
     "keywords": [
       "埃及",
       "Egypt"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
-    "keywords": [
-      "塞尔维亚",
-      "Serbia"
     ]
   },
   {
