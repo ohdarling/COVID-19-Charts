@@ -1,13 +1,13 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-28T05:54:40.000Z",
+    "lastUpdate": "2020-03-28T07:12:22.000Z",
     "records": [
       {
         "updateTime": "北京市",
         "maxZeroIncrDays": 0,
-        "confirmedIncreased": 3,
-        "insickCount": 154
+        "confirmedIncreased": 4,
+        "insickCount": 155
       },
       {
         "updateTime": "上海市",
@@ -1303,7 +1303,7 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-28T05:29:25.000Z",
+    "lastUpdate": "2020-03-28T06:15:51.000Z",
     "records": [
       {
         "updateTime": "境外输入",
