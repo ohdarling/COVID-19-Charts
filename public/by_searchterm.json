@@ -3528,6 +3528,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=比利时",
+    "keywords": [
+      "比利时",
+      "Belgium"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=荷兰",
     "keywords": [
       "荷兰",
@@ -3539,13 +3546,6 @@
     "keywords": [
       "奥地利",
       "Austria"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=比利时",
-    "keywords": [
-      "比利时",
-      "Belgium"
     ]
   },
   {
@@ -3605,17 +3605,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=马来西亚",
-    "keywords": [
-      "马来西亚",
-      "Malaysia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=捷克",
     "keywords": [
       "捷克",
       "Czech Rep."
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=马来西亚",
+    "keywords": [
+      "马来西亚",
+      "Malaysia"
     ]
   },
   {
@@ -3843,6 +3843,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
+    "keywords": [
+      "伊拉克",
+      "Iraq"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=多米尼加",
     "keywords": [
       "多米尼加",
@@ -3857,17 +3864,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
-    "keywords": [
-      "伊拉克",
-      "Iraq"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
     "keywords": [
       "新西兰",
       "New Zealand"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
+    "keywords": [
+      "黎巴嫩",
+      "Lebanon"
     ]
   },
   {
@@ -3882,13 +3889,6 @@
     "keywords": [
       "阿联酋",
       "United Arab Emirates"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
-    "keywords": [
-      "黎巴嫩",
-      "Lebanon"
     ]
   },
   {
