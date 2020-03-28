@@ -3493,17 +3493,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=法国",
-    "keywords": [
-      "法国",
-      "France"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=伊朗",
     "keywords": [
       "伊朗",
       "Iran"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=法国",
+    "keywords": [
+      "法国",
+      "France"
     ]
   },
   {
@@ -3605,17 +3605,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=捷克",
-    "keywords": [
-      "捷克",
-      "Czech Rep."
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=马来西亚",
     "keywords": [
       "马来西亚",
       "Malaysia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=捷克",
+    "keywords": [
+      "捷克",
+      "Czech Rep."
     ]
   },
   {
@@ -3682,6 +3682,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
+    "keywords": [
+      "俄罗斯",
+      "Russia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=泰国",
     "keywords": [
       "泰国",
@@ -3696,13 +3703,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
-    "keywords": [
-      "沙特阿拉伯",
-      "Saudi Arabia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=印度尼西亚",
     "keywords": [
       "印度尼西亚",
@@ -3710,10 +3710,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
+    "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
     "keywords": [
-      "俄罗斯",
-      "Russia"
+      "沙特阿拉伯",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
+    "keywords": [
+      "菲律宾",
+      "Philippines"
     ]
   },
   {
@@ -3742,13 +3749,6 @@
     "keywords": [
       "印度",
       "India"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
-    "keywords": [
-      "菲律宾",
-      "Philippines"
     ]
   },
   {
@@ -3913,17 +3913,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
-    "keywords": [
-      "乌克兰",
-      "Ukraine"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
     "keywords": [
       "匈牙利",
       "Hungary"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=乌克兰",
+    "keywords": [
+      "乌克兰",
+      "Ukraine"
     ]
   },
   {
@@ -3976,6 +3976,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=科威特",
+    "keywords": [
+      "科威特",
+      "Kuwait"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=波黑",
     "keywords": [
       "波黑",
@@ -3987,13 +3994,6 @@
     "keywords": [
       "突尼斯",
       "Tunisia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=科威特",
-    "keywords": [
-      "科威特",
-      "Kuwait"
     ]
   },
   {
@@ -4095,17 +4095,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
-    "keywords": [
-      "塞内加尔",
-      "Senegal"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=文莱",
     "keywords": [
       "文莱",
       "Brunei"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
+    "keywords": [
+      "塞内加尔",
+      "Senegal"
     ]
   },
   {
@@ -4662,6 +4662,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=中非共和国",
+    "keywords": [
+      "中非共和国",
+      "Central African Rep."
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=圭亚那",
     "keywords": [
       "圭亚那",
@@ -4680,13 +4687,6 @@
     "keywords": [
       "巴哈马",
       "Bahamas"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=中非共和国",
-    "keywords": [
-      "中非共和国",
-      "Central African Rep."
     ]
   },
   {
