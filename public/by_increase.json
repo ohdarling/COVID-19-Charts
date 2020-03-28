@@ -1,13 +1,13 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-27T23:12:26.000Z",
+    "lastUpdate": "2020-03-28T00:29:13.000Z",
     "records": [
       {
         "updateTime": "北京市",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 153
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 3,
+        "insickCount": 155
       },
       {
         "updateTime": "上海市",
@@ -82,6 +82,18 @@
         "insickCount": 6
       },
       {
+        "updateTime": "辽宁省",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 3,
+        "insickCount": 5
+      },
+      {
+        "updateTime": "吉林省",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 4
+      },
+      {
         "updateTime": "河南省",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
@@ -113,18 +125,6 @@
       },
       {
         "updateTime": "山西省",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
-        "updateTime": "辽宁省",
-        "maxZeroIncrDays": 2,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
-        "updateTime": "吉林省",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
         "insickCount": 2
@@ -1303,13 +1303,13 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-27T05:30:29.000Z",
+    "lastUpdate": "2020-03-28T00:52:25.000Z",
     "records": [
       {
         "updateTime": "境外输入",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 139
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 3,
+        "insickCount": 141
       },
       {
         "updateTime": "朝阳区",
@@ -2587,7 +2587,7 @@
   },
   {
     "name": "辽宁省",
-    "lastUpdate": "2020-03-27T03:50:37.000Z",
+    "lastUpdate": "2020-03-28T01:06:36.000Z",
     "records": [
       {
         "updateTime": "境外输入",
@@ -2596,21 +2596,27 @@
         "insickCount": 3
       },
       {
-        "updateTime": "沈阳",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 1
+        "updateTime": "大连",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 2
       },
       {
-        "updateTime": "大连",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
+        "updateTime": "沈阳",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
         "insickCount": 1
       },
       {
         "updateTime": "铁岭",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "辽阳",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
         "insickCount": 1
       },
       {
@@ -2662,12 +2668,6 @@
         "insickCount": 0
       },
       {
-        "updateTime": "辽阳",
-        "maxZeroIncrDays": 49,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
         "updateTime": "营口",
         "maxZeroIncrDays": 62,
         "confirmedIncreased": 0,
@@ -2677,12 +2677,24 @@
   },
   {
     "name": "吉林省",
-    "lastUpdate": "2020-03-25T23:41:29.000Z",
+    "lastUpdate": "2020-03-28T00:42:19.000Z",
     "records": [
       {
         "updateTime": "长春",
         "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "延边",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "吉林市",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
         "insickCount": 1
       },
       {
@@ -2712,18 +2724,6 @@
       {
         "updateTime": "通化",
         "maxZeroIncrDays": 33,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "延边",
-        "maxZeroIncrDays": 50,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "吉林市",
-        "maxZeroIncrDays": 53,
         "confirmedIncreased": 0,
         "insickCount": 0
       },
