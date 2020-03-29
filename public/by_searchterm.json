@@ -3584,6 +3584,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=巴西",
+    "keywords": [
+      "巴西",
+      "Brazil"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
     "keywords": [
       "澳大利亚",
@@ -3602,13 +3609,6 @@
     "keywords": [
       "瑞典",
       "Sweden"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=巴西",
-    "keywords": [
-      "巴西",
-      "Brazil"
     ]
   },
   {
@@ -3857,6 +3857,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
+    "keywords": [
+      "新西兰",
+      "New Zealand"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=伊拉克",
     "keywords": [
       "伊拉克",
@@ -3882,13 +3889,6 @@
     "keywords": [
       "阿尔及利亚",
       "Algeria"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
-    "keywords": [
-      "新西兰",
-      "New Zealand"
     ]
   },
   {
@@ -3969,6 +3969,20 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=突尼斯",
+    "keywords": [
+      "突尼斯",
+      "Tunisia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
+    "keywords": [
+      "哈萨克斯坦",
+      "Kazakhstan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=约旦",
     "keywords": [
       "约旦",
@@ -4004,13 +4018,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=突尼斯",
-    "keywords": [
-      "突尼斯",
-      "Tunisia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=北马其顿",
     "keywords": [
       "北马其顿",
@@ -4022,13 +4029,6 @@
     "keywords": [
       "布基纳法索",
       "Burkina Faso"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
-    "keywords": [
-      "哈萨克斯坦",
-      "Kazakhstan"
     ]
   },
   {
@@ -4102,6 +4102,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=乌兹别克斯坦",
+    "keywords": [
+      "乌兹别克斯坦",
+      "Uzbekistan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=塞内加尔",
     "keywords": [
       "塞内加尔",
@@ -4134,13 +4141,6 @@
     "keywords": [
       "委内瑞拉",
       "Venezuela"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=乌兹别克斯坦",
-    "keywords": [
-      "乌兹别克斯坦",
-      "Uzbekistan"
     ]
   },
   {
