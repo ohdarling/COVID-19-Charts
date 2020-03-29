@@ -3556,17 +3556,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=奥地利",
-    "keywords": [
-      "奥地利",
-      "Austria"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=土耳其",
     "keywords": [
       "土耳其",
       "Turkey"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=奥地利",
+    "keywords": [
+      "奥地利",
+      "Austria"
     ]
   },
   {
@@ -3647,6 +3647,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
+    "keywords": [
+      "卢森堡",
+      "Luxembourg"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=智利",
     "keywords": [
       "智利",
@@ -3658,13 +3665,6 @@
     "keywords": [
       "日本",
       "Japan"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
-    "keywords": [
-      "卢森堡",
-      "Luxembourg"
     ]
   },
   {
@@ -3808,17 +3808,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
-    "keywords": [
-      "秘鲁",
-      "Peru"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=爱沙尼亚",
     "keywords": [
       "爱沙尼亚",
       "Estonia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=秘鲁",
+    "keywords": [
+      "秘鲁",
+      "Peru"
     ]
   },
   {
@@ -3913,6 +3913,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=立陶宛",
+    "keywords": [
+      "立陶宛",
+      "Lithuania"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=亚美尼亚",
     "keywords": [
       "亚美尼亚",
@@ -3934,10 +3941,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=立陶宛",
+    "url": "#tab=world-trends&continent=欧洲&country=保加利亚",
     "keywords": [
-      "立陶宛",
-      "Lithuania"
+      "保加利亚",
+      "Bulgaria"
     ]
   },
   {
@@ -3952,13 +3959,6 @@
     "keywords": [
       "斯洛伐克",
       "Slovakia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=保加利亚",
-    "keywords": [
-      "保加利亚",
-      "Bulgaria"
     ]
   },
   {
@@ -4445,6 +4445,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=马里",
+    "keywords": [
+      "马里",
+      "Mali"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=刚果（布）",
     "keywords": [
       "刚果（布）",
@@ -4452,10 +4459,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=马里",
+    "url": "#tab=world-trends&continent=非洲&country=吉布提",
     "keywords": [
-      "马里",
-      "Mali"
+      "吉布提",
+      "Djibouti"
     ]
   },
   {
@@ -4484,13 +4491,6 @@
     "keywords": [
       "百慕大",
       "Bermuda"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=吉布提",
-    "keywords": [
-      "吉布提",
-      "Djibouti"
     ]
   },
   {
@@ -4564,6 +4564,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=缅甸",
+    "keywords": [
+      "缅甸",
+      "Myanmar"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=斯威士兰",
     "keywords": [
       "斯威士兰",
@@ -4596,13 +4603,6 @@
     "keywords": [
       "开曼群岛",
       "Cayman Is"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=缅甸",
-    "keywords": [
-      "缅甸",
-      "Myanmar"
     ]
   },
   {
