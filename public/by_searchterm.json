@@ -3563,17 +3563,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=加拿大",
-    "keywords": [
-      "加拿大",
-      "Canada"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=葡萄牙",
     "keywords": [
       "葡萄牙",
       "Portugal"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=加拿大",
+    "keywords": [
+      "加拿大",
+      "Canada"
     ]
   },
   {
@@ -4137,6 +4137,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=喀麦隆",
+    "keywords": [
+      "喀麦隆",
+      "Cameroon"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=南美洲&country=委内瑞拉",
     "keywords": [
       "委内瑞拉",
@@ -4169,13 +4176,6 @@
     "keywords": [
       "科特迪瓦",
       "Côte d'Ivoire"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=喀麦隆",
-    "keywords": [
-      "喀麦隆",
-      "Cameroon"
     ]
   },
   {
@@ -4333,6 +4333,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=马达加斯加",
+    "keywords": [
+      "马达加斯加",
+      "Madagascar"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=肯尼亚",
     "keywords": [
       "肯尼亚",
@@ -4386,13 +4393,6 @@
     "keywords": [
       "赞比亚共和国",
       "Zambia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=马达加斯加",
-    "keywords": [
-      "马达加斯加",
-      "Madagascar"
     ]
   },
   {
