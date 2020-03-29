@@ -3528,17 +3528,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=比利时",
-    "keywords": [
-      "比利时",
-      "Belgium"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=荷兰",
     "keywords": [
       "荷兰",
       "Netherlands"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=比利时",
+    "keywords": [
+      "比利时",
+      "Belgium"
     ]
   },
   {
@@ -3703,6 +3703,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
+    "keywords": [
+      "沙特阿拉伯",
+      "Saudi Arabia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=罗马尼亚",
     "keywords": [
       "罗马尼亚",
@@ -3714,13 +3721,6 @@
     "keywords": [
       "印度尼西亚",
       "Indonesia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=沙特阿拉伯",
-    "keywords": [
-      "沙特阿拉伯",
-      "Saudi Arabia"
     ]
   },
   {
@@ -3934,13 +3934,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=保加利亚",
-    "keywords": [
-      "保加利亚",
-      "Bulgaria"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=安道尔",
     "keywords": [
       "安道尔",
@@ -3948,17 +3941,24 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=拉脱维亚",
-    "keywords": [
-      "拉脱维亚",
-      "Latvia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=斯洛伐克",
     "keywords": [
       "斯洛伐克",
       "Slovakia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=保加利亚",
+    "keywords": [
+      "保加利亚",
+      "Bulgaria"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=拉脱维亚",
+    "keywords": [
+      "拉脱维亚",
+      "Latvia"
     ]
   },
   {
