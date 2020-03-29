@@ -3591,17 +3591,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
-    "keywords": [
-      "澳大利亚",
-      "Australia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=以色列",
     "keywords": [
       "以色列",
       "Israel"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=大洋洲&country=澳大利亚",
+    "keywords": [
+      "澳大利亚",
+      "Australia"
     ]
   },
   {
@@ -3675,6 +3675,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
+    "keywords": [
+      "俄罗斯",
+      "Russia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=巴基斯坦",
     "keywords": [
       "巴基斯坦",
@@ -3693,13 +3700,6 @@
     "keywords": [
       "罗马尼亚",
       "Romania"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=俄罗斯",
-    "keywords": [
-      "俄罗斯",
-      "Russia"
     ]
   },
   {
@@ -4144,6 +4144,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=巴勒斯坦",
+    "keywords": [
+      "巴勒斯坦",
+      "Palestine"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=柬埔寨",
     "keywords": [
       "柬埔寨",
@@ -4169,13 +4176,6 @@
     "keywords": [
       "喀麦隆",
       "Cameroon"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=巴勒斯坦",
-    "keywords": [
-      "巴勒斯坦",
-      "Palestine"
     ]
   },
   {
