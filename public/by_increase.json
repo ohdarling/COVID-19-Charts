@@ -1,13 +1,13 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-29T00:20:15.000Z",
+    "lastUpdate": "2020-03-29T01:16:01.000Z",
     "records": [
       {
         "updateTime": "北京市",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 155
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 3,
+        "insickCount": 157
       },
       {
         "updateTime": "上海市",
@@ -23,9 +23,9 @@
       },
       {
         "updateTime": "福建省",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 41
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 42
       },
       {
         "updateTime": "浙江省",
@@ -41,9 +41,9 @@
       },
       {
         "updateTime": "内蒙古自治区",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 19
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 20
       },
       {
         "updateTime": "山东省",
@@ -76,22 +76,22 @@
         "insickCount": 8
       },
       {
+        "updateTime": "辽宁省",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 8
+      },
+      {
         "updateTime": "云南省",
         "maxZeroIncrDays": 2,
         "confirmedIncreased": 0,
         "insickCount": 6
       },
       {
-        "updateTime": "辽宁省",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 6
-      },
-      {
         "updateTime": "吉林省",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 4
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 5
       },
       {
         "updateTime": "重庆市",
@@ -1303,13 +1303,13 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-28T06:15:51.000Z",
+    "lastUpdate": "2020-03-29T01:16:01.000Z",
     "records": [
       {
         "updateTime": "境外输入",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 141
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 4,
+        "insickCount": 145
       },
       {
         "updateTime": "朝阳区",
@@ -1759,13 +1759,13 @@
   },
   {
     "name": "福建省",
-    "lastUpdate": "2020-03-28T01:35:54.000Z",
+    "lastUpdate": "2020-03-29T00:57:01.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 41
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 42
       },
       {
         "updateTime": "福州",
@@ -2587,13 +2587,13 @@
   },
   {
     "name": "辽宁省",
-    "lastUpdate": "2020-03-28T13:46:17.000Z",
+    "lastUpdate": "2020-03-29T00:51:02.000Z",
     "records": [
       {
         "updateTime": "大连",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 2
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 3,
+        "insickCount": 5
       },
       {
         "updateTime": "沈阳",
@@ -2677,17 +2677,17 @@
   },
   {
     "name": "吉林省",
-    "lastUpdate": "2020-03-28T00:42:19.000Z",
+    "lastUpdate": "2020-03-29T00:28:20.000Z",
     "records": [
+      {
+        "updateTime": "延边",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 2
+      },
       {
         "updateTime": "长春",
         "maxZeroIncrDays": 4,
-        "confirmedIncreased": 0,
-        "insickCount": 1
-      },
-      {
-        "updateTime": "延边",
-        "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
         "insickCount": 1
       },
@@ -2743,13 +2743,13 @@
   },
   {
     "name": "内蒙古自治区",
-    "lastUpdate": "2020-03-28T02:19:27.000Z",
+    "lastUpdate": "2020-03-29T00:51:02.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 19
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 20
       },
       {
         "updateTime": "满洲里",
