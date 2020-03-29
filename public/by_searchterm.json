@@ -3500,17 +3500,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=法国",
-    "keywords": [
-      "法国",
-      "France"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=伊朗",
     "keywords": [
       "伊朗",
       "Iran"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=法国",
+    "keywords": [
+      "法国",
+      "France"
     ]
   },
   {
@@ -3619,17 +3619,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=爱尔兰",
-    "keywords": [
-      "爱尔兰",
-      "Ireland"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=马来西亚",
     "keywords": [
       "马来西亚",
       "Malaysia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=爱尔兰",
+    "keywords": [
+      "爱尔兰",
+      "Ireland"
     ]
   },
   {
@@ -3689,6 +3689,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
+    "keywords": [
+      "菲律宾",
+      "Philippines"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=泰国",
     "keywords": [
       "泰国",
@@ -3700,6 +3707,13 @@
     "keywords": [
       "罗马尼亚",
       "Romania"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=印度尼西亚",
+    "keywords": [
+      "印度尼西亚",
+      "Indonesia"
     ]
   },
   {
@@ -3721,20 +3735,6 @@
     "keywords": [
       "芬兰",
       "Finland"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=印度尼西亚",
-    "keywords": [
-      "印度尼西亚",
-      "Indonesia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=菲律宾",
-    "keywords": [
-      "菲律宾",
-      "Philippines"
     ]
   },
   {
@@ -3892,24 +3892,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
-    "keywords": [
-      "黎巴嫩",
-      "Lebanon"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
     "keywords": [
       "摩洛哥",
       "Morocco"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=立陶宛",
-    "keywords": [
-      "立陶宛",
-      "Lithuania"
     ]
   },
   {
@@ -3927,10 +3913,24 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=黎巴嫩",
+    "keywords": [
+      "黎巴嫩",
+      "Lebanon"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=匈牙利",
     "keywords": [
       "匈牙利",
       "Hungary"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=立陶宛",
+    "keywords": [
+      "立陶宛",
+      "Lithuania"
     ]
   },
   {
@@ -3976,6 +3976,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=科威特",
+    "keywords": [
+      "科威特",
+      "Kuwait"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
     "keywords": [
       "哈萨克斯坦",
@@ -4001,13 +4008,6 @@
     "keywords": [
       "乌拉圭",
       "Uruguay"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=科威特",
-    "keywords": [
-      "科威特",
-      "Kuwait"
     ]
   },
   {
@@ -4200,6 +4200,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=格鲁吉亚",
+    "keywords": [
+      "格鲁吉亚",
+      "Georgia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=尼日利亚",
     "keywords": [
       "尼日利亚",
@@ -4207,10 +4214,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=格鲁吉亚",
+    "url": "#tab=world-trends&continent=亚洲&country=吉尔吉斯斯坦",
     "keywords": [
-      "格鲁吉亚",
-      "Georgia"
+      "吉尔吉斯斯坦",
+      "Kyrgyzstan"
     ]
   },
   {
@@ -4274,13 +4281,6 @@
     "keywords": [
       "列支敦士登",
       "Liechtenstein"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=吉尔吉斯斯坦",
-    "keywords": [
-      "吉尔吉斯斯坦",
-      "Kyrgyzstan"
     ]
   },
   {
