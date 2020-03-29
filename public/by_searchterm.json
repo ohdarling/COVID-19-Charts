@@ -3745,17 +3745,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=冰岛",
-    "keywords": [
-      "冰岛",
-      "Iceland"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=印度",
     "keywords": [
       "印度",
       "India"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=冰岛",
+    "keywords": [
+      "冰岛",
+      "Iceland"
     ]
   },
   {
