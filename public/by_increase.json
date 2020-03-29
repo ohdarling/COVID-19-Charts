@@ -1,13 +1,13 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-29T13:04:56.000Z",
+    "lastUpdate": "2020-03-29T14:25:46.000Z",
     "records": [
       {
         "updateTime": "北京市",
         "maxZeroIncrDays": 0,
         "confirmedIncreased": 4,
-        "insickCount": 158
+        "insickCount": 157
       },
       {
         "updateTime": "上海市",
@@ -65,9 +65,9 @@
       },
       {
         "updateTime": "甘肃省",
-        "maxZeroIncrDays": 7,
-        "confirmedIncreased": 0,
-        "insickCount": 9
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 11
       },
       {
         "updateTime": "陕西省",
@@ -1303,7 +1303,7 @@
   },
   {
     "name": "北京市",
-    "lastUpdate": "2020-03-29T05:23:41.000Z",
+    "lastUpdate": "2020-03-29T14:07:35.000Z",
     "records": [
       {
         "updateTime": "境外输入",
@@ -1410,6 +1410,12 @@
       {
         "updateTime": "顺义区",
         "maxZeroIncrDays": 49,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "待明确地区",
+        "maxZeroIncrDays": 66,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
@@ -2436,6 +2442,84 @@
     ]
   },
   {
+    "name": "甘肃省",
+    "lastUpdate": "2020-03-29T14:25:46.000Z",
+    "records": [
+      {
+        "updateTime": "境外输入",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 10
+      },
+      {
+        "updateTime": "兰州",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 1
+      },
+      {
+        "updateTime": "天水",
+        "maxZeroIncrDays": 50,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "定西",
+        "maxZeroIncrDays": 45,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "平凉",
+        "maxZeroIncrDays": 45,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "甘南",
+        "maxZeroIncrDays": 45,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "白银",
+        "maxZeroIncrDays": 51,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "陇南",
+        "maxZeroIncrDays": 55,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "临夏",
+        "maxZeroIncrDays": 55,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "庆阳",
+        "maxZeroIncrDays": 48,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "张掖",
+        "maxZeroIncrDays": 60,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "金昌",
+        "maxZeroIncrDays": 61,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      }
+    ]
+  },
+  {
     "name": "山西省",
     "lastUpdate": "2020-03-29T00:20:15.000Z",
     "records": [
@@ -2508,84 +2592,6 @@
       {
         "updateTime": "临汾",
         "maxZeroIncrDays": 51,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      }
-    ]
-  },
-  {
-    "name": "甘肃省",
-    "lastUpdate": "2020-03-28T02:33:36.000Z",
-    "records": [
-      {
-        "updateTime": "境外输入",
-        "maxZeroIncrDays": 5,
-        "confirmedIncreased": 0,
-        "insickCount": 9
-      },
-      {
-        "updateTime": "兰州",
-        "maxZeroIncrDays": 41,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "天水",
-        "maxZeroIncrDays": 50,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "定西",
-        "maxZeroIncrDays": 45,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "平凉",
-        "maxZeroIncrDays": 45,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "甘南",
-        "maxZeroIncrDays": 45,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "白银",
-        "maxZeroIncrDays": 51,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "陇南",
-        "maxZeroIncrDays": 55,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "临夏",
-        "maxZeroIncrDays": 55,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "庆阳",
-        "maxZeroIncrDays": 48,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "张掖",
-        "maxZeroIncrDays": 60,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "金昌",
-        "maxZeroIncrDays": 61,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
