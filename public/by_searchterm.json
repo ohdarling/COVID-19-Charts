@@ -896,17 +896,17 @@
     ]
   },
   {
+    "url": "#tab=trends&province=江西省&city=境外输入",
+    "keywords": [
+      "境外输入",
+      ""
+    ]
+  },
+  {
     "url": "#tab=trends&province=江西省&city=赣江新区",
     "keywords": [
       "赣江新区",
       "Ganjiang New District"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=江西省&city=境外输入人员",
-    "keywords": [
-      "境外输入人员",
-      ""
     ]
   },
   {
@@ -1127,17 +1127,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=江苏省&city=镇江",
-    "keywords": [
-      "镇江",
-      "Zhenjiang"
-    ]
-  },
-  {
     "url": "#tab=trends&province=江苏省&city=境外输入",
     "keywords": [
       "境外输入",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=江苏省&city=镇江",
+    "keywords": [
+      "镇江",
+      "Zhenjiang"
     ]
   },
   {
@@ -1705,6 +1705,13 @@
     "keywords": [
       "乐山",
       "Leshan"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=四川省&city=境外输入",
+    "keywords": [
+      "境外输入",
+      ""
     ]
   },
   {
@@ -3752,13 +3759,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=新加坡",
-    "keywords": [
-      "新加坡",
-      "Singapore"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
     "keywords": [
       "巴拿马",
@@ -3773,10 +3773,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=其他&country=钻石公主号邮轮",
+    "url": "#tab=world-trends&continent=亚洲&country=新加坡",
     "keywords": [
-      "钻石公主号邮轮",
-      "Diamond Princess Cruise Ship"
+      "新加坡",
+      "Singapore"
     ]
   },
   {
@@ -3784,6 +3784,13 @@
     "keywords": [
       "阿根廷",
       "Argentina"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=其他&country=钻石公主号邮轮",
+    "keywords": [
+      "钻石公主号邮轮",
+      "Diamond Princess Cruise Ship"
     ]
   },
   {
@@ -3871,6 +3878,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=阿尔及利亚",
+    "keywords": [
+      "阿尔及利亚",
+      "Algeria"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
     "keywords": [
       "新西兰",
@@ -3885,10 +3899,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=阿尔及利亚",
+    "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
     "keywords": [
-      "阿尔及利亚",
-      "Algeria"
+      "摩洛哥",
+      "Morocco"
     ]
   },
   {
@@ -3903,13 +3917,6 @@
     "keywords": [
       "亚美尼亚",
       "Armenia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=摩洛哥",
-    "keywords": [
-      "摩洛哥",
-      "Morocco"
     ]
   },
   {
