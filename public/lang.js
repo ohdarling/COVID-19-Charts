@@ -78,7 +78,7 @@ const languageMap = {
   '国家或城市': 'Country or city',
   '搜索': 'Search',
   '国家对比': 'Compare Countries',
-  '累计确诊 >= 100 国家': 'Confirmed >= 100 Counties',
+  '累计确诊 >= 500 国家': 'Confirmed >= 500 Counties',
   '累计确诊人数': 'Total Confirmed Count',
   '现存确诊人数': 'Exists Confirmed Count',
   '新增确诊人数': 'Increased Count',

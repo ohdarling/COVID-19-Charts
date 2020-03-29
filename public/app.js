@@ -1046,7 +1046,7 @@ async function showCountriesCompare(metrics) {
     percent: 'confirmedPer1M',
     deadrate: 'deadRate',
   }[metrics] || 'confirmedCount';
-  const title = getTextForKey('累计确诊 >= 100 国家') + ': ' + getTextForKey({
+  const title = getTextForKey('累计确诊 >= 500 国家') + ': ' + getTextForKey({
     confirmed: '累计确诊人数',
     exists: '现存确诊人数',
     increase: '新增确诊人数',
@@ -1056,12 +1056,14 @@ async function showCountriesCompare(metrics) {
   }[metrics] || '累计确诊人数');
   const valueType = [ 'confirmed', 'insickCount', ].indexOf(metrics) > -1 ? 'log' : 'value';
 
-  const alignCases = 100;
+  const ALIGN_CASES = 100;
+  const SHOW_MIN_CASES = 500;
+  const SELECTED_MIN_CASES = 5000;
   let maxDays = 0;
   const data = records.filter(c => {
-    return !!c.name && c.confirmedCount >= alignCases;
+    return !!c.name && c.confirmedCount >= SHOW_MIN_CASES;
   }).map(c => {
-    c.records = c.records.filter(r => r.confirmedCount >= alignCases);
+    c.records = c.records.filter(r => r.confirmedCount >= ALIGN_CASES);
     c.records.forEach((r, i) => {
       r.index = i;
       r.deadRate = Math.floor(r.deadCount / r.confirmedCount * 10000) / 100;
@@ -1107,7 +1109,7 @@ async function showCountriesCompare(metrics) {
         },
         bottom: 0,
         selected: data.reduce((p, v) => {
-          p[getLangProp(v)] = v.confirmedCount >= 2000 ? true : false;
+          p[getLangProp(v)] = v.confirmedCount >= SELECTED_MIN_CASES ? true : false;
           return p;
         }, {}),
         selectedMode: 'multiple',
