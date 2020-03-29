@@ -3976,17 +3976,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=亚洲&country=科威特",
-    "keywords": [
-      "科威特",
-      "Kuwait"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=哈萨克斯坦",
     "keywords": [
       "哈萨克斯坦",
       "Kazakhstan"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=亚洲&country=科威特",
+    "keywords": [
+      "科威特",
+      "Kuwait"
     ]
   },
   {
@@ -4074,6 +4074,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=加纳",
+    "keywords": [
+      "加纳",
+      "Ghana"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=法罗群岛",
     "keywords": [
       "法罗群岛",
@@ -4085,13 +4092,6 @@
     "keywords": [
       "塞内加尔",
       "Senegal"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=加纳",
-    "keywords": [
-      "加纳",
-      "Ghana"
     ]
   },
   {
