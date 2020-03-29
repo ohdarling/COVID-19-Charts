@@ -3794,6 +3794,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
+    "keywords": [
+      "塞尔维亚",
+      "Serbia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=其他&country=钻石公主号邮轮",
     "keywords": [
       "钻石公主号邮轮",
@@ -3805,13 +3812,6 @@
     "keywords": [
       "秘鲁",
       "Peru"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
-    "keywords": [
-      "塞尔维亚",
-      "Serbia"
     ]
   },
   {
@@ -4704,17 +4704,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=圭亚那",
-    "keywords": [
-      "圭亚那",
-      "Guyana"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=叙利亚",
     "keywords": [
       "叙利亚",
       "Syria"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=圭亚那",
+    "keywords": [
+      "圭亚那",
+      "Guyana"
     ]
   },
   {
