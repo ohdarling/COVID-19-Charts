@@ -1372,6 +1372,13 @@
     ]
   },
   {
+    "url": "#tab=trends&province=重庆市&city=境外输入",
+    "keywords": [
+      "境外输入",
+      ""
+    ]
+  },
+  {
     "url": "#tab=trends&province=重庆市&city=城口县",
     "keywords": [
       "城口县",
@@ -1390,13 +1397,6 @@
     "keywords": [
       "彭水县",
       "Pengshui Miao and Tujia Autonomous County"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=重庆市&city=境外输入人员",
-    "keywords": [
-      "境外输入人员",
-      ""
     ]
   },
   {
@@ -2744,6 +2744,97 @@
     ]
   },
   {
+    "url": "#tab=trends&province=山西省",
+    "keywords": [
+      "山西省",
+      "Shanxi"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=晋中",
+    "keywords": [
+      "晋中",
+      "Jinzhong"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=太原",
+    "keywords": [
+      "太原",
+      "Taiyuan"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=运城",
+    "keywords": [
+      "运城",
+      "Yuncheng"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=大同",
+    "keywords": [
+      "大同",
+      "Datong"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=晋城",
+    "keywords": [
+      "晋城",
+      "Jincheng"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=长治",
+    "keywords": [
+      "长治",
+      "Changzhi"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=朔州",
+    "keywords": [
+      "朔州",
+      "Shuozhou"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=忻州",
+    "keywords": [
+      "忻州",
+      "Xinzhou"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=吕梁",
+    "keywords": [
+      "吕梁",
+      "Lüliang"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=阳泉",
+    "keywords": [
+      "阳泉",
+      "Yangquan"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=境外输入",
+    "keywords": [
+      "境外输入",
+      ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=山西省&city=临汾",
+    "keywords": [
+      "临汾",
+      "Linfen"
+    ]
+  },
+  {
     "url": "#tab=trends&province=甘肃省",
     "keywords": [
       "甘肃省",
@@ -2832,97 +2923,6 @@
     "keywords": [
       "金昌",
       "Jinchang"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省",
-    "keywords": [
-      "山西省",
-      "Shanxi"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=晋中",
-    "keywords": [
-      "晋中",
-      "Jinzhong"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=太原",
-    "keywords": [
-      "太原",
-      "Taiyuan"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=运城",
-    "keywords": [
-      "运城",
-      "Yuncheng"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=大同",
-    "keywords": [
-      "大同",
-      "Datong"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=晋城",
-    "keywords": [
-      "晋城",
-      "Jincheng"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=长治",
-    "keywords": [
-      "长治",
-      "Changzhi"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=朔州",
-    "keywords": [
-      "朔州",
-      "Shuozhou"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=忻州",
-    "keywords": [
-      "忻州",
-      "Xinzhou"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=吕梁",
-    "keywords": [
-      "吕梁",
-      "Lüliang"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=阳泉",
-    "keywords": [
-      "阳泉",
-      "Yangquan"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=临汾",
-    "keywords": [
-      "临汾",
-      "Linfen"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=山西省&city=境外输入",
-    "keywords": [
-      "境外输入",
-      ""
     ]
   },
   {

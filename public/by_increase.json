@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-28T23:11:34.000Z",
+    "lastUpdate": "2020-03-29T00:20:15.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -94,20 +94,26 @@
         "insickCount": 4
       },
       {
+        "updateTime": "重庆市",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 3
+      },
+      {
         "updateTime": "河北省",
         "maxZeroIncrDays": 7,
         "confirmedIncreased": 0,
         "insickCount": 3
       },
       {
-        "updateTime": "河南省",
-        "maxZeroIncrDays": 3,
-        "confirmedIncreased": 0,
-        "insickCount": 2
+        "updateTime": "山西省",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 3
       },
       {
-        "updateTime": "重庆市",
-        "maxZeroIncrDays": 5,
+        "updateTime": "河南省",
+        "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
@@ -120,12 +126,6 @@
       {
         "updateTime": "广西壮族自治区",
         "maxZeroIncrDays": 9,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
-        "updateTime": "山西省",
-        "maxZeroIncrDays": 3,
         "confirmedIncreased": 0,
         "insickCount": 2
       },
@@ -1057,13 +1057,13 @@
   },
   {
     "name": "重庆市",
-    "lastUpdate": "2020-03-23T23:34:38.000Z",
+    "lastUpdate": "2020-03-29T00:14:12.000Z",
     "records": [
       {
-        "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 5,
-        "confirmedIncreased": 0,
-        "insickCount": 2
+        "updateTime": "境外输入",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 3,
+        "insickCount": 3
       },
       {
         "updateTime": "万州区",
@@ -2430,6 +2430,84 @@
     ]
   },
   {
+    "name": "山西省",
+    "lastUpdate": "2020-03-29T00:20:15.000Z",
+    "records": [
+      {
+        "updateTime": "境外输入",
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 3
+      },
+      {
+        "updateTime": "晋中",
+        "maxZeroIncrDays": 33,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "太原",
+        "maxZeroIncrDays": 37,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "运城",
+        "maxZeroIncrDays": 47,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "大同",
+        "maxZeroIncrDays": 45,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "晋城",
+        "maxZeroIncrDays": 39,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "长治",
+        "maxZeroIncrDays": 46,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "朔州",
+        "maxZeroIncrDays": 40,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "忻州",
+        "maxZeroIncrDays": 48,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "吕梁",
+        "maxZeroIncrDays": 52,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "阳泉",
+        "maxZeroIncrDays": 51,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      },
+      {
+        "updateTime": "临汾",
+        "maxZeroIncrDays": 51,
+        "confirmedIncreased": 0,
+        "insickCount": 0
+      }
+    ]
+  },
+  {
     "name": "甘肃省",
     "lastUpdate": "2020-03-28T02:33:36.000Z",
     "records": [
@@ -2502,84 +2580,6 @@
       {
         "updateTime": "金昌",
         "maxZeroIncrDays": 61,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      }
-    ]
-  },
-  {
-    "name": "山西省",
-    "lastUpdate": "2020-03-25T23:21:31.000Z",
-    "records": [
-      {
-        "updateTime": "境外输入",
-        "maxZeroIncrDays": 3,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
-        "updateTime": "晋中",
-        "maxZeroIncrDays": 33,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "太原",
-        "maxZeroIncrDays": 37,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "运城",
-        "maxZeroIncrDays": 47,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "大同",
-        "maxZeroIncrDays": 45,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "晋城",
-        "maxZeroIncrDays": 39,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "长治",
-        "maxZeroIncrDays": 46,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "朔州",
-        "maxZeroIncrDays": 40,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "忻州",
-        "maxZeroIncrDays": 48,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "吕梁",
-        "maxZeroIncrDays": 52,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "阳泉",
-        "maxZeroIncrDays": 51,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "临汾",
-        "maxZeroIncrDays": 51,
         "confirmedIncreased": 0,
         "insickCount": 0
       }
