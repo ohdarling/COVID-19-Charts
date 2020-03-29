@@ -1668,6 +1668,24 @@
             "updateTime": 1585490855857
         },
         {
+            "locationId": 0,
+            "continentName": "欧洲",
+            "continentEnglishName": "Europe",
+            "countryName": "法罗群岛",
+            "countryEnglishName": "Faroe",
+            "provinceName": "法罗群岛",
+            "provinceEnglishName": "Faroe",
+            "provinceShortName": "法罗群岛",
+            "currentConfirmedCount": 144,
+            "confirmedCount": 144,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 0,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1585490855857
+        },
+        {
             "locationId": 420000,
             "continentName": "亚洲",
             "continentEnglishName": "Asia",
@@ -1854,24 +1872,6 @@
                     "cityEnglishName": "Shennongjia"
                 }
             ],
-            "updateTime": 1585490855857
-        },
-        {
-            "locationId": 0,
-            "continentName": "欧洲",
-            "continentEnglishName": "Europe",
-            "countryName": "法罗群岛",
-            "countryEnglishName": "Faroe",
-            "provinceName": "法罗群岛",
-            "provinceEnglishName": "Faroe",
-            "provinceShortName": "法罗群岛",
-            "currentConfirmedCount": 144,
-            "confirmedCount": 144,
-            "suspectedCount": 0,
-            "curedCount": 0,
-            "deadCount": 0,
-            "comment": "",
-            "cities": null,
             "updateTime": 1585490855857
         },
         {
