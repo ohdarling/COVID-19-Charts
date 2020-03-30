@@ -3024,17 +3024,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=辽宁省&city=营口",
-    "keywords": [
-      "营口",
-      "Yingkou"
-    ]
-  },
-  {
     "url": "#tab=trends&province=辽宁省&city=境外输入",
     "keywords": [
       "境外输入",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=辽宁省&city=营口",
+    "keywords": [
+      "营口",
+      "Yingkou"
     ]
   },
   {
