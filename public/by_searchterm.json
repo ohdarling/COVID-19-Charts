@@ -2450,118 +2450,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=海南省",
-    "keywords": [
-      "海南省",
-      "Hainan"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=三亚",
-    "keywords": [
-      "三亚",
-      "Sanya"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=海口",
-    "keywords": [
-      "海口",
-      "Haikou"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=儋州",
-    "keywords": [
-      "儋州",
-      "Danzhou"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=万宁",
-    "keywords": [
-      "万宁",
-      "Wanning"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=澄迈",
-    "keywords": [
-      "澄迈",
-      "Chengmai County"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=昌江",
-    "keywords": [
-      "昌江",
-      "Changjiang Li Autonomous County"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=琼海",
-    "keywords": [
-      "琼海",
-      "Qionghai"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=临高",
-    "keywords": [
-      "临高",
-      "Lingao County"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=陵水",
-    "keywords": [
-      "陵水",
-      "Lingshui Li Autonomous County"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=定安",
-    "keywords": [
-      "定安",
-      "Ding'an County"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=东方",
-    "keywords": [
-      "东方",
-      "Dongfang"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=文昌",
-    "keywords": [
-      "文昌",
-      "Wenchang"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=保亭",
-    "keywords": [
-      "保亭",
-      "Baoting Li and Miao Autonomous County"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=乐东",
-    "keywords": [
-      "乐东",
-      "Ledong Li Autonomous County"
-    ]
-  },
-  {
-    "url": "#tab=trends&province=海南省&city=琼中",
-    "keywords": [
-      "琼中",
-      "Qiongzhong Li and Miao Autonomous County"
-    ]
-  },
-  {
     "url": "#tab=trends&province=天津市",
     "keywords": [
       "天津市",
@@ -2678,6 +2566,118 @@
     "keywords": [
       "武清区",
       "Wuqing District"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省",
+    "keywords": [
+      "海南省",
+      "Hainan"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=三亚",
+    "keywords": [
+      "三亚",
+      "Sanya"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=海口",
+    "keywords": [
+      "海口",
+      "Haikou"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=儋州",
+    "keywords": [
+      "儋州",
+      "Danzhou"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=万宁",
+    "keywords": [
+      "万宁",
+      "Wanning"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=澄迈",
+    "keywords": [
+      "澄迈",
+      "Chengmai County"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=昌江",
+    "keywords": [
+      "昌江",
+      "Changjiang Li Autonomous County"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=琼海",
+    "keywords": [
+      "琼海",
+      "Qionghai"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=临高",
+    "keywords": [
+      "临高",
+      "Lingao County"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=陵水",
+    "keywords": [
+      "陵水",
+      "Lingshui Li Autonomous County"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=定安",
+    "keywords": [
+      "定安",
+      "Ding'an County"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=东方",
+    "keywords": [
+      "东方",
+      "Dongfang"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=文昌",
+    "keywords": [
+      "文昌",
+      "Wenchang"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=保亭",
+    "keywords": [
+      "保亭",
+      "Baoting Li and Miao Autonomous County"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=乐东",
+    "keywords": [
+      "乐东",
+      "Ledong Li Autonomous County"
+    ]
+  },
+  {
+    "url": "#tab=trends&province=海南省&city=琼中",
+    "keywords": [
+      "琼中",
+      "Qiongzhong Li and Miao Autonomous County"
     ]
   },
   {
@@ -4095,6 +4095,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=亚洲&country=阿富汗",
+    "keywords": [
+      "阿富汗",
+      "Afghanistan"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=留尼旺",
     "keywords": [
       "留尼旺",
@@ -4134,13 +4141,6 @@
     "keywords": [
       "文莱",
       "Brunei"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=亚洲&country=阿富汗",
-    "keywords": [
-      "阿富汗",
-      "Afghanistan"
     ]
   },
   {
