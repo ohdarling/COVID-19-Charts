@@ -1120,17 +1120,17 @@
     ]
   },
   {
-    "url": "#tab=trends&province=江苏省&city=宿迁",
-    "keywords": [
-      "宿迁",
-      "Suqian"
-    ]
-  },
-  {
     "url": "#tab=trends&province=江苏省&city=境外输入",
     "keywords": [
       "境外输入",
       ""
+    ]
+  },
+  {
+    "url": "#tab=trends&province=江苏省&city=宿迁",
+    "keywords": [
+      "宿迁",
+      "Suqian"
     ]
   },
   {
@@ -2128,9 +2128,9 @@
     ]
   },
   {
-    "url": "#tab=trends&province=河北省&city=境外输入人员",
+    "url": "#tab=trends&province=河北省&city=境外输入",
     "keywords": [
-      "境外输入人员",
+      "境外输入",
       ""
     ]
   },
@@ -3787,17 +3787,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
-    "keywords": [
-      "塞尔维亚",
-      "Serbia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
     "keywords": [
       "阿根廷",
       "Argentina"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
+    "keywords": [
+      "塞尔维亚",
+      "Serbia"
     ]
   },
   {
@@ -3850,6 +3850,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
+    "keywords": [
+      "新西兰",
+      "New Zealand"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=多米尼加",
     "keywords": [
       "多米尼加",
@@ -3868,13 +3875,6 @@
     "keywords": [
       "伊拉克",
       "Iraq"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=大洋洲&country=新西兰",
-    "keywords": [
-      "新西兰",
-      "New Zealand"
     ]
   },
   {
@@ -3976,6 +3976,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=乌拉圭",
+    "keywords": [
+      "乌拉圭",
+      "Uruguay"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=哥斯达黎加",
     "keywords": [
       "哥斯达黎加",
@@ -3987,13 +3994,6 @@
     "keywords": [
       "哈萨克斯坦",
       "Kazakhstan"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=乌拉圭",
-    "keywords": [
-      "乌拉圭",
-      "Uruguay"
     ]
   },
   {
@@ -4270,6 +4270,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=南美洲&country=巴拉圭",
+    "keywords": [
+      "巴拉圭",
+      "Paraguay"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=列支敦士登",
     "keywords": [
       "列支敦士登",
@@ -4295,13 +4302,6 @@
     "keywords": [
       "直布罗陀",
       "Gibraltar"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=巴拉圭",
-    "keywords": [
-      "巴拉圭",
-      "Paraguay"
     ]
   },
   {
