@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-29T18:00:56.000Z",
+    "lastUpdate": "2020-03-29T23:26:09.000Z",
     "records": [
       {
         "updateTime": "北京市",
@@ -1410,12 +1410,6 @@
       {
         "updateTime": "顺义区",
         "maxZeroIncrDays": 50,
-        "confirmedIncreased": 0,
-        "insickCount": 0
-      },
-      {
-        "updateTime": "待明确地区",
-        "maxZeroIncrDays": 67,
         "confirmedIncreased": 0,
         "insickCount": 0
       }

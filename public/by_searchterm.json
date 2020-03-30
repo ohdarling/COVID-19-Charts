@@ -1561,13 +1561,6 @@
     ]
   },
   {
-    "url": "#tab=trends&province=北京市&city=待明确地区",
-    "keywords": [
-      "待明确地区",
-      "Area not defined"
-    ]
-  },
-  {
     "url": "#tab=trends&province=四川省",
     "keywords": [
       "四川省",
@@ -3675,17 +3668,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=罗马尼亚",
-    "keywords": [
-      "罗马尼亚",
-      "Romania"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=南美洲&country=厄瓜多尔",
     "keywords": [
       "厄瓜多尔",
       "Ecuador"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=罗马尼亚",
+    "keywords": [
+      "罗马尼亚",
+      "Romania"
     ]
   },
   {
@@ -3794,17 +3787,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
-    "keywords": [
-      "阿根廷",
-      "Argentina"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=欧洲&country=塞尔维亚",
     "keywords": [
       "塞尔维亚",
       "Serbia"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=南美洲&country=阿根廷",
+    "keywords": [
+      "阿根廷",
+      "Argentina"
     ]
   },
   {
@@ -3815,6 +3808,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=斯洛文尼亚",
+    "keywords": [
+      "斯洛文尼亚",
+      "Slovenia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=欧洲&country=爱沙尼亚",
     "keywords": [
       "爱沙尼亚",
@@ -3822,17 +3822,17 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=克罗地亚",
+    "keywords": [
+      "克罗地亚",
+      "Croatia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=卡塔尔",
     "keywords": [
       "卡塔尔",
       "Qatar"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=斯洛文尼亚",
-    "keywords": [
-      "斯洛文尼亚",
-      "Slovenia"
     ]
   },
   {
@@ -3847,13 +3847,6 @@
     "keywords": [
       "哥伦比亚",
       "Colombia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=克罗地亚",
-    "keywords": [
-      "克罗地亚",
-      "Croatia"
     ]
   },
   {
@@ -3976,6 +3969,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=非洲&country=突尼斯",
+    "keywords": [
+      "突尼斯",
+      "Tunisia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=哥斯达黎加",
     "keywords": [
       "哥斯达黎加",
@@ -3990,10 +3990,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=突尼斯",
+    "url": "#tab=world-trends&continent=南美洲&country=乌拉圭",
     "keywords": [
-      "突尼斯",
-      "Tunisia"
+      "乌拉圭",
+      "Uruguay"
     ]
   },
   {
@@ -4022,13 +4022,6 @@
     "keywords": [
       "圣马力诺",
       "San Marino"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=南美洲&country=乌拉圭",
-    "keywords": [
-      "乌拉圭",
-      "Uruguay"
     ]
   },
   {
@@ -4088,6 +4081,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=欧洲&country=法罗群岛",
+    "keywords": [
+      "法罗群岛",
+      "Faroe"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=加纳",
     "keywords": [
       "加纳",
@@ -4095,10 +4095,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=法罗群岛",
+    "url": "#tab=world-trends&continent=非洲&country=留尼旺",
     "keywords": [
-      "法罗群岛",
-      "Faroe"
+      "留尼旺",
+      "Reunion"
     ]
   },
   {
@@ -4123,13 +4123,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=留尼旺",
-    "keywords": [
-      "留尼旺",
-      "Reunion"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=亚洲&country=乌兹别克斯坦",
     "keywords": [
       "乌兹别克斯坦",
@@ -4151,6 +4144,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=古巴",
+    "keywords": [
+      "古巴",
+      "Cuba"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=亚洲&country=斯里兰卡",
     "keywords": [
       "斯里兰卡",
@@ -4158,17 +4158,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=尼日利亚",
-    "keywords": [
-      "尼日利亚",
-      "Nigeria"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=南美洲&country=委内瑞拉",
     "keywords": [
       "委内瑞拉",
       "Venezuela"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=尼日利亚",
+    "keywords": [
+      "尼日利亚",
+      "Nigeria"
     ]
   },
   {
@@ -4242,31 +4242,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=古巴",
-    "keywords": [
-      "古巴",
-      "Cuba"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=洪都拉斯",
-    "keywords": [
-      "洪都拉斯",
-      "Honduras"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=北美洲&country=特立尼达和多巴哥",
     "keywords": [
       "特立尼达和多巴哥",
       "Trinidad and Tobago"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=波多黎各",
-    "keywords": [
-      "波多黎各",
-      "Puerto Rico"
     ]
   },
   {
@@ -4277,10 +4256,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=卢旺达",
+    "url": "#tab=world-trends&continent=北美洲&country=洪都拉斯",
     "keywords": [
-      "卢旺达",
-      "Rwanda"
+      "洪都拉斯",
+      "Honduras"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=波多黎各",
+    "keywords": [
+      "波多黎各",
+      "Puerto Rico"
     ]
   },
   {
@@ -4288,6 +4274,20 @@
     "keywords": [
       "列支敦士登",
       "Liechtenstein"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=泽西岛",
+    "keywords": [
+      "泽西岛",
+      "Jersey"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=卢旺达",
+    "keywords": [
+      "卢旺达",
+      "Rwanda"
     ]
   },
   {
@@ -4302,13 +4302,6 @@
     "keywords": [
       "巴拉圭",
       "Paraguay"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=泽西岛",
-    "keywords": [
-      "泽西岛",
-      "Jersey"
     ]
   },
   {
@@ -4340,6 +4333,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=阿鲁巴",
+    "keywords": [
+      "阿鲁巴",
+      null
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=马达加斯加",
     "keywords": [
       "马达加斯加",
@@ -4361,10 +4361,31 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=大洋洲&country=法属波利尼西亚",
+    "keywords": [
+      "法属波利尼西亚",
+      "Fr. Polynesia"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=乌干达",
     "keywords": [
       "乌干达",
       "Uganda"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=马恩岛",
+    "keywords": [
+      "马恩岛",
+      "Isle of Man"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=危地马拉",
+    "keywords": [
+      "危地马拉",
+      "Guatemala"
     ]
   },
   {
@@ -4382,38 +4403,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=大洋洲&country=法属波利尼西亚",
-    "keywords": [
-      "法属波利尼西亚",
-      "Fr. Polynesia"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=多哥",
     "keywords": [
       "多哥",
       "Togo"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=欧洲&country=马恩岛",
-    "keywords": [
-      "马恩岛",
-      "Isle of Man"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=赞比亚共和国",
-    "keywords": [
-      "赞比亚共和国",
-      "Zambia"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=阿鲁巴",
-    "keywords": [
-      "阿鲁巴",
-      null
     ]
   },
   {
@@ -4424,10 +4417,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=危地马拉",
+    "url": "#tab=world-trends&continent=非洲&country=赞比亚共和国",
     "keywords": [
-      "危地马拉",
-      "Guatemala"
+      "赞比亚共和国",
+      "Zambia"
     ]
   },
   {
@@ -4466,6 +4459,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=萨尔瓦多",
+    "keywords": [
+      "萨尔瓦多",
+      "El Salvador"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=吉布提",
     "keywords": [
       "吉布提",
@@ -4487,6 +4487,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=百慕大",
+    "keywords": [
+      "百慕大",
+      "Bermuda"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=非洲&country=几内亚",
     "keywords": [
       "几内亚",
@@ -4501,13 +4508,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=百慕大",
-    "keywords": [
-      "百慕大",
-      "Bermuda"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=非洲&country=坦桑尼亚",
     "keywords": [
       "坦桑尼亚",
@@ -4519,13 +4519,6 @@
     "keywords": [
       "赤道几内亚",
       "Eq. Guinea"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=北美洲&country=萨尔瓦多",
-    "keywords": [
-      "萨尔瓦多",
-      "El Salvador"
     ]
   },
   {
@@ -4578,13 +4571,6 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=非洲&country=斯威士兰",
-    "keywords": [
-      "斯威士兰",
-      "Swaziland"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=北美洲&country=格陵兰",
     "keywords": [
       "格陵兰",
@@ -4596,6 +4582,13 @@
     "keywords": [
       "巴哈马",
       "Bahamas"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=非洲&country=斯威士兰",
+    "keywords": [
+      "斯威士兰",
+      "Swaziland"
     ]
   },
   {
@@ -4788,6 +4781,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=北美洲&country=尼加拉瓜",
+    "keywords": [
+      "尼加拉瓜",
+      "Nicaragua"
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=圣巴泰勒米",
     "keywords": [
       "圣巴泰勒米",
@@ -4823,10 +4823,10 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=尼加拉瓜",
+    "url": "#tab=world-trends&continent=非洲&country=利比亚",
     "keywords": [
-      "尼加拉瓜",
-      "Nicaragua"
+      "利比亚",
+      "Libya"
     ]
   },
   {
@@ -4872,6 +4872,13 @@
     ]
   },
   {
+    "url": "#tab=world-trends&continent=大洋洲&country=北马里亚纳群岛联邦",
+    "keywords": [
+      "北马里亚纳群岛联邦",
+      null
+    ]
+  },
+  {
     "url": "#tab=world-trends&continent=北美洲&country=圣文森特和格林纳丁斯",
     "keywords": [
       "圣文森特和格林纳丁斯",
@@ -4890,13 +4897,6 @@
     "keywords": [
       "巴布亚新几内亚",
       "Papua New Guinea"
-    ]
-  },
-  {
-    "url": "#tab=world-trends&continent=非洲&country=利比亚",
-    "keywords": [
-      "利比亚",
-      "Libya"
     ]
   }
 ]
