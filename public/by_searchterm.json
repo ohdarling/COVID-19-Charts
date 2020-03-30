@@ -532,16 +532,16 @@
     ]
   },
   {
-    "url": "#tab=trends&province=浙江省&city=省十里丰监狱",
+    "url": "#tab=trends&province=浙江省&city=境外输入",
     "keywords": [
-      "省十里丰监狱",
+      "境外输入",
       ""
     ]
   },
   {
-    "url": "#tab=trends&province=浙江省&city=境外输入",
+    "url": "#tab=trends&province=浙江省&city=省十里丰监狱",
     "keywords": [
-      "境外输入",
+      "省十里丰监狱",
       ""
     ]
   },
@@ -3640,17 +3640,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
-    "keywords": [
-      "卢森堡",
-      "Luxembourg"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=南美洲&country=智利",
     "keywords": [
       "智利",
       "Chile"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=欧洲&country=卢森堡",
+    "keywords": [
+      "卢森堡",
+      "Luxembourg"
     ]
   },
   {
@@ -3759,17 +3759,17 @@
     ]
   },
   {
-    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
-    "keywords": [
-      "巴拿马",
-      "Panama"
-    ]
-  },
-  {
     "url": "#tab=world-trends&continent=北美洲&country=墨西哥",
     "keywords": [
       "墨西哥",
       "Mexico"
+    ]
+  },
+  {
+    "url": "#tab=world-trends&continent=北美洲&country=巴拿马",
+    "keywords": [
+      "巴拿马",
+      "Panama"
     ]
   },
   {

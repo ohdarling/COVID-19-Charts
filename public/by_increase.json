@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-30T00:26:45.000Z",
+    "lastUpdate": "2020-03-30T01:29:28.000Z",
     "records": [
       {
         "updateTime": "上海市",
@@ -23,9 +23,9 @@
       },
       {
         "updateTime": "福建省",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 42
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 44
       },
       {
         "updateTime": "天津市",
@@ -35,9 +35,9 @@
       },
       {
         "updateTime": "浙江省",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 28
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 29
       },
       {
         "updateTime": "内蒙古自治区",
@@ -487,13 +487,13 @@
   },
   {
     "name": "浙江省",
-    "lastUpdate": "2020-03-29T02:22:01.000Z",
+    "lastUpdate": "2020-03-30T01:32:29.000Z",
     "records": [
       {
         "updateTime": "境外输入",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 27
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 1,
+        "insickCount": 28
       },
       {
         "updateTime": "嘉兴",
@@ -1417,13 +1417,13 @@
   },
   {
     "name": "四川省",
-    "lastUpdate": "2020-03-29T01:49:02.000Z",
+    "lastUpdate": "2020-03-30T01:09:15.000Z",
     "records": [
       {
         "updateTime": "成都",
-        "maxZeroIncrDays": 3,
-        "confirmedIncreased": 0,
-        "insickCount": 9
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 11
       },
       {
         "updateTime": "境外输入",
@@ -1765,13 +1765,13 @@
   },
   {
     "name": "福建省",
-    "lastUpdate": "2020-03-29T00:57:01.000Z",
+    "lastUpdate": "2020-03-30T00:32:48.000Z",
     "records": [
       {
         "updateTime": "境外输入人员",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 42
+        "maxZeroIncrDays": 0,
+        "confirmedIncreased": 2,
+        "insickCount": 44
       },
       {
         "updateTime": "福州",
