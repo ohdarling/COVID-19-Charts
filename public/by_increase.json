@@ -1,7 +1,7 @@
 [
   {
     "name": "非湖北",
-    "lastUpdate": "2020-03-30T02:12:54.000Z",
+    "lastUpdate": "2020-03-30T03:30:25.000Z",
     "records": [
       {
         "updateTime": "上海市",
@@ -118,12 +118,6 @@
         "insickCount": 3
       },
       {
-        "updateTime": "江西省",
-        "maxZeroIncrDays": 1,
-        "confirmedIncreased": 0,
-        "insickCount": 2
-      },
-      {
         "updateTime": "黑龙江省",
         "maxZeroIncrDays": 10,
         "confirmedIncreased": 0,
@@ -140,6 +134,12 @@
         "maxZeroIncrDays": 64,
         "confirmedIncreased": 0,
         "insickCount": 2
+      },
+      {
+        "updateTime": "江西省",
+        "maxZeroIncrDays": 1,
+        "confirmedIncreased": 0,
+        "insickCount": 1
       },
       {
         "updateTime": "湖南省",
@@ -775,13 +775,13 @@
   },
   {
     "name": "江西省",
-    "lastUpdate": "2020-03-29T01:57:02.000Z",
+    "lastUpdate": "2020-03-30T03:15:15.000Z",
     "records": [
       {
         "updateTime": "境外输入",
         "maxZeroIncrDays": 1,
         "confirmedIncreased": 0,
-        "insickCount": 2
+        "insickCount": 1
       },
       {
         "updateTime": "南昌",
